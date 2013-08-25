@@ -16,6 +16,38 @@
         "address": "וינגיט 8, באר שבע",
         "בעלות": "משרד הבריאות"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        34.7804167,
+        31.2453788
+        ]
+      },
+      "properties": {
+        "marker-symbol": "water",
+        "name": "תחנה ט",
+        "address": "שדרות ירושלים 32, באר שבע",
+        "בעלות": "משרד הבריאות"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        34.7910668,
+        31.2707181
+        ]
+      },
+      "properties": {
+        "marker-symbol": "water",
+        "name": "תחנה יד",
+        "address": "סנהדרין 113, באר שבע",
+        "בעלות": "משרד הבריאות"
+      }
     }
   ]
 }
