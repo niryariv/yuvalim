@@ -14,5 +14,5 @@ Nominatim returns the lon/lat which are then entered into the geojson file, with
 
 As it turns out, some of the addresses aren't recognized by Nominatim. In that case, geoencode.py tries to get the city only without the city address. The address gets entered into a trouble_locs dict which is then written into [errors.txt](https://github.com/niryariv/tiptipa/blob/master/errors.txt) so it can be manually checked later.
 
-Another case is when Nominatim finds an address that is somewhere outside Israel. These are easily seen on the map, and will probably require manual work as well.
+Then geoencode.py tries the lat,lng against the [google maps api](http://maps.googleapis.com/maps/api/geocode/json?) and screen out results not in Israel. those results also are appended to [errors.txt](https://github.com/niryariv/tiptipa/blob/master/errors.txt)
 
