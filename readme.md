@@ -1,34 +1,18 @@
-# DC WiFi Social
 
-<img src="https://travis-ci.org/benbalter/dc-wifi-social.png">
+#### The current results of this code can be seen [here](https://github.com/niryariv/tiptipa/blob/master/all_stations.geojson)
+
+#### How this works (so far)
 
 
-### A collaborative list of DC locations that serve up both Internet and Alcohol
+The main challenge is to get the geolocations for all the Tipat Halav stations. The list of stations themselves can be scraped - or, for now, I used milkdrop.json file compiled by @SharonMoravi.
 
-*Because coding together is better than coding alone (TM)*
+The goal is to get from [milkdrop.json](https://github.com/niryariv/tiptipa/blob/master/milkdrop.json) to something that looks like [stations.geojson](https://github.com/niryariv/tiptipa/blob/master/stations.geojson).
 
-### [The Map](bars.geojson)
+[geoencode.py](https://github.com/niryariv/tiptipa/blob/master/geoencode.py) tries to acheive this by taking the address/city info and feeding it to [Nominatim](http://nominatim.openstreetmap.org/) - an Open Street Map project for translating addresses to geolocations.
 
-## License
+Nominatim returns the lon/lat which are then entered into the geojson file, with the rest of the station data entered to the features dictionary of each point. 
 
-CC-BY-SA
+As it turns out, some of the addresses aren't recognized by Nominatim. In that case, geoencode.py tries to get the city only without the city address. The address gets entered into a trouble_locs dict which is then written into [errors.txt](https://github.com/niryariv/tiptipa/blob/master/errors.txt) so it can be manually checked later.
 
-## How to contribute
+Another case is when Nominatim finds an address that is somewhere outside Israel. These are easily seen on the map, and will probably require manual work as well.
 
-1. Fork the project
-2. Add or edit a location by editing and following the format in `bars.geojson` (hint, it's geoJSON)
-3. Submit a pull request
-
-## Validating the geoJSON
-
-When you submit a pull request, it will automatically check to ensure your geoJSON is valid.
-
-If you'd like to check yourself, you can run `./script/cibuild` locally, or pasting the contents of `bars.geojson` into http://geojsonlint.com.
-
-## How to find the lat/long of a location
-
-Pop it into http://geocoder.us/. Boom.
-
-## Why?
-
-Don't ask such questions.
