@@ -8,7 +8,6 @@ OUTPUT_FILE = 'all_stations.geojson'
 ERROR_FILE = 'errors.txt'
 
 def locate(addr):
-	# url = "http://nominatim.openstreetmap.org/search?" + urllib.urlencode({"q" : addr.encode('utf8'), "format": "json"})
 	payload={"q" : addr, "format": "json"} 
 
 	r = requests.get("http://nominatim.openstreetmap.org/search", params=payload)
