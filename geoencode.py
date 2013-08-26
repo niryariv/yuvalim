@@ -4,6 +4,9 @@ import requests
 import json
 import codecs
 
+OUTPUT_FILE = 'all_stations.geojson'
+ERROR_FILE = 'errors.txt'
+
 def locate(addr):
 	# url = "http://nominatim.openstreetmap.org/search?" + urllib.urlencode({"q" : addr.encode('utf8'), "format": "json"})
 	payload={"q" : addr, "format": "json"} 
@@ -47,10 +50,10 @@ for i in data:
 	
 	loc = locate(addr)
 	if loc is False:
-		trouble_locs[addr]="No street address data"
+		trouble_locs[i]="No street address data for " + addr
 		loc = locate(item['Yeshuv'])
 		if loc is False:
-			trouble_locs[addr]="No data at all"
+			trouble_locs[i]="No data at all"
 			continue
 
 	lon, lat = loc
@@ -73,12 +76,15 @@ for i in data:
 	)
 	
 	ctr += 1
-	if ctr > 1: 
-		break	
+	# if ctr > 1: break	
 
 
-f = codecs.open('all_stations.geojson', 'w', 'utf-8')
+f = codecs.open(OUTPUT_FILE, 'w', 'utf-8')
 f.write(json.dumps(geojson, indent=4))
+f.close()
+
+f = codecs.open(ERROR_FILE, 'w', 'utf-8')
+f.write(str(trouble_locs))
 f.close()
 
 	
