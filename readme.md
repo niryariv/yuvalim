@@ -1,5 +1,5 @@
 
-#### The current results of this code can be seen [here](https://github.com/niryariv/tiptipa/blob/master/all_stations.geojson)
+#### The current results of this code can be seen [here](https://github.com/alonisser/tiptipa/blob/master/all_stations.geojson)
 
 #### How this works (so far)
 
