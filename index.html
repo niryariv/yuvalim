@@ -37,16 +37,6 @@
 			phone = feature.properties.phone;
 			marker_html = feature.properties.address + '<br /><a href="tel:' + phone + '">' + phone + '</a>'
 			layer.bindPopup(marker_html);
-
-			// layer.on({
-			// 			'mouseover'	: function() { this.setStyle({ opacity: 0 	, color: "red" 	}) } ,
-			// 			'mouseout'	: function() { this.setStyle({ opacity: 0.95, color: "#777" }) },
-			// 			'click'		: function() { 
-			// 				$("#info").html("עוד מעט..."); 
-			// 				location.hash = "#/gush/" + feature.properties.Name;
-			// 				get_gush(feature.properties.Name);
-			// 			}
-			// 		});
 		}
 
 		
