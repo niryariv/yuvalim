@@ -1,5 +1,5 @@
 
-#### The current results of this code can be seen in http://tipa.li/
+#### The current results of this code can be seen in [tipa.li](http://tipa.li/)
 
 #### How this works (so far)
 
