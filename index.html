@@ -56,6 +56,7 @@
 
 		tile_url = 'http://{s}.tiles.mapbox.com/v3/niryariv.map-n3zuwkkz/{z}/{x}/{y}.png';
 		L.tileLayer(tile_url, {
+			attribution: '<a href="http://niryariv.wordpress.com/">ניר יריב</a> - <a href="http://degeladom.wordpress.com/">אלון ניסר</a> - SharonMoravi - <a href="http://gizra.com/">גיזרה</a> - <a href="http://www.hasadna.org.il/">הסדנא לידע ציבורי</a>'
 			// maxZoom: 16,
 			// minZoom: 13
 		}).addTo(map);
@@ -63,11 +64,6 @@
 		L.geoJson(stations,
 			{
 				onEachFeature: onEachFeature,
-				style : {
-					"color" : "#777",
-					"weight": 1,
-					"opacity": 0.9
-				}
 			}
 		).addTo(map);
 
