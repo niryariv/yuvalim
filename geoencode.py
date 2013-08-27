@@ -7,22 +7,39 @@ import codecs
 OUTPUT_FILE = 'all_stations.geojson'
 ERROR_FILE = 'errors.txt'
 
+
+def in_israel(lon, lat):
+    check = requests.get("http://maps.googleapis.com/maps/api/geocode/json?latlng=%s,%s&sensor=true" % (lat,lon))
+    j = check.json()
+
+    if not (j or j['status'] == 'OK') :
+        print('Problem with googleapi Url at: %s, %s' % lon, lat)
+        return False
+    for k in j['results']:
+        for i in k['address_components']:
+            try:
+                if i['types'][0]==u'country':
+                    return i['long_name']=='Israel'
+            except IndexError:
+                continue
+        print('The country returned is %s instead of Israel' % i['long_name'])
+    return False
+
 def locate(addr):
 	payload={"q" : addr, "format": "json"} 
 
 	r = requests.get("http://nominatim.openstreetmap.org/search", params=payload)
 
 	print r.url
-	j = r.json
+	j = r.json()
 
-	if not j:
+        if not j or j == None:
 		return False
-
+       # print(j)
 	lon = float(j[0]['lon'])
 	lat = float(j[0]['lat'])
-
-	return [lon,lat]
-
+        print ('lon:',lon,'lat:', lat,'i:',i) 
+        return(lon, lat)
 
 def reverse_str(s):
 	try:
@@ -49,13 +66,17 @@ for i in data:
 	
 	loc = locate(addr)
 	if loc is False:
-		trouble_locs[i]="No street address data for " + addr
+		trouble_locs[i]  ="No street address data for " + addr
 		loc = locate(item['Yeshuv'])
 		if loc is False:
-			trouble_locs[i]="No data at all"
+			trouble_locs[i] = "No data at all"
 			continue
 
 	lon, lat = loc
+        if not in_israel(lon, lat):
+            trouble_locs[i] = "Not in israel, something wrong"
+            continue
+            
 	print addr, locate(addr) #.encode('utf-8').decode('unicode-escape'))
 
 	geojson['features'].append(

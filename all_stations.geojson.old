@@ -101,6 +101,38 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.833333, 
+                    32.35
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e2\u05d1\u05dc\u05d9\u05df \u05e2\u05d1\u05dc\u05d9\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e2\u05d1\u05dc\u05d9\u05df \u05d0", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.833333, 
+                    32.35
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e2\u05d1\u05dc\u05d9\u05df \u05e2\u05d1\u05dc\u05d9\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e2\u05d1\u05dc\u05d9\u05df \u05d1'", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     35.238343, 
                     32.7492484
                 ]
@@ -437,6 +469,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.2425631, 
+                    31.8216177
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e4\u05e1\u05d2\u05ea \u05d6\u05d0\u05d1 \u05d7\u05d9\u05d9\u05dd \u05ea\u05d5\u05e8\u05df   45", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e4\u05e1\u05d2\u05ea \u05d6\u05d0\u05d1", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     34.9831207661996, 
                     32.3777393
                 ]
@@ -447,6 +495,22 @@
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d4\u05de\u05e2\u05e4\u05d9\u05dc", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.0374517, 
+                    31.9365582
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05e2\u05d9\u05dc\u05d9\u05ea \u05e7\u05e8\u05d9\u05ea \u05e1\u05e4\u05e8 \u05e0\u05ea\u05d5\u05d1\u05d5\u05ea \u05d4\u05de\u05e9\u05e4\u05d8 90", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05e1\u05e4\u05e8 \u05d2\u05d1\u05e2\u05d4 \u05d3\u05e8\u05d5\u05de\u05d9\u05ea", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9"
             }
         }, 
         {
@@ -1013,6 +1077,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    59.6048089, 
+                    36.2981864
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05e9\u05d4\u05d3 \u05db\u05e4\u05e8 \u05de\u05e9\u05d4\u05d3 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05e9\u05d4\u05d3", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     35.310158, 
                     32.7071023
                 ]
@@ -1189,6 +1269,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    -89.8988087, 
+                    15.6356088
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d2\u05ea \u05d3.\u05e0 \u05e9\u05d3\u05d4 \u05d2\u05ea ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d2\u05ea", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     34.8269217, 
                     31.4118973
                 ]
@@ -1199,6 +1295,22 @@
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d3\u05d1\u05d9\u05e8", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.1687498, 
+                    31.8623329
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d2\u05d1\u05e2\u05ea \u05d6\u05d0\u05d1 \u05d4\u05de\u05db\u05d1\u05d9\u05dd 48", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d2\u05d1\u05e2\u05ea \u05d6\u05d0\u05d1", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea"
             }
         }, 
         {
@@ -1397,6 +1509,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    29.6413026225091, 
+                    26.9405829
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05d9\u05e1\u05e8 \u05de\u05d9\u05e1\u05e8 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05d9\u05e1\u05e8", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     35.0887521988185, 
                     32.4980588
                 ]
@@ -1461,6 +1589,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.0840852, 
+                    32.1691362
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d2\u05d9\u05e0\u05d5\u05ea \u05e9\u05d5\u05de\u05e8\u05d5\u05df \u05d4\u05d0\u05dc\u05d5\u05df   9", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d2\u05d9\u05e0\u05d5\u05ea \u05e9\u05d5\u05de\u05e8\u05d5\u05df", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     34.932681027705, 
                     32.39946415
                 ]
@@ -1487,6 +1631,22 @@
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d2\u05d1\u05e2\u05ea \u05d7\u05d9\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    48.083333, 
+                    26.9
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05dc\u05e7\u05d9\u05d9\u05d4 \u05dc\u05e7\u05d9\u05d9\u05d4 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05dc\u05e7\u05d9\u05d9\u05d4 \u05d0'", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
             }
         }, 
         {
@@ -1533,6 +1693,22 @@
             "properties": {
                 "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e2\u05e8\u05e2\u05e8\u05d4 \u05d1\u05e0\u05d2\u05d1 \u05e2\u05e8\u05e2\u05e8\u05d4 \u05d1\u05e0\u05d2\u05d1 ", 
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e2\u05e8\u05d5\u05e2\u05e8 \u05d0'", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    48.083333, 
+                    26.9
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05dc\u05e7\u05d9\u05d9\u05d4 \u05dc\u05e7\u05d9\u05d9\u05d4  \u05e9\u05db\u05d5\u05e0\u05d4 11", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05dc\u05e7\u05d9\u05d9\u05d4 \u05d1'", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
             }
@@ -1973,6 +2149,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.1126686507944, 
+                    32.1503253
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e7\u05d9\u05e8 \u05d3.\u05e0. \u05dc\u05d1 \u05d4\u05e9\u05d5\u05de\u05e8\u05d5\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d9\u05e7\u05d9\u05e8", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     35.5487957, 
                     33.2477634
                 ]
@@ -2085,6 +2277,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    34.9949339340597, 
+                    32.13056685
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05d5\u05e8\u05e0\u05d9\u05ea \u05de\u05e8\u05db\u05d6 \u05de\u05e1\u05d7\u05e8\u05d9 \u05e8\u05d0\u05e9 \u05d4\u05e2\u05d9\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05d5\u05e8\u05e0\u05d9\u05ea", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     34.652994, 
                     31.7977307
                 ]
@@ -2143,6 +2351,22 @@
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05e8\u05e2 \u05d1", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.5156271, 
+                    32.3652291
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05d7\u05d5\u05dc\u05d4 \u05d3.\u05e0 \u05d1\u05d9\u05ea \u05e9\u05d0\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05d7\u05d5\u05dc\u05d4", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
             }
         }, 
         {
@@ -2325,6 +2549,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    34.9784221, 
+                    31.8630937
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e9\u05e2\u05dc\u05d1\u05d9\u05dd+ \u05e0\u05d5\u05e3 \u05d0\u05d9\u05dc\u05d5\u05df \u05d3.\u05e0 \u05e9\u05de\u05e9\u05d5\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e9\u05e2\u05dc\u05d1\u05d9\u05dd+ \u05e0\u05d5\u05e3 \u05d0\u05d9\u05dc\u05d5\u05df", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     35.2185386575922, 
                     31.7893785
                 ]
@@ -2461,6 +2701,22 @@
             "properties": {
                 "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e0\u05d0\u05d5\u05ea \u05db\u05d9\u05db\u05e8 \u05d3.\u05e0. \u05d9\u05dd \u05d4\u05de\u05dc\u05d7 ", 
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e0\u05d0\u05d5\u05ea \u05db\u05d9\u05db\u05e8", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.2728399, 
+                    31.8492048
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05d3\u05dd \u05d4\u05e8\u05d3\u05d5\u05e3 \u05d4\u05e0\u05d7\u05dc\u05d9\u05dd 1", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05d3\u05dd", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
             }
@@ -2719,6 +2975,70 @@
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05ea\u05dc \u05de\u05d5\u05e0\u05d3", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.1587687109279, 
+                    31.6654816
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05e4\u05e8\u05ea \u05ea.\u05d3. 1041 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05e4\u05e8\u05ea", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.0433428, 
+                    31.9324487
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05e2\u05d9\u05dc\u05d9\u05ea \u05e9\u05d3' \u05d9\u05d7\u05d6\u05e7\u05d0\u05dc  2", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d1\u05e8\u05db\u05e4\u05dc\u05d3", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.2987457, 
+                    31.7705643
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05e2\u05dc\u05d4 \u05d0\u05d3\u05d5\u05de\u05d9\u05dd \u05db\u05d9\u05db\u05e8 \u05d4\u05d9\u05d4\u05dc\u05d5\u05dd  891", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05e2\u05dc\u05d4 \u05d0\u05d3\u05d5\u05de\u05d9\u05dd", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.0498072047885, 
+                    32.03769335
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d1\u05d9\u05ea \u05d0\u05e8\u05d9\u05d4 \u05d3.\u05e0. \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d1\u05d9\u05ea \u05d0\u05e8\u05d9\u05d4", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
             }
         }, 
         {
@@ -3013,6 +3333,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.1616083, 
+                    32.2120617
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05d3\u05d5\u05de\u05d9\u05dd \u05d9\u05d4\u05dc\u05d5\u05dd  3", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05d3\u05d5\u05de\u05d9\u05dd", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     34.9379651576049, 
                     32.21778245
                 ]
@@ -3029,6 +3365,38 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.0523954045382, 
+                    32.0620574
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e4\u05d3\u05d5\u05d0\u05dc \u05d3. \u05e0. \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e4\u05d3\u05d5\u05d0\u05dc", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.1361352, 
+                    32.1618975
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e2\u05de\u05e0\u05d5\u05d0\u05dc \u05d3.\u05e0. \u05dc\u05d1 \u05d4\u05e9\u05d5\u05de\u05e8\u05d5\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e2\u05de\u05e0\u05d5\u05d0\u05dc", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     34.7726603, 
                     32.0113785
                 ]
@@ -3037,6 +3405,38 @@
             "properties": {
                 "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05e6\u05d9\u05e8 \u05d3.\u05e0 \u05de\u05e0\u05e9\u05d4 ", 
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05e6\u05d9\u05e8", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.0965759, 
+                    32.1706734
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05e8\u05e0\u05d9 \u05e9\u05d5\u05de\u05e8\u05d5\u05df \u05e7\u05d9\u05d1\u05d5\u05e5 \u05d2\u05dc\u05d5\u05d9\u05d5\u05ea   16", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05e8\u05e0\u05d9 \u05e9\u05d5\u05de\u05e8\u05d5\u05df", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.1593824, 
+                    32.2188651
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05d3\u05d5\u05de\u05d9\u05dd \u05d3.\u05e0 \u05e9\u05d5\u05de\u05e8\u05d5\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05d3\u05d5\u05de\u05d9\u05dd", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
             }
@@ -3109,6 +3509,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.1361352, 
+                    32.1618975
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e2\u05de\u05e0\u05d5\u05d0\u05dc \"\u05db\u05d9\u05db\u05e8 \u05d4\u05e8\u05de\u05d1\"\u05dd\" ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e2\u05de\u05e0\u05d5\u05d0\u05dc", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     34.9391387803628, 
                     32.3860576
                 ]
@@ -3135,6 +3551,86 @@
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e2\u05d9\u05e0\u05ea", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.4000471806084, 
+                    31.56766855
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05e6\u05e4\u05d4 \u05e9\u05dc\u05dd \u05d3.\u05e0 \u05d9\u05dd \u05d4\u05de\u05dc\u05d7 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05e6\u05e4\u05d4 \u05e9\u05dc\u05dd", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.1157715863641, 
+                    31.65031945
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05db\u05e4\u05e8 \u05e2\u05e6\u05d9\u05d5\u05df \u05d3.\u05e0 \u05e2\u05e8\u05d9 \u05d7\u05d1\u05e8\u05d5\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05db\u05e4\u05e8 \u05e2\u05e6\u05d9\u05d5\u05df", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.3944523502663, 
+                    31.81741095
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05e6\u05e4\u05d4 \u05d9\u05e8\u05d9\u05d7\u05d5 \u05d3.\u05e0 \u05d7\u05d1\u05dc \u05d9\u05e8\u05d9\u05d7\u05d5 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05e6\u05e4\u05d4 \u05d9\u05e8\u05d9\u05d7\u05d5", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.4034322, 
+                    32.0707628
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05e2\u05dc\u05d4 \u05d0\u05e4\u05e8\u05d9\u05dd \u05d3.\u05e0 \u05de\u05d6\u05e8\u05d7 \u05d1\u05e0\u05d9\u05de\u05d9\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05e2\u05dc\u05d4 \u05d0\u05e4\u05e8\u05d9\u05d9\u05dd", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.2702822, 
+                    31.8510275
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05d3\u05dd \u05e1\u05d1\u05d9\u05d5\u05df  52", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05d3\u05dd", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea"
             }
         }, 
         {
@@ -3183,6 +3679,22 @@
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05db\u05e4\u05e8 \u05d5\u05e8\u05d3\u05d9\u05dd ", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.0433428, 
+                    31.9324487
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05e2\u05d9\u05dc\u05d9\u05ea  ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e0\u05d0\u05d5\u05ea \u05e4\u05e1\u05d2\u05d4", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
             }
         }, 
         {
@@ -3669,6 +4181,38 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.7551202253158, 
+                    33.23045535
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05de\u05e1\u05e2\u05d3\u05d4 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05e1\u05e2\u05d3\u05d4", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.7704055488713, 
+                    33.26942535
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05d2\u05d3\u05dc \u05e9\u05de\u05e1 \u05de\u05d2'\u05d3\u05dc \u05e9\u05de\u05e1 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05d2'\u05d3\u05dc \u05e9\u05de\u05e1", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     35.6030157, 
                     33.0573811
                 ]
@@ -3741,6 +4285,22 @@
             "properties": {
                 "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e6\u05e4\u05ea  \u05d0\u05e0\u05d9\u05dc\u05d1\u05d9\u05e5 ", 
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d3\u05e8\u05d5\u05dd \u05d0' \u05e6\u05e4\u05ea", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.1180191, 
+                    31.6949458
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d1\u05d9\u05ea\u05e8 \u05e2\u05d9\u05dc\u05d9\u05ea  \u05d7\u05d1\u05d3  2", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d2\u05e4\u05df B", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
             }
@@ -3839,6 +4399,22 @@
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05db\u05e4\u05e8 \u05d7\u05e8\u05d5\u05d1", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.2667948, 
+                    32.070811
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e2\u05dc\u05d9 \u05d4\u05d0\u05d5\u05e8\u05df  10", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e2\u05dc\u05d9", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9"
             }
         }, 
         {
@@ -4117,6 +4693,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.2388085, 
+                    31.8793879
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05ea\u05dc \u05e6\u05d9\u05d5\u05df \u05d0\u05d4\u05d1\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc  \u05db\u05d5\u05db\u05d1 \u05d9\u05e2\u05e7\u05d1 2", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05ea\u05dc \u05e6\u05d9\u05d5\u05df", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     35.3110065613756, 
                     32.7879099
                 ]
@@ -4157,6 +4749,38 @@
             "properties": {
                 "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d7\u05d3\u05e8\u05d4 \u05e9\u05e9\u05ea \u05d4\u05d9\u05de\u05d9\u05dd  20", 
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e9\u05e9\u05ea \u05d4\u05d9\u05de\u05d9\u05dd", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    11.2909405712003, 
+                    49.94213695
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d2'\u05e9 \u05d2\u05d5\u05e9 \u05d7\u05dc\u05d1 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d2\u05d5\u05e9 \u05d7\u05dc\u05d1", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.7781386, 
+                    33.2010257
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d1\u05d5\u05e7\u05e2\u05d0\u05ea\u05d0 \u05d1\u05d5\u05e7\u05e2\u05ea\u05d4 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d1\u05d5\u05e7\u05e2\u05ea\u05d4", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
             }
@@ -4293,6 +4917,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.6185119277888, 
+                    33.0180474
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d2\u05d3\u05d5\u05ea \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d2\u05d3\u05d5\u05ea", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     35.2116299, 
                     32.6745368
                 ]
@@ -4381,6 +5021,22 @@
             "properties": {
                 "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d1\u05e8\u05e2\u05dd \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d1\u05e8\u05e2\u05dd", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.6893192615086, 
+                    32.798752
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d1\u05e0\u05d9 \u05d9\u05d4\u05d5\u05d3\u05d4 \u05d3.\u05e0 \u05d1\u05e0\u05d9 \u05d9\u05d4\u05d5\u05d3\u05d4 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d1\u05e0\u05d9 \u05d9\u05d4\u05d5\u05d3\u05d4", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
             }
@@ -4493,6 +5149,22 @@
             "properties": {
                 "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05d3\u05de\u05d9\u05ea \u05d0\u05d3\u05de\u05d9\u05ea ", 
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05d3\u05de\u05d9\u05ea", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.118043, 
+                    31.703503
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05dc\u05d1 \u05d1\u05d9\u05ea\u05e8  \u05d4\u05e8\u05df 20", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05dc\u05d1 \u05d1\u05d9\u05ea\u05e8", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
             }
@@ -4831,6 +5503,22 @@
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05e4\u05dc\u05df", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.1689021061011, 
+                    32.4737284
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e9\u05e7\u05d3 \u05d3.\u05e0. \u05de\u05e0\u05e9\u05d4 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e9\u05e7\u05d3", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
             }
         }, 
         {
@@ -5237,6 +5925,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.1261207, 
+                    31.954506
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e0\u05e8\u05d9\u05d4 \u05d3.\u05e0. \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e0\u05e8\u05d9\u05d4", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     34.8567164, 
                     32.3391545
                 ]
@@ -5333,6 +6037,54 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.1191651, 
+                    31.5277619
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05e8\u05d9\u05ea \u05d0\u05e8\u05d1\u05e2 \u05d1\u05e0\u05d9\u05df \u05d4\u05de\u05e8\u05db\u05d6 \u05d4\u05e8\u05e4\u05d5\u05d0\u05d9 \u05e7. \u05d0\u05e8\u05d1\u05e2 90100 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05d0\u05e8\u05d1\u05e2", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.3008417, 
+                    31.7678657
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05e2\u05dc\u05d4 \u05d0\u05d3\u05d5\u05de\u05d9\u05dd \u05d4\u05e6\u05e4\u05e6\u05e4\u05d4   2", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e6\u05de\u05d7 \u05d4\u05e9\u05d3\u05d4", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.4034322, 
+                    32.0707628
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05e2\u05dc\u05d4 \u05d0\u05e4\u05e8\u05d9\u05dd \u05d3.\u05e0. \u05de\u05d6\u05e8\u05d7 \u05d1\u05e0\u05d9\u05de\u05d9\u05df \u05ea.\u05d3. 1291 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05e2\u05dc\u05d4 \u05d0\u05e4\u05e8\u05d9\u05dd", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     35.3355422, 
                     32.979064
                 ]
@@ -5343,6 +6095,86 @@
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e4\u05e7\u05d9\u05e2\u05d9\u05df \u05d7\u05d3\u05e9\u05d4", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.2448595, 
+                    31.881793
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05db\u05d5\u05db\u05d1 \u05d9\u05e2\u05e7\u05d1 \u05d3.\u05e0. \u05de\u05d6\u05e8\u05d7 \u05d1\u05e0\u05d9\u05de\u05d9\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05db\u05d5\u05db\u05d1 \u05d9\u05e2\u05e7\u05d1", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.3495103952568, 
+                    31.96098125
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05db\u05d5\u05db\u05d1 \u05d4\u05e9\u05d7\u05e8 \u05d3.\u05e0. \u05de\u05d6\u05e8\u05d7 \u05d1\u05e0\u05d9\u05de\u05d9\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05db\u05d5\u05db\u05d1 \u05d4\u05e9\u05d7\u05e8", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.1385972426387, 
+                    31.9380075
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d8\u05dc\u05de\u05d5\u05df \u05d3.\u05e0. \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d8\u05dc\u05de\u05d5\u05df", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.133859898351, 
+                    31.92643605
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d3\u05d5\u05dc\u05d1 \u05d3.\u05e0. \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d3\u05d5\u05dc\u05d1", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.1715514, 
+                    31.8596759
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d2\u05d1\u05e2\u05ea \u05d6\u05d0\u05d1 \u05d4\u05d2\u05d9\u05d0  49", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d2\u05d1\u05e2\u05ea \u05d6\u05d0\u05d1", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
             }
         }, 
         {
@@ -5391,6 +6223,22 @@
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d8\u05d1\u05e8\u05d9\u05d4 \u05ea\u05d7\u05e0\u05d4 \u05d3'+\u05d4'", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.2399932698674, 
+                    32.0551755
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05e2\u05dc\u05d4 \u05dc\u05d1\u05d5\u05e0\u05d4 \u05d3.\u05e0. \u05de\u05e2\u05dc\u05d4 \u05d0\u05e4\u05e8\u05d9\u05dd ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05e2\u05dc\u05d4 \u05e0\u05d1\u05d5\u05e0\u05d4", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
             }
         }, 
         {
@@ -5957,6 +6805,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.6782536979766, 
+                    33.24184765
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e9\u05e0\u05d9\u05e8 \u05d3.\u05e0 \u05e8\u05de\u05ea \u05d4\u05d2\u05d5\u05dc\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e9\u05e0\u05d9\u05e8", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     35.5979558, 
                     33.2468612
                 ]
@@ -6015,6 +6879,22 @@
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05dc\u05e2\u05d6\u05d6\u05de\u05d4", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.1587687109279, 
+                    31.6654816
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05e4\u05e8\u05ea \u05e9\u05d3\u05e8\u05d5\u05ea \u05d3\u05d5\u05d3 \u05d4\u05de\u05dc\u05da ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05e4\u05e8\u05ea", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea"
             }
         }, 
         {
@@ -6095,6 +6975,22 @@
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05e8\u05db\u05d6 \u05d0\u05d1\u05e9\u05dc\u05d5\u05dd", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    57.4199655, 
+                    23.3900529
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05db\u05e1\u05e8\u05d0 \u05db\u05e1\u05e8\u05d0 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05db\u05e1\u05e8\u05d0", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
             }
         }, 
         {
@@ -6373,6 +7269,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.8378829477876, 
+                    33.04405185
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05dc\u05d5\u05e0\u05d9 \u05d4\u05d1\u05e9\u05df \u05d3.\u05e0 \u05e8\u05de\u05ea \u05d4\u05d2\u05d5\u05dc\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05dc\u05d5\u05e0\u05d9 \u05d4\u05d1\u05e9\u05df", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     35.2211482649781, 
                     32.75735165
                 ]
@@ -6399,6 +7311,38 @@
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e9\u05e8\u05d9\u05d3", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    0.0322790497877819, 
+                    51.33020385
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d1\u05e7\u05d4 \u05d1\u05e7\u05d4 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d1\u05e7\u05d4 \u05d1", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    0.0322790497877819, 
+                    51.33020385
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d1\u05e7\u05d4 \u05d1\u05e7\u05d4 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d1\u05e7\u05d4 \u05d0", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
             }
         }, 
         {
@@ -6485,6 +7429,38 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    0.0322790497877819, 
+                    51.33020385
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d1\u05e7\u05d4 \u05d1\u05e7\u05d4 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d1\u05e7\u05d4 \u05d3", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    0.0322790497877819, 
+                    51.33020385
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d1\u05e7\u05d4 \u05d1\u05e7\u05d4 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d1\u05e7\u05d4 \u05d2", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     34.6501633, 
                     31.8044139
                 ]
@@ -6541,6 +7517,22 @@
             "properties": {
                 "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e2\u05db\u05d5 \u05d3\u05e8\u05da \u05d4\u05d0\u05e8\u05d1\u05e2\u05d4  41", 
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e2\u05db\u05d5", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.0154236, 
+                    32.173404
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05dc\u05e4\u05d9 \u05de\u05e0\u05e9\u05d4 \u05de. \u05de\u05e1\u05d7\u05e8\u05d9 \u05dc\u05d1 \u05d4\u05d9\u05e9\u05d5\u05d1 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05dc\u05e4\u05d9 \u05de\u05e0\u05e9\u05d4", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9"
             }
@@ -6607,6 +7599,38 @@
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e1\u05d5\u05e7\u05d5\u05dc\u05d5\u05d1", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.1844031, 
+                    32.1041954
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05e8\u05d9\u05d0\u05dc \u05d4\u05e2\u05e8\u05d1\u05d4  1", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d4\u05e2\u05e8\u05d1\u05d4", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    44.9166065, 
+                    12.8331607
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d3\u05df \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d3\u05df", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
             }
         }, 
         {
@@ -6821,6 +7845,38 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.2628525, 
+                    32.0698974
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e2\u05dc\u05d9 \u05d3.\u05e0 \u05d0\u05e4\u05e8\u05d9\u05dd ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e2\u05dc\u05d9", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.0374517, 
+                    31.9365582
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05e2\u05d9\u05dc\u05d9\u05ea \u05e7\u05e8\u05d9\u05ea \u05e1\u05e4\u05e8 \u05d0\u05d1\u05e0\u05d9 \u05e0\u05d6\u05e8  46", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05e2\u05d9\u05dc\u05d9\u05ea \u05e7\u05e8\u05d9\u05ea \u05e1\u05e4\u05e8 ", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     34.809852, 
                     32.188574
                 ]
@@ -6885,6 +7941,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.2241131, 
+                    31.8986546
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e4\u05e1\u05d2\u05d5\u05ea \u05d3.\u05e0 \u05de\u05d6\u05e8\u05d7 \u05d1\u05e0\u05d9\u05de\u05d9\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e4\u05e1\u05d2\u05d5\u05ea", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     34.9676857, 
                     31.7625339
                 ]
@@ -6893,6 +7965,22 @@
             "properties": {
                 "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e6\u05e8\u05e2\u05d4 \u05d3.\u05e0 \u05e9\u05de\u05e9\u05d5\u05df ", 
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e6\u05e8\u05e2\u05d4", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.4661484, 
+                    31.7498072
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05dc\u05d9\u05d4 \u05d3.\u05e0 \u05d7\u05d1\u05dc \u05d9\u05e8\u05d9\u05d7\u05d5 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05dc\u05d9\u05d4", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
             }
@@ -7093,6 +8181,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.2652106, 
+                    32.1928736
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d4\u05e8 \u05d1\u05e8\u05db\u05d4 \u05d3.\u05e0. \u05d4\u05e8 \u05d1\u05e8\u05db\u05d4 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d4\u05e8 \u05d1\u05e8\u05db\u05d4", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     35.6187612, 
                     33.1778926
                 ]
@@ -7103,6 +8207,22 @@
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e2\u05de\u05d9\u05e8", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.1274798, 
+                    32.0074735
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d7\u05dc\u05de\u05d9\u05e9 \u05d3.\u05e0. \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d7\u05dc\u05de\u05d9\u05e9", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
             }
         }, 
         {
@@ -7125,6 +8245,54 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.1852079, 
+                    32.1061476
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05e8\u05d9\u05d0\u05dc \u05e0\u05d7\u05e9\u05d5\u05e0\u05d9\u05dd 41", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05e8\u05d9\u05d0\u05dc", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.0352848, 
+                    32.1115274
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05dc\u05e7\u05e0\u05d4 \u05d0. \u05e0. \u05e9\u05d5\u05de\u05e8\u05d5\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05dc\u05e7\u05e0\u05d4", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.0840852, 
+                    32.1691362
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d2\u05d9\u05e0\u05d5\u05ea \u05e9\u05d5\u05de\u05e8\u05d5\u05df \u05d4\u05d0\u05dc\u05d5\u05df  5", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d2\u05d9\u05e0\u05d5\u05ea \u05e9\u05d5\u05de\u05e8\u05d5\u05df", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     35.5411457050294, 
                     32.926955
                 ]
@@ -7135,6 +8303,22 @@
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e2\u05de\u05d9\u05e2\u05d3", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.2373641, 
+                    32.1677525
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e6\u05d4\u05e8 \u05d3.\u05e0. \u05d0\u05e4\u05e8\u05d9\u05dd ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d9\u05e6\u05d4\u05e8", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
             }
         }, 
         {
@@ -7317,6 +8501,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.1280111, 
+                    31.6522673
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05dc\u05d5\u05df \u05e9\u05d1\u05d5\u05ea \u05de\u05d2\u05d9\u05e0\u05d9 \u05d4\u05d2\u05d5\u05e9 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05dc\u05d5\u05df \u05e9\u05d1\u05d5\u05ea", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     35.5020594293309, 
                     32.97052455
                 ]
@@ -7357,6 +8557,22 @@
             "properties": {
                 "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e6\u05e4\u05ea \u05d4\u05e8\u05e6\u05dc 9", 
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d3\u05e8\u05d5\u05dd \u05d1' \u05e6\u05e4\u05ea", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.6862549, 
+                    32.9929936
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05e6\u05e8\u05d9\u05df \u05d4\u05de\u05e9\u05d5\u05e9\u05d9\u05dd 26", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05e9\u05d5\u05e9\u05d9\u05dd", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
             }
@@ -7775,6 +8991,22 @@
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05e8\u05d9\u05ea \u05e9\u05dc\u05d5\u05dd", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.1236723, 
+                    26.8234472
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05dc\u05d1\u05d9\u05d0 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05ea\u05d7\u05ea\u05d5\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05dc\u05d1\u05d9\u05d0", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
             }
         }, 
         {
@@ -8325,6 +9557,38 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.1687498, 
+                    31.8623329
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d2\u05d1\u05e2\u05ea \u05d6\u05d0\u05d1 \u05d4\u05d0\u05e8\u05d9 \u05e4\u05d9\u05e0\u05ea \u05d4\u05d0\u05d9\u05d9\u05dc\u05d5\u05ea 2", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d2\u05d1\u05e2\u05ea \u05d6\u05d0\u05d1 \u05d2\u05df \u05d4\u05d0\u05d9\u05d9\u05dc\u05d5\u05ea", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.0433428, 
+                    31.9324487
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05e2\u05d9\u05dc\u05d9\u05ea  ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d7\u05e4\u05e6\u05d9\u05d1\u05d4", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     35.1788337430008, 
                     30.55976425
                 ]
@@ -8477,6 +9741,22 @@
             "properties": {
                 "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05d5\u05dd \u05d1\u05d8\u05d9\u05df \u05d0\u05d1\u05d5 \u05db\u05e3 ", 
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05d1\u05d5 \u05db\u05e3", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    94.7205381, 
+                    55.5514034
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05db\u05e0\u05e3 \u05db\u05e0\u05e3 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05db\u05e0\u05e3", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
             }
@@ -8655,6 +9935,22 @@
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e2\u05e7\u05e8\u05d5\u05df", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.1058987, 
+                    31.6994321
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d1\u05d9\u05ea\u05e8 \u05e2\u05d9\u05dc\u05d9\u05ea \u05d9\u05e9\u05de\u05d7 \u05d9\u05e9\u05e8\u05d0\u05dc 1", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d1\u05d9\u05ea\u05e8 \u05e2\u05d9\u05dc\u05d9\u05ea B", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9"
             }
         }, 
         {
@@ -9141,6 +10437,38 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.2987457, 
+                    31.7705643
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05e2\u05dc\u05d4 \u05d0\u05d3\u05d5\u05de\u05d9\u05dd \u05db\u05d9\u05db\u05e8 \u05e7\u05d3\u05dd  ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d9\u05d4\u05dc\u05d5\u05dd", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.22407, 
+                    31.750908
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d1\u05d9\u05ea\u05e8 \u05d4\u05d1\u05d0\u05d1\u05d0 \u05e1\u05d0\u05dc\u05d9   10", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d4\u05d3\u05e1-\u05d1\u05d9\u05ea\u05e8 \u05e2\u05d9\u05dc\u05d9\u05ea", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     35.1433909, 
                     31.7938285
                 ]
@@ -9221,6 +10549,54 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.1029912, 
+                    31.4053438
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e1\u05d5\u05e1\u05d9\u05d0 \u05d3.\u05e0. \u05d4\u05e8 \u05d7\u05d1\u05e8\u05d5\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e1\u05d5\u05e1\u05d9\u05d0", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    34.9572511, 
+                    31.3756971
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e2\u05d5\u05de\u05e8\u05d9\u05dd \u05d3.\u05e0. \u05d3\u05e8\u05d5\u05dd \u05d4\u05e8 \u05d7\u05d1\u05e8\u05d5\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e2\u05d5\u05de\u05e8\u05d9\u05dd", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.0286627, 
+                    31.4393551
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e2\u05ea\u05e0\u05d9\u05d0\u05dc \u05d3.\u05e0. \u05d4\u05e8 \u05d7\u05d1\u05e8\u05d5\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e2\u05ea\u05e0\u05d9\u05d0\u05dc", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     34.7446278, 
                     31.7267477
                 ]
@@ -9285,6 +10661,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.1828790292958, 
+                    31.43151865
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05db\u05e8\u05de\u05dc \u05d3.\u05e0. \u05d4\u05e8 \u05d7\u05d1\u05e8\u05d5\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05db\u05e8\u05de\u05dc", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     34.7680543, 
                     31.6112851
                 ]
@@ -9293,6 +10685,22 @@
             "properties": {
                 "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05e8\u05d9\u05ea \u05d2\u05ea \u05de\u05d9\u05db\u05d4  3", 
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05e8\u05d9\u05ea \u05d2\u05ea", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.2209482, 
+                    31.9414602
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d1\u05d9\u05ea \u05d0\u05dc \u05d3.\u05e0. \u05de\u05d6\u05e8\u05d7 \u05d1\u05e0\u05d9\u05de\u05d9\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d1\u05d9\u05ea \u05d0\u05dc", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
             }
@@ -9445,6 +10853,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.6877004, 
+                    32.9920262
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05e6\u05e8\u05d9\u05df \u05de\u05e8\u05db\u05d6 \u05e7\u05e6\u05e8\u05d9\u05df \u05ea.\u05d3 55 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05e6\u05e8\u05d9\u05df", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     35.2031528016803, 
                     32.6780753
                 ]
@@ -9453,6 +10877,22 @@
             "properties": {
                 "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e8\u05de\u05ea \u05d3\u05d5\u05d3 \u05d3\u05d5\u05d0\u05e8 \u05e0\u05d4\u05dc\u05dc ", 
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e8\u05de\u05ea \u05d3\u05d5\u05d3", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.6970294, 
+                    33.0297367
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05d3\u05de\u05ea \u05e6\u05d1\u05d9 \u05e7\u05d3\u05de\u05ea \u05e6\u05d1\u05d9 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05d3\u05de\u05ea \u05e6\u05d1\u05d9", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
             }
@@ -9589,6 +11029,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.3317235522367, 
+                    32.2355816
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05dc\u05d5\u05df \u05de\u05d5\u05e8\u05d4 \u05d0\u05d9\u05dc\u05d5\u05df \u05de\u05d5\u05e8\u05d4 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05dc\u05d5\u05df \u05de\u05d5\u05e8\u05d4", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     34.9232935, 
                     32.4069376
                 ]
@@ -9597,6 +11053,22 @@
             "properties": {
                 "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05dc\u05d9\u05db\u05d9\u05df  \u05d4\u05e9\u05d7\u05e3  \u05d0\u05dc\u05d9\u05db\u05d9\u05df ", 
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05dc\u05d9\u05db\u05d9\u05df", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.0154236, 
+                    32.173404
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05dc\u05e4\u05d9 \u05de\u05e0\u05e9\u05d4 \u05d4\u05d2\u05dc\u05d1\u05d5\u05e2  118", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05dc\u05e4\u05d9 \u05de\u05e0\u05e9\u05d4", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
             }
@@ -10197,6 +11669,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.1765931, 
+                    32.0004573
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e2\u05d8\u05e8\u05ea \u05d3.\u05e0. \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e2\u05d8\u05e8\u05ea", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     34.6423049, 
                     31.7990761
                 ]
@@ -10357,6 +11845,134 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.1361408, 
+                    31.8279759
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d4\u05e8 \u05d0\u05d3\u05e8 \u05d4\u05d0\u05dc\u05d5\u05df  239", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d4\u05e8 \u05d0\u05d3\u05e8", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.1239774, 
+                    31.6985126
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d1\u05d9\u05ea\u05e8 \u05e8\u05d1\u05d9 \u05e2\u05e7\u05d9\u05d1\u05d0  5", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d1\u05d9\u05ea\u05e8 \u05de\u05e7\u05e6\u05d5\u05e2\u05d9\u05ea", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.487565, 
+                    32.247808
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d1\u05e7\u05e2\u05d5\u05ea +\u05e8\u05d5\u05e2\u05d9 \u05d3.\u05e0 \u05de\u05d6\u05e8\u05d7 \u05d1\u05e0\u05d9\u05de\u05d9\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d1\u05e7\u05e2\u05d5\u05ea +\u05e8\u05d5\u05e2\u05d9", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.1687498, 
+                    31.8623329
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d2\u05d1\u05e2\u05ea \u05d6\u05d0\u05d1  \u05d4\u05de\u05db\u05d1\u05d9\u05dd  48", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d2\u05d1\u05e2\u05ea \u05d6\u05d0\u05d1", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.1266904747966, 
+                    31.65423355
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05dc\u05d5\u05df \u05e9\u05d1\u05d5\u05ea \u05de\u05e8\u05db\u05d6 \u05de\u05e1\u05d7\u05e8\u05d9 \u05d0\u05dc\u05d5\u05df \u05e9\u05d1\u05d5\u05ea ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05dc\u05d5\u05df \u05e9\u05d1\u05d5\u05ea", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.4615768228445, 
+                    31.78804385
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05dc\u05de\u05d5\u05d2 \u05d3.\u05e0. \u05e2\u05e8\u05d1\u05d5\u05ea \u05d4\u05d9\u05e8\u05d3\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05dc\u05de\u05d5\u05d2", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.1587687109279, 
+                    31.6654816
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05e4\u05e8\u05ea \u05e8\u05d7' \u05d4\u05ea\u05d0\u05e0\u05d4 \u05d0\u05e4\u05e8\u05ea ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05e4\u05e8\u05ea", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.2209482, 
+                    31.9414602
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d1\u05d9\u05ea \u05d0\u05dc \u05d3.\u05e0.\u05de\u05d6\u05e8\u05d7 \u05d1\u05e0\u05d9\u05de\u05d9\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d1\u05d9\u05ea \u05d0\u05dc", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     35.411506, 
                     32.892766
                 ]
@@ -10469,6 +12085,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.113453, 
+                    31.366895
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05ea\u05d9\u05e8 \u05d1\u05d9\u05ea \u05d9\u05ea\u05d9\u05e8 ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d9\u05ea\u05d9\u05e8", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     35.403505, 
                     32.834901
                 ]
@@ -10495,6 +12127,22 @@
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05e0\u05d7\u05de\u05d9\u05d4", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.2981708806541, 
+                    32.0532603
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e9\u05d9\u05dc\u05d4 \u05d3.\u05e0 \u05d4\u05e8\u05d9 \u05d0\u05e4\u05e8\u05d9\u05dd ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e9\u05d9\u05dc\u05d4", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
             }
         }, 
         {
@@ -10853,6 +12501,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.3079925505884, 
+                    32.17304715
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05d9\u05ea\u05de\u05e8 \u05d3.\u05e0. \u05dc\u05d1 \u05d4\u05e9\u05d5\u05de\u05e8\u05d5\u05df ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05d9\u05ea\u05de\u05e8", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     35.3387534, 
                     32.6418437
                 ]
@@ -10869,6 +12533,38 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    35.2603412, 
+                    31.8727315
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e9\u05e2\u05e8 \u05d1\u05e0\u05d9\u05de\u05d9\u05df \u05e4\u05d0\u05e8 \u05ea\u05e2\u05e9\u05d9\u05d5\u05ea ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e9\u05e2\u05e8 \u05d1\u05e0\u05d9\u05de\u05d9\u05df", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.2391828, 
+                    31.8808477
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05ea\u05dc \u05e6\u05d9\u05d5\u05df \u05d0\u05d4\u05d1\u05ea \u05d0\u05de\u05ea  19/8", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05ea\u05dc \u05e6\u05d9\u05d5\u05df", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     34.9882882, 
                     32.7901713
                 ]
@@ -10877,6 +12573,38 @@
             "properties": {
                 "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05e8\u05d9\u05ea \u05e1\u05e4\u05e8 \u05e9\u05d3\u05d4 \u05d7\u05de\u05d3  32", 
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05e8\u05d9\u05ea \u05e1\u05e4\u05e8", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.2981708806541, 
+                    32.0532603
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e9\u05d9\u05dc\u05d4 \u05d3.\u05e0. \u05d0\u05e4\u05e8\u05d9\u05dd ", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e9\u05d9\u05dc\u05d4", 
+                "marker-symbol": "water", 
+                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.6862733, 
+                    32.9931033
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05e6\u05e8\u05d9\u05df \u05d0\u05d5\u05d3\u05dd  7", 
+                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05e6\u05e8\u05d9\u05df", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
             }
@@ -10911,2118 +12639,6 @@
                 "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d9\u05d5\u05e7\u05e0\u05e2\u05dd", 
                 "marker-symbol": "water", 
                 "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.0475926, 
-                    32.6917441
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d3\u05dc\u05d9\u05ea \u05d0\u05dc \u05db\u05e8\u05de\u05dc \u05d3\u05dc\u05d9\u05ea \u05d0\u05dc \u05db\u05e8\u05de\u05dc ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d3\u05dc\u05d9\u05d4 \u05d2'", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.0475926, 
-                    32.6917441
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d3\u05dc\u05d9\u05ea \u05d0\u05dc \u05db\u05e8\u05de\u05dc \u05d3\u05dc\u05d9\u05ea \u05d0\u05dc \u05db\u05e8\u05de\u05dc ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d3\u05dc\u05d9\u05d4 \u05d1'", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.9837447, 
-                    32.7956742
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d7\u05d9\u05e4\u05d4 \u05de\u05e8\u05d2\u05dc\u05d9\u05ea  1", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05d7\u05d5\u05d6\u05d4", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.9900562, 
-                    32.4704251
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e4\u05e8\u05d3\u05e1 \u05d7\u05e0\u05d4-\u05db\u05e8\u05db\u05d5\u05e8 \u05d4\u05de\u05d9\u05d9\u05e1\u05d3\u05d9\u05dd  1", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05db\u05e8\u05db\u05d5\u05e8", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.9764084, 
-                    32.4752998
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e4\u05e8\u05d3\u05e1 \u05d7\u05e0\u05d4-\u05db\u05e8\u05db\u05d5\u05e8 \u05e9\u05db\u05d5\u05e0\u05ea \u05d2\u05d0\u05d5\u05dc\u05d4 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d4\u05d3\u05e8", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.8658662415328, 
-                    32.3095375
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e0\u05ea\u05e0\u05d9\u05d4 \"\u05d3\u05d2\u05e0\u05d9\u05ea, \u05e7\u05e8\u05d9\u05d9\u05ea \u05d4\u05e9\u05e8\u05d5\u05df\" 92", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d3\u05d2\u05e0\u05d9\u05d4", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.971792, 
-                    32.823085
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d7\u05d9\u05e4\u05d4 \u05d0\u05d3\u05de\u05d5\u05e0\u05d3 \u05e4\u05dc\u05d2  16", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05d3\u05de\u05d5\u05e0\u05d3 \u05e4\u05dc\u05d2", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.8545125, 
-                    32.1358951
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e8\u05de\u05ea \u05d4\u05e9\u05e8\u05d5\u05df \u05d1\u05d9\u05ea \u05d4\u05d9\u05dc\u05dc  6", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05d3\u05de\u05d4", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.8365637, 
-                    32.0897018
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d1\u05e0\u05d9 \u05d1\u05e8\u05e7 \u05d9\u05d5\u05d0\u05dc  18", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d9\u05d5\u05d0\u05dc", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.8328882, 
-                    32.0846282
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d1\u05e0\u05d9 \u05d1\u05e8\u05e7 \u05d7\u05e4\u05e5 \u05d7\u05d9\u05d9\u05dd  7", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d7\u05e4\u05e5 \u05d7\u05d9\u05d9\u05dd", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.6575334, 
-                    31.5774293
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d7\u05dc\u05e5 \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d0\u05e9\u05e7\u05dc\u05d5\u05df ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d7\u05dc\u05e5", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.9108385207229, 
-                    32.38968905
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05db\u05e4\u05e8 \u05d4\u05e8\u05d5\u05d0\u05d4 \u05d3.\u05e0 \u05e2\u05de\u05e7 \u05d7\u05e4\u05e8 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05db\u05e4\u05e8 \u05d4\u05e8\u05d5\u05d0\u05d4", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.5702787, 
-                    33.2076298
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05e8\u05d9\u05ea \u05e9\u05de\u05d5\u05e0\u05d4 \u05d0\u05e8\u05d6\u05d9\u05dd ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05e8\u05db\u05d6 \u05e7\u05e8\u05d9\u05ea \u05e9\u05de\u05d5\u05e0\u05d4", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.5716628, 
-                    33.221103
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05e8\u05d9\u05ea \u05e9\u05de\u05d5\u05e0\u05d4 \u05d4\u05dc\u05d1\u05e0\u05d5\u05df  4", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05e8\u05d9\u05dd \u05db\u05d5\u05dc\u05dc \u05e2\u05d2'\u05e8", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.5702787, 
-                    33.2076298
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05e8\u05d9\u05ea \u05e9\u05de\u05d5\u05e0\u05d4 \u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df - '\u05e9\u05db\u05d5\u05e0\u05ea \u05d4\u05d5\u05e8\u05d3\u05d9\u05dd ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d4\u05d5\u05e8\u05d3\u05d9\u05dd", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.4876484693427, 
-                    33.04960445
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e8\u05d9\u05d7\u05e0\u05d9\u05d9\u05d4 \u05e8\u05d9\u05d7\u05e0\u05d9\u05d4 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e8\u05d9\u05d7\u05e0\u05d9\u05d4", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.5465223, 
-                    32.9674031
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e8\u05d0\u05e9 \u05e4\u05d9\u05e0\u05d4 \u05e2\u05de\u05d9\u05e7\u05dd \u05e9\u05de\u05d0\u05d9  126", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e8\u05d0\u05e9 \u05e4\u05d9\u05e0\u05d4", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.8259898, 
-                    32.0860102
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d1\u05e0\u05d9 \u05d1\u05e8\u05e7 \u05d4\u05e8\u05e6\u05d5\u05d2  20", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d4\u05e8\u05e6\u05d5\u05d2", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.7928502, 
-                    32.0113907
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d7\u05d5\u05dc\u05d5\u05df \u05de\u05e9\u05d4 \u05e9\u05e8\u05ea  73", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05d6\u05d5\u05e8", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.3074031, 
-                    32.6045029
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05e8\u05d7\u05d1\u05d9\u05d4 \u05e7\u05d9\u05d1\u05d5\u05e5 \u05d3.\u05e0 \u05d9\u05d6\u05e8\u05e2\u05d0\u05dc ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05e8\u05d7\u05d1\u05d9\u05d4 \u05e7\u05d9\u05d1\u05d5\u05e5", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.138561, 
-                    32.930371
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d2'\u05d3\u05d9\u05d3\u05d4-\u05de\u05db\u05e8 \u05d2'\u05d3\u05d9\u05d3\u05d4-\u05de\u05db\u05e8 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d2'\u05d3\u05d9\u05d3\u05d4-\u05de\u05db\u05e8", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.1869445, 
-                    32.9430624
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d2'\u05d5\u05dc\u05e1 \u05d2'\u05d5\u05dc\u05d9\u05e1 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d2'\u05d5\u05dc\u05d9\u05e1", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.04207, 
-                    32.396607
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d2'\u05ea \u05d2'\u05ea ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d2'\u05ea", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.359843, 
-                    32.861632
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d3\u05d9\u05d9\u05e8 \u05d7\u05e0\u05d0 \u05d3\u05d9\u05e8 \u05d7\u05e0\u05d0 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d3\u05d9\u05e8 \u05d7\u05e0\u05d0 \u05d0", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.359843, 
-                    32.861632
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d3\u05d9\u05d9\u05e8 \u05d7\u05e0\u05d0 \u05d3\u05d9\u05e8 \u05d7\u05e0\u05d0 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d3\u05d9\u05e8 \u05d7\u05e0\u05d0 \u05d1", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.2659896, 
-                    32.9347513
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d3\u05d9\u05e8 \u05d0\u05dc \u05d0\u05e1\u05d3 \u05d3\u05d9\u05e8 \u05d0\u05dc \u05d0\u05e1\u05d3 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d3\u05d9\u05e8 \u05d0\u05dc \u05d0\u05e1\u05d3 \u05d0", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.2659896, 
-                    32.9347513
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d3\u05d9\u05e8 \u05d0\u05dc \u05d0\u05e1\u05d3 \u05d3\u05d9\u05e8 \u05d0\u05dc \u05d0\u05e1\u05d3 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d3\u05d9\u05e8 \u05d0\u05dc \u05d0\u05e1\u05d3 \u05d1'", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.1489513540703, 
-                    32.99309175
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d3\u05e0\u05d5\u05df \u05d3\u05e0\u05d5\u05df ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d3\u05e0\u05d5\u05df", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.9781079, 
-                    32.210607
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05d9\u05d9\u05dc \u05d3.\u05e0 \u05e9\u05e8\u05d5\u05df \u05ea\u05d9\u05db\u05d5\u05df ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05d9\u05d9\u05dc", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.575454790697, 
-                    33.2425769
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05db\u05e4\u05e8 \u05d2\u05dc\u05e2\u05d3\u05d9 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05db\u05e4\u05e8 \u05d2\u05dc\u05e2\u05d3\u05d9", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.6102279, 
-                    33.1713196
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05db\u05e4\u05e8 \u05d1\u05dc\u05d5\u05dd \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05db\u05e4\u05e8 \u05d1\u05dc\u05d5\u05dd", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.4637873, 
-                    32.8106577
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05db\u05e4\u05e8 \u05d6\u05d9\u05ea\u05d9\u05dd \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05ea\u05d7\u05ea\u05d5\u05df ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05db\u05e4\u05e8 \u05d6\u05d9\u05ea\u05d9\u05dd", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.5107126, 
-                    33.0994238
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05dc\u05db\u05d9\u05d4 \u05d3.\u05e0 \u05de\u05e8\u05d5\u05dd \u05d2\u05dc\u05d9\u05dc ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05dc\u05db\u05d9\u05d4", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.4212665803371, 
-                    32.45236405
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05d9\u05e8\u05d1 \u05d3.\u05e0 \u05d2\u05dc\u05d1\u05d5\u05e2 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05d9\u05e8\u05d1", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.5707211543194, 
-                    32.9889507
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05d7\u05e0\u05d9\u05d9\u05dd \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05d7\u05e0\u05d9\u05d9\u05dd", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.2741896, 
-                    32.7013318
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05db\u05e4\u05e8 \u05d4\u05d7\u05d5\u05e8\u05e9 \u05d3.\u05e0 \u05db\u05e4\u05e8 \u05d4\u05d7\u05d5\u05e8\u05e9 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05db\u05e4\u05e8 \u05d4\u05d7\u05d5\u05e8\u05e9", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.2864275447354, 
-                    32.65102365
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05d6\u05e8\u05e2  ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05d6\u05e8\u05e2", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.4388869, 
-                    32.586104
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05d5\u05dc\u05d3\u05ea \u05d3.\u05e0 \u05d2\u05dc\u05d1\u05d5\u05e2 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05d5\u05dc\u05d3\u05ea", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.3067307, 
-                    32.5206793
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05d2\u05df \u05e9\u05d0\u05d5\u05dc \u05d3.\u05e0 \u05d2\u05dc\u05d1\u05d5\u05e2 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05d2\u05df \u05e9\u05d0\u05d5\u05dc", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.1797956617029, 
-                    32.5798592
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05d2\u05d9\u05d3\u05d5 \u05d3.\u05e0 \u05de\u05d2\u05d9\u05db\u05d5 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05d2\u05d9\u05d3\u05d5", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.4549131957978, 
-                    33.07708605
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e8\u05d0\u05d5\u05df \u05d3.\u05e0 \u05de\u05e8\u05d5\u05dd \u05d4\u05d2\u05dc\u05d9\u05dc ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d9\u05e8\u05d0\u05d5\u05df", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.4228887471298, 
-                    32.843898
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05e1\u05d3 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05ea\u05d7\u05ea\u05d5\u05df ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05e1\u05d3", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.5519473, 
-                    33.1286135
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e4\u05ea\u05d7 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d9\u05e4\u05ea\u05d7", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.5648847, 
-                    32.7123777
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05db\u05e0\u05e8\u05ea \u05e7\u05d1\u05d5\u05e6\u05d4  ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05db\u05e0\u05e8\u05ea \u05e7\u05d1\u05d5\u05e6\u05d4", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.56444, 
-                    32.7231985
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05db\u05e0\u05e8\u05ea \u05de\u05d5\u05e9\u05d1\u05d4 \u05d3.\u05e0 \u05e2\u05de\u05e7 \u05d4\u05d9\u05e8\u05d3\u05df ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05db\u05e0\u05e8\u05ea \u05de\u05d5\u05e9\u05d1\u05d4", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.8654891, 
-                    32.18388
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e8\u05e2\u05e0\u05e0\u05d4 \u05d4\u05e0\u05d5\u05d8\u05e8\u05d9\u05dd ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d4\u05e0\u05d5\u05d8\u05e8\u05d9\u05dd", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.4491450721002, 
-                    31.2812428
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e2\u05d9\u05df \u05d4\u05d1\u05e9\u05d5\u05e8 \u05de\u05d5\u05e9\u05d1 \u05e2\u05d9\u05df \u05d4\u05d1\u05e9\u05d5\u05e8 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e2\u05d9\u05df \u05d4\u05d1\u05e9\u05d5\u05e8", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.0001056, 
-                    32.8046363
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d7\u05d9\u05e4\u05d4 \u05d0\u05e8\u05dc\u05d5\u05d6\u05d5\u05e8\u05d5\u05d1  92", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05e8\u05dc\u05d5\u05d6\u05d5\u05e8\u05d5\u05d1", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.2989332, 
-                    32.9077643
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05db\u05e8\u05de\u05d9\u05d0\u05dc \u05d7\u05d1\u05e6\u05dc\u05ea  3", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05db\u05e8\u05de\u05d9\u05d0\u05dc", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.2608743, 
-                    32.8592567
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05e9\u05d2\u05d1 \u05de.\u05d0\u05d6\u05d5\u05e8\u05d9\u05ea \u05de\u05e9\u05d2\u05d1 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05e9\u05d2\u05d1", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.5137154, 
-                    31.4521295
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e2\u05dc\u05d5\u05de\u05d9\u05dd \u05d3.\u05e0 \u05d4\u05e0\u05d2\u05d1 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e2\u05dc\u05d5\u05de\u05d9\u05dd", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.7552591, 
-                    31.6129488
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05e8\u05d9\u05ea \u05d2\u05ea \u05e2\u05e0\u05ea\u05d5\u05ea  1/10", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e2\u05e0\u05ea\u05d5\u05ea", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.9033742, 
-                    32.1604488
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d4\u05d5\u05d3 \u05d4\u05e9\u05e8\u05d5\u05df \u05d7\u05e0\u05e7\u05d9\u05df   14", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05d2\u05d3\u05d9\u05d0\u05dc - \u05d4\u05d5\u05d3 \u05d4\u05e9\u05e8\u05d5\u05df", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.4018248317034, 
-                    31.3102169
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e0\u05d9\u05e8 \u05e2\u05d5\u05d6 \u05d3.\u05e0 \u05d4\u05e0\u05d2\u05d1 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e0\u05d9\u05e8 \u05e2\u05d5\u05d6", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.5801692024008, 
-                    31.51996195
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e0\u05d9\u05e8 \u05e2\u05dd \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d0\u05e9\u05e7\u05dc\u05d5\u05df ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e0\u05d9\u05e8 \u05e2\u05dd", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.3955423292214, 
-                    31.3349038
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e0\u05d9\u05e8\u05d9\u05dd \u05d3.\u05e0 \u05d4\u05e0\u05d2\u05d1 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e0\u05d9\u05e8\u05d9\u05dd", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.5395488, 
-                    31.5716799
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e0\u05ea\u05d9\u05d1 \u05d4\u05e2\u05e9\u05e8\u05d4 \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d0\u05e9\u05e7\u05dc\u05d5\u05df ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e0\u05ea\u05d9\u05d1 \u05d4\u05e2\u05e9\u05e8\u05d4", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.1847402, 
-                    30.6148621
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e1\u05e4\u05d9\u05e8 \u05d3.\u05e0 \u05d4\u05e2\u05e8\u05d1\u05d4 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e1\u05e4\u05d9\u05e8", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.3007748771967, 
-                    30.80637485
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e2\u05d9\u05d3\u05df \u05d3.\u05e0 \u05d4\u05e2\u05e8\u05d1\u05d4 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e2\u05d9\u05d3\u05df", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.401157, 
-                    31.3506712
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e2\u05d9\u05df \u05d4\u05e9\u05dc\u05d5\u05e9\u05d4 \u05d3.\u05e0 \u05d4\u05e0\u05d2\u05d1 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e2\u05d9\u05df \u05d4\u05e9\u05dc\u05d5\u05e9\u05d4", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.2386032858895, 
-                    30.6584844
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e2\u05d9\u05df \u05d9\u05d4\u05d1 \u05d3.\u05e0 \u05d4\u05e2\u05e8\u05d1\u05d4 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e2\u05d9\u05df \u05d9\u05d4\u05d1", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.0178157, 
-                    31.8869568
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e8\u05e2\u05d5\u05ea \u05de\u05e8\u05db\u05d6 \u05de\u05e1\u05d7\u05e8\u05d9 \u05e8\u05e2\u05d5\u05ea ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e8\u05e2\u05d5\u05ea", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.8249238, 
-                    31.8876296
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e8\u05d7\u05d5\u05d1\u05d5\u05ea \u05e4\u05e8\u05e9\u05e0\u05d9    8", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e4\u05e8\u05e9\u05e0\u05d9", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.8105369, 
-                    31.890962
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e8\u05d7\u05d5\u05d1\u05d5\u05ea \u05d1\u05ea\u05d9\u05d4 \u05de\u05e7\u05d5\u05d1  16", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d1\u05ea\u05d9\u05d4 \u05de\u05e7\u05d5\u05d1", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.8196663, 
-                    31.8798759
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e8\u05d7\u05d5\u05d1\u05d5\u05ea \u05d8\u05e8\u05d5\u05de\u05e4\u05dc\u05d3\u05d5\u05e8   6", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05d5\u05e9\u05d9\u05d5\u05ea", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.8142185, 
-                    31.9008295
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e8\u05d7\u05d5\u05d1\u05d5\u05ea \u05d0\u05d4\u05e8\u05d5\u05e0\u05d9  21", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05d4\u05e8\u05d5\u05e0\u05d9", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.8122708, 
-                    31.9587781
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e8\u05d0\u05e9\u05d5\u05df \u05dc\u05e6\u05d9\u05d5\u05df \u05e9\u05d9\u05d1\u05ea \u05e6\u05d9\u05d5\u05df  4", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e9\u05d9\u05d1\u05ea \u05e6\u05d9\u05d5\u05df", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.7817931, 
-                    32.0567748
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e8\u05d0\u05e9\u05d5\u05df \u05dc\u05e6\u05d9\u05d5\u05df \u05e2\u05d6\u05e8\u05d0  39", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e9\u05db\u05d5\u05df \u05d4\u05de\u05d6\u05e8\u05d7", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.7800611, 
-                    31.9806514
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e8\u05d0\u05e9\u05d5\u05df \u05dc\u05e6\u05d9\u05d5\u05df \u05d4\u05e0\u05d7\u05e9\u05d5\u05dc  26", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d4\u05e0\u05d7\u05e9\u05d5\u05dc", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.789118502355, 
-                    31.9732482
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e8\u05d0\u05e9\u05d5\u05df \u05dc\u05e6\u05d9\u05d5\u05df \u05d4\u05e8\u05d1 \u05d8\u05d5\u05dc\u05d3\u05e0\u05d5  4", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e8\u05d5\u05d6\u05e0\u05d1\u05e8\u05d2", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.789118502355, 
-                    31.9732482
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e8\u05d0\u05e9\u05d5\u05df \u05dc\u05e6\u05d9\u05d5\u05df \u05e9\u05d3\u05d4 \u05e0\u05d7\u05d5\u05dd  16", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05e8\u05d9\u05ea \u05d2\u05e0\u05d9\u05dd", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.9907360970497, 
-                    32.2205493
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05db\u05d5\u05db\u05d1 \u05d9\u05d0\u05d9\u05e8 \u05de\u05e8\u05db\u05d6 \u05de\u05e1\u05d7\u05e8\u05d9 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05db\u05d5\u05db\u05d1 \u05d9\u05d0\u05d9\u05e8", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.7835922, 
-                    31.8020292
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d2\u05d3\u05e8\u05d4 \u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df  48", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d2\u05d3\u05e8\u05d4", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.907459, 
-                    32.1773471
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05db\u05e4\u05e8 \u05e1\u05d1\u05d0 \u05d5\u05d9\u05e6\u05de\u05df (\u05d1\u05d1\u05d9\u05ea \u05d9\u05ea\u05d9\u05e8) 42", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d4\u05de\u05d9\u05d9\u05e1\u05d3\u05d9\u05dd", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.8258534, 
-                    31.8621364
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05e8\u05d9\u05ea \u05e2\u05e7\u05e8\u05d5\u05df \u05d0\u05dc\u05d9 \u05db\u05d4\u05df  9", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05e8\u05d9\u05ea \u05e2\u05e7\u05e8\u05d5\u05df", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.7183, 
-                    31.7888679
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d2\u05df \u05d9\u05d1\u05e0\u05d4 \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea  8", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.4931569, 
-                    32.5039576
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d1\u05d9\u05ea \u05e9\u05d0\u05df \u05e9\u05d0\u05d5\u05dc \u05d4\u05de\u05dc\u05da 61", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d1\u05d9\u05ea \u05e9\u05d0\u05df", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.329507, 
-                    32.62077
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e2\u05e4\u05d5\u05dc\u05d4 \u05e2\u05dc\u05d9\u05ea \u05d9\u05e6\u05d7\u05e7 \u05e9\u05d3\u05d4  1", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e2\u05e4\u05d5\u05dc\u05d4 \u05e2\u05dc\u05d9\u05ea \u05d0'", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.1053312, 
-                    32.6631119
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05d5\u05e7\u05e0\u05e2\u05dd \u05e9\u05d3\u05e8\u05d5\u05ea \u05e8\u05d1\u05d9\u05df 9", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d9\u05d5\u05e7\u05e0\u05e2\u05dd", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.6906236024713, 
-                    31.7043079
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05e9\u05d5\u05d0\u05d5\u05ea \u05d9\u05e6\u05d7\u05e7 \u05d3.\u05e0 \u05e9\u05d3\u05d4 \u05d2\u05ea ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05e9\u05d5\u05d0\u05d5\u05ea \u05d9\u05e6\u05d7\u05e7", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.6820447771503, 
-                    31.82477825
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e0\u05d9\u05e8 \u05d2\u05dc\u05d9\u05dd \u05d3.\u05e0 \u05d0\u05d1\u05d8\u05d7 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e0\u05d9\u05e8 \u05d2\u05dc\u05d9\u05dd", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.2890861, 
-                    32.6075587
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e2\u05e4\u05d5\u05dc\u05d4 \u05d2\u05d1\u05e2\u05ea \u05d4\u05de\u05d5\u05e8\u05d4 \u05e9\u05db\u05d5\u05e0\u05ea \u05d3\u05e8\u05d5\u05e7\u05e8 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d3\u05e8\u05d5\u05e7\u05e8", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.9195326277788, 
-                    31.8475547
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05db\u05e8\u05de\u05d9 \u05d9\u05d5\u05e1\u05e3 \u05db\u05e8\u05de\u05d9 \u05d9\u05d5\u05e1\u05e3 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05db\u05e8\u05de\u05d9 \u05d9\u05d5\u05e1\u05e3", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.7751954, 
-                    31.8959315
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05db\u05e4\u05e8 \u05d2\u05d1\u05d9\u05e8\u05d5\u05dc \u05d9\u05d5\u05e0\u05ea\u05df  \u05e8\u05d7\u05d5\u05d1\u05d5\u05ea 9", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05db\u05e4\u05e8 \u05d2\u05d1\u05d9\u05e8\u05d5\u05dc", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.7661362, 
-                    31.6083875
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05e8\u05d9\u05ea \u05d2\u05ea  \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea  64", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05d2\u05ea", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.7993793, 
-                    31.9293683
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e0\u05e1 \u05e6\u05d9\u05d5\u05e0\u05d4 \"\u05d4\u05d0\u05d9\u05e8\u05d5\u05e1\u05d9\u05dd , \u05de\u05d2\u05d3\u05dc\u05d9 \u05d4\u05e7\u05e0\u05d9\u05d5\u05d8\u05e8\" 53", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e0\u05e1 \u05e6\u05d9\u05d5\u05e0\u05d4", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.8577106718581, 
-                    31.88377045
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e0\u05e2\u05df \u05e7\u05d9\u05d1\u05d5\u05e5 \u05de\u05e2\u05df ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e0\u05e2\u05df", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.1329512, 
-                    32.7218375
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05e8\u05d9\u05ea \u05d8\u05d1\u05e2\u05d5\u05df \u05d4\u05d7\u05d5\u05e8\u05e9  2", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05e8\u05d9\u05ea \u05d8\u05d1\u05e2\u05d5\u05df", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.056111, 
-                    32.831944
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05e8\u05d9\u05ea \u05d7\u05d9\u05d9\u05dd \u05d4\u05e9\u05d9\u05e8\u05d4  46", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05e8\u05d9\u05ea \u05d7\u05d9\u05d9\u05dd \u05de\u05d6\u05e8\u05d7\u05d9\u05ea", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.1935660292907, 
-                    32.85519025
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d8\u05de\u05e8\u05d4 \u05d8\u05de\u05e8\u05d4 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d8\u05de\u05e8\u05d4 \u05d2", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.078576, 
-                    32.845636
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05e8\u05d9\u05ea \u05d9\u05dd \u05d0\u05dc\u05d5\u05df  3", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05dc\u05d5\u05df '\u05e7\u05e8\u05d9\u05ea \u05d9\u05dd \u05d0'", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.0847028, 
-                    32.8376396
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05e8\u05d9\u05ea \u05de\u05d5\u05e6\u05e7\u05d9\u05df  \u05e7\u05d3\u05d9\u05e9 \u05dc\u05d5\u05d6  55", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05d3\u05d9\u05e9 \u05dc\u05d5\u05d6", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.0790868, 
-                    32.8529747
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05e8\u05d9\u05ea \u05d9\u05dd  \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd  71", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05e8\u05d9\u05ea \u05d9\u05dd \u05e6\u05e4\u05d5\u05df", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.1310897, 
-                    32.7072498
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05e8\u05d9\u05ea \u05e2\u05de\u05dc \"\u05e2\"\u05d9 \u05e7\u05d5\u05dc\u05e0\u05d5\u05e2 \u05d6\u05d4\u05e8\" ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05e8\u05d9\u05ea \u05e2\u05de\u05dc", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.0830755403739, 
-                    32.84127635
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e7\u05e8\u05d9\u05ea \u05de\u05d5\u05e6\u05e7\u05d9\u05df \u05d7\u05e9\u05de\u05d5\u05e0\u05d0\u05d9\u05dd  40", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d7\u05d9\u05d1\u05ea \u05e6\u05d9\u05d5\u05df", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.1088902, 
-                    31.8063125
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05d1\u05d5 \u05d2\u05d5\u05e9 \u05d4\u05e4\u05d5\u05dc   17", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05d1\u05d5 \u05d2\u05d5\u05e9", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.0472907, 
-                    32.7691948
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e0\u05e9\u05e8 \u05d1\u05e8\u05e7  9", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05ea\u05dc \u05d7\u05e0\u05df", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.2202787111439, 
-                    32.9963431
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05d7\u05d9\u05e2\u05dd \u05d3.\u05e0 \u05de\u05e2\u05dc\u05d4 \u05d4\u05d2\u05dc\u05d9\u05dc ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d9\u05d7\u05d9\u05e2\u05dd", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.0767415, 
-                    32.7430805
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05d2\u05d5\u05e8 \u05d9\u05d2\u05d5\u05e8 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d9\u05d2\u05d5\u05e8", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.1080407, 
-                    33.0232248
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e0\u05d4\u05e8\u05d9\u05d4 \u05d6\u05de\u05e0\u05d4\u05d5\u05e3  2", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e0\u05d4\u05e8\u05d9\u05d4 \u05d8\u05e8\u05d5\u05de\u05e4\u05dc\u05d3\u05d5\u05e8", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.5445288, 
-                    32.97779
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d7\u05e6\u05d5\u05e8 \u05d4\u05d2\u05dc\u05d9\u05dc\u05d9\u05ea \u05d4\u05e0\u05e9\u05d9\u05d0 \u05d5\u05d9\u05e6\u05de\u05df ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d7\u05e6\u05d5\u05e8 \u05d1'", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.1041845, 
-                    33.0062952
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e0\u05d4\u05e8\u05d9\u05d4 \u05d4\u05e9\u05e8\u05d5\u05df  15", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e0\u05d4\u05e8\u05d9\u05d4 \u05d9\u05d5\u05e1\u05e4\u05d8\u05dc", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.5781151, 
-                    31.4217263
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e0\u05ea\u05d9\u05d1\u05d5\u05ea \u05d4\u05e8\u05d1 \u05e6\u05d1\u05d0\u05df ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e0\u05ea\u05d9\u05d1\u05d5\u05ea \u05d2'", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.7547693, 
-                    31.3932933
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e8\u05d4\u05d8  ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e8\u05d4\u05d8 \u05d4'", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.5899965, 
-                    31.4222723
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e0\u05ea\u05d9\u05d1\u05d5\u05ea \u05d0\u05dc\u05e4\u05e1\u05d9 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e0\u05ea\u05d9\u05d1\u05d5\u05ea \u05d1'", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.8015805, 
-                    30.6084358
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05e6\u05e4\u05d4 \u05e8\u05de\u05d5\u05df \u05e0\u05d7\u05dc \u05d2\u05e8\u05d5\u05e4\u05d9\u05ea ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05e6\u05e4\u05d4 \u05e8\u05de\u05d5\u05df", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.6547505, 
-                    31.4492727
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05de\u05d1\u05d5\u05e2\u05d9\u05dd \u05de\u05d1\u05d5\u05e2\u05d9\u05dd ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05de\u05d1\u05d5\u05e2\u05d9\u05dd", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.9036081, 
-                    29.5602846
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05d9\u05dc\u05ea \u05d0\u05d9\u05dc\u05ea ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e9\u05d7\u05de\u05d5\u05df", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.033333, 
-                    31.066667
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d3\u05d9\u05de\u05d5\u05e0\u05d4 \u05d4\u05e0\u05e6\u05d7\u05d5\u05df \u05d0' ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d3\u05d9\u05de\u05d5\u05e0\u05d4 \u05d4'", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.9296299, 
-                    30.9880622
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e8\u05d5\u05d7\u05dd \u05e6\u05d1\u05d9 \u05d1\u05d5\u05e8\u05e9\u05d8\u05d9\u05d9\u05df ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d9\u05e8\u05d5\u05d7\u05dd", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.9216301954792, 
-                    32.6140985
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e0\u05d7\u05e9\u05d5\u05dc\u05d9\u05dd \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e0\u05d7\u05e9\u05d5\u05dc\u05d9\u05dd", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.6471982, 
-                    31.7987969
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d0\u05e9\u05d3\u05d5\u05d3 \u05e0\u05d0\u05d5\u05ea \u05e1\u05e4\u05d9\u05e8  13", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0\u05e9\u05d3\u05d5\u05d3  \u05d4'", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.992839152994, 
-                    32.69778175
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e0\u05d9\u05e8 \u05e2\u05e6\u05d9\u05d5\u05df \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e0\u05d9\u05e8 \u05e2\u05e6\u05d9\u05d5\u05df", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.2185386575922, 
-                    31.7893785
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05e8\u05d0\u05d5\u05d1\u05df \u05de\u05e1  131/25", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e8\u05de\u05d5\u05ea  02", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.2185386575922, 
-                    31.7893785
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05e1\u05dc\u05d9\u05de\u05d0\u05df \u05d0\u05dc \u05e4\u05e8\u05e1\u05d9  13", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d0- \u05d8\u05d5\u05e8", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.2185386575922, 
-                    31.7893785
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05e9\u05d9\u05da \u05d2'\u05e8\u05d0\u05d7 \u05de\u05e8\u05db\u05d6 \u05e8\u05e4\u05d5\u05d0\u05d9 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e9\u05d9\u05da \u05d2'\u05e8\u05d0\u05d7", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.9930995, 
-                    31.7384891
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05d7\u05d6\u05d5\u05df \u05d0\u05d9\u05e9  33", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e8\u05de\u05ea \u05e9\u05dc\u05de\u05d4", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.2185386575922, 
-                    31.7893785
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05db\u05d1\u05d9\u05e9 \u05e8\u05d0\u05e9\u05d9 ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e9\u05d5\u05e2\u05e4\u05d8 \u05de'\u05e1", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.192793, 
-                    31.7906047
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd  \u05e2\u05de\u05e8\u05dd \u05d2\u05d0\u05d5\u05df  7", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d2\u05d1\u05e2\u05ea \u05e9\u05d0\u05d5\u05dc", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.9442700945164, 
-                    31.66011985
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05e6\u05e4\u05e8\u05d9\u05e8\u05d9\u05dd  18", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e8\u05de\u05d5\u05ea  01", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.2185386575922, 
-                    31.7893785
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05e1\u05e0\u05d4\u05d3\u05e8\u05d9\u05d4 \u05d4\u05de\u05d5\u05e8\u05d7\u05d1\u05ea 102", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e1\u05e0\u05d4\u05d3\u05e8\u05d9\u05d4", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.2185386575922, 
-                    31.7893785
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05e6\u05d5\u05e8 \u05d1\u05d0\u05d7\u05e8-\u05d1\u05d9\u05ea \u05e2\u05dc\u05d9 \u05d0\u05d1\u05d5 \u05d0\u05d7\u05de\u05d3  71", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e6\u05d5\u05e8 \u05d1\u05d0\u05d7\u05e8", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.2059334, 
-                    31.7966209
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd   \u05e1\u05d5\u05e8\u05d5\u05e6\u05e7\u05d9\u05df  40", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05e8\u05d9\u05ea \u05d4\u05d9\u05dc\u05d3", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    34.8654891, 
-                    32.18388
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05e8\u05e2\u05e0\u05e0\u05d4 \u05d4\u05e0\u05d5\u05d8\u05e8\u05d9\u05dd  ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05dc\u05d1 \u05d4\u05e4\u05d0\u05e8\u05e7", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.1856796, 
-                    31.7790196
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd  \u05d4\u05ea\u05d5\u05de\u05e8  4", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d1\u05d9\u05ea \u05d4\u05db\u05e8\u05dd", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.1593608380592, 
-                    31.7825739
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05d4\u05e4\u05e1\u05d2\u05d4   42", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d1\u05d9\u05ea  \u05d5\u05d2\u05df", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.2185386575922, 
-                    31.7893785
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05db\u05db\u05e8 \u05d6\u05dc\u05de\u05df \u05d0\u05e8\u05df ", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e8\u05de\u05ea \u05d0\u05e9\u05db\u05d5\u05dc", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.2185386575922, 
-                    31.7893785
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd  \u05dc\u05d0\u05d4 \u05d2\u05d5\u05dc\u05d3\u05d1\u05e8\u05d2  3", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e0\u05d5\u05d4 \u05d9\u05e2\u05e7\u05d1 \u05de\u05e8\u05db\u05d6", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.2185386575922, 
-                    31.7893785
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd  \u05d0\u05d9\u05d3\u05dc\u05e1\u05d5\u05df   325/32", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e8\u05de\u05d5\u05ea  03", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.1782695, 
-                    31.7557979
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05d2\u05d5\u05d0\u05d8\u05de\u05dc\u05d4  20", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05e7\u05e8\u05d9\u05ea \u05d9\u05d5\u05d1\u05dc", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.1002938, 
-                    31.7855587
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd  \u05d4\u05de\u05d5\u05e8  3", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05d2\u05d9\u05dc\u05d4  \u05d0'", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    35.2185386575922, 
-                    31.7893785
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "\u05db\u05ea\u05d5\u05d1\u05ea": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd  \u05d9\u05e2\u05e7\u05d1 \u05d5\u05d9\u05d9\u05e1  4", 
-                "\u05e9\u05dd \u05ea\u05d7\u05e0\u05d4": "\u05ea\u05dc\u05e4\u05d9\u05d5\u05ea \u05de\u05d6\u05e8\u05d7", 
-                "marker-symbol": "water", 
-                "\u05d0\u05e8\u05d7\u05d9\u05d5\u05ea": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
             }
         }
     ]
