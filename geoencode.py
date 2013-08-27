@@ -4,8 +4,8 @@ import requests
 import json
 import codecs
 
-OUTPUT_FILE = 'all_stations.geojson'
-ERROR_FILE = 'errors.txt'
+OUTPUT_FILE = 'data/all_stations.geojson'
+ERROR_FILE = 'data/errors.txt'
 
 
 def in_israel(lon, lat):
