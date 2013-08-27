@@ -77,7 +77,7 @@ for i in data:
             trouble_locs[i] = "Not in israel, something wrong"
             continue
             
-	print addr, locate(addr) #.encode('utf-8').decode('unicode-escape'))
+	print addr, locate(addr)
 
 	geojson['features'].append(
 		{
@@ -87,10 +87,10 @@ for i in data:
 	        "coordinates": [ lon, lat ]
 	      },
 	      "properties": {
-	        "marker-symbol": "water",
-	        "שם תחנה": item['ThanaName'],
-	        "כתובת": addr,
-	        "ארחיות": item['Aharait']
+	        "name": item['ThanaName'],
+	        "address": addr,
+	        "operator": item['Aharait'],
+   	        "phone" : item['Tel1'],
 	      }
 	    }
 	)
