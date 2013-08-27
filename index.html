@@ -67,10 +67,11 @@
 			}
 		).addTo(map);
 
-		L.control.locate({
-			position: 'topright',
-			onLocationError: function(err) {}
-		}).addTo(map);
+		// disabling since the icon appears uncentered in iPhone
+		// L.control.locate({
+		// 	position: 'topright',
+		// 	onLocationError: function(err) {}
+		// }).addTo(map);
 	</script>
 
 </body>
