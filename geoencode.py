@@ -19,7 +19,7 @@ def in_israel(lon, lat):
         for i in k['address_components']:
             try:
                 if i['types'][0]==u'country':
-                    return i['long_name']=='Israel'
+                    return (i['long_name']=='Israel' or i['long_name']=='Palestine')
             except IndexError:
                 continue
         print('The country returned is %s instead of Israel' % i['long_name'])
