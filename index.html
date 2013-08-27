@@ -8,10 +8,12 @@
 
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.4/leaflet.css" />
-	<!--[if lte IE 8]><link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.4/leaflet.ie.css" /><![endif]-->
-	<!-- <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen"> -->
-	<!-- <link href="css/stylesheet.css" rel="stylesheet" media="screen"> -->
+	<link rel="stylesheet" href="leaflet-plugins/L.control.locate.css" />
+	
+	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
+	 <!--[if lte IE 8]>
+    	 <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.ie.css" />
+ 	<![endif]-->
 
 	
 	<style type="text/css">
@@ -30,7 +32,9 @@
 	<div id="map"></div>
 
 	<script src="data/all_stations.js"></script>
-	<script src="http://cdn.leafletjs.com/leaflet-0.4/leaflet.js"></script>
+	<script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+	<script src="leaflet-plugins/L.control.locate.js"></script>
+
 	<script type="text/javascript">
 
 		function onEachFeature(feature, layer) {
@@ -45,9 +49,13 @@
 		
 		var map = L.map('map', { scrollWheelZoom: true }).setView(MAP_CENTER, DEFAULT_ZOOM);
 
+		map.locate({setView : true, maxZoom: 13});
+
 		tile_url = 'http://{s}.tiles.mapbox.com/v3/niryariv.map-n3zuwkkz/{z}/{x}/{y}.png';
 		L.tileLayer(tile_url, {
-			attribution: 'נבנה <a href="https://github.com/niryariv/tiptipa">בקוד פתוח</a> : <a href="http://niryariv.wordpress.com/">ניר יריב</a> - <a href="http://degeladom.wordpress.com/">אלון ניסר</a> - שרון מורבי - <a href="http://gizra.com/">גיזרה</a> - <a href="http://www.hasadna.org.il/">הסדנא לידע ציבורי</a>'
+			attribution: 'נבנה <a href="https://github.com/niryariv/tiptipa">בקוד פתוח</a> : <a href="http://niryariv.wordpress.com/">ניר יריב</a> - <a href="http://degeladom.wordpress.com/">אלון ניסר</a> - שרון מורבי - <a href="http://gizra.com/">גיזרה</a> - <a href="http://www.hasadna.org.il/">הסדנא לידע ציבורי</a>',
+			maxZoom: 14,
+			minZoom: 9
 		}).addTo(map);
 
 		L.geoJson(stations,
@@ -59,7 +67,10 @@
 			}
 		).addTo(map);
 
-		map.locate({setView : true, maxZoom: 13});
+		L.control.locate({
+			position: 'topright',
+			onLocationError: function(err) {}
+		}).addTo(map);
 	</script>
 
 </body>
