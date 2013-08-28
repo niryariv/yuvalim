@@ -527,8 +527,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.0435471, 
+                    31.9297051
                 ]
             }, 
             "type": "Feature", 
@@ -537,7 +537,7 @@ var stations={
                 "phone": "08-9740318", 
                 "address": "קרית ספר מסילת יוסף  מודיעין עילית 34", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "736"
             }
         }, 
@@ -545,8 +545,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.2443691, 
+                    31.8199471
                 ]
             }, 
             "type": "Feature", 
@@ -555,7 +555,7 @@ var stations={
                 "phone": "02-5940482", 
                 "address": "פסגת זאב חיים תורן   45", 
                 "operator": "קופת חולים מכבי", 
-                "error": true, 
+                "error": false, 
                 "item_id": "1061"
             }
         }, 
@@ -581,8 +581,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.0417622, 
+                    31.9249773
                 ]
             }, 
             "type": "Feature", 
@@ -591,7 +591,7 @@ var stations={
                 "phone": "08-9142000", 
                 "address": "מודיעין עילית קרית ספר נתובות המשפט 90", 
                 "operator": "קופת חולים מכבי", 
-                "error": true, 
+                "error": false, 
                 "item_id": "1062"
             }
         }, 
@@ -1535,8 +1535,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.392288, 
+                    31.813797
                 ]
             }, 
             "type": "Feature", 
@@ -1545,7 +1545,7 @@ var stations={
                 "phone": "08-9111222", 
                 "address": "דביר ד.נ הנגב ", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "529"
             }
         }, 
@@ -1571,8 +1571,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.1676988, 
+                    31.8643615
                 ]
             }, 
             "type": "Feature", 
@@ -1581,7 +1581,7 @@ var stations={
                 "phone": "02-5360336", 
                 "address": "גבעת זאב המכבים 48", 
                 "operator": "קופת חולים מאוחדת", 
-                "error": true, 
+                "error": false, 
                 "item_id": "1013"
             }
         }, 
@@ -1967,8 +1967,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.0861699, 
+                    32.1711322
                 ]
             }, 
             "type": "Feature", 
@@ -1977,7 +1977,7 @@ var stations={
                 "phone": "09-7920135", 
                 "address": "גינות שומרון האלון   9", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "906"
             }
         }, 
@@ -2615,8 +2615,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.114631, 
+                    32.149831
                 ]
             }, 
             "type": "Feature", 
@@ -2625,7 +2625,7 @@ var stations={
                 "phone": "09-7923461", 
                 "address": "יקיר ד.נ. לב השומרון ", 
                 "operator": "לאומית שרותי בריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "1000"
             }
         }, 
@@ -2867,8 +2867,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.51602, 
+                    32.365285
                 ]
             }, 
             "type": "Feature", 
@@ -2877,7 +2877,7 @@ var stations={
                 "phone": "04-6480115", 
                 "address": "מחולה ד.נ בית שאן ", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "844"
             }
         }, 
@@ -3065,8 +3065,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.2316284, 
+                    31.7760666
                 ]
             }, 
             "type": "Feature", 
@@ -3075,7 +3075,7 @@ var stations={
                 "phone": "02-5343027", 
                 "address": "ירושלים פלוגת הכותל 7", 
                 "operator": "עיריית ירושלים", 
-                "error": true, 
+                "error": false, 
                 "item_id": "740"
             }
         }, 
@@ -3605,8 +3605,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.149934, 
+                    31.653589
                 ]
             }, 
             "type": "Feature", 
@@ -3615,7 +3615,7 @@ var stations={
                 "phone": "02-9932140", 
                 "address": "אפרת ת.ד. 1041 ", 
                 "operator": "קופת חולים מכבי", 
-                "error": true, 
+                "error": false, 
                 "item_id": "1055"
             }
         }, 
@@ -3641,8 +3641,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.29812, 
+                    31.773363
                 ]
             }, 
             "type": "Feature", 
@@ -3651,7 +3651,7 @@ var stations={
                 "phone": "02-5913200", 
                 "address": "מעלה אדומים כיכר היהלום  891", 
                 "operator": "קופת חולים מכבי", 
-                "error": true, 
+                "error": false, 
                 "item_id": "1059"
             }
         }, 
@@ -3659,8 +3659,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.049472, 
+                    32.040059
                 ]
             }, 
             "type": "Feature", 
@@ -3669,7 +3669,7 @@ var stations={
                 "phone": "08-9770800", 
                 "address": "בית אריה ד.נ. מודיעין ", 
                 "operator": "לאומית שרותי בריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "992"
             }
         }, 
@@ -4019,8 +4019,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.1612974, 
+                    32.2119197
                 ]
             }, 
             "type": "Feature", 
@@ -4029,7 +4029,7 @@ var stations={
                 "phone": "09-7922088", 
                 "address": "קדומים יהלום  3", 
                 "operator": "לאומית שרותי בריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "1006"
             }
         }, 
@@ -4073,8 +4073,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.136036, 
+                    32.160688
                 ]
             }, 
             "type": "Feature", 
@@ -4083,7 +4083,7 @@ var stations={
                 "phone": "09-7921484", 
                 "address": "עמנואל ד.נ. לב השומרון ", 
                 "operator": "לאומית שרותי בריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "1004"
             }
         }, 
@@ -4109,8 +4109,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.0968883, 
+                    32.1703553
                 ]
             }, 
             "type": "Feature", 
@@ -4119,7 +4119,7 @@ var stations={
                 "phone": "09-7929116", 
                 "address": "קרני שומרון קיבוץ גלויות   16", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "949"
             }
         }, 
@@ -4217,8 +4217,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.136401, 
+                    32.161274
                 ]
             }, 
             "type": "Feature", 
@@ -4227,7 +4227,7 @@ var stations={
                 "phone": "09-7925227", 
                 "address": "עמנואל \"כיכר הרמב\"ם\" ", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "943"
             }
         }, 
@@ -4289,8 +4289,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.400367, 
+                    31.568875
                 ]
             }, 
             "type": "Feature", 
@@ -4299,7 +4299,7 @@ var stations={
                 "phone": "02-9945400", 
                 "address": "מצפה שלם ד.נ ים המלח ", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "688"
             }
         }, 
@@ -4307,8 +4307,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.0386318, 
+                    31.9397853
                 ]
             }, 
             "type": "Feature", 
@@ -4317,7 +4317,7 @@ var stations={
                 "phone": "08-9743667", 
                 "address": "מודיעין עילית ברכפלד רבי עקיבא 3", 
                 "operator": "קופת חולים מאוחדת", 
-                "error": true, 
+                "error": false, 
                 "item_id": "685"
             }
         }, 
@@ -4343,8 +4343,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.395409, 
+                    31.815688
                 ]
             }, 
             "type": "Feature", 
@@ -4353,7 +4353,7 @@ var stations={
                 "phone": "02-5353411", 
                 "address": "מצפה יריחו ד.נ חבל יריחו ", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "687"
             }
         }, 
@@ -4361,8 +4361,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.4039, 
+                    32.071304
                 ]
             }, 
             "type": "Feature", 
@@ -4371,7 +4371,7 @@ var stations={
                 "phone": "02-9941674", 
                 "address": "מעלה אפרים ד.נ מזרח בנימין ", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "686"
             }
         }, 
@@ -4721,8 +4721,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.2195731, 
+                    31.7237274
                 ]
             }, 
             "type": "Feature", 
@@ -4731,7 +4731,7 @@ var stations={
                 "phone": "02-6724714", 
                 "address": "ירושלים שאול אביגור  7", 
                 "operator": "עיריית ירושלים", 
-                "error": true, 
+                "error": false, 
                 "item_id": "491"
             }
         }, 
@@ -5009,8 +5009,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.756898, 
+                    33.232673
                 ]
             }, 
             "type": "Feature", 
@@ -5019,7 +5019,7 @@ var stations={
                 "phone": "04-6983319", 
                 "address": "מסעדה מסעדה ", 
                 "operator": "משרד הבריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "405"
             }
         }, 
@@ -5027,8 +5027,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.7723526, 
+                    33.2696495
                 ]
             }, 
             "type": "Feature", 
@@ -5037,7 +5037,7 @@ var stations={
                 "phone": "04-6983183", 
                 "address": "מגדל שמס מג'דל שמס ", 
                 "operator": "משרד הבריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "403"
             }
         }, 
@@ -5171,8 +5171,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.7304612, 
+                    33.2370087
                 ]
             }, 
             "type": "Feature", 
@@ -5181,7 +5181,7 @@ var stations={
                 "phone": "04-6984253", 
                 "address": "עין קנייא עין קניא ", 
                 "operator": "משרד הבריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "408"
             }
         }, 
@@ -5189,8 +5189,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.1119205, 
+                    31.6997731
                 ]
             }, 
             "type": "Feature", 
@@ -5199,7 +5199,7 @@ var stations={
                 "phone": "02-5804462", 
                 "address": "ביתר עילית  חבד  2", 
                 "operator": "משרד הבריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "1069"
             }
         }, 
@@ -5333,8 +5333,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.2656435, 
+                    32.0703241
                 ]
             }, 
             "type": "Feature", 
@@ -5343,7 +5343,7 @@ var stations={
                 "phone": "02-9947313", 
                 "address": "עלי האורן  10", 
                 "operator": "קופת חולים מכבי", 
-                "error": true, 
+                "error": false, 
                 "item_id": "1060"
             }
         }, 
@@ -5675,8 +5675,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.2403211, 
+                    31.8800034
                 ]
             }, 
             "type": "Feature", 
@@ -5685,7 +5685,7 @@ var stations={
                 "phone": "02-9705700", 
                 "address": "תל ציון אהבת ישראל  כוכב יעקב 2", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "703"
             }
         }, 
@@ -5783,8 +5783,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.772288, 
+                    33.204585
                 ]
             }, 
             "type": "Feature", 
@@ -5793,7 +5793,7 @@ var stations={
                 "phone": "04-6981183", 
                 "address": "בוקעאתא בוקעתה ", 
                 "operator": "משרד הבריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "396"
             }
         }, 
@@ -5981,8 +5981,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.619547, 
+                    33.018208
                 ]
             }, 
             "type": "Feature", 
@@ -5991,7 +5991,7 @@ var stations={
                 "phone": "04-6939124", 
                 "address": "גדות ד.נ גליל עליון ", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "797"
             }
         }, 
@@ -6665,8 +6665,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.03794269999999, 
+                    31.9382702
                 ]
             }, 
             "type": "Feature", 
@@ -6675,7 +6675,7 @@ var stations={
                 "phone": "08-9770607", 
                 "address": "קרית ספר רבי שמעון בר יוחאי 1", 
                 "operator": "לאומית שרותי בריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "1008"
             }
         }, 
@@ -7115,8 +7115,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.007777, 
+                    32.200269
                 ]
             }, 
             "type": "Feature", 
@@ -7125,7 +7125,7 @@ var stations={
                 "phone": "02-9974591", 
                 "address": "נריה ד.נ. מודיעין ", 
                 "operator": "לאומית שרותי בריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "979"
             }
         }, 
@@ -7241,8 +7241,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.115625, 
+                    31.529326
                 ]
             }, 
             "type": "Feature", 
@@ -7251,7 +7251,7 @@ var stations={
                 "phone": "02-9961755", 
                 "address": "קרית ארבע בנין המרכז הרפואי ק. ארבע 90100 ", 
                 "operator": "משרד הבריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "171"
             }
         }, 
@@ -7259,8 +7259,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.3012656, 
+                    31.7672453
                 ]
             }, 
             "type": "Feature", 
@@ -7269,7 +7269,7 @@ var stations={
                 "phone": "02-5352810", 
                 "address": "מעלה אדומים הצפצפה   2", 
                 "operator": "משרד הבריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "170"
             }
         }, 
@@ -7277,8 +7277,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.4039, 
+                    32.071304
                 ]
             }, 
             "type": "Feature", 
@@ -7287,7 +7287,7 @@ var stations={
                 "phone": "02-9941199", 
                 "address": "מעלה אפרים ד.נ. מזרח בנימין ת.ד. 1291 ", 
                 "operator": "לאומית שרותי בריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "977"
             }
         }, 
@@ -7313,8 +7313,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.245172, 
+                    31.877755
                 ]
             }, 
             "type": "Feature", 
@@ -7323,7 +7323,7 @@ var stations={
                 "phone": "02-9974263", 
                 "address": "כוכב יעקב ד.נ. מזרח בנימין ", 
                 "operator": "לאומית שרותי בריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "975"
             }
         }, 
@@ -7349,8 +7349,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.133131, 
+                    31.93947499999999
                 ]
             }, 
             "type": "Feature", 
@@ -7359,7 +7359,7 @@ var stations={
                 "phone": "02-9974661", 
                 "address": "טלמון ד.נ. מודיעין ", 
                 "operator": "לאומית שרותי בריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "973"
             }
         }, 
@@ -7385,8 +7385,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.171852, 
+                    31.8586914
                 ]
             }, 
             "type": "Feature", 
@@ -7395,7 +7395,7 @@ var stations={
                 "phone": "02-5734448", 
                 "address": "גבעת זאב הגיא  49", 
                 "operator": "לאומית שרותי בריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "971"
             }
         }, 
@@ -8105,8 +8105,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.530587, 
+                    32.347731
                 ]
             }, 
             "type": "Feature", 
@@ -8115,7 +8115,7 @@ var stations={
                 "phone": "04-6099743", 
                 "address": "שדמות מחולה ד.נ הבקעה ", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "883"
             }
         }, 
@@ -8267,8 +8267,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.155819, 
+                    31.661975
                 ]
             }, 
             "type": "Feature", 
@@ -8277,7 +8277,7 @@ var stations={
                 "phone": "02-5619888", 
                 "address": "אפרת שדרות דוד המלך ", 
                 "operator": "קופת חולים מאוחדת", 
-                "error": true, 
+                "error": false, 
                 "item_id": "1012"
             }
         }, 
@@ -9041,8 +9041,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.014858, 
+                    32.170631
                 ]
             }, 
             "type": "Feature", 
@@ -9051,7 +9051,7 @@ var stations={
                 "phone": "09-7949200", 
                 "address": "אלפי מנשה מ. מסחרי לב הישוב ", 
                 "operator": "קופת חולים מכבי", 
-                "error": true, 
+                "error": false, 
                 "item_id": "1047"
             }
         }, 
@@ -9131,8 +9131,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.1872407, 
+                    32.1047166
                 ]
             }, 
             "type": "Feature", 
@@ -9141,7 +9141,7 @@ var stations={
                 "phone": "03-9065050", 
                 "address": "אריאל הערבה  1", 
                 "operator": "קופת חולים מכבי", 
-                "error": true, 
+                "error": false, 
                 "item_id": "1048"
             }
         }, 
@@ -9419,8 +9419,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.0395835, 
+                    31.930997
                 ]
             }, 
             "type": "Feature", 
@@ -9429,7 +9429,7 @@ var stations={
                 "phone": "08-9144321", 
                 "address": "מודיעין עילית קרית ספר אבני נזר  46", 
                 "operator": "קופת חולים מאוחדת", 
-                "error": true, 
+                "error": false, 
                 "item_id": "690"
             }
         }, 
@@ -9491,8 +9491,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.260324, 
+                    31.955101
                 ]
             }, 
             "type": "Feature", 
@@ -9501,7 +9501,7 @@ var stations={
                 "phone": "02-9973124", 
                 "address": "עפרה ד.נ מזרח בנימין ", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "694"
             }
         }, 
@@ -9797,8 +9797,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.273201, 
+                    32.20439
                 ]
             }, 
             "type": "Feature", 
@@ -9807,7 +9807,7 @@ var stations={
                 "phone": "02-9974276", 
                 "address": "הר ברכה ד.נ. הר ברכה ", 
                 "operator": "לאומית שרותי בריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "995"
             }
         }, 
@@ -9869,8 +9869,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.1704875, 
+                    32.1040989
                 ]
             }, 
             "type": "Feature", 
@@ -9879,7 +9879,7 @@ var stations={
                 "phone": "03-9065800", 
                 "address": "אריאל נחשונים 41", 
                 "operator": "לאומית שרותי בריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "991"
             }
         }, 
@@ -9905,8 +9905,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.0869011, 
+                    32.171415
                 ]
             }, 
             "type": "Feature", 
@@ -9915,7 +9915,7 @@ var stations={
                 "phone": "09-7920345", 
                 "address": "גינות שומרון האלון  5", 
                 "operator": "לאומית שרותי בריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "993"
             }
         }, 
@@ -9941,8 +9941,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.189187, 
+                    31.738445
                 ]
             }, 
             "type": "Feature", 
@@ -9951,7 +9951,7 @@ var stations={
                 "phone": "02-9975726", 
                 "address": "יצהר ד.נ. אפרים ", 
                 "operator": "לאומית שרותי בריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "999"
             }
         }, 
@@ -10157,8 +10157,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.128276, 
+                    31.652095
                 ]
             }, 
             "type": "Feature", 
@@ -10167,7 +10167,7 @@ var stations={
                 "phone": "02-9939775", 
                 "address": "אלון שבות מגיני הגוש ", 
                 "operator": "קופת חולים מאוחדת", 
-                "error": true, 
+                "error": false, 
                 "item_id": "1011"
             }
         }, 
@@ -10229,8 +10229,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.686225, 
+                    32.9928237
                 ]
             }, 
             "type": "Feature", 
@@ -10239,7 +10239,7 @@ var stations={
                 "phone": "04-6962819", 
                 "address": "קצרין המשושים 26", 
                 "operator": "משרד הבריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "417"
             }
         }, 
@@ -11327,8 +11327,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.010681, 
+                    32.171995
                 ]
             }, 
             "type": "Feature", 
@@ -11337,7 +11337,7 @@ var stations={
                 "phone": "04-6793879", 
                 "address": "ארבל ד.נ גליל תחתון ", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "783"
             }
         }, 
@@ -11417,8 +11417,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.167252, 
+                    31.861189
                 ]
             }, 
             "type": "Feature", 
@@ -11427,7 +11427,7 @@ var stations={
                 "phone": "02-5360400", 
                 "address": "גבעת זאב הארי פינת האיילות 2", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "578"
             }
         }, 
@@ -11633,8 +11633,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.698964, 
+                    32.870378
                 ]
             }, 
             "type": "Feature", 
@@ -11643,7 +11643,7 @@ var stations={
                 "phone": "04-6733676", 
                 "address": "כנף כנף ", 
                 "operator": "משרד הבריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "258"
             }
         }, 
@@ -11939,8 +11939,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.1077061, 
+                    31.7003726
                 ]
             }, 
             "type": "Feature", 
@@ -11949,7 +11949,7 @@ var stations={
                 "phone": "02-5725480", 
                 "address": "ביתר עילית ישמח ישראל 1", 
                 "operator": "קופת חולים מכבי", 
-                "error": true, 
+                "error": false, 
                 "item_id": "730"
             }
         }, 
@@ -12353,8 +12353,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.2248108, 
+                    31.7947762
                 ]
             }, 
             "type": "Feature", 
@@ -12363,7 +12363,7 @@ var stations={
                 "phone": "02-5812463", 
                 "address": "ירושלים  קרל נטר   42", 
                 "operator": "עיריית ירושלים", 
-                "error": true, 
+                "error": false, 
                 "item_id": "464"
             }
         }, 
@@ -12497,8 +12497,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.302293, 
+                    31.773858
                 ]
             }, 
             "type": "Feature", 
@@ -12507,7 +12507,7 @@ var stations={
                 "phone": "02-5352848", 
                 "address": "מעלה אדומים כיכר קדם  ", 
                 "operator": "משרד הבריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "169"
             }
         }, 
@@ -12515,8 +12515,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.1123958, 
+                    31.6934771
                 ]
             }, 
             "type": "Feature", 
@@ -12525,7 +12525,7 @@ var stations={
                 "phone": "02-5800106", 
                 "address": "ביתר הבאבא סאלי   10", 
                 "operator": "משרד הבריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "165"
             }
         }, 
@@ -12803,8 +12803,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.222734, 
+                    31.94159999999999
                 ]
             }, 
             "type": "Feature", 
@@ -12813,7 +12813,7 @@ var stations={
                 "phone": "02-9973329", 
                 "address": "בית אל ד.נ. מזרח בנימין ", 
                 "operator": "לאומית שרותי בריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "969"
             }
         }, 
@@ -12983,8 +12983,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.689865, 
+                    32.990998
                 ]
             }, 
             "type": "Feature", 
@@ -12993,7 +12993,7 @@ var stations={
                 "phone": "04-6961510", 
                 "address": "קצרין מרכז קצרין ת.ד 55 ", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "874"
             }
         }, 
@@ -13019,8 +13019,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.697686, 
+                    33.028822
                 ]
             }, 
             "type": "Feature", 
@@ -13029,7 +13029,7 @@ var stations={
                 "phone": "04-6963258", 
                 "address": "קדמת צבי קדמת צבי ", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "872"
             }
         }, 
@@ -13181,8 +13181,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.328579, 
+                    32.230997
                 ]
             }, 
             "type": "Feature", 
@@ -13191,7 +13191,7 @@ var stations={
                 "phone": "02-9973779", 
                 "address": "אלון מורה אילון מורה ", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "896"
             }
         }, 
@@ -13217,8 +13217,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.0140438, 
+                    32.1707223
                 ]
             }, 
             "type": "Feature", 
@@ -13227,7 +13227,7 @@ var stations={
                 "phone": "09-7925227", 
                 "address": "אלפי מנשה הגלבוע  118", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "898"
             }
         }, 
@@ -13469,8 +13469,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.68225899999999, 
+                    32.995436
                 ]
             }, 
             "type": "Feature", 
@@ -13479,7 +13479,7 @@ var stations={
                 "phone": "04-6798866", 
                 "address": "גנוסר  ", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "802"
             }
         }, 
@@ -13937,8 +13937,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.600764, 
+                    33.006966
                 ]
             }, 
             "type": "Feature", 
@@ -13947,7 +13947,7 @@ var stations={
                 "phone": "08-9215479", 
                 "address": "עטרת ד.נ. מודיעין ", 
                 "operator": "לאומית שרותי בריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "1003"
             }
         }, 
@@ -14135,8 +14135,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.133598, 
+                    31.825121
                 ]
             }, 
             "type": "Feature", 
@@ -14145,7 +14145,7 @@ var stations={
                 "phone": "02-5706444", 
                 "address": "הר אדר האלון  239", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "679"
             }
         }, 
@@ -14153,8 +14153,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.1217429, 
+                    31.6974448
                 ]
             }, 
             "type": "Feature", 
@@ -14163,7 +14163,7 @@ var stations={
                 "phone": "02-5887555", 
                 "address": "ביתר רבי עקיבא  5", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "674"
             }
         }, 
@@ -14207,8 +14207,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.1676988, 
+                    31.8643615
                 ]
             }, 
             "type": "Feature", 
@@ -14217,7 +14217,7 @@ var stations={
                 "phone": "02-5360444", 
                 "address": "גבעת זאב  המכבים  48", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "677"
             }
         }, 
@@ -14963,8 +14963,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.239359, 
+                    31.8802223
                 ]
             }, 
             "type": "Feature", 
@@ -14973,7 +14973,7 @@ var stations={
                 "phone": "02-9709456", 
                 "address": "תל ציון אהבת אמת  19/8", 
                 "operator": "לאומית שרותי בריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "983"
             }
         }, 
@@ -14981,8 +14981,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.0409758, 
+                    31.9321781
                 ]
             }, 
             "type": "Feature", 
@@ -14991,7 +14991,7 @@ var stations={
                 "phone": "08-9740960", 
                 "address": "קרית ספר שדה חמד  32", 
                 "operator": "לאומית שרותי בריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "980"
             }
         }, 
@@ -15017,8 +15017,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.6870922, 
+                    32.9935164
                 ]
             }, 
             "type": "Feature", 
@@ -15027,7 +15027,7 @@ var stations={
                 "phone": "04-6961354", 
                 "address": "קצרין אודם  7", 
                 "operator": "לאומית שרותי בריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "986"
             }
         }, 
@@ -15917,8 +15917,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.685034, 
+                    32.991494
                 ]
             }, 
             "type": "Feature", 
@@ -15927,7 +15927,7 @@ var stations={
                 "phone": "04-6868312", 
                 "address": "יראון ד.נ מרום הגליל ", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "821"
             }
         }, 
@@ -16115,8 +16115,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    34.99081, 
+                    32.131924
                 ]
             }, 
             "type": "Feature", 
@@ -16125,7 +16125,7 @@ var stations={
                 "phone": "03-7214100", 
                 "address": "אורנית מרכז מסחרי  1", 
                 "operator": "קופת חולים מכבי", 
-                "error": true, 
+                "error": false, 
                 "item_id": "1046"
             }
         }, 
@@ -16169,8 +16169,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.1760166, 
+                    32.104813
                 ]
             }, 
             "type": "Feature", 
@@ -16179,7 +16179,7 @@ var stations={
                 "phone": "03-9366558", 
                 "address": "אריאל אורי בר און   4", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "750"
             }
         }, 
@@ -16583,8 +16583,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.2403211, 
+                    31.8800034
                 ]
             }, 
             "type": "Feature", 
@@ -16593,7 +16593,7 @@ var stations={
                 "phone": "02-9971360", 
                 "address": "תל ציון אהבת ישראל  2", 
                 "operator": "קופת חולים מאוחדת", 
-                "error": true, 
+                "error": false, 
                 "item_id": "1027"
             }
         }, 
@@ -16601,8 +16601,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.395409, 
+                    31.815688
                 ]
             }, 
             "type": "Feature", 
@@ -16611,7 +16611,7 @@ var stations={
                 "phone": "02-5906330", 
                 "address": "מצפה יריחו ד.נ. ערבות הירדן ", 
                 "operator": "קופת חולים מאוחדת", 
-                "error": true, 
+                "error": false, 
                 "item_id": "1026"
             }
         }, 
@@ -16781,8 +16781,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.0386318, 
+                    31.9397853
                 ]
             }, 
             "type": "Feature", 
@@ -16791,7 +16791,7 @@ var stations={
                 "phone": "08-9741988", 
                 "address": "מודיעין עילית רבי עקיבא   3", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "724"
             }
         }, 
@@ -16835,8 +16835,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.034977, 
+                    31.849598
                 ]
             }, 
             "type": "Feature", 
@@ -16845,7 +16845,7 @@ var stations={
                 "phone": "08-9726782", 
                 "address": "מבוא חורון ד.נ שמשון ", 
                 "operator": "קופת חולים כללית", 
-                "error": true, 
+                "error": false, 
                 "item_id": "723"
             }
         }, 
@@ -17159,8 +17159,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.306382, 
+                    31.878383
                 ]
             }, 
             "type": "Feature", 
@@ -17169,7 +17169,7 @@ var stations={
                 "phone": "02-5352851", 
                 "address": "מכמש ד.נ. מזרח בנימין ", 
                 "operator": "לאומית שרותי בריאות", 
-                "error": true, 
+                "error": false, 
                 "item_id": "976"
             }
         }, 
@@ -17465,8 +17465,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.197572, 
+                    31.810772
                 ]
             }, 
             "type": "Feature", 
@@ -17475,7 +17475,7 @@ var stations={
                 "phone": "02-5484222", 
                 "address": "ירושלים ראובן מס  131/25", 
                 "operator": "עיריית ירושלים", 
-                "error": true, 
+                "error": false, 
                 "item_id": "489"
             }
         }, 
@@ -17519,8 +17519,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.220135, 
+                    31.8084221
                 ]
             }, 
             "type": "Feature", 
@@ -17529,7 +17529,7 @@ var stations={
                 "phone": "02-5489555", 
                 "address": "ירושלים חזון איש  33", 
                 "operator": "עיריית ירושלים", 
-                "error": true, 
+                "error": false, 
                 "item_id": "486"
             }
         }, 
@@ -17717,8 +17717,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.2406546, 
+                    31.8419433
                 ]
             }, 
             "type": "Feature", 
@@ -17727,7 +17727,7 @@ var stations={
                 "phone": "02-5833625", 
                 "address": "ירושלים  לאה גולדברג  3", 
                 "operator": "עיריית ירושלים", 
-                "error": true, 
+                "error": false, 
                 "item_id": "477"
             }
         }, 
@@ -17771,8 +17771,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.1998105, 
+                    31.7338971
                 ]
             }, 
             "type": "Feature", 
@@ -17781,7 +17781,7 @@ var stations={
                 "phone": "02-6465111", 
                 "address": "ירושלים  המור  3", 
                 "operator": "עיריית ירושלים", 
-                "error": true, 
+                "error": false, 
                 "item_id": "478"
             }
         }, 
@@ -17789,8 +17789,8 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    0, 
-                    0
+                    35.238738, 
+                    31.7500586
                 ]
             }, 
             "type": "Feature", 
@@ -17799,7 +17799,7 @@ var stations={
                 "phone": "02-6716575", 
                 "address": "ירושלים  יעקב וייס  4", 
                 "operator": "עיריית ירושלים", 
-                "error": true, 
+                "error": false, 
                 "item_id": "479"
             }
         }

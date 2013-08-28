@@ -5,8 +5,8 @@ import requests
 import json
 import codecs
 
-OUTPUT_FILE = 'data/all_stations.geojson'
-ERROR_FILE = 'data/errors.txt'
+OUTPUT_FILENAME = 'data/all_stations'
+
 
 with open('data/milkdrop.json') as json_data:
     data = json.load(json_data, encoding="utf-8")
@@ -34,7 +34,10 @@ def locate_with_google(addr):
     res = j['results'][0]
     country = res['address_components'].pop()
     country_options = ["Israel", "israel", "Palestine", "palestine", "Palestinian Authority", "Palestinian National Authority"]
-    if country['long_name'] not in country_options:
+
+    # turns out that places like Kiryat Arba just don't have a country address (ie neither Israel/Palestine)
+    # so if the location doesn't have a country assume it's in the west bank
+    if 'country' in country['types'] and country['long_name'] not in country_options:
         return False
 
     return res['geometry']['location']
@@ -66,15 +69,15 @@ if __name__ == "__main__":
               "type": "Feature",
               "geometry": {
                 "type": "Point",
-                "coordinates": [loc['lng'], loc['lat']]
+                "coordinates": [ loc['lng'], loc['lat'] ]
               },
               "properties": {
                 "item_id": i,
                 "name": item['ThanaName'],
                 "address": unicode(addr),
                 "operator": item['Aharait'],
-                "phone": item['tel1'],
-                "error": error
+                "phone" : item['tel1'],
+                "error" : error
               }
             }
         )
@@ -82,6 +85,17 @@ if __name__ == "__main__":
         ctr += 1
         # if ctr > 1: break
 
-    f = codecs.open(OUTPUT_FILE, 'wb', 'utf-8')
-    f.write(json.dumps(geojson, indent=4, ensure_ascii=False))
+    output = json.dumps(geojson, indent=4, ensure_ascii=False)
+
+    # clean geoJSON
+    f = codecs.open(OUTPUT_FILENAME + '.geojson', 'wb', 'utf-8')
+    f.write(output)
     f.close()
+
+
+    # make it JS so it can be included in index.html
+    output = "var stations=" + output
+    f = codecs.open(OUTPUT_FILENAME + '.js', 'wb', 'utf-8')
+    f.write(output)
+    f.close()
+
