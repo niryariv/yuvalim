@@ -11,10 +11,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05db\u05d5 \u05dc\u05d0\u05d5\u05de\u05d9\u05ea", 
+                "name": "עכו לאומית", 
                 "phone": "04-9559405", 
-                "address": "\u05e2\u05db\u05d5 \u05dc\u05d5\u05d7\u05de\u05d9 \u05d4\u05d2\u05d9\u05d8\u05d0\u05d5\u05ea  23", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עכו לוחמי הגיטאות  23", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "344"
             }
@@ -29,10 +29,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05e8\u05d0\u05d1\u05d4 \u05d0'", 
+                "name": "עראבה א'", 
                 "phone": "04-6749852", 
-                "address": "\u05e2\u05e8\u05d0\u05d1\u05d4 \u05e2\u05e8\u05d0\u05d1\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עראבה עראבה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "345"
             }
@@ -47,10 +47,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05e8\u05d0\u05d1\u05d4 \u05d1'", 
+                "name": "עראבה ב'", 
                 "phone": "04-6743441", 
-                "address": "\u05e2\u05e8\u05d0\u05d1\u05d4 \u05e2\u05e8\u05d0\u05d1\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עראבה עראבה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "346"
             }
@@ -65,10 +65,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05e8\u05d0\u05d1\u05d4 \u05d2'", 
+                "name": "עראבה ג'", 
                 "phone": "04-6744184", 
-                "address": "\u05e2\u05e8\u05d0\u05d1\u05d4 \u05e2\u05e8\u05d0\u05d1\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עראבה עראבה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "347"
             }
@@ -83,10 +83,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e1\u05d7\u05e0\u05d9\u05df \u05d3'", 
+                "name": "סחנין ד'", 
                 "phone": "04-6746151", 
-                "address": "\u05e1\u05d7\u05e0\u05d9\u05df \u05e1\u05d7\u05e0\u05d9\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "סחנין סחנין ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "340"
             }
@@ -101,10 +101,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e1\u05de\u05d9\u05e2", 
+                "name": "סמיע", 
                 "phone": "04-9979869", 
-                "address": "\u05e1\u05de\u05d9\u05e2 \u05e1\u05de\u05d9\u05e2 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "סמיע סמיע ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "341"
             }
@@ -119,10 +119,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d1\u05dc\u05d9\u05df \u05d0", 
+                "name": "עבלין א", 
                 "phone": "04-9866024", 
-                "address": "\u05e2\u05d1\u05dc\u05d9\u05df \u05e2\u05d1\u05dc\u05d9\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עבלין עבלין ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "342"
             }
@@ -137,10 +137,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d1\u05dc\u05d9\u05df \u05d1'", 
+                "name": "עבלין ב'", 
                 "phone": "04-9502339", 
-                "address": "\u05e2\u05d1\u05dc\u05d9\u05df \u05e2\u05d1\u05dc\u05d9\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עבלין עבלין ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "343"
             }
@@ -155,10 +155,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e1\u05d5\u05dc\u05dc\u05d9\u05dd", 
+                "name": "הסוללים", 
                 "phone": "04-6406511", 
-                "address": "\u05d4\u05e1\u05d5\u05dc\u05dc\u05d9\u05dd  ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "הסוללים  ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "810"
             }
@@ -173,10 +173,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05d9\u05e1\u05e4\u05d9\u05df", 
+                "name": "חיספין", 
                 "phone": "04-6763170", 
-                "address": "\u05d7\u05d9\u05e1\u05e4\u05d9\u05df \u05d7\u05d9\u05e1\u05e4\u05d9\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "חיספין חיספין ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "813"
             }
@@ -191,10 +191,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05e8\u05d0\u05d1\u05d4 \u05d3'", 
+                "name": "עראבה ד'", 
                 "phone": "04-6742650", 
-                "address": "\u05e2\u05e8\u05d0\u05d1\u05d4 \u05e2\u05e8\u05d0\u05d1\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עראבה עראבה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "348"
             }
@@ -209,10 +209,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d3\u05d4 \u05d1\u05d5\u05e7\u05e8 \u05de\u05d3\u05e8\u05e9\u05d4", 
+                "name": "שדה בוקר מדרשה", 
                 "phone": "08-6532837", 
-                "address": "\u05d3.\u05e0. \u05e8\u05de\u05ea \u05d4\u05e0\u05d2\u05d1 \u05e9\u05d3\u05d4 \u05d1\u05d5\u05e7\u05e8 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ד.נ. רמת הנגב שדה בוקר ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "349"
             }
@@ -227,10 +227,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05d9\u05e8\u05ea \u05e6\u05d1\u05d9", 
+                "name": "טירת צבי", 
                 "phone": "04-6078923", 
-                "address": "\u05d8\u05d9\u05e8\u05ea \u05e6\u05d1\u05d9 \u05d3.\u05e0 \u05d1\u05d9\u05ea \u05e9\u05d0\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "טירת צבי ד.נ בית שאן ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "816"
             }
@@ -245,10 +245,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05d5\u05e0\u05ea\u05df", 
+                "name": "יונתן", 
                 "phone": "04-6960356", 
-                "address": "\u05d9\u05d5\u05e0\u05ea\u05df \u05d3.\u05e0 \u05e8\u05de\u05ea \u05d4\u05d2\u05d5\u05dc\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "יונתן ד.נ רמת הגולן ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "817"
             }
@@ -263,10 +263,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d5\u05d0\u05d1\u05d4", 
+                "name": "שואבה", 
                 "phone": "02-9941169", 
-                "address": "\u05e9\u05d5\u05d0\u05d1\u05d4 \u05d3.\u05e0. \u05d9\u05d4\u05d5\u05d3\u05d4 90855 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שואבה ד.נ. יהודה 90855 ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "595"
             }
@@ -281,10 +281,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05d1\u05d5\u05e6\u05ea \u05d9\u05d1\u05e0\u05d4", 
+                "name": "קבוצת יבנה", 
                 "phone": "08-8548391", 
-                "address": "\u05d9\u05d1\u05e0\u05d4 \u05d3.\u05e0 \u05d0\u05d1\u05d8\u05d7 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "יבנה ד.נ אבטח ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "719"
             }
@@ -299,10 +299,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d0\u05d5\u05ea \u05d0\u05e9\u05db\u05d5\u05dc", 
+                "name": "נאות אשכול", 
                 "phone": "08-9436565", 
-                "address": "\u05d9\u05d1\u05e0\u05d4 \u05d0\u05d1\u05d5 \u05d7\u05e6\u05d9\u05e8\u05d4   1", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "יבנה אבו חצירה   1", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "718"
             }
@@ -317,10 +317,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05d3\u05e7\u05dc", 
+                "name": "הדקל", 
                 "phone": "08-9437528", 
-                "address": "\u05d9\u05d1\u05e0\u05d4 \u05d3\u05e7\u05dc   6", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "יבנה דקל   6", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "717"
             }
@@ -335,10 +335,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05dc \u05e9\u05d7\u05e8", 
+                "name": "טל שחר", 
                 "phone": "08-9348770", 
-                "address": "\u05d8\u05dc \u05e9\u05d7\u05e8 \u05d3.\u05e0 \u05e2\u05de\u05e7 \u05e9\u05d5\u05e8\u05e7 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "טל שחר ד.נ עמק שורק ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "716"
             }
@@ -353,10 +353,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05e7\u05e3", 
+                "name": "שקף", 
                 "phone": "050-8806322", 
-                "address": "\u05e9\u05e7\u05e3 \u05de\u05d5\u05e9\u05d1 \u05e9\u05e7\u05e3 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "שקף מושב שקף ", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "715"
             }
@@ -371,10 +371,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d3\u05d4 \u05d1\u05d5\u05e7\u05e8  ", 
+                "name": "שדה בוקר  ", 
                 "phone": "08-6261450", 
-                "address": "\u05e9\u05d3\u05d4 \u05d1\u05d5\u05e7\u05e8  \u05de\u05db\u05dc\u05dc\u05ea \u05d1\u05df \u05d2\u05d5\u05e8\u05d9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "שדה בוקר  מכללת בן גוריון ", 
+                "operator": "קופת חולים מכבי", 
                 "error": true, 
                 "item_id": "714"
             }
@@ -389,10 +389,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05e4\u05df", 
+                "name": "גפן", 
                 "phone": "08-8503184", 
-                "address": "\u05d2\u05e4\u05df \u05d3.\u05e0 \u05d4\u05d0\u05dc\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גפן ד.נ האלה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "713"
             }
@@ -407,10 +407,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05df \u05d9\u05d1\u05e0\u05d4", 
+                "name": "גן יבנה", 
                 "phone": "08-8574131", 
-                "address": "\u05d2\u05df \u05d9\u05d1\u05e0\u05d4 \u05d4\u05e8\u05e6\u05dc  41", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גן יבנה הרצל  41", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "712"
             }
@@ -425,10 +425,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d3\u05e8\u05d4", 
+                "name": "גדרה", 
                 "phone": "08-8593322", 
-                "address": "\u05d2\u05d3\u05e8\u05d4 \u05d5\u05d9\u05e6\u05de\u05df  8", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גדרה ויצמן  8", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "711"
             }
@@ -443,10 +443,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d1\u05e2\u05ea \u05d1\u05e8\u05e0\u05e8", 
+                "name": "גבעת ברנר", 
                 "phone": "08-9443555", 
-                "address": "\u05d2\u05d1\u05e2\u05ea \u05d1\u05e8\u05e0\u05e8 \u05e7\u05d9\u05d1\u05d5\u05e5 \u05d2\u05d1\u05e2\u05ea \u05d1\u05e8\u05e0\u05e8 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גבעת ברנר קיבוץ גבעת ברנר ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "710"
             }
@@ -461,10 +461,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05d9\u05e8\u05d4 \u05e6\u05e4\u05d5\u05df", 
+                "name": "טירה צפון", 
                 "phone": "09-7930594", 
-                "address": "\u05d8\u05d9\u05e8\u05d4 \u05d8\u05d9\u05e8\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "טירה טירה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "915"
             }
@@ -479,10 +479,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05e8\u05d5\u05e6\u05d9\u05dd-\u05d1\u05e6\u05e8\u05d4", 
+                "name": "חרוצים-בצרה", 
                 "phone": "09-7484634", 
-                "address": "\u05d7\u05e8\u05d5\u05e6\u05d9\u05dd-\u05d1\u05e6\u05e8\u05d4 \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d4\u05e9\u05e8\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "חרוצים-בצרה ד.נ חוף השרון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "914"
             }
@@ -497,10 +497,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05d7\u05d5\u05ea\u05e8\u05d9\u05dd", 
+                "name": "החותרים", 
                 "phone": "04-8571610", 
-                "address": "\u05d4\u05d7\u05d5\u05ea\u05e8\u05d9\u05dd \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "החותרים ד.נ חוף הכרמל ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "606"
             }
@@ -515,10 +515,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d5\u05e1\u05ea\u05df \u05d4\u05d2\u05dc\u05d9\u05dc", 
+                "name": "בוסתן הגליל", 
                 "phone": "04-9819411", 
-                "address": "\u05d1\u05d5\u05e1\u05ea\u05df \u05d4\u05d2\u05dc\u05d9\u05dc \u05d3.\u05e0 \u05d0\u05d5\u05e9\u05e8\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "בוסתן הגליל ד.נ אושרת ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "594"
             }
@@ -533,10 +533,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05e1\u05e4\u05e8", 
+                "name": "קרית ספר", 
                 "phone": "08-9740318", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05e1\u05e4\u05e8 \u05de\u05e1\u05d9\u05dc\u05ea \u05d9\u05d5\u05e1\u05e3  \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05e2\u05d9\u05dc\u05d9\u05ea 34", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "קרית ספר מסילת יוסף  מודיעין עילית 34", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "736"
             }
@@ -551,10 +551,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e4\u05e1\u05d2\u05ea \u05d6\u05d0\u05d1", 
+                "name": "פסגת זאב", 
                 "phone": "02-5940482", 
-                "address": "\u05e4\u05e1\u05d2\u05ea \u05d6\u05d0\u05d1 \u05d7\u05d9\u05d9\u05dd \u05ea\u05d5\u05e8\u05df   45", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "פסגת זאב חיים תורן   45", 
+                "operator": "קופת חולים מכבי", 
                 "error": true, 
                 "item_id": "1061"
             }
@@ -569,10 +569,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05de\u05e2\u05e4\u05d9\u05dc", 
+                "name": "המעפיל", 
                 "phone": "04-6367009", 
-                "address": "\u05d4\u05de\u05e2\u05e4\u05d9\u05dc \u05d3.\u05e0 \u05e2\u05de\u05e7 \u05d7\u05e4\u05e8 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "המעפיל ד.נ עמק חפר ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "911"
             }
@@ -587,10 +587,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05e1\u05e4\u05e8 \u05d2\u05d1\u05e2\u05d4 \u05d3\u05e8\u05d5\u05de\u05d9\u05ea", 
+                "name": "קריית ספר גבעה דרומית", 
                 "phone": "08-9142000", 
-                "address": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05e2\u05d9\u05dc\u05d9\u05ea \u05e7\u05e8\u05d9\u05ea \u05e1\u05e4\u05e8 \u05e0\u05ea\u05d5\u05d1\u05d5\u05ea \u05d4\u05de\u05e9\u05e4\u05d8 90", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "מודיעין עילית קרית ספר נתובות המשפט 90", 
+                "operator": "קופת חולים מכבי", 
                 "error": true, 
                 "item_id": "1062"
             }
@@ -605,10 +605,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d1\u05e2\u05ea\u05d9\u05d9\u05dd", 
+                "name": "גבעתיים", 
                 "phone": "03-5734620", 
-                "address": "\u05d2\u05d1\u05e2\u05ea\u05d9\u05dd \u05d1\u05df \u05d2\u05d5\u05e8\u05d9\u05d5\u05df  182", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "גבעתים בן גוריון  182", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "1065"
             }
@@ -623,10 +623,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d5\u05e8 \u05d9\u05d4\u05d5\u05d3\u05d4", 
+                "name": "אור יהודה", 
                 "phone": "03-5387222", 
-                "address": "\u05d0\u05d5\u05e8 \u05d9\u05d4\u05d5\u05d3\u05d4 \u05d0\u05d5\u05e4\u05d9\u05e8\u05d4  1", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "אור יהודה אופירה  1", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "1064"
             }
@@ -641,10 +641,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e8\u05de\u05d9\u05d0\u05dc \u05e8\u05de\u05ea \u05e8\u05d1\u05d9\u05df", 
+                "name": "כרמיאל רמת רבין", 
                 "phone": "04-9589170", 
-                "address": "\u05db\u05e8\u05de\u05d9\u05d0\u05dc \u05d7\u05d8\u05d9\u05d1\u05ea \u05d2\u05d1\u05e2\u05ea\u05d9  27", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כרמיאל חטיבת גבעתי  27", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "619"
             }
@@ -659,10 +659,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05e2\u05e9", 
+                "name": "געש", 
                 "phone": "09-9521152", 
-                "address": "\u05d2\u05e2\u05e9 \u05e7\u05d9\u05d1\u05d5\u05e5 \u05d2\u05e2\u05e9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "געש קיבוץ געש ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "910"
             }
@@ -677,10 +677,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea \u05d2'\u05d0\u05df \u05d1'", 
+                "name": "בית ג'אן ב'", 
                 "phone": "04-9803281", 
-                "address": "\u05d1\u05d9\u05ea \u05d2'\u05d0\u05df \u05d1\u05d9\u05ea \u05d2'\u05d0\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בית ג'אן בית ג'אן ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "298"
             }
@@ -695,10 +695,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05e2\u05e0\u05d4", 
+                "name": "בענה", 
                 "phone": "04-9988464", 
-                "address": "\u05d1\u05e2\u05e0\u05d4 \u05d1\u05e2\u05e0\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בענה בענה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "299"
             }
@@ -713,10 +713,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05e8 \u05d0\u05dc \u05de\u05e7\u05e1\u05d5\u05e8", 
+                "name": "ביר אל מקסור", 
                 "phone": "04-9866202", 
-                "address": "\u05d1\u05d9\u05e8 \u05d0\u05dc-\u05de\u05e7\u05e1\u05d5\u05e8 \u05d1\u05d9\u05e8 \u05d0\u05dc \u05de\u05e7\u05e1\u05d5\u05e8 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ביר אל-מקסור ביר אל מקסור ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "296"
             }
@@ -731,10 +731,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea \u05d2'\u05d0\u05df \u05d0\u05d9+\u05d2'", 
+                "name": "בית ג'אן אי+ג'", 
                 "phone": "04-9802932", 
-                "address": "\u05d1\u05d9\u05ea \u05d2'\u05d0\u05df \u05d1\u05d9\u05ea \u05d2'\u05d0\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בית ג'אן בית ג'אן ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "297"
             }
@@ -749,10 +749,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d1\u05d5 \u05e1\u05e0\u05d0\u05df \u05d3", 
+                "name": "אבו סנאן ד", 
                 "phone": "04-9966757", 
-                "address": "\u05d0\u05d1\u05d5 \u05e1\u05e0\u05d0\u05df \u05d0\u05d1\u05d5 \u05e1\u05e0\u05d0\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אבו סנאן אבו סנאן ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "294"
             }
@@ -767,10 +767,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05e8 \u05d0\u05dc \u05de\u05e7\u05e1\u05d5\u05e8 \u05de\u05e7\u05de\u05df", 
+                "name": "ביר אל מקסור מקמן", 
                 "phone": "04-9502842", 
-                "address": "\u05d1\u05d9\u05e8 \u05d0\u05dc-\u05de\u05e7\u05e1\u05d5\u05e8 \u05d1\u05d9\u05e8 \u05d0\u05dc \u05de\u05e7\u05e1\u05d5\u05e8 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ביר אל-מקסור ביר אל מקסור ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "295"
             }
@@ -785,10 +785,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d1\u05d5 \u05e1\u05e0\u05d0\u05df \u05d0", 
+                "name": "אבו סנאן א", 
                 "phone": "04-9965339", 
-                "address": "\u05d0\u05d1\u05d5 \u05e1\u05e0\u05d0\u05df \u05d0\u05d1\u05d5 \u05e1\u05e0\u05d0\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אבו סנאן אבו סנאן ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "292"
             }
@@ -803,10 +803,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d1\u05d5 \u05e1\u05e0\u05d0\u05df \u05d2", 
+                "name": "אבו סנאן ג", 
                 "phone": "04-9964520", 
-                "address": "\u05d0\u05d1\u05d5 \u05e1\u05e0\u05d0\u05df \u05d0\u05d1\u05d5 \u05e1\u05e0\u05d0\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אבו סנאן אבו סנאן ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "293"
             }
@@ -821,10 +821,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05d9\u05d9\u05e0\u05d4 \u05d1'", 
+                "name": "ריינה ב'", 
                 "phone": "04-6470645", 
-                "address": "\u05e8\u05d9\u05d9\u05e0\u05d4 \u05e8\u05d9\u05d9\u05e0\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ריינה ריינה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "290"
             }
@@ -839,10 +839,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05d9\u05d9\u05e0\u05d4 \u05d2'", 
+                "name": "ריינה ג'", 
                 "phone": "04-6469005", 
-                "address": "\u05e8\u05d9\u05d9\u05e0\u05d4 \u05e8\u05d9\u05d9\u05e0\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ריינה ריינה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "291"
             }
@@ -857,10 +857,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d9\u05dc\u05d5\u05df", 
+                "name": "אילון", 
                 "phone": "04-9858222", 
-                "address": "\u05d0\u05d9\u05dc\u05d5\u05df \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05de\u05e2\u05e8\u05d1\u05d9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אילון ד.נ גליל מערבי ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "591"
             }
@@ -875,10 +875,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d9\u05d1\u05d8\u05d9\u05df", 
+                "name": "איבטין", 
                 "phone": "04-8870530", 
-                "address": "\u05d0\u05d9\u05d1\u05d8\u05d9\u05df \u05d0\u05d9\u05d1\u05d8\u05d9\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "איבטין איבטין ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "590"
             }
@@ -893,10 +893,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e4\u05e7", 
+                "name": "אפק", 
                 "phone": "04-8784088", 
-                "address": "\u05d0\u05e4\u05e7 \u05d3.\u05e0 \u05d0\u05e4\u05e7 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אפק ד.נ אפק ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "593"
             }
@@ -911,10 +911,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc\u05e7\u05d5\u05e9", 
+                "name": "אלקוש", 
                 "phone": "04-9870449", 
-                "address": "\u05d0\u05dc\u05e7\u05d5\u05e9 \u05d3.\u05e0 \u05de\u05e2\u05dc\u05d4 \u05d4\u05d2\u05dc\u05d9\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אלקוש ד.נ מעלה הגליל ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "592"
             }
@@ -929,10 +929,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05d9\u05dc\u05d9\u05e1", 
+                "name": "בייליס", 
                 "phone": "03-9309614", 
-                "address": "\u05e4\u05ea\u05d7 \u05ea\u05e7\u05d5\u05d4 \u05d1\u05d9\u05d9\u05dc\u05d9\u05e1  14", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פתח תקוה בייליס  14", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "199"
             }
@@ -947,10 +947,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dd \u05d4\u05de\u05d5\u05e9\u05d1\u05d5\u05ea", 
+                "name": "אם המושבות", 
                 "phone": "03-9241885", 
-                "address": "\u05e4\u05ea\u05d7 \u05ea\u05e7\u05d5\u05d4 \u05e0\u05e1 \u05e6\u05d9\u05d5\u05e0\u05d4  5", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פתח תקוה נס ציונה  5", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "198"
             }
@@ -965,10 +965,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05df \u05e2\u05de\u05d9", 
+                "name": "בן עמי", 
                 "phone": "04-9823029", 
-                "address": "\u05d1\u05df \u05e2\u05de\u05d9 \u05d3.\u05e0 \u05d0\u05d5\u05e9\u05e8\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "בן עמי ד.נ אושרת ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "597"
             }
@@ -983,10 +983,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea \u05d4\u05e2\u05de\u05e7", 
+                "name": "בית העמק", 
                 "phone": "04-9960666", 
-                "address": "\u05d1\u05d9\u05ea \u05d4\u05e2\u05de\u05e7 \u05de\u05e2\u05dc\u05d4 \u05d4\u05d2\u05dc\u05d9\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "בית העמק מעלה הגליל ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "596"
             }
@@ -1001,10 +1001,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05e7\u05d0\u05e1\u05dd \u05d0'", 
+                "name": "כפר קאסם א'", 
                 "phone": "03-9071834", 
-                "address": "\u05db\u05e4\u05e8 \u05e7\u05d0\u05e1\u05dd \u05e1\u05d5\u05dc\u05d8\u05d0\u05e0\u05d9 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כפר קאסם סולטאני ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "195"
             }
@@ -1019,10 +1019,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05d1\u05e8\u05d0", 
+                "name": "כפר ברא", 
                 "phone": "03-9021271", 
-                "address": "\u05db\u05e4\u05e8 \u05d1\u05e8\u05d0 \u05e7\u05d5\u05d1\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כפר ברא קובה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "194"
             }
@@ -1037,10 +1037,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc \u05e2\u05de\u05dc", 
+                "name": "אל עמל", 
                 "phone": "03-9071591", 
-                "address": "\u05db\u05e4\u05e8 \u05e7\u05d0\u05e1\u05dd \u05d1\u05dc\u05d0\u05dc \u05d1\u05df \u05e8\u05d0\u05d1\u05d7 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כפר קאסם בלאל בן ראבח ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "197"
             }
@@ -1055,10 +1055,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d7\u05d3 \u05d4\u05e2\u05dd", 
+                "name": "אחד העם", 
                 "phone": "03-9315212", 
-                "address": "\u05e4\u05ea\u05d7 \u05ea\u05e7\u05d5\u05d4 \u05d0\u05d7\u05d3 \u05d4\u05e2\u05dd  33", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פתח תקוה אחד העם  33", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "196"
             }
@@ -1073,10 +1073,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2'\u05dc\u05d2'\u05d5\u05dc\u05d9\u05d4", 
+                "name": "ג'לג'וליה", 
                 "phone": "03-9396237", 
-                "address": "\u05d2'\u05dc\u05d2'\u05d5\u05dc\u05d9\u05d4 131 24", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ג'לג'וליה 131 24", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "191"
             }
@@ -1091,10 +1091,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc\u05e2\u05d3 \u05d1'", 
+                "name": "אלעד ב'", 
                 "phone": "03-9320759", 
-                "address": "\u05d0\u05dc\u05e2\u05d3 \u05e8\u05d1\u05d9 \u05de\u05d0\u05d9\u05e8   11", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אלעד רבי מאיר   11", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "190"
             }
@@ -1109,10 +1109,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05d5\u05d3 \u05d4\u05e9\u05e8\u05d5\u05df", 
+                "name": "הוד השרון", 
                 "phone": "09-7469266", 
-                "address": "\u05d4\u05d5\u05d3 \u05d4\u05e9\u05e8\u05d5\u05df \u05d4\u05d1\u05e0\u05d9\u05dd  14", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "הוד השרון הבנים  14", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "193"
             }
@@ -1127,10 +1127,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d1\u05e2\u05ea \u05e9\u05de\u05d5\u05d0\u05dc", 
+                "name": "גבעת שמואל", 
                 "phone": "03-5322664", 
-                "address": "\u05d2\u05d1\u05e2\u05ea \u05e9\u05de\u05d5\u05d0\u05dc \u05d3\u05d5\u05d3 \u05d0\u05dc\u05e2\u05d6\u05e8  6", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "גבעת שמואל דוד אלעזר  6", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "192"
             }
@@ -1145,10 +1145,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d5\u05d5\u05d4 \u05e2\u05d5\u05d1\u05d3", 
+                "name": "נווה עובד", 
                 "phone": "04-6752043", 
-                "address": "\u05e4\u05d5\u05e8\u05d9\u05d4 \u05e0\u05d5\u05d5\u05d4 \u05e2\u05d5\u05d1\u05d3 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פוריה נווה עובד ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "270"
             }
@@ -1163,10 +1163,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05d5\u05e8\u05e2\u05d0\u05df \u05d0'", 
+                "name": "טורעאן א'", 
                 "phone": "04-6517808", 
-                "address": "\u05d8\u05d5\u05e8\u05e2\u05d0\u05df \u05d8\u05d5\u05e8\u05e2\u05d0\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טורעאן טורעאן ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "271"
             }
@@ -1181,10 +1181,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05d5\u05e8\u05e2\u05d0\u05df \u05d1'", 
+                "name": "טורעאן ב'", 
                 "phone": "04-6411451", 
-                "address": "\u05d8\u05d5\u05e8\u05e2\u05d0\u05df \u05d8\u05d5\u05e8\u05e2\u05d0\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טורעאן טורעאן ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "272"
             }
@@ -1199,10 +1199,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05e4\u05d9\u05e2 \u05d0'", 
+                "name": "יפיע א'", 
                 "phone": "04-6011847", 
-                "address": "\u05d9\u05e4\u05d9\u05e2 \u05d9\u05e4\u05d9\u05e2 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "יפיע יפיע ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "273"
             }
@@ -1217,10 +1217,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05e4\u05d9\u05e2 \u05d1'", 
+                "name": "יפיע ב'", 
                 "phone": "04-6010959", 
-                "address": "\u05d9\u05e4\u05d9\u05e2 \u05d9\u05e4\u05d9\u05e2 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "יפיע יפיע ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "274"
             }
@@ -1235,10 +1235,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e0\u05d0 \u05d0'", 
+                "name": "כנא א'", 
                 "phone": "04-6517277", 
-                "address": "\u05db\u05e4\u05e8 \u05db\u05e0\u05d0 \u05db\u05e4\u05e8 \u05db\u05e0\u05d0 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כפר כנא כפר כנא ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "275"
             }
@@ -1253,10 +1253,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e0\u05d0 \u05d1'", 
+                "name": "כנא ב'", 
                 "phone": "04-6411782", 
-                "address": "\u05db\u05e4\u05e8 \u05db\u05e0\u05d0 \u05db\u05e4\u05e8 \u05db\u05e0\u05d0 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כפר כנא כפר כנא ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "276"
             }
@@ -1271,10 +1271,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e0\u05d0 \u05d2'", 
+                "name": "כנא ג'", 
                 "phone": "04-6419167", 
-                "address": "\u05db\u05e4\u05e8 \u05db\u05e0\u05d0 \u05db\u05e4\u05e8 \u05db\u05e0\u05d0 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כפר כנא כפר כנא ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "277"
             }
@@ -1289,10 +1289,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e9\u05d4\u05d3", 
+                "name": "משהד", 
                 "phone": "04-6519510", 
-                "address": "\u05de\u05e9\u05d4\u05d3 \u05db\u05e4\u05e8 \u05de\u05e9\u05d4\u05d3 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "משהד כפר משהד ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "278"
             }
@@ -1307,10 +1307,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05d7\u05e0\u05d4 \u05d1' \u05e0\u05e6\u05e8\u05ea", 
+                "name": "תחנה ב' נצרת", 
                 "phone": "04-6463991", 
-                "address": "\u05e0\u05e6\u05e8\u05ea \u05e9\u05db' \u05d4\u05e4\u05d5\u05e2\u05dc\u05d9\u05dd ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נצרת שכ' הפועלים ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "279"
             }
@@ -1325,10 +1325,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05d5\u05db\u05d1 \u05d9\u05d0\u05d9\u05e8-\u05e6\u05d5\u05e8 \u05d9\u05d2\u05d0\u05dc", 
+                "name": "כוכב יאיר-צור יגאל", 
                 "phone": "09-7494711", 
-                "address": "\u05db\u05d5\u05db\u05d1 \u05d9\u05d0\u05d9\u05e8 \u05d0.\u05ea. \u05de\u05e6\u05e4\u05d4 \u05e1\u05e4\u05d9\u05e8 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "כוכב יאיר א.ת. מצפה ספיר ", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "738"
             }
@@ -1343,10 +1343,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d5\u05d4\u05dd", 
+                "name": "שוהם", 
                 "phone": "03-9724417", 
-                "address": "\u05e9\u05d5\u05d4\u05dd \u05e9\u05d3' \u05e2\u05de\u05e7 \u05d0\u05d9\u05d9\u05dc\u05d5\u05df   30", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "שוהם שד' עמק איילון   30", 
+                "operator": "קופת חולים מכבי", 
                 "error": true, 
                 "item_id": "1067"
             }
@@ -1361,10 +1361,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05e8\u05d5\u05e8 \u05d7\u05d9\u05dc", 
+                "name": "ברור חיל", 
                 "phone": "08-6803661", 
-                "address": "\u05d1\u05e8\u05d5\u05e8 \u05d7\u05d9\u05dc \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d0\u05e9\u05e7\u05dc\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ברור חיל ד.נ חוף אשקלון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "524"
             }
@@ -1379,10 +1379,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d1\u05d9\u05dd", 
+                "name": "גבים", 
                 "phone": "08-6802100", 
-                "address": "\u05d2\u05d1\u05d9\u05dd \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d0\u05e9\u05e7\u05dc\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גבים ד.נ חוף אשקלון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "526"
             }
@@ -1397,10 +1397,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05dc \u05d0\u05d5\u05df", 
+                "name": "גל און", 
                 "phone": "08-6872406", 
-                "address": "\u05d2\u05dc \u05d0\u05d5\u05df \u05d3.\u05e0 \u05e9\u05d3\u05d4 \u05d2\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גל און ד.נ שדה גת ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "527"
             }
@@ -1415,10 +1415,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea \u05d2\u05d5\u05d1\u05e8\u05d9\u05df", 
+                "name": "בית גוברין", 
                 "phone": "08-6874219", 
-                "address": "\u05d1\u05d9\u05ea \u05d2\u05d5\u05d1\u05e8\u05d9\u05df \u05d3.\u05e0 \u05dc\u05db\u05d9\u05e9 \u05d3\u05e8\u05d5\u05dd ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "בית גוברין ד.נ לכיש דרום ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "520"
             }
@@ -1433,10 +1433,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea \u05e0\u05d9\u05e8", 
+                "name": "בית ניר", 
                 "phone": "08-6874316", 
-                "address": "\u05d1\u05d9\u05ea \u05e0\u05d9\u05e8 \u05e9\u05d3.\u05e0 \u05e9\u05d3\u05d4 \u05d2\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "בית ניר שד.נ שדה גת ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "521"
             }
@@ -1451,10 +1451,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea \u05e7\u05de\u05d4", 
+                "name": "בית קמה", 
                 "phone": "08-9915222", 
-                "address": "\u05d1\u05d9\u05ea \u05e7\u05de\u05d4 \u05d3.\u05e0 \u05d4\u05e0\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "בית קמה ד.נ הנגב ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "522"
             }
@@ -1469,10 +1469,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e8\u05de\u05d9\u05d0\u05dc", 
+                "name": "כרמיאל", 
                 "phone": "04-9087111", 
-                "address": "\u05db\u05e8\u05de\u05d9\u05d0\u05dc  \u05d1\u05d9\u05ea \u05d4\u05db\u05e8\u05dd  16", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "כרמיאל  בית הכרם  16", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": false, 
                 "item_id": "1015"
             }
@@ -1487,10 +1487,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05e2\u05ea\u05d5\u05df", 
+                "name": "געתון", 
                 "phone": "04-7858415", 
-                "address": "\u05d2\u05e2\u05ea\u05d5\u05df \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05de\u05e2\u05e8\u05d1\u05d9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "געתון ד.נ גליל מערבי ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "599"
             }
@@ -1505,10 +1505,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05db\u05d5", 
+                "name": "עכו", 
                 "phone": "04-9017106", 
-                "address": "\u05e2\u05db\u05d5 \u05d1\u05df \u05e2\u05de\u05d9 39", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "עכו בן עמי 39", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": false, 
                 "item_id": "1017"
             }
@@ -1523,10 +1523,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05ea", 
+                "name": "גת", 
                 "phone": "08-6871281", 
-                "address": "\u05d2\u05ea \u05d3.\u05e0 \u05e9\u05d3\u05d4 \u05d2\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גת ד.נ שדה גת ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "528"
             }
@@ -1541,10 +1541,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05d1\u05d9\u05e8", 
+                "name": "דביר", 
                 "phone": "08-9111222", 
-                "address": "\u05d3\u05d1\u05d9\u05e8 \u05d3.\u05e0 \u05d4\u05e0\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "דביר ד.נ הנגב ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "529"
             }
@@ -1559,10 +1559,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05e0\u05d9 \u05ea\u05e7\u05d5\u05d4", 
+                "name": "גני תקוה", 
                 "phone": "03-5349546", 
-                "address": "\u05d2\u05e0\u05d9 \u05ea\u05e7\u05d5\u05d4 \u05d4\u05e8\u05d9 \u05d9\u05d4\u05d5\u05d3\u05d4 52", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "גני תקוה הרי יהודה 52", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": false, 
                 "item_id": "994"
             }
@@ -1577,10 +1577,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d1\u05e2\u05ea \u05d6\u05d0\u05d1", 
+                "name": "גבעת זאב", 
                 "phone": "02-5360336", 
-                "address": "\u05d2\u05d1\u05e2\u05ea \u05d6\u05d0\u05d1 \u05d4\u05de\u05db\u05d1\u05d9\u05dd 48", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "גבעת זאב המכבים 48", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": true, 
                 "item_id": "1013"
             }
@@ -1595,10 +1595,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df", 
+                "name": "מודיעין", 
                 "phone": "08-9737004", 
-                "address": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05d1\u05e0\u05d9\u05d9\u05df \u05d0\u05dc\u05e2\u05d6\u05e8 \u05e7\u05e0\u05d9\u05d5\u05df \u05e2\u05d6\u05e8\u05d9\u05d0\u05dc\u05d9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "מודיעין בניין אלעזר קניון עזריאלי ", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": true, 
                 "item_id": "1025"
             }
@@ -1613,10 +1613,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05e9\u05e8\u05ea", 
+                "name": "קרית שרת", 
                 "phone": "03-5500838", 
-                "address": "\u05d7\u05d5\u05dc\u05d5\u05df \u05d4\u05e8 \u05d4\u05e6\u05d5\u05e4\u05d9\u05dd  6", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חולון הר הצופים  6", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "449"
             }
@@ -1631,10 +1631,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e6\u05e4\u05d9\u05e8\u05d4", 
+                "name": "הצפירה", 
                 "phone": "03-6512520", 
-                "address": "\u05d7\u05d5\u05dc\u05d5\u05df \u05d9\u05d0' \u05d1\u05d0\u05d3\u05e8  2", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חולון יא' באדר  2", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "443"
             }
@@ -1649,10 +1649,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05e8-\u05dc\u05d1 \u05e7\u05e8\u05d9\u05ea \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df", 
+                "name": "בר-לב קרית בן-גוריון", 
                 "phone": "03-5540591", 
-                "address": "\u05d7\u05d5\u05dc\u05d5\u05df \u05de\u05e9\u05e2\u05d5\u05dc \u05d9\u05d4\u05dc\u05d5\u05dd  6", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חולון משעול יהלום  6", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "442"
             }
@@ -1667,10 +1667,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05dc\u05e2\u05d3", 
+                "name": "גלעד", 
                 "phone": "03-5526771", 
-                "address": "\u05d1\u05ea \u05d9\u05dd \u05d1\u05dc\u05e4\u05d5\u05e8  152", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בת ים בלפור  152", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "440"
             }
@@ -1685,10 +1685,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d5\u05d4 \u05e8\u05de\u05d6", 
+                "name": "נוה רמז", 
                 "phone": "03-6514113", 
-                "address": "\u05d7\u05d5\u05dc\u05d5\u05df \u05d1\u05d9\u05d0\u05dc\u05d9\u05e7  166/164", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חולון ביאליק  166/164", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "447"
             }
@@ -1703,10 +1703,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d5\u05d4 \u05d0\u05e8\u05d6\u05d9\u05dd", 
+                "name": "נוה ארזים", 
                 "phone": "03-5504888", 
-                "address": "\u05d7\u05d5\u05dc\u05d5\u05df \u05d4\u05e0\u05d1\u05d9\u05d0\u05d9\u05dd  30", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חולון הנביאים  30", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "446"
             }
@@ -1721,10 +1721,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d0\u05d5\u05ea \u05e8\u05d7\u05dc", 
+                "name": "נאות רחל", 
                 "phone": "03-6510397", 
-                "address": "\u05d7\u05d5\u05dc\u05d5\u05df \u05d0\u05d5\u05e8\u05d9\u05dd  5", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חולון אורים  5", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "445"
             }
@@ -1739,10 +1739,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05d8\u05d1\u05ea\u05d4", 
+                "name": "יטבתה", 
                 "phone": "03-5045462", 
-                "address": "\u05d7\u05d5\u05dc\u05d5\u05df \u05d9\u05d8\u05d1\u05ea\u05d4 9 \u05d0", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חולון יטבתה 9 א", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "444"
             }
@@ -1757,10 +1757,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d5\u05e9\u05d1\u05d4", 
+                "name": "מושבה", 
                 "phone": "077-3378842", 
-                "address": "\u05e4\u05e8\u05d3\u05e1 \u05d7\u05e0\u05d4-\u05db\u05e8\u05db\u05d5\u05e8 \u05de\u05e2\u05dc\u05d4  35", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פרדס חנה-כרכור מעלה  35", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "108"
             }
@@ -1775,10 +1775,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d5\u05d4 \u05de\u05e8\u05d7\u05d1", 
+                "name": "נוה מרחב", 
                 "phone": "077-7292652", 
-                "address": "\u05e4\u05e8\u05d3\u05e1 \u05d7\u05e0\u05d4-\u05db\u05e8\u05db\u05d5\u05e8 \u05e2\u05e6\u05d9\u05d5\u05df \u05e4\u05d9\u05e0\u05ea \u05d3\u05d1\u05d9\u05e8 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פרדס חנה-כרכור עציון פינת דביר ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "109"
             }
@@ -1793,10 +1793,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e2\u05d5\u05d5\u05d9\u05d4", 
+                "name": "מעוויה", 
                 "phone": "04-6351858", 
-                "address": "\u05de\u05e2\u05d5\u05d5\u05d9\u05d4 \u05de\u05e2\u05d5\u05d5\u05d9\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מעוויה מעוויה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "102"
             }
@@ -1811,10 +1811,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05df \u05d0\u05d1\u05e8\u05d4\u05d9\u05dd", 
+                "name": "עין אברהים", 
                 "phone": "04-6316730", 
-                "address": "\u05e2\u05d9\u05df \u05d0\u05d1\u05e8\u05d4\u05d9\u05dd \u05e2\u05d9\u05df \u05d0\u05d1\u05e8\u05d4\u05d9\u05dd ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עין אברהים עין אברהים ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "103"
             }
@@ -1829,10 +1829,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d5\u05e1\u05de\u05d5\u05e1", 
+                "name": "מוסמוס", 
                 "phone": "04-6311384", 
-                "address": "\u05de\u05d5\u05e1\u05de\u05d5\u05e1 \u05de\u05d5\u05e1\u05de\u05d5\u05e1 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מוסמוס מוסמוס ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "100"
             }
@@ -1847,10 +1847,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d9\u05e1\u05e8", 
+                "name": "מיסר", 
                 "phone": "04-6381447", 
-                "address": "\u05de\u05d9\u05e1\u05e8 \u05de\u05d9\u05e1\u05e8 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מיסר מיסר ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "101"
             }
@@ -1865,10 +1865,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05e8\u05e2\u05e8\u05d4 \u05d0", 
+                "name": "ערערה א", 
                 "phone": "04-6351106", 
-                "address": "\u05e2\u05e8\u05e2\u05e8\u05d4 \u05e2\u05e8\u05e2\u05e8\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ערערה ערערה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "106"
             }
@@ -1883,10 +1883,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05df \u05d0\u05e1\u05d4\u05dc\u05d4", 
+                "name": "עין אסהלה", 
                 "phone": "04-6254811", 
-                "address": "\u05e2\u05d9\u05df \u05d0\u05e1\u05d4\u05dc\u05d4 \u05e2\u05d9\u05df \u05d0\u05e1\u05d4\u05dc\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עין אסהלה עין אסהלה ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "104"
             }
@@ -1901,10 +1901,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05e8\u05d4", 
+                "name": "ערה", 
                 "phone": "077-9616867", 
-                "address": "\u05e2\u05e8\u05d4 \u05e2\u05e8\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ערה ערה ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "105"
             }
@@ -1919,10 +1919,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05e8\u05e7\u05d0\u05d9", 
+                "name": "ברקאי", 
                 "phone": "04-6387133", 
-                "address": "\u05d1\u05e8\u05e7\u05d0\u05d9 \u05d3.\u05e0 \u05de\u05e0\u05e9\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ברקאי ד.נ מנשה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "902"
             }
@@ -1937,10 +1937,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05ea \u05d7\u05e4\u05e8", 
+                "name": "בת חפר", 
                 "phone": "09-8782138", 
-                "address": "\u05d1\u05ea \u05d7\u05e4\u05e8 \u05ea.\u05d3 1047 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "בת חפר ת.ד 1047 ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "903"
             }
@@ -1955,10 +1955,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05d9\u05de\u05d5\u05e0\u05d4 \u05d0'", 
+                "name": "דימונה א'", 
                 "phone": "08-6559381", 
-                "address": "\u05d3\u05d9\u05de\u05d5\u05e0\u05d4 \u05e9\u05d1\u05e2\u05ea \u05d4\u05de\u05d9\u05e0\u05d9\u05dd ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "דימונה שבעת המינים ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "38"
             }
@@ -1973,10 +1973,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d9\u05e0\u05d5\u05ea \u05e9\u05d5\u05de\u05e8\u05d5\u05df", 
+                "name": "גינות שומרון", 
                 "phone": "09-7920135", 
-                "address": "\u05d2\u05d9\u05e0\u05d5\u05ea \u05e9\u05d5\u05de\u05e8\u05d5\u05df \u05d4\u05d0\u05dc\u05d5\u05df   9", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גינות שומרון האלון   9", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "906"
             }
@@ -1991,10 +1991,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d1\u05e2\u05ea \u05d7\u05d9\u05d9\u05dd \u05d0\u05d9\u05d7\u05d5\u05d3", 
+                "name": "גבעת חיים איחוד", 
                 "phone": "04-6369525", 
-                "address": "\u05d2\u05d1\u05e2\u05ea \u05d7\u05d9\u05d9\u05dd \u05d0\u05d9\u05d7\u05d5\u05d3 \u05d3.\u05e0 \u05e2\u05de\u05e7 \u05d7\u05e4\u05e8 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גבעת חיים איחוד ד.נ עמק חפר ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "904"
             }
@@ -2009,10 +2009,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d1\u05e2\u05ea \u05d7\u05d9\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3", 
+                "name": "גבעת חיים מאוחד", 
                 "phone": "04-6368493", 
-                "address": "\u05d2\u05d1\u05e2\u05ea \u05d7\u05d9\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3 \u05d3.\u05e0 \u05e2\u05de\u05e7 \u05d7\u05e4\u05e8 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גבעת חיים מאוחד ד.נ עמק חפר ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "905"
             }
@@ -2027,10 +2027,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05dc\u05e7\u05d9\u05d9\u05d4 \u05d0'", 
+                "name": "לקייה א'", 
                 "phone": "08-6517479", 
-                "address": "\u05dc\u05e7\u05d9\u05d9\u05d4 \u05dc\u05e7\u05d9\u05d9\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "לקייה לקייה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "33"
             }
@@ -2045,10 +2045,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e1\u05d9\u05d9\u05e4\u05d4", 
+                "name": "כסייפה", 
                 "phone": "08-9955098", 
-                "address": "\u05db\u05e1\u05d9\u05d9\u05e4\u05d4 \u05db\u05e1\u05d9\u05d9\u05e4\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כסייפה כסייפה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "32"
             }
@@ -2063,10 +2063,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05e8\u05d5\u05e2\u05e8 \u05d1'", 
+                "name": "ערוער ב'", 
                 "phone": "08-9950069", 
-                "address": "\u05e2\u05e8\u05e2\u05e8\u05d4 \u05d1\u05e0\u05d2\u05d1 \u05e2\u05e8\u05e2\u05e8\u05d4 \u05d1\u05e0\u05d2\u05d1 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ערערה בנגב ערערה בנגב ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "31"
             }
@@ -2081,10 +2081,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05e8\u05d5\u05e2\u05e8 \u05d0'", 
+                "name": "ערוער א'", 
                 "phone": "08-9953217", 
-                "address": "\u05e2\u05e8\u05e2\u05e8\u05d4 \u05d1\u05e0\u05d2\u05d1 \u05e2\u05e8\u05e2\u05e8\u05d4 \u05d1\u05e0\u05d2\u05d1 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ערערה בנגב ערערה בנגב ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "30"
             }
@@ -2099,10 +2099,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05dc\u05e7\u05d9\u05d9\u05d4 \u05d1'", 
+                "name": "לקייה ב'", 
                 "phone": "08-6512580", 
-                "address": "\u05dc\u05e7\u05d9\u05d9\u05d4 \u05dc\u05e7\u05d9\u05d9\u05d4  \u05e9\u05db\u05d5\u05e0\u05d4 11", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "לקייה לקייה  שכונה 11", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "37"
             }
@@ -2117,10 +2117,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05e4\u05e8\u05d7", 
+                "name": "תפרח", 
                 "phone": "08-9926056", 
-                "address": "\u05ea\u05e4\u05e8\u05d7 \u05ea\u05e4\u05e8\u05d7 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "תפרח תפרח ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "36"
             }
@@ -2135,10 +2135,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05d5\u05e8\u05d4 \u05d1'", 
+                "name": "חורה ב'", 
                 "phone": "08-6510980", 
-                "address": "\u05d7\u05d5\u05e8\u05d4 \u05d7\u05d5\u05e8\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חורה חורה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "35"
             }
@@ -2153,10 +2153,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05d5\u05e8\u05d4 \u05d0'", 
+                "name": "חורה א'", 
                 "phone": "08-6518645", 
-                "address": "\u05d7\u05d5\u05e8\u05d4 \u05de\u05e8\u05db\u05d6 \u05d7\u05d5\u05e8\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חורה מרכז חורה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "34"
             }
@@ -2171,10 +2171,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d1\u05d3\u05d5\u05df", 
+                "name": "עבדון", 
                 "phone": "04-9807720", 
-                "address": "\u05e2\u05d1\u05d3\u05d5\u05df \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05de\u05e2\u05e8\u05d1\u05d9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עבדון ד.נ גליל מערבי ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "641"
             }
@@ -2189,10 +2189,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05d2\u05d5\u05e9\u05e8\u05d9\u05dd", 
+                "name": "הגושרים", 
                 "phone": "04-6956278", 
-                "address": "\u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df \u05d4\u05d2\u05d5\u05e9\u05e8\u05d9\u05dd ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ד.נ גליל עליון הגושרים ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "643"
             }
@@ -2207,10 +2207,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d1\u05e8\u05d5\u05df", 
+                "name": "עברון", 
                 "phone": "04-9857888", 
-                "address": "\u05e2\u05d1\u05e8\u05d5\u05df \u05d3.\u05e0 \u05d0\u05d5\u05e9\u05e8\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עברון ד.נ אושרת ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "642"
             }
@@ -2225,10 +2225,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05d9\u05e8\u05d4 \u05de\u05e8\u05db\u05d6", 
+                "name": "טירה מרכז", 
                 "phone": "09-7931200", 
-                "address": "\u05d8\u05d9\u05e8\u05d4 \u05d8\u05d9\u05e8\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "טירה טירה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "645"
             }
@@ -2243,10 +2243,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e9\u05ea", 
+                "name": "קשת", 
                 "phone": "04-6960518", 
-                "address": "\u05e7\u05e9\u05ea \u05d3.\u05e0. \u05e8\u05de\u05ea \u05d4\u05d2\u05d5\u05dc\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "קשת ד.נ. רמת הגולן ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "644"
             }
@@ -2261,10 +2261,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e2\u05e4\u05d9\u05dc\u05d9\u05dd", 
+                "name": "מעפילים", 
                 "phone": "03-5073079", 
-                "address": "\u05d1\u05ea \u05d9\u05dd \u05de\u05e2\u05e4\u05d9\u05dc\u05d9\u05dd  16", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בת ים מעפילים  16", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "438"
             }
@@ -2279,10 +2279,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05e8\u05d5\u05e9\u05ea", 
+                "name": "חרושת", 
                 "phone": "03-5516865", 
-                "address": "\u05d1\u05ea \u05d9\u05dd \u05d4\u05e0\u05d1\u05d9\u05d0\u05d9\u05dd  1 \u05d0", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בת ים הנביאים  1 א", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "439"
             }
@@ -2297,10 +2297,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05d1\u05d5\u05e8", 
+                "name": "תבור", 
                 "phone": "03-5512327", 
-                "address": "\u05d1\u05ea \u05d9\u05dd \u05d4\u05ea\u05d1\u05d5\u05e8  7", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בת ים התבור  7", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "436"
             }
@@ -2315,10 +2315,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05d1\u05e0\u05d9\u05dd", 
+                "name": "הבנים", 
                 "phone": "03-5512816", 
-                "address": "\u05d1\u05ea \u05d9\u05dd \u05d4\u05d1\u05e0\u05d9\u05dd  7", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בת ים הבנים  7", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "437"
             }
@@ -2333,10 +2333,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05d3\u05d5\u05e9\u05d9 \u05e7\u05d4\u05d9\u05e8", 
+                "name": "קדושי קהיר", 
                 "phone": "03-5063536", 
-                "address": "\u05d1\u05ea \u05d9\u05dd \u05e7\u05d3\u05d5\u05e9\u05d9 \u05e7\u05d4\u05d9\u05e8  4", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בת ים קדושי קהיר  4", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "435"
             }
@@ -2351,10 +2351,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d5\u05d9\u05e4\u05dc\u05d3", 
+                "name": "נויפלד", 
                 "phone": "03-5709720", 
-                "address": "\u05d1\u05e0\u05d9 \u05d1\u05e8\u05e7 \u05e0\u05d5\u05d9\u05e4\u05dc\u05d3  15", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בני ברק נויפלד  15", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "432"
             }
@@ -2369,10 +2369,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e6\u05d3\u05d4", 
+                "name": "מצדה", 
                 "phone": "03-5708223", 
-                "address": "\u05d1\u05e0\u05d9 \u05d1\u05e8\u05e7 \u05e8\u05d1\u05d9\u05e0\u05d5\u05d1 29", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בני ברק רבינוב 29", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "433"
             }
@@ -2387,10 +2387,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d9\u05db\u05d5\u05df \u05d5'", 
+                "name": "שיכון ו'", 
                 "phone": "03-6748930", 
-                "address": "\u05d1\u05e0\u05d9 \u05d1\u05e8\u05e7 \u05e2\u05de\u05e8\u05dd \u05d2\u05d0\u05d5\u05df  4", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בני ברק עמרם גאון  4", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "430"
             }
@@ -2405,10 +2405,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05dc\u05e0\u05d3\u05d0\u05d5", 
+                "name": "לנדאו", 
                 "phone": "03-5704098", 
-                "address": "\u05d1\u05e0\u05d9 \u05d1\u05e8\u05e7 \u05dc\u05e0\u05d3\u05d0\u05d5 4", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בני ברק לנדאו 4", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "431"
             }
@@ -2423,10 +2423,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d5\u05d9\u05d9\u05e6\u05de\u05df", 
+                "name": "וייצמן", 
                 "phone": "09-7757900", 
-                "address": "\u05db\u05e4\u05e8 \u05e1\u05d1\u05d0 \u05d5\u05d9\u05d9\u05e6\u05de\u05df  83", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כפר סבא וייצמן  83", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": false, 
                 "item_id": "1002"
             }
@@ -2441,10 +2441,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e1\u05d7\u05e0\u05d9\u05df \u05d2'", 
+                "name": "סחנין ג'", 
                 "phone": "04-6743028", 
-                "address": "\u05e1\u05d7\u05e0\u05d9\u05df \u05e1\u05d7\u05e0\u05d9\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "סחנין סחנין ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "339"
             }
@@ -2459,10 +2459,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e1\u05d7\u05e0\u05d9\u05df \u05d1'", 
+                "name": "סחנין ב'", 
                 "phone": "04-6743551", 
-                "address": "\u05e1\u05d7\u05e0\u05d9\u05df \u05e1\u05d7\u05e0\u05d9\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "סחנין סחנין ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "338"
             }
@@ -2477,10 +2477,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d7\u05e3 \u05d1", 
+                "name": "נחף ב", 
                 "phone": "04-9988084", 
-                "address": "\u05e0\u05d7\u05e3 \u05e0\u05d7\u05e3 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נחף נחף ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "335"
             }
@@ -2495,10 +2495,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d5\u05de\u05e8", 
+                "name": "עומר", 
                 "phone": "08-6253225", 
-                "address": "\u05e2\u05d5\u05de\u05e8 \u05e8\u05d5\u05ea\u05dd 10", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עומר רותם 10", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "334"
             }
@@ -2513,10 +2513,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e1\u05d7\u05e0\u05d9\u05df \u05d0", 
+                "name": "סחנין א", 
                 "phone": "04-6741103", 
-                "address": "\u05e1\u05d7\u05e0\u05d9\u05df \u05e1\u05d7\u05e0\u05d9\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "סחנין סחנין ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "337"
             }
@@ -2531,10 +2531,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e1\u05d2'\u05d5\u05e8", 
+                "name": "סג'ור", 
                 "phone": "04-9583250", 
-                "address": "\u05e1\u05d2'\u05d5\u05e8 \u05e1\u05d2'\u05d5\u05e8 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "סג'ור סג'ור ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "336"
             }
@@ -2549,10 +2549,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e2\u05d9\u05dc\u05d9\u05d0", 
+                "name": "מעיליא", 
                 "phone": "04-9979745", 
-                "address": "\u05de\u05e2\u05d9\u05dc\u05d9\u05d0 \u05de\u05e2\u05d9\u05dc\u05d9\u05d0 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מעיליא מעיליא ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "331"
             }
@@ -2567,10 +2567,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d6\u05e8\u05e2\u05d4", 
+                "name": "מזרעה", 
                 "phone": "04-9829178", 
-                "address": "\u05de\u05d6\u05e8\u05e2 \u05de\u05d6\u05e8\u05e2\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מזרע מזרעה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "330"
             }
@@ -2585,10 +2585,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d4\u05e8\u05d9\u05d4", 
+                "name": "נהריה", 
                 "phone": "04-9921902", 
-                "address": "\u05e0\u05d4\u05e8\u05d9\u05d4 \u05d5\u05d9\u05e6\u05de\u05df  84", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נהריה ויצמן  84", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "333"
             }
@@ -2603,10 +2603,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e2\u05dc\u05d5\u05ea", 
+                "name": "מעלות", 
                 "phone": "04-9077003", 
-                "address": "\u05de\u05e2\u05dc\u05d5\u05ea \u05de\u05e2\u05dc\u05d5\u05ea ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מעלות מעלות ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "332"
             }
@@ -2621,10 +2621,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05e7\u05d9\u05e8", 
+                "name": "יקיר", 
                 "phone": "09-7923461", 
-                "address": "\u05d9\u05e7\u05d9\u05e8 \u05d3.\u05e0. \u05dc\u05d1 \u05d4\u05e9\u05d5\u05de\u05e8\u05d5\u05df ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "יקיר ד.נ. לב השומרון ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "1000"
             }
@@ -2639,10 +2639,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05d6\u05e8\u05e2 \u05d0\u05dc", 
+                "name": "יזרע אל", 
                 "phone": "04-6598000", 
-                "address": "\u05d9\u05d6\u05e8\u05e2 \u05d0\u05dc \u05d3.\u05e0 \u05d9\u05d6\u05e8\u05e2\u05d0\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "יזרע אל ד.נ יזרעאל ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "818"
             }
@@ -2657,10 +2657,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e9\u05d2\u05d1 \u05e2\u05dd", 
+                "name": "משגב עם", 
                 "phone": "04-6953126", 
-                "address": "\u05de\u05e9\u05d2\u05d1 \u05e2\u05dd \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "משגב עם ד.נ גליל עליון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "856"
             }
@@ -2675,10 +2675,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d0\u05d5\u05ea \u05de\u05e8\u05d3\u05db\u05d9", 
+                "name": "נאות מרדכי", 
                 "phone": "04-6948121", 
-                "address": "\u05e0\u05d0\u05d5\u05ea \u05de\u05e8\u05d3\u05db\u05d9 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נאות מרדכי ד.נ גליל עליון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "857"
             }
@@ -2693,10 +2693,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e1\u05d9\u05dc\u05d5\u05ea", 
+                "name": "מסילות", 
                 "phone": "04-6066400", 
-                "address": "\u05de\u05e1\u05d9\u05dc\u05d5\u05ea \u05d3.\u05e0 \u05d1\u05d9\u05ea \u05e9\u05d0\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מסילות ד.נ בית שאן ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "850"
             }
@@ -2711,10 +2711,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e2\u05d5\u05d6 \u05d7\u05d9\u05d9\u05dd", 
+                "name": "מעוז חיים", 
                 "phone": "04-6064750", 
-                "address": "\u05de\u05e2\u05d5\u05d6 \u05d7\u05d9\u05d9\u05dd \u05d3.\u05e0 \u05d1\u05d9\u05ea \u05e9\u05d0\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מעוז חיים ד.נ בית שאן ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "851"
             }
@@ -2729,10 +2729,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e2\u05dc\u05d4 \u05d2\u05dc\u05d1\u05d5\u05e2", 
+                "name": "מעלה גלבוע", 
                 "phone": "04-6067506", 
-                "address": "\u05de\u05e2\u05dc\u05d4 \u05d2\u05dc\u05d1\u05d5\u05e2 \u05d3.\u05e0 \u05d2\u05dc\u05d1\u05d5\u05e2 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מעלה גלבוע ד.נ גלבוע ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "852"
             }
@@ -2747,10 +2747,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05e4\u05e2\u05ea", 
+                "name": "יפעת", 
                 "phone": "04-6548983", 
-                "address": "\u05d9\u05e4\u05e2\u05ea \u05d3.\u05e0 \u05e2\u05de\u05e7 \u05d9\u05d6\u05e8\u05e2\u05d0\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "יפעת ד.נ עמק יזרעאל ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "819"
             }
@@ -2765,10 +2765,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d4\u05dc\u05dc", 
+                "name": "נהלל", 
                 "phone": "04-6515012", 
-                "address": "\u05e0\u05d4\u05dc\u05dc \u05d3.\u05e0 \u05e2\u05de\u05e7 \u05d9\u05d6\u05e8\u05e2\u05d0\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נהלל ד.נ עמק יזרעאל ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "858"
             }
@@ -2783,10 +2783,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d5\u05e8\u05e0\u05d9\u05ea", 
+                "name": "אורנית", 
                 "phone": "03-9360111", 
-                "address": "\u05d0\u05d5\u05e8\u05e0\u05d9\u05ea \u05de\u05e8\u05db\u05d6 \u05de\u05e1\u05d7\u05e8\u05d9 \u05e8\u05d0\u05e9 \u05d4\u05e2\u05d9\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אורנית מרכז מסחרי ראש העין ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "748"
             }
@@ -2801,10 +2801,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e9\u05d3\u05d5\u05d3  \u05d5'", 
+                "name": "אשדוד  ו'", 
                 "phone": "08-8553707", 
-                "address": "\u05d0\u05e9\u05d3\u05d5\u05d3 \u05d7\u05d9\u05d9\u05dd \u05d7\u05d5\u05e8\u05d9  5", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אשדוד חיים חורי  5", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "6"
             }
@@ -2819,10 +2819,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e0\u05e8\u05d4", 
+                "name": "מנרה", 
                 "phone": "04-6908101", 
-                "address": "\u05de\u05e0\u05e8\u05d4 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מנרה ד.נ גליל עליון ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "848"
             }
@@ -2837,10 +2837,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05e2 \u05d2", 
+                "name": "קרע ג", 
                 "phone": "04-6358076", 
-                "address": "\u05db\u05e4\u05e8 \u05e7\u05e8\u05e2 \u05db\u05e4\u05e8 \u05e7\u05e8\u05e2 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כפר קרע כפר קרע ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "99"
             }
@@ -2855,10 +2855,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05e2 \u05d1", 
+                "name": "קרע ב", 
                 "phone": "077-4030677", 
-                "address": "\u05db\u05e4\u05e8 \u05e7\u05e8\u05e2 \u05db\u05e4\u05e8 \u05e7\u05e8\u05e2 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כפר קרע כפר קרע ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "98"
             }
@@ -2873,10 +2873,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d7\u05d5\u05dc\u05d4", 
+                "name": "מחולה", 
                 "phone": "04-6480115", 
-                "address": "\u05de\u05d7\u05d5\u05dc\u05d4 \u05d3.\u05e0 \u05d1\u05d9\u05ea \u05e9\u05d0\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מחולה ד.נ בית שאן ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "844"
             }
@@ -2891,10 +2891,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d6\u05d9\u05ea", 
+                "name": "גזית", 
                 "phone": "077-9332283", 
-                "address": "\u05d7\u05d3\u05e8\u05d4 \u05d4\u05e0\u05e6\u05d9\u05d1  28", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חדרה הנציב  28", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "91"
             }
@@ -2909,10 +2909,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05d0\u05dc\u05d9\u05e7", 
+                "name": "ביאליק", 
                 "phone": "077-7501923", 
-                "address": "\u05d7\u05d3\u05e8\u05d4 \u05d1\u05d9\u05d0\u05dc\u05d9\u05e7  33", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חדרה ביאליק  33", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "90"
             }
@@ -2927,10 +2927,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea \u05d0\u05dc\u05d9\u05e2\u05d6\u05e8 \u05d1", 
+                "name": "בית אליעזר ב", 
                 "phone": "077-2101152", 
-                "address": "\u05d7\u05d3\u05e8\u05d4 \u05d4\u05e4\u05e8\u05d3\u05e1  7", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חדרה הפרדס  7", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "93"
             }
@@ -2945,10 +2945,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e8\u05db\u05d6 \u05e7\u05dc\u05d9\u05d8\u05d4", 
+                "name": "מרכז קליטה", 
                 "phone": "04-6070212", 
-                "address": "\u05e7\u05d9\u05d1\u05d5\u05e5 \u05d1\u05d9\u05ea \u05d0\u05dc\u05e4\u05d0 \u05de\u05e8\u05db\u05d6 \u05e7\u05dc\u05d9\u05d8\u05d4 \u05e7\u05d9\u05d1\u05d5\u05e5 \u05d1\u05d9\u05ea \u05d0\u05dc\u05e4\u05d0 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קיבוץ בית אלפא מרכז קליטה קיבוץ בית אלפא ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "92"
             }
@@ -2963,10 +2963,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d5\u05dc\u05d2\u05d4 \u05d0'", 
+                "name": "אולגה א'", 
                 "phone": "04-6337867", 
-                "address": "\u05d7\u05d3\u05e8\u05d4 \"\u05d4\u05e8\u05d0\u05e9\u05d5\u05e0\u05d9\u05dd , \u05d2\u05d1\u05e2\u05ea \u05d0\u05d5\u05dc\u05d2\u05d4\" 5", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חדרה \"הראשונים , גבעת אולגה\" 5", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "95"
             }
@@ -2981,10 +2981,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d5\u05d4 \u05d7\u05d9\u05d9\u05dd", 
+                "name": "נוה חיים", 
                 "phone": "077-2031327", 
-                "address": "\u05d7\u05d3\u05e8\u05d4 \u05d0\u05d4\u05e8\u05d5\u05e0\u05d5\u05d1\u05d9\u05e5 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חדרה אהרונוביץ ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "94"
             }
@@ -2999,10 +2999,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e8\u05d2\u05dc\u05d9\u05ea \u05d1\u05d9\u05ea \u05e9\u05de\u05e9", 
+                "name": "מרגלית בית שמש", 
                 "phone": "02-6312278", 
-                "address": "\u05d1\u05d9\u05ea \u05e9\u05de\u05e9 \u05de\u05e2\u05e4\u05d9\u05dc\u05d9 \u05d0\u05d2\u05d5\u05d6 26", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בית שמש מעפילי אגוז 26", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "96"
             }
@@ -3017,10 +3017,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05db\u05d1\u05d9 \u05d8\u05e3 \u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2", 
+                "name": "מכבי טף באר שבע", 
                 "phone": "08-6416622", 
-                "address": "\u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2 \u05e0\u05d5\u05d5\u05d4 \u05d6\u05d0\u05d1 \u05e9\u05d3' \u05d9\u05d5\u05d4\u05e0\u05d4 \u05d6'\u05d1\u05d5\u05d8\u05d9\u05e0\u05e1\u05e7\u05d9  30", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "באר שבע נווה זאב שד' יוהנה ז'בוטינסקי  30", 
+                "operator": "קופת חולים מכבי", 
                 "error": true, 
                 "item_id": "1030"
             }
@@ -3035,10 +3035,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05e4\u05e6\u05d9\u05d1\u05d4", 
+                "name": "חפציבה", 
                 "phone": "04-6534100", 
-                "address": "\u05d7\u05e4\u05e6\u05d9\u05d1\u05d4 \u05d3.\u05e0 \u05d2\u05dc\u05d1\u05d5\u05e2 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "חפציבה ד.נ גלבוע ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "815"
             }
@@ -3053,10 +3053,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05d0\u05d5\u05e0\u05d5", 
+                "name": "קרית אונו", 
                 "phone": "03-5304111", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05d0\u05d5\u05e0\u05d5 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd (\u05e7\u05e0\u05d9\u05d5\u05df \u05e7\u05e8\u05d9\u05ea \u05d0\u05d5\u05e0\u05d5) 39", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "קרית אונו ירושלים (קניון קרית אונו) 39", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "1066"
             }
@@ -3071,10 +3071,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e8\u05d5\u05d1\u05e2 \u05d4\u05d9\u05d4\u05d5\u05d3\u05d9", 
+                "name": "הרובע היהודי", 
                 "phone": "02-5343027", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05e4\u05dc\u05d5\u05d2\u05ea \u05d4\u05db\u05d5\u05ea\u05dc 7", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים פלוגת הכותל 7", 
+                "operator": "עיריית ירושלים", 
                 "error": true, 
                 "item_id": "740"
             }
@@ -3089,10 +3089,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d5\u05d4\u05dd", 
+                "name": "שוהם", 
                 "phone": "03-9793323", 
-                "address": "\u05e9\u05d5\u05d4\u05dd \u05e9\u05d3' \u05e2\u05de\u05e7 \u05d0\u05d9\u05dc\u05d5\u05df  30", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שוהם שד' עמק אילון  30", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "741"
             }
@@ -3107,10 +3107,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05e2\u05dc\u05d1\u05d9\u05dd+ \u05e0\u05d5\u05e3 \u05d0\u05d9\u05dc\u05d5\u05df", 
+                "name": "שעלבים+ נוף אילון", 
                 "phone": "08-9790098", 
-                "address": "\u05e9\u05e2\u05dc\u05d1\u05d9\u05dd+ \u05e0\u05d5\u05e3 \u05d0\u05d9\u05dc\u05d5\u05df \u05d3.\u05e0 \u05e9\u05de\u05e9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שעלבים+ נוף אילון ד.נ שמשון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "742"
             }
@@ -3125,10 +3125,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e1\u05d9\u05dc\u05d5\u05d0\u05df", 
+                "name": "סילואן", 
                 "phone": "02-5612761", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05e9\u05db\u05d5\u05e0\u05ea \u05d0\u05dc \u05e2\u05d1\u05e1\u05d9\u05d9\u05d4 ", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים שכונת אל עבסייה ", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "743"
             }
@@ -3143,10 +3143,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d9\u05e8 \u05d9\u05e9\u05e8\u05d0\u05dc", 
+                "name": "ניר ישראל", 
                 "phone": "08-6724650", 
-                "address": "\u05e0\u05d9\u05e8 \u05d9\u05e9\u05e8\u05d0\u05dc \u05d3.\u05e0 \u05e9\u05d3\u05d4 \u05d2\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ניר ישראל ד.נ שדה גת ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "559"
             }
@@ -3161,10 +3161,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d9\u05e8 \u05d9\u05e6\u05d7\u05e7", 
+                "name": "ניר יצחק", 
                 "phone": "08-9983427", 
-                "address": "\u05e0\u05d9\u05e8 \u05d9\u05e6\u05d7\u05e7 \u05d3.\u05e0 \u05d4\u05e0\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ניר יצחק ד.נ הנגב ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "558"
             }
@@ -3179,10 +3179,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d9\u05d5\u05e8\u05d0", 
+                "name": "גיורא", 
                 "phone": "03-5339378", 
-                "address": "\u05d0\u05d5\u05e8 \u05d9\u05d4\u05d5\u05d3\u05d4 \u05d3\u05d5\u05d3 \u05d0\u05dc\u05e2\u05d6\u05e8   21", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אור יהודה דוד אלעזר   21", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "746"
             }
@@ -3197,10 +3197,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d9\u05e6\u05df", 
+                "name": "ניצן", 
                 "phone": null, 
-                "address": "\u05e0\u05d9\u05e6\u05df  ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ניצן  ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "555"
             }
@@ -3215,10 +3215,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d7\u05dc \u05e2\u05d5\u05d6", 
+                "name": "נחל עוז", 
                 "phone": "08-6805214", 
-                "address": "\u05e0\u05d7\u05dc \u05e2\u05d5\u05d6 \u05d3.\u05e0 \u05d4\u05e0\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נחל עוז ד.נ הנגב ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "554"
             }
@@ -3233,10 +3233,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d9\u05e6\u05e0\u05d9\u05dd", 
+                "name": "ניצנים", 
                 "phone": "08-6729463", 
-                "address": "\u05e0\u05d9\u05e6\u05e0\u05d9\u05dd \u05d3.\u05e0 \u05d0\u05d1\u05d8\u05d7 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ניצנים ד.נ אבטח ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "557"
             }
@@ -3251,10 +3251,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d9\u05e6\u05e0\u05d4", 
+                "name": "ניצנה", 
                 "phone": "08-6561460", 
-                "address": "\u05e0\u05d9\u05e6\u05e0\u05d4 \u05d3.\u05e0 \u05d7\u05dc\u05d5\u05e6\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ניצנה ד.נ חלוצה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "556"
             }
@@ -3269,10 +3269,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d0\u05d5\u05ea \u05db\u05d9\u05db\u05e8", 
+                "name": "נאות כיכר", 
                 "phone": "08-6555565", 
-                "address": "\u05e0\u05d0\u05d5\u05ea \u05db\u05d9\u05db\u05e8 \u05d3.\u05e0. \u05d9\u05dd \u05d4\u05de\u05dc\u05d7 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נאות כיכר ד.נ. ים המלח ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "551"
             }
@@ -3287,10 +3287,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d3\u05dd", 
+                "name": "אדם", 
                 "phone": "02-6563535", 
-                "address": "\u05d0\u05d3\u05dd \u05d4\u05e8\u05d3\u05d5\u05e3 \u05d4\u05e0\u05d7\u05dc\u05d9\u05dd 1", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אדם הרדוף הנחלים 1", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "550"
             }
@@ -3305,10 +3305,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e8\u05db\u05d6 \u05e0\u05d4\u05d5\u05e8\u05d4", 
+                "name": "מרכז נהורה", 
                 "phone": "08-6622222", 
-                "address": "\u05e0\u05d4\u05d5\u05e8\u05d4 \u05d3.\u05e0. \u05dc\u05db\u05d9\u05e9 \u05d3\u05e8\u05d5\u05dd ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נהורה ד.נ. לכיש דרום ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "553"
             }
@@ -3323,10 +3323,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d2\u05d1\u05d4", 
+                "name": "נגבה", 
                 "phone": "08-6774905", 
-                "address": "\u05e0\u05d2\u05d1\u05d4 \u05d3.\u05e0 \u05dc\u05db\u05d9\u05e9 \u05e6\u05e4\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נגבה ד.נ לכיש צפון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "552"
             }
@@ -3341,10 +3341,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d1\u05e2\u05ea \u05d4\u05d6\u05d9\u05ea\u05d9\u05dd", 
+                "name": "גבעת הזיתים", 
                 "phone": "08-9246507", 
-                "address": "\u05dc\u05d5\u05d3 \u05d7\u05dc\u05dc\u05d9 \u05de\u05d9\u05e0\u05db\u05df  8", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "לוד חללי מינכן  8", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "238"
             }
@@ -3359,10 +3359,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05e8\u05ea", 
+                "name": "שרת", 
                 "phone": "08-9231222", 
-                "address": "\u05dc\u05d5\u05d3 \"\u05e9\u05db\u05d5\u05e0\u05ea \u05e9\u05e8\u05ea, \u05e1\u05e4\u05e8\u05df \" 1", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "לוד \"שכונת שרת, ספרן \" 1", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "239"
             }
@@ -3377,10 +3377,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2'\u05d5\u05d0\u05e8\u05d9\u05e9", 
+                "name": "ג'ואריש", 
                 "phone": "08-9221134", 
-                "address": "\u05e8\u05de\u05dc\u05d4 \u05db\u05e4\u05e8 \u05d2'\u05d5\u05d0\u05e8\u05d9\u05e9 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רמלה כפר ג'ואריש ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "234"
             }
@@ -3395,10 +3395,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05e0\u05d9 \u05d0\u05d1\u05d9\u05d1", 
+                "name": "גני אביב", 
                 "phone": "08-9227239", 
-                "address": "\u05dc\u05d5\u05d3 \u05e6\u05de\u05e8\u05d5\u05ea  7", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "לוד צמרות  7", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "235"
             }
@@ -3413,10 +3413,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05d1\u05d3", 
+                "name": "חבד", 
                 "phone": "03-9606993", 
-                "address": "\u05db\u05e4\u05e8 \u05d7\u05d1\u05d3 \u05db\u05e4\u05e8 \u05d7\u05d1\u05d3 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כפר חבד כפר חבד ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "236"
             }
@@ -3431,10 +3431,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05d0\u05d5\u05e8\u05e0\u05d9\u05dd", 
+                "name": "האורנים", 
                 "phone": "08-9230133", 
-                "address": "\u05dc\u05d5\u05d3 \u05d0\u05d9\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df  20", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "לוד איינשטיין  20", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "237"
             }
@@ -3449,10 +3449,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05de\u05e9\u05d4", 
+                "name": "קרית משה", 
                 "phone": "08-9465910", 
-                "address": "\u05e8\u05d7\u05d5\u05d1\u05d5\u05ea \u05e1\u05d8\u05d5\u05dc\u05d1\u05d5\u05d1   8", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רחובות סטולבוב   8", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "230"
             }
@@ -3467,10 +3467,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05e2\u05e8\u05d9\u05d9\u05dd", 
+                "name": "שעריים", 
                 "phone": "08-9458572", 
-                "address": "\u05e8\u05d7\u05d5\u05d1\u05d5\u05ea \u05e9\u05d1\u05d6\u05d9   14", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רחובות שבזי   14", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "231"
             }
@@ -3485,10 +3485,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d0\u05e8 \u05d9\u05e2\u05e7\u05d1", 
+                "name": "באר יעקב", 
                 "phone": "08-9282168", 
-                "address": "\u05d1\u05d0\u05e8 \u05d9\u05e2\u05e7\u05d1 \u05d9\u05d4\u05d5\u05d3\u05d4  7", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "באר יעקב יהודה  7", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "232"
             }
@@ -3503,10 +3503,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea \u05d3\u05d2\u05df", 
+                "name": "בית דגן", 
                 "phone": "03-9600847", 
-                "address": "\u05d1\u05d9\u05ea \u05d3\u05d2\u05df \u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df  25", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בית דגן מנחם בגין  25", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "233"
             }
@@ -3521,10 +3521,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05de\u05d5\u05d1\u05d9\u05dc", 
+                "name": "המוביל", 
                 "phone": "09-7909300", 
-                "address": "\u05d8\u05d9\u05e8\u05d4 \u05d4\u05de\u05d5\u05d1\u05d9\u05dc 20", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "טירה המוביל 20", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "1050"
             }
@@ -3539,10 +3539,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e8\u05db\u05d6 \u05e1\u05e4\u05d9\u05e8", 
+                "name": "מרכז ספיר", 
                 "phone": "09-7494711", 
-                "address": "\u05de\u05e6\u05e4\u05d4 \u05e1\u05e4\u05d9\u05e8 \u05e6\u05d5\u05e8 \u05d9\u05d2\u05d0\u05dc \u05de\u05e8\u05db\u05d6 \u05e1\u05e4\u05d9\u05e8 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "מצפה ספיר צור יגאל מרכז ספיר ", 
+                "operator": "קופת חולים מכבי", 
                 "error": true, 
                 "item_id": "1051"
             }
@@ -3557,10 +3557,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e0\u05e6\u05d7", 
+                "name": "הנצח", 
                 "phone": "03-5484646", 
-                "address": "\u05e8\u05de\u05ea \u05d4\u05e9\u05e8\u05d5\u05df \u05d4\u05e0\u05e6\u05d7  3", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "רמת השרון הנצח  3", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "1052"
             }
@@ -3575,10 +3575,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d7\u05d5\u05d6\u05d4 - \u05de\u05e8\u05d2\u05dc\u05d9\u05ea", 
+                "name": "אחוזה - מרגלית", 
                 "phone": "09-7470777", 
-                "address": "\u05e8\u05e2\u05e0\u05e0\u05d4 \u05d0\u05d7\u05d5\u05d6\u05d4 124", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "רעננה אחוזה 124", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "1053"
             }
@@ -3593,10 +3593,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05dc \u05de\u05d5\u05e0\u05d3", 
+                "name": "תל מונד", 
                 "phone": "09-7774600", 
-                "address": "\u05ea\u05dc \u05de\u05d5\u05e0\u05d3 \u05d4\u05e9\u05e7\u05d3 4", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "תל מונד השקד 4", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "1054"
             }
@@ -3611,10 +3611,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e4\u05e8\u05ea", 
+                "name": "אפרת", 
                 "phone": "02-9932140", 
-                "address": "\u05d0\u05e4\u05e8\u05ea \u05ea.\u05d3. 1041 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "אפרת ת.ד. 1041 ", 
+                "operator": "קופת חולים מכבי", 
                 "error": true, 
                 "item_id": "1055"
             }
@@ -3629,10 +3629,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05e8\u05db\u05e4\u05dc\u05d3", 
+                "name": "ברכפלד", 
                 "phone": "08-9132111", 
-                "address": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05e2\u05d9\u05dc\u05d9\u05ea \u05e9\u05d3' \u05d9\u05d7\u05d6\u05e7\u05d0\u05dc  2", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "מודיעין עילית שד' יחזקאל  2", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "1057"
             }
@@ -3647,10 +3647,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e2\u05dc\u05d4 \u05d0\u05d3\u05d5\u05de\u05d9\u05dd", 
+                "name": "מעלה אדומים", 
                 "phone": "02-5913200", 
-                "address": "\u05de\u05e2\u05dc\u05d4 \u05d0\u05d3\u05d5\u05de\u05d9\u05dd \u05db\u05d9\u05db\u05e8 \u05d4\u05d9\u05d4\u05dc\u05d5\u05dd  891", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "מעלה אדומים כיכר היהלום  891", 
+                "operator": "קופת חולים מכבי", 
                 "error": true, 
                 "item_id": "1059"
             }
@@ -3665,10 +3665,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea \u05d0\u05e8\u05d9\u05d4", 
+                "name": "בית אריה", 
                 "phone": "08-9770800", 
-                "address": "\u05d1\u05d9\u05ea \u05d0\u05e8\u05d9\u05d4 \u05d3.\u05e0. \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בית אריה ד.נ. מודיעין ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "992"
             }
@@ -3683,10 +3683,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e9\u05d3\u05d5\u05d3  \u05d0'", 
+                "name": "אשדוד  א'", 
                 "phone": "08-8523739", 
-                "address": "\u05d0\u05e9\u05d3\u05d5\u05d3  \u05e9\u05d1\u05d9 \u05e6\u05d9\u05d5\u05df  14", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אשדוד  שבי ציון  14", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "1"
             }
@@ -3701,10 +3701,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05d4\u05de\u05db\u05d1\u05d9", 
+                "name": "כפר המכבי", 
                 "phone": "04-8458745", 
-                "address": "\u05db\u05e4\u05e8 \u05d4\u05de\u05db\u05d1\u05d9 \u05db\u05e4\u05e8 \u05d4\u05de\u05db\u05d1\u05d9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר המכבי כפר המכבי ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "614"
             }
@@ -3719,10 +3719,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e6\u05d5\u05e8 \u05e9\u05dc\u05d5\u05dd", 
+                "name": "צור שלום", 
                 "phone": "04-8764367", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05d1\u05d9\u05d0\u05dc\u05d9\u05e7 \u05d1\u05d5\u05e8\u05dc\u05d0  7", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית ביאליק בורלא  7", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "146"
             }
@@ -3737,10 +3737,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e7\"\u05dc", 
+                "name": "קק\"ל", 
                 "phone": "04-8724447", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05d1\u05d9\u05d0\u05dc\u05d9\u05e7 \"\u05e7\u05e7\"\u05dc \" 75", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית ביאליק \"קק\"ל \" 75", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "144"
             }
@@ -3755,10 +3755,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e9\u05e7\u05d3\u05d9\u05dd", 
+                "name": "השקדים", 
                 "phone": "04-8761327", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05d1\u05d9\u05d0\u05dc\u05d9\u05e7 \u05d4\u05e9\u05e7\u05d3\u05d9\u05dd  5", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית ביאליק השקדים  5", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "145"
             }
@@ -3773,10 +3773,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05df \u05e2\u05de\u05d9", 
+                "name": "בן עמי", 
                 "phone": "04-8444647", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05d0\u05ea\u05d0 \u05d1\u05df \u05e2\u05de\u05d9  16", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית אתא בן עמי  16", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "142"
             }
@@ -3791,10 +3791,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e4\u05d9\u05e0\u05e1\u05e7\u05e8", 
+                "name": "פינסקר", 
                 "phone": "077-7292567", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05d0\u05ea\u05d0 \u05e4\u05d9\u05e0\u05e1\u05e7\u05e8  11", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית אתא פינסקר  11", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "143"
             }
@@ -3809,10 +3809,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d5\u05e1\u05e4\u05d9\u05d4 \u05d1' \u05de\u05d6\u05e8\u05d7\u05d9\u05ea", 
+                "name": "עוספיה ב' מזרחית", 
                 "phone": "04-8390069", 
-                "address": "\u05e2\u05d5\u05e1\u05e4\u05d9\u05d4 \u05db\u05e4\u05e8 \u05e2\u05d5\u05e1\u05e4\u05d9\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עוספיה כפר עוספיה ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "140"
             }
@@ -3827,10 +3827,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05d5\u05e1\u05e4\u05d8\u05dc", 
+                "name": "יוספטל", 
                 "phone": "077-7840979", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05d0\u05ea\u05d0 \u05e8\u05d7' \u05d9\u05d5\u05e1\u05e4\u05d8\u05dc  56", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית אתא רח' יוספטל  56", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "141"
             }
@@ -3845,10 +3845,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05e7\u05e0\u05e2\u05dd \u05e2\u05dc\u05d9\u05ea", 
+                "name": "יקנעם עלית", 
                 "phone": "04-9090300", 
-                "address": "\u05d9\u05e7\u05e0\u05e2\u05dd \u05e2\u05dc\u05d9\u05ea \u05d4\u05e0\u05d5\u05e8\u05d9\u05d5   2", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "יקנעם עלית הנוריו   2", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "612"
             }
@@ -3863,10 +3863,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05d1\u05e8\u05d9", 
+                "name": "כברי", 
                 "phone": "04-9952644", 
-                "address": "\u05db\u05d1\u05e8\u05d9 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05de\u05e2\u05e8\u05d1\u05d9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כברי ד.נ גליל מערבי ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "613"
             }
@@ -3881,10 +3881,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05e1\u05e2\u05d5\u05e8", 
+                "name": "יסעור", 
                 "phone": "04-9960222", 
-                "address": "\u05d9\u05e1\u05e2\u05d5\u05e8 \u05d3.\u05e0 \u05de\u05e9\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "יסעור ד.נ משגב ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "610"
             }
@@ -3899,10 +3899,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05e7\u05e0\u05e2\u05dd \u05d0\u05dc\u05d5\u05e0\u05d9\u05dd", 
+                "name": "יקנעם אלונים", 
                 "phone": "04-9937084", 
-                "address": "\u05d9\u05e7\u05e0\u05e2\u05dd \u05d0\u05dc\u05d5\u05e0\u05d9\u05dd \u05d9\u05e2\u05e8 \u05d0\u05d5\u05d3\u05dd   20", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "יקנעם אלונים יער אודם   20", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "611"
             }
@@ -3917,10 +3917,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05de\u05e1\u05e8\u05d9\u05e7", 
+                "name": "כפר מסריק", 
                 "phone": "04-9854143", 
-                "address": "\u05db\u05e4\u05e8 \u05de\u05e1\u05e8\u05d9\u05e7 \u05d3.\u05e0 \u05d0\u05d5\u05e9\u05e8\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר מסריק ד.נ אושרת ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "616"
             }
@@ -3935,10 +3935,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e8\u05de\u05d9\u05d0\u05dc \u05d3\u05e8\u05d5\u05dd", 
+                "name": "כרמיאל דרום", 
                 "phone": "04-9883270", 
-                "address": "\u05db\u05e8\u05de\u05d9\u05d0\u05dc \u05d7\u05d1\u05e6\u05dc\u05ea 2 \u05db\u05e8\u05de\u05d9\u05d0\u05dc 2", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כרמיאל חבצלת 2 כרמיאל 2", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "617"
             }
@@ -3953,10 +3953,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05d1\u05e0\u05d9\u05de\u05d9\u05df", 
+                "name": "קרית בנימין", 
                 "phone": "04-8448396", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05d1\u05e0\u05d9\u05de\u05d9\u05df  \u05e7\u05d9\u05d1\u05d5\u05e5 \u05d2\u05dc\u05d5\u05d9\u05d5\u05ea ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית בנימין  קיבוץ גלויות ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "148"
             }
@@ -3971,10 +3971,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05d7\u05d9\u05d9\u05dd \u05de\u05e2\u05e8\u05d1\u05d9\u05ea", 
+                "name": "קרית חיים מערבית", 
                 "phone": "077-7041319", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05d7\u05d9\u05d9\u05dd \u05e9' \u05d3\u05d2\u05e0\u05d9\u05d4  30", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית חיים ש' דגניה  30", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "149"
             }
@@ -3989,10 +3989,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05de\u05ea \u05d0\u05d1\u05d9\u05d1 \u05d2'", 
+                "name": "רמת אביב ג'", 
                 "phone": "03-7450400", 
-                "address": "\u05e8\u05de\u05ea \u05d0\u05d1\u05d9\u05d1 \u05d0\u05d7\u05d9\u05de\u05d0\u05d9\u05e8 \u05d0\u05d1\u05d0   26", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רמת אביב אחימאיר אבא   26", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": false, 
                 "item_id": "1007"
             }
@@ -4007,10 +4007,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d5\u05d8\u05e4\u05e8\u05d9\u05d3", 
+                "name": "גוטפריד", 
                 "phone": "09-9594555", 
-                "address": "\u05d4\u05e8\u05e6\u05dc\u05d9\u05d4 \u05d8\u05e9\u05e8\u05e0\u05d9\u05d7\u05d5\u05d1\u05e1\u05e7\u05d9   4", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "הרצליה טשרניחובסקי   4", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "912"
             }
@@ -4025,10 +4025,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05d3\u05d5\u05de\u05d9\u05dd", 
+                "name": "קדומים", 
                 "phone": "09-7922088", 
-                "address": "\u05e7\u05d3\u05d5\u05de\u05d9\u05dd \u05d9\u05d4\u05dc\u05d5\u05dd  3", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קדומים יהלום  3", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "1006"
             }
@@ -4043,10 +4043,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05de\u05ea \u05d4\u05db\u05d5\u05d1\u05e9", 
+                "name": "רמת הכובש", 
                 "phone": "09-7474509", 
-                "address": "\u05e8\u05de\u05ea \u05d4\u05db\u05d5\u05d1\u05e9 \u05e7\u05d9\u05d1\u05d5\u05e5 \u05e8\u05de\u05ea \u05d4\u05db\u05d5\u05d1\u05e9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "רמת הכובש קיבוץ רמת הכובש ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "951"
             }
@@ -4061,10 +4061,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e4\u05d3\u05d5\u05d0\u05dc", 
+                "name": "פדואל", 
                 "phone": "03-9329769", 
-                "address": "\u05e4\u05d3\u05d5\u05d0\u05dc \u05d3. \u05e0. \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פדואל ד. נ. מודיעין ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "1005"
             }
@@ -4079,10 +4079,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05de\u05e0\u05d5\u05d0\u05dc", 
+                "name": "עמנואל", 
                 "phone": "09-7921484", 
-                "address": "\u05e2\u05de\u05e0\u05d5\u05d0\u05dc \u05d3.\u05e0. \u05dc\u05d1 \u05d4\u05e9\u05d5\u05de\u05e8\u05d5\u05df ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עמנואל ד.נ. לב השומרון ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "1004"
             }
@@ -4097,10 +4097,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e6\u05d9\u05e8", 
+                "name": "קציר", 
                 "phone": "04-6253595", 
-                "address": "\u05e7\u05e6\u05d9\u05e8 \u05d3.\u05e0 \u05de\u05e0\u05e9\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "קציר ד.נ מנשה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "948"
             }
@@ -4115,10 +4115,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05e0\u05d9 \u05e9\u05d5\u05de\u05e8\u05d5\u05df", 
+                "name": "קרני שומרון", 
                 "phone": "09-7929116", 
-                "address": "\u05e7\u05e8\u05e0\u05d9 \u05e9\u05d5\u05de\u05e8\u05d5\u05df \u05e7\u05d9\u05d1\u05d5\u05e5 \u05d2\u05dc\u05d5\u05d9\u05d5\u05ea   16", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "קרני שומרון קיבוץ גלויות   16", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "949"
             }
@@ -4133,10 +4133,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05d3\u05d5\u05de\u05d9\u05dd", 
+                "name": "קדומים", 
                 "phone": "09-7921311", 
-                "address": "\u05e7\u05d3\u05d5\u05de\u05d9\u05dd \u05d3.\u05e0 \u05e9\u05d5\u05de\u05e8\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "קדומים ד.נ שומרון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "946"
             }
@@ -4151,10 +4151,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05d3\u05d9\u05de\u05d4", 
+                "name": "קדימה", 
                 "phone": "09-8990603", 
-                "address": "\u05e7\u05d3\u05d9\u05de\u05d4 \u05d1\u05df \u05e6\u05d1\u05d9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "קדימה בן צבי ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "947"
             }
@@ -4169,10 +4169,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e6\u05d5\u05e8 \u05d9\u05d2\u05d0\u05dc", 
+                "name": "צור יגאל", 
                 "phone": "09-7494960", 
-                "address": "\u05e6\u05d5\u05e8 \u05d9\u05d2\u05d0\u05dc \"\u05e9\u05d3' \u05d4\u05d3\u05e7\u05dc\u05d9\u05dd, \u05e6\u05d5\u05e8 \u05d9\u05d2\u05d0\u05dc\" ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "צור יגאל \"שד' הדקלים, צור יגאל\" ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "944"
             }
@@ -4187,10 +4187,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e6\u05d5\u05e8\u05df", 
+                "name": "צורן", 
                 "phone": "09-8949859", 
-                "address": "\u05e6\u05d5\u05e8\u05df \u05d3\u05e8\u05da \u05dc\u05d1 \u05d4\u05e9\u05e8\u05d5\u05df  41", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "צורן דרך לב השרון  41", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "945"
             }
@@ -4205,10 +4205,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05df \u05e9\u05de\u05e8", 
+                "name": "עין שמר", 
                 "phone": "04-6374161", 
-                "address": "\u05e2\u05d9\u05df \u05e9\u05de\u05e8 \u05d3.\u05e0 \u05de\u05e0\u05e9\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עין שמר ד.נ מנשה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "942"
             }
@@ -4223,10 +4223,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05de\u05e0\u05d5\u05d0\u05dc", 
+                "name": "עמנואל", 
                 "phone": "09-7925227", 
-                "address": "\u05e2\u05de\u05e0\u05d5\u05d0\u05dc \"\u05db\u05d9\u05db\u05e8 \u05d4\u05e8\u05de\u05d1\"\u05dd\" ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עמנואל \"כיכר הרמב\"ם\" ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "943"
             }
@@ -4241,10 +4241,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05df \u05d4\u05d7\u05d5\u05e8\u05e9", 
+                "name": "עין החורש", 
                 "phone": "04-6127377", 
-                "address": "\u05e2\u05d9\u05df \u05d4\u05d7\u05d5\u05e8\u05e9 \u05d3.\u05e0 \u05e2\u05de\u05e7 \u05d7\u05e4\u05e8 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עין החורש ד.נ עמק חפר ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "941"
             }
@@ -4259,10 +4259,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05e0\u05ea", 
+                "name": "עינת", 
                 "phone": "03-9385175", 
-                "address": "\u05e2\u05d9\u05e0\u05ea \u05e7\u05d9\u05d1\u05d5\u05e5 \u05e2\u05d9\u05e0\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עינת קיבוץ עינת ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "768"
             }
@@ -4277,10 +4277,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05e2\u05d9\u05dc\u05d9\u05ea \u05d2\u05e8\u05d9\u05df \u05e4\u05d0\u05e8\u05e7", 
+                "name": "מודיעין עילית גרין פארק", 
                 "phone": "08-6486311", 
-                "address": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05e2\u05d9\u05dc\u05d9\u05ea \u05d2\u05e8\u05d9\u05df \u05e4\u05d0\u05e8\u05e7 \u05d4\u05e8\u05d1 \u05de\u05e4\u05d5\u05e0\u05d5\u05e1\u05d9\u05e5  3", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "מודיעין עילית גרין פארק הרב מפונוסיץ  3", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": false, 
                 "item_id": "689"
             }
@@ -4295,10 +4295,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e6\u05e4\u05d4 \u05e9\u05dc\u05dd", 
+                "name": "מצפה שלם", 
                 "phone": "02-9945400", 
-                "address": "\u05de\u05e6\u05e4\u05d4 \u05e9\u05dc\u05dd \u05d3.\u05e0 \u05d9\u05dd \u05d4\u05de\u05dc\u05d7 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מצפה שלם ד.נ ים המלח ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "688"
             }
@@ -4313,10 +4313,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05e2\u05d9\u05dc\u05d9\u05ea \u05d1\u05e8\u05db\u05e4\u05dc\u05d3", 
+                "name": "מודיעין עילית ברכפלד", 
                 "phone": "08-9743667", 
-                "address": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05e2\u05d9\u05dc\u05d9\u05ea \u05d1\u05e8\u05db\u05e4\u05dc\u05d3 \u05e8\u05d1\u05d9 \u05e2\u05e7\u05d9\u05d1\u05d0 3", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "מודיעין עילית ברכפלד רבי עקיבא 3", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": true, 
                 "item_id": "685"
             }
@@ -4331,10 +4331,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05e2\u05e6\u05d9\u05d5\u05df", 
+                "name": "כפר עציון", 
                 "phone": "02-9935138", 
-                "address": "\u05db\u05e4\u05e8 \u05e2\u05e6\u05d9\u05d5\u05df \u05d3.\u05e0 \u05e2\u05e8\u05d9 \u05d7\u05d1\u05e8\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר עציון ד.נ ערי חברון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "684"
             }
@@ -4349,10 +4349,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e6\u05e4\u05d4 \u05d9\u05e8\u05d9\u05d7\u05d5", 
+                "name": "מצפה יריחו", 
                 "phone": "02-5353411", 
-                "address": "\u05de\u05e6\u05e4\u05d4 \u05d9\u05e8\u05d9\u05d7\u05d5 \u05d3.\u05e0 \u05d7\u05d1\u05dc \u05d9\u05e8\u05d9\u05d7\u05d5 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מצפה יריחו ד.נ חבל יריחו ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "687"
             }
@@ -4367,10 +4367,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e2\u05dc\u05d4 \u05d0\u05e4\u05e8\u05d9\u05d9\u05dd", 
+                "name": "מעלה אפריים", 
                 "phone": "02-9941674", 
-                "address": "\u05de\u05e2\u05dc\u05d4 \u05d0\u05e4\u05e8\u05d9\u05dd \u05d3.\u05e0 \u05de\u05d6\u05e8\u05d7 \u05d1\u05e0\u05d9\u05de\u05d9\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מעלה אפרים ד.נ מזרח בנימין ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "686"
             }
@@ -4385,10 +4385,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d3\u05dd", 
+                "name": "אדם", 
                 "phone": "02-5855779", 
-                "address": "\u05d0\u05d3\u05dd \u05e1\u05d1\u05d9\u05d5\u05df  52", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "אדם סביון  52", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": false, 
                 "item_id": "681"
             }
@@ -4403,10 +4403,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05d2\u05ea", 
+                "name": "קרית גת", 
                 "phone": "08-6815314", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05d2\u05ea \u05d2\u05d0\u05d5\u05df \u05d4\u05d9\u05e8\u05d3\u05df 41", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "קרית גת גאון הירדן 41", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": false, 
                 "item_id": "680"
             }
@@ -4421,10 +4421,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05d7\u05e1\u05d9\u05d3\u05d9\u05dd", 
+                "name": "כפר חסידים", 
                 "phone": "04-9849211", 
-                "address": "\u05db\u05e4\u05e8 \u05d7\u05e1\u05d9\u05d3\u05d9\u05dd \u05d4\u05e7\u05de\u05d4  1", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "כפר חסידים הקמה  1", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": false, 
                 "item_id": "683"
             }
@@ -4439,10 +4439,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05d5\u05e8\u05d3\u05d9\u05dd ", 
+                "name": "כפר ורדים ", 
                 "phone": "050-2081627", 
-                "address": "\u05db\u05e4\u05e8 \u05d5\u05e8\u05d3\u05d9\u05dd \u05d3\u05e8\u05da \u05d4\u05d2\u05dc\u05d9\u05dc \u05de\u05e8\u05db\u05d6 \u05de\u05e1\u05d7\u05e8\u05d9 \u05db. \u05d5\u05e8\u05d3\u05d9\u05dd ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "כפר ורדים דרך הגליל מרכז מסחרי כ. ורדים ", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": false, 
                 "item_id": "682"
             }
@@ -4457,10 +4457,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d0\u05d5\u05ea \u05e4\u05e1\u05d2\u05d4", 
+                "name": "נאות פסגה", 
                 "phone": "08-9285330", 
-                "address": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05e2\u05d9\u05dc\u05d9\u05ea  ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מודיעין עילית  ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "623"
             }
@@ -4475,10 +4475,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d2\u05d3\u05d9\u05dd", 
+                "name": "מגדים", 
                 "phone": "04-8574882", 
-                "address": "\u05de\u05d2\u05d3\u05d9\u05dd \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מגדים ד.נ חוף הכרמל ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "622"
             }
@@ -4493,10 +4493,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05d5\u05e8\u05e4\u05d9\u05e9 \u05d1", 
+                "name": "חורפיש ב", 
                 "phone": "04-9971555", 
-                "address": "\u05d7\u05d5\u05e8\u05e4\u05d9\u05e9 \u05d7\u05d5\u05e8\u05e4\u05d9\u05e9 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חורפיש חורפיש ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "133"
             }
@@ -4511,10 +4511,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05d5\u05de\u05de\u05d4", 
+                "name": "רוממה", 
                 "phone": "04-8256140", 
-                "address": "\u05d7\u05d9\u05e4\u05d4 \u05e9\u05d9\u05e7\u05de\u05d4  29", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חיפה שיקמה  29", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "132"
             }
@@ -4529,10 +4529,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05e9\u05de\u05d5\u05d0\u05dc", 
+                "name": "קרית שמואל", 
                 "phone": "04-8759759", 
-                "address": "\u05d7\u05d9\u05e4\u05d4 \u05e9\u05d3' \u05d5\u05e8\u05d1\u05d5\u05e8\u05d2  114", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חיפה שד' ורבורג  114", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "131"
             }
@@ -4547,10 +4547,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05d0\u05dc\u05d9\u05e2\u05d6\u05e8", 
+                "name": "קרית אליעזר", 
                 "phone": "077-7570962", 
-                "address": "\u05d7\u05d9\u05e4\u05d4  \u05d4\u05de\u05e2\u05e4\u05d9\u05dc\u05d9\u05dd  1", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חיפה  המעפילים  1", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "130"
             }
@@ -4565,10 +4565,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05d5\u05e8\u05d3\u05d9\u05dd", 
+                "name": "הורדים", 
                 "phone": "04-8218214", 
-                "address": "\u05e0\u05e9\u05e8 \u05d4\u05d5\u05e8\u05d3\u05d9\u05dd  \u05e8\u05de\u05d5\u05ea \u05d9\u05e6\u05d7\u05e7 22", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נשר הורדים  רמות יצחק 22", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "137"
             }
@@ -4583,10 +4583,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05d9\u05e8\u05ea \u05d1\u05df \u05e6\u05d1\u05d9", 
+                "name": "טירת בן צבי", 
                 "phone": "04-8573068", 
-                "address": "\u05d8\u05d9\u05e8\u05ea \u05d4\u05db\u05e8\u05de\u05dc \u05e9\u05d3\u05e8\u05d5\u05ea \u05d1\u05df \u05e6\u05d1\u05d9 22", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טירת הכרמל שדרות בן צבי 22", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "136"
             }
@@ -4601,10 +4601,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": " \u05e2\u05de\u05d9\u05d3\u05e8", 
+                "name": " עמידר", 
                 "phone": "04-8571703", 
-                "address": "\u05d8\u05d9\u05e8\u05ea \u05d4\u05db\u05e8\u05de\u05dc \u05d4\u05e8\u05d1 \u05d5\u05d5\u05d9\u05e0\u05e8\u05d5\u05d1  26", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טירת הכרמל הרב ווינרוב  26", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "135"
             }
@@ -4619,10 +4619,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e0\u05d1\u05d9\u05d0\u05d9\u05dd", 
+                "name": "הנביאים", 
                 "phone": "04-8622973", 
-                "address": "\u05d7\u05d9\u05e4\u05d4 \u05d4\u05e0\u05d1\u05d9\u05d0\u05d9\u05dd  8", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חיפה הנביאים  8", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "134"
             }
@@ -4637,10 +4637,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05d3 \u05d0\u05dc\u05d9\u05d4\u05d5", 
+                "name": "יד אליהו", 
                 "phone": "03-7302367", 
-                "address": "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 - \u05d9\u05e4\u05d5 \u05d3\u05d5\u05d9\u05d3\u05e7\u05d4     18", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1", 
+                "address": "תל אביב - יפו דוידקה     18", 
+                "operator": "עיריית תל אביב", 
                 "error": false, 
                 "item_id": "494"
             }
@@ -4655,10 +4655,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05d9\u05e0\u05d2 \u05d2'\u05d5\u05e8\u05d2'", 
+                "name": "קינג ג'ורג'", 
                 "phone": "03-7240366", 
-                "address": "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 - \u05d9\u05e4\u05d5 \u05e7\u05d9\u05e0\u05d2 \u05d2'\u05d5\u05e8\u05d2'  33", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1", 
+                "address": "תל אביב - יפו קינג ג'ורג'  33", 
+                "operator": "עיריית תל אביב", 
                 "error": false, 
                 "item_id": "495"
             }
@@ -4673,10 +4673,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d5\u05e1\u05e4\u05d9\u05d4 \u05d0'", 
+                "name": "עוספיה א'", 
                 "phone": "04-8391813", 
-                "address": "\u05e2\u05d5\u05e1\u05e4\u05d9\u05d4 \u05db\u05e4\u05e8 \u05e2\u05d5\u05e1\u05e4\u05d9\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עוספיה כפר עוספיה ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "139"
             }
@@ -4691,10 +4691,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05ea\u05e4\u05d5\u05d6 ", 
+                "name": "התפוז ", 
                 "phone": "077-5252172", 
-                "address": "\u05e0\u05e9\u05e8 \u05d4\u05ea\u05e4\u05d5\u05d6  \u05e8\u05de\u05d5\u05ea \u05d9\u05e6\u05d7\u05e7  23", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נשר התפוז  רמות יצחק  23", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "138"
             }
@@ -4709,10 +4709,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e8  \u05e0\u05d5\u05e3", 
+                "name": "הר  נוף", 
                 "phone": "02-5456261", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05d0\u05d2\u05e1\u05d9 10", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים אגסי 10", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "490"
             }
@@ -4727,10 +4727,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e8 \u05d7\u05d5\u05de\u05d4", 
+                "name": "הר חומה", 
                 "phone": "02-6724714", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05e9\u05d0\u05d5\u05dc \u05d0\u05d1\u05d9\u05d2\u05d5\u05e8  7", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים שאול אביגור  7", 
+                "operator": "עיריית ירושלים", 
                 "error": true, 
                 "item_id": "491"
             }
@@ -4745,10 +4745,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05d7\u05e0\u05ea \u05d9\u05e4\u05d5 \u05d2'", 
+                "name": "תחנת יפו ג'", 
                 "phone": "03-6596773", 
-                "address": "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 - \u05d9\u05e4\u05d5 \u05e2\u05d9\u05e8\u05d9\u05ea   17", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1", 
+                "address": "תל אביב - יפו עירית   17", 
+                "operator": "עיריית תל אביב", 
                 "error": false, 
                 "item_id": "492"
             }
@@ -4763,10 +4763,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea \u05e9\u05d8\u05e8\u05d0\u05d5\u05e1", 
+                "name": "בית שטראוס", 
                 "phone": "03-5643444", 
-                "address": "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 - \u05d9\u05e4\u05d5 \u05d1\u05dc\u05e4\u05d5\u05e8  14", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1", 
+                "address": "תל אביב - יפו בלפור  14", 
+                "operator": "עיריית תל אביב", 
                 "error": false, 
                 "item_id": "493"
             }
@@ -4781,10 +4781,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05d7\u05e0\u05d4 \u05d9\u05d3'", 
+                "name": "תחנה יד'", 
                 "phone": "08-6413897", 
-                "address": "\u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2 \u05e1\u05e0\u05d4\u05d3\u05e8\u05d9\u05df   113", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "באר שבע סנהדרין   113", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "24"
             }
@@ -4799,10 +4799,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05d1\u05e0\u05e7\u05d9\u05df", 
+                "name": "טבנקין", 
                 "phone": "08-6411166", 
-                "address": "\u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2 \u05d8\u05d1\u05e0\u05e7\u05d9\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "באר שבע טבנקין ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "25"
             }
@@ -4817,10 +4817,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d1\u05d5\u05e8\u05d1\u05d9\u05e2", 
+                "name": "אבורביע", 
                 "phone": "08-6233853", 
-                "address": "\u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2 \"\u05e9\u05dc\u05d5\u05e9\u05ea \u05d1\u05e0\u05d9 \u05e2\u05d9\u05df \u05d7\u05e8\u05d5\u05d3- \u05e8\u05de\u05d1\"\u05dd\" 1", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "באר שבע \"שלושת בני עין חרוד- רמב\"ם\" 1", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "26"
             }
@@ -4835,10 +4835,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05d5\u05e0\u05ea\u05df", 
+                "name": "יונתן", 
                 "phone": "08-6419677", 
-                "address": "\u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2 \"\u05e8\u05d3\"\u05e7\" 21", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "באר שבע \"רד\"ק\" 21", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "27"
             }
@@ -4853,10 +4853,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d9\u05dc\u05ea \u05d4'", 
+                "name": "אילת ה'", 
                 "phone": "08-6318353", 
-                "address": "\u05d0\u05d9\u05dc\u05ea \u05e9\u05db\u05d5\u05e0\u05ea \u05e6\u05d0\u05dc\u05d9\u05dd ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אילת שכונת צאלים ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "20"
             }
@@ -4871,10 +4871,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05d7\u05e0\u05d4 \u05d2'", 
+                "name": "תחנה ג'", 
                 "phone": "08-6233875", 
-                "address": "\u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2 \u05d5\u05d9\u05e0\u05d2\u05d9\u05d9\u05d8  8", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "באר שבע וינגייט  8", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "21"
             }
@@ -4889,10 +4889,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05d7\u05e0\u05d4 \u05d5'", 
+                "name": "תחנה ו'", 
                 "phone": "08-6433511", 
-                "address": "\u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2 \u05d4\u05d5\u05d1\u05e8\u05de\u05df  7", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "באר שבע הוברמן  7", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "22"
             }
@@ -4907,10 +4907,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05d7\u05e0\u05d4 \u05d8'", 
+                "name": "תחנה ט'", 
                 "phone": "08-6109243", 
-                "address": "\u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2 \u05e9\u05d3\u05e8\u05d5\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd 32", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "באר שבע שדרות ירושלים 32", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "23"
             }
@@ -4925,10 +4925,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05db\u05d5\u05e0\u05ea \u05d0\u05dc\u05d9\u05e2\u05d6\u05e8", 
+                "name": "שכונת אליעזר", 
                 "phone": "09-7419771", 
-                "address": "\u05db\u05e4\u05e8 \u05e1\u05d1\u05d0 \u05e9\u05d3' \u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df   2", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר סבא שד' מנחם בגין   2", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "927"
             }
@@ -4943,10 +4943,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05de\u05d5\u05ea", 
+                "name": "רמות", 
                 "phone": "08-6481257", 
-                "address": "\u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2 \u05e8\u05d5\u05d1\u05e8\u05d8\u05d5 '\u05d1\u05e8\u05e0\u05d9 (\u05de\u05e7\u05dc\u05d8) 5", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "באר שבע רוברטו 'ברני (מקלט) 5", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "28"
             }
@@ -4961,10 +4961,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d7\u05dc-\u05d1\u05e7\u05e2", 
+                "name": "נחל-בקע", 
                 "phone": "08-6279768", 
-                "address": "\u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2 \u05d2\u05d9\u05d1\u05ea\u05d5\u05df-\u05de\u05e7\u05dc\u05d8 10 10", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "באר שבע גיבתון-מקלט 10 10", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "29"
             }
@@ -4979,10 +4979,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05df \u05d0\u05dc \u05d0\u05e1\u05d3", 
+                "name": "עין אל אסד", 
                 "phone": "04-6980392", 
-                "address": "\u05e2\u05d9\u05df \u05d0\u05dc-\u05d0\u05e1\u05d3 \u05e2\u05d9\u05df \u05d0\u05dc \u05d0\u05e1\u05d3 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עין אל-אסד עין אל אסד ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "407"
             }
@@ -4997,10 +4997,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e8\u05d5\u05dd \u05d4\u05d2\u05dc\u05d9\u05dc", 
+                "name": "מרום הגליל", 
                 "phone": "04-6987898", 
-                "address": "\u05de\u05e8\u05d5\u05dd \u05d4\u05d2\u05dc\u05d9\u05dc \u05de.\u05d0. \u05de\u05e8\u05d5\u05dd \u05d4\u05d2\u05dc\u05d9\u05dc ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מרום הגליל מ.א. מרום הגליל ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "406"
             }
@@ -5015,10 +5015,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e1\u05e2\u05d3\u05d4", 
+                "name": "מסעדה", 
                 "phone": "04-6983319", 
-                "address": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05de\u05e1\u05e2\u05d3\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מסעדה מסעדה ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "405"
             }
@@ -5033,10 +5033,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d2'\u05d3\u05dc \u05e9\u05de\u05e1", 
+                "name": "מג'דל שמס", 
                 "phone": "04-6983183", 
-                "address": "\u05de\u05d2\u05d3\u05dc \u05e9\u05de\u05e1 \u05de\u05d2'\u05d3\u05dc \u05e9\u05de\u05e1 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מגדל שמס מג'דל שמס ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "403"
             }
@@ -5051,10 +5051,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05e1\u05d5\u05d3 \u05d4\u05de\u05e2\u05dc\u05d4", 
+                "name": "יסוד המעלה", 
                 "phone": "04-6937439", 
-                "address": "\u05d9\u05e1\u05d5\u05d3 \u05d4\u05de\u05e2\u05dc\u05d4 \u05d9\u05e1\u05d5\u05d3 \u05d4\u05de\u05e2\u05dc\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "יסוד המעלה יסוד המעלה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "402"
             }
@@ -5069,10 +5069,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05d5\u05d1\u05d0", 
+                "name": "טובא", 
                 "phone": "04-6800924", 
-                "address": "\u05d8\u05d5\u05d1\u05d0-\u05d6\u05e0\u05d2\u05e8\u05d9\u05d9\u05d4 \u05d8\u05d5\u05d1\u05d0 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טובא-זנגרייה טובא ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "401"
             }
@@ -5087,10 +5087,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05e6\u05d5\u05e8 \u05d3'", 
+                "name": "חצור ד'", 
                 "phone": "04-6938158", 
-                "address": "\u05d7\u05e6\u05d5\u05e8 \u05d4\u05d2\u05dc\u05d9\u05dc\u05d9\u05ea \u05e7\u05e8\u05d9\u05d4 \u05d7\u05e1\u05d9\u05d3\u05d9\u05ea ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חצור הגלילית קריה חסידית ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "400"
             }
@@ -5105,10 +5105,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e2\u05d2\u05df \u05de\u05d9\u05db\u05d0\u05dc", 
+                "name": "מעגן מיכאל", 
                 "phone": "04-6399582", 
-                "address": "\u05de\u05e2\u05d2\u05df \u05de\u05d9\u05db\u05d0\u05dc \u05d3.\u05e0 \u05de\u05e0\u05e9\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מעגן מיכאל ד.נ מנשה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "932"
             }
@@ -5123,10 +5123,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d9 \u05e2\u05de\u05d9", 
+                "name": "מי עמי", 
                 "phone": "04-6351048", 
-                "address": "\u05de\u05d9 \u05e2\u05de\u05d9 \u05d3.\u05e0 \u05de\u05e0\u05e9\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מי עמי ד.נ מנשה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "930"
             }
@@ -5141,10 +5141,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e6\u05e4\u05d4 \u05e2\u05d3\u05d9", 
+                "name": "מצפה עדי", 
                 "phone": "04-9860969", 
-                "address": "\u05de\u05e6\u05e4\u05d4 \u05e2\u05d3\u05d9 \u05de\u05e6\u05e4\u05d4 \u05e2\u05d3\u05d9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מצפה עדי מצפה עדי ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "629"
             }
@@ -5159,10 +5159,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05e8\u05d5\u05dd \u05d0' \u05e6\u05e4\u05ea", 
+                "name": "דרום א' צפת", 
                 "phone": "04-6970140", 
-                "address": "\u05e6\u05e4\u05ea  \u05d0\u05e0\u05d9\u05dc\u05d1\u05d9\u05e5 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "צפת  אנילביץ ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "409"
             }
@@ -5177,10 +5177,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05df \u05e7\u05e0\u05d9\u05d0", 
+                "name": "עין קניא", 
                 "phone": "04-6984253", 
-                "address": "\u05e2\u05d9\u05df \u05e7\u05e0\u05d9\u05d9\u05d0 \u05e2\u05d9\u05df \u05e7\u05e0\u05d9\u05d0 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עין קנייא עין קניא ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "408"
             }
@@ -5195,10 +5195,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05e4\u05df B", 
+                "name": "גפן B", 
                 "phone": "02-5804462", 
-                "address": "\u05d1\u05d9\u05ea\u05e8 \u05e2\u05d9\u05dc\u05d9\u05ea  \u05d7\u05d1\u05d3  2", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ביתר עילית  חבד  2", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "1069"
             }
@@ -5213,10 +5213,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05e1\u05d1\u05d9\u05d5\u05e0\u05d9\u05dd", 
+                "name": "קרית סביונים", 
                 "phone": "03-5392300", 
-                "address": "\u05d9\u05d4\u05d5\u05d3 \u05d4\u05d7\u05d5\u05e8\u05e9 4", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "יהוד החורש 4", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "628"
             }
@@ -5231,10 +5231,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e8\u05e6\u05dc\u05d9\u05d4", 
+                "name": "הרצליה", 
                 "phone": "09-9706125", 
-                "address": "\u05d4\u05e8\u05e6\u05dc\u05d9\u05d4 \u05dc\u05e0\u05e6\u05d8 6", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "הרצליה לנצט 6", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": false, 
                 "item_id": "1028"
             }
@@ -5249,10 +5249,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05d9\u05e8\u05ea \u05d9\u05d4\u05d5\u05d3\u05d4", 
+                "name": "טירת יהודה", 
                 "phone": "03-9721152", 
-                "address": "\u05d8\u05d9\u05e8\u05ea \u05d9\u05d4\u05d5\u05d3\u05d4 \u05d8\u05d9\u05e8\u05ea \u05d9\u05d4\u05d5\u05d3\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "טירת יהודה טירת יהודה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "758"
             }
@@ -5267,10 +5267,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05d5\u05d3 \u05d4\u05e9\u05e8\u05d5\u05df", 
+                "name": "הוד השרון", 
                 "phone": "09-7619606", 
-                "address": "\u05d4\u05d5\u05d3 \u05d4\u05e9\u05e8\u05d5\u05df \u05d9\u05d4\u05d5\u05e9\u05d5\u05e2 \u05d1\u05df \u05d2\u05de\u05dc\u05d0 25 \u05d0", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "הוד השרון יהושוע בן גמלא 25 א", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": false, 
                 "item_id": "1018"
             }
@@ -5285,10 +5285,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d5\u05e7\u05d9\u05d9\u05d1\u05dc\u05d4", 
+                "name": "מוקייבלה", 
                 "phone": "04-6407385", 
-                "address": "\u05de\u05d5\u05e7\u05d9\u05d9\u05d1\u05dc\u05d4 \u05de\u05d5\u05e7\u05d9\u05d9\u05d1\u05dc\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מוקייבלה מוקייבלה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "379"
             }
@@ -5303,10 +5303,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d5\u05e3 \u05d4\u05e2\u05de\u05e7", 
+                "name": "נוף העמק", 
                 "phone": "04-6443808", 
-                "address": "\u05de\u05d2\u05d3\u05dc \u05d4\u05e2\u05de\u05e7 \u05e9\u05d3\u05e8\u05d5\u05ea \u05d4\u05d1\u05e0\u05d9\u05dd  15", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מגדל העמק שדרות הבנים  15", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "378"
             }
@@ -5321,10 +5321,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05d7\u05e8\u05d5\u05d1", 
+                "name": "כפר חרוב", 
                 "phone": "04-6761824", 
-                "address": "\u05db\u05e4\u05e8 \u05d7\u05e8\u05d5\u05d1  ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר חרוב  ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "829"
             }
@@ -5339,10 +5339,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05dc\u05d9", 
+                "name": "עלי", 
                 "phone": "02-9947313", 
-                "address": "\u05e2\u05dc\u05d9 \u05d4\u05d0\u05d5\u05e8\u05df  10", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "עלי האורן  10", 
+                "operator": "קופת חולים מכבי", 
                 "error": true, 
                 "item_id": "1060"
             }
@@ -5357,10 +5357,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d6\u05e8\u05d6\u05d9\u05e8", 
+                "name": "זרזיר", 
                 "phone": "04-6515683", 
-                "address": "\u05d6\u05e8\u05d6\u05d9\u05e8 \u05d6\u05e8\u05d6\u05d9\u05e8 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "זרזיר זרזיר ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "371"
             }
@@ -5375,10 +5375,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05d1\u05d5\u05e8\u05d9\u05d4", 
+                "name": "דבוריה", 
                 "phone": "04-8139425", 
-                "address": "\u05d3\u05d1\u05d5\u05e8\u05d9\u05d9\u05d4 \u05d3\u05d1\u05d5\u05e8\u05d9\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "דבורייה דבוריה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "370"
             }
@@ -5393,10 +5393,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05de\u05e8\u05d4", 
+                "name": "טמרה", 
                 "phone": "04-6620114", 
-                "address": "\u05d8\u05de\u05e8\u05d4 \u05d9\u05d6\u05e8\u05e2\u05d0\u05dc \u05db\u05e4\u05e8 '\u05d8\u05de\u05e8\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טמרה יזרעאל כפר 'טמרה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "373"
             }
@@ -5411,10 +5411,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05d9\u05d9\u05d1\u05d4(\u05d1\u05e2\u05de\u05e7)", 
+                "name": "טייבה(בעמק)", 
                 "phone": "04-6070069", 
-                "address": "\u05d8\u05d9\u05d9\u05d1\u05d4 \u05d8\u05d9\u05d9\u05d1\u05d4(\u05d1\u05e2\u05de\u05e7) ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טייבה טייבה(בעמק) ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "372"
             }
@@ -5429,10 +5429,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05d2'\u05d0\u05d2'\u05e8\u05d4", 
+                "name": "חג'אג'רה", 
                 "phone": "04-9531360", 
-                "address": "\u05db\u05e2\u05d1\u05d9\u05d4-\u05d8\u05d1\u05d0\u05e9-\u05d7\u05d2'\u05d0\u05d2'\u05e8\u05d4 \u05d7\u05d2'\u05d0\u05d2'\u05e8\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כעביה-טבאש-חג'אג'רה חג'אג'רה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "375"
             }
@@ -5447,10 +5447,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e2\u05d1\u05d9\u05d9\u05d4", 
+                "name": "כעבייה", 
                 "phone": "04-9536668", 
-                "address": "\u05db\u05e2\u05d1\u05d9\u05d4-\u05d8\u05d1\u05d0\u05e9-\u05d7\u05d2'\u05d0\u05d2'\u05e8\u05d4 \u05db\u05e2\u05d1\u05d9\u05d9\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כעביה-טבאש-חג'אג'רה כעבייה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "374"
             }
@@ -5465,10 +5465,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05ea\u05d1\u05d5\u05e8", 
+                "name": "כפר תבור", 
                 "phone": "04-6766868", 
-                "address": "\u05db\u05e4\u05e8 \u05ea\u05d1\u05d5\u05e8 \u05db\u05e4\u05e8 \u05ea\u05d1\u05d5\u05e8 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כפר תבור כפר תבור ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "377"
             }
@@ -5483,10 +5483,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e6\u05e8", 
+                "name": "מצר", 
                 "phone": "04-6769512", 
-                "address": "\u05db\u05e4\u05e8 \u05de\u05e6\u05e8 \u05db\u05e4\u05e8 \u05de\u05e6\u05e8 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כפר מצר כפר מצר ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "376"
             }
@@ -5501,10 +5501,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05d3\u05d5\u05e9\u05d9 \u05de\u05e6\u05e8\u05d9\u05dd", 
+                "name": "קדושי מצרים", 
                 "phone": "03-5365626", 
-                "address": "\u05d9\u05d4\u05d5\u05d3 \u05d4\u05e8\u05e6\u05dc  24", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "יהוד הרצל  24", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": false, 
                 "item_id": "1019"
             }
@@ -5519,10 +5519,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05dc\u05d4\u05d1\u05d9\u05dd", 
+                "name": "להבים", 
                 "phone": "08-6510230", 
-                "address": "\u05dc\u05d4\u05d1\u05d9\u05dd \u05de\u05e8\u05db\u05d6 \u05de\u05e1\u05d7\u05e8\u05d9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "להבים מרכז מסחרי ", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "708"
             }
@@ -5537,10 +5537,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05e7\u05d5\u05e2", 
+                "name": "בקוע", 
                 "phone": "08-9251156", 
-                "address": "\u05d1\u05e7\u05d5\u05e2 \u05d3.\u05e0 \u05e9\u05de\u05e9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "בקוע ד.נ שמשון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "709"
             }
@@ -5555,10 +5555,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d9\u05de\u05d5\u05e0\u05d9\u05dd", 
+                "name": "אימונים", 
                 "phone": "08-8551019", 
-                "address": "\u05d0\u05d9\u05de\u05d5\u05e0\u05d9\u05dd \u05d3.\u05e0 \u05d0\u05d1\u05d8\u05d7 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אימונים ד.נ אבטח ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "704"
             }
@@ -5573,10 +5573,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e8\u05db\u05d6 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea \u05d8\u05dc", 
+                "name": "מרכז בריאות טל", 
                 "phone": "08-8581008", 
-                "address": "\u05d1\u05d0\u05e8 \u05d8\u05d5\u05d1\u05d9\u05d4 \u05d3\u05d5\u05d0\u05e8 \u05d1\u05d0\u05e8 \u05d8\u05d5\u05d1\u05d9\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "באר טוביה דואר באר טוביה ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "705"
             }
@@ -5591,10 +5591,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05e6\u05e8\u05d5\u05df", 
+                "name": "ביצרון", 
                 "phone": "08-8573095", 
-                "address": "\u05d1\u05d9\u05e6\u05e8\u05d5\u05df \u05de\u05d5\u05e9\u05d1 \u05d1\u05d9\u05e6\u05e8\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ביצרון מושב ביצרון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "706"
             }
@@ -5609,10 +5609,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05e0\u05d9 \u05d3\u05e8\u05d5\u05dd", 
+                "name": "בני דרום", 
                 "phone": "08-8515543", 
-                "address": "\u05d1\u05e0\u05d9 \u05d3\u05e8\u05d5\u05dd \u05d3.\u05e0 \u05d0\u05d1\u05d8\u05d7 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "בני דרום ד.נ אבטח ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "707"
             }
@@ -5627,10 +5627,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05de\u05ea \u05e8\u05d7\u05dc", 
+                "name": "רמת רחל", 
                 "phone": "02-6702951", 
-                "address": "\u05e8\u05de\u05ea \u05e8\u05d7\u05dc \u05d3.\u05e0 \u05d4\u05e8\u05d9 \u05d9\u05d4\u05d5\u05d3\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "רמת רחל ד.נ הרי יהודה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "700"
             }
@@ -5645,10 +5645,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e8\u05de\u05d9\u05d0\u05dc \u05de\u05e8\u05db\u05d6", 
+                "name": "כרמיאל מרכז", 
                 "phone": "04-9900500", 
-                "address": "\u05db\u05e8\u05de\u05d9\u05d0\u05dc \u05de\u05e9\u05e2\u05d5\u05dc \u05d4\u05e8\u05e7\u05e4\u05d5\u05ea  41", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כרמיאל משעול הרקפות  41", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "618"
             }
@@ -5663,10 +5663,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05d1\u05d5\u05dc", 
+                "name": "יבול", 
                 "phone": "08-9961298", 
-                "address": "\u05d9\u05d1\u05d5\u05dc \u05d3. \u05e0\u05e2 \u05e0\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "יבול ד. נע נגב ", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "702"
             }
@@ -5681,10 +5681,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05dc \u05e6\u05d9\u05d5\u05df", 
+                "name": "תל ציון", 
                 "phone": "02-9705700", 
-                "address": "\u05ea\u05dc \u05e6\u05d9\u05d5\u05df \u05d0\u05d4\u05d1\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc  \u05db\u05d5\u05db\u05d1 \u05d9\u05e2\u05e7\u05d1 2", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "תל ציון אהבת ישראל  כוכב יעקב 2", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "703"
             }
@@ -5699,10 +5699,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05d5\u05de\u05ea \u05d4\u05d9\u05d9\u05d1 - \u05e4\u05e8\u05d5\u05e9", 
+                "name": "רומת הייב - פרוש", 
                 "phone": "04-6412470", 
-                "address": "\u05e8\u05d5\u05de\u05ea \u05d4\u05d9\u05d9\u05d1 \u05e8\u05d5\u05de\u05ea \u05d4\u05d9\u05d9\u05d1 - \u05e4\u05e8\u05d5\u05e9 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רומת הייב רומת הייב - פרוש ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "393"
             }
@@ -5717,10 +5717,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05d5\u05de\u05d0\u05e0\u05d4", 
+                "name": "רומאנה", 
                 "phone": "04-6411826", 
-                "address": "\u05e8\u05d5\u05de\u05d0\u05e0\u05d4 \u05e8\u05d5\u05de\u05d0\u05e0\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רומאנה רומאנה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "392"
             }
@@ -5735,10 +5735,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d6\u05dc\u05e4\u05d4", 
+                "name": "זלפה", 
                 "phone": "04-6420737", 
-                "address": "\u05d6\u05dc\u05e4\u05d4 \u05d6\u05dc\u05e4\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "זלפה זלפה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "88"
             }
@@ -5753,10 +5753,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05e9\u05ea \u05d4\u05d9\u05de\u05d9\u05dd", 
+                "name": "ששת הימים", 
                 "phone": "04-6341602", 
-                "address": "\u05d7\u05d3\u05e8\u05d4 \u05e9\u05e9\u05ea \u05d4\u05d9\u05de\u05d9\u05dd  20", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חדרה ששת הימים  20", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "89"
             }
@@ -5771,10 +5771,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d5\u05e9 \u05d7\u05dc\u05d1", 
+                "name": "גוש חלב", 
                 "phone": "04-6980569", 
-                "address": "\u05d2'\u05e9 \u05d2\u05d5\u05e9 \u05d7\u05dc\u05d1 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ג'ש גוש חלב ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "397"
             }
@@ -5789,10 +5789,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d5\u05e7\u05e2\u05ea\u05d4", 
+                "name": "בוקעתה", 
                 "phone": "04-6981183", 
-                "address": "\u05d1\u05d5\u05e7\u05e2\u05d0\u05ea\u05d0 \u05d1\u05d5\u05e7\u05e2\u05ea\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בוקעאתא בוקעתה ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "396"
             }
@@ -5807,10 +5807,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e8\u05db\u05d6 \u05e7\u05dc\u05d9\u05d8\u05d4", 
+                "name": "מרכז קליטה", 
                 "phone": "04-6932855", 
-                "address": "\u05d0\u05d9\u05d9\u05dc\u05ea \u05d4\u05e9\u05d7\u05e8 \u05e7\u05d9\u05d1\u05d5\u05e5 \u05d0\u05d9\u05d9\u05dc\u05ea \u05d4\u05e9\u05d7\u05e8 (\u05de.\u05e7\u05dc\u05d9\u05d8\u05d4) ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "איילת השחר קיבוץ איילת השחר (מ.קליטה) ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "395"
             }
@@ -5825,10 +5825,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d9\u05d1\u05dc\u05d9", 
+                "name": "שיבלי", 
                 "phone": "04-6765070", 
-                "address": "\u05e9\u05d1\u05dc\u05d9 \u05e9\u05d9\u05d1\u05dc\u05d9 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "שבלי שיבלי ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "394"
             }
@@ -5843,10 +5843,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2'\u05e1\u05e8 \u05d0", 
+                "name": "ג'סר א", 
                 "phone": "04-6361901", 
-                "address": "\u05d2'\u05e1\u05e8 \u05d0\u05dc \u05d6\u05e8\u05e7\u05d0 \u05d2'\u05e1\u05e8 \u05d0\u05dc \u05d6\u05e8\u05e7\u05d0 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ג'סר אל זרקא ג'סר אל זרקא ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "82"
             }
@@ -5861,10 +5861,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2'\u05e1\u05e8 \u05d1", 
+                "name": "ג'סר ב", 
                 "phone": "04-6265165", 
-                "address": "\u05d2'\u05e1\u05e8 \u05d0\u05dc \u05d6\u05e8\u05e7\u05d0 \u05d2'\u05e1\u05e8 \u05d0\u05dc \u05d6\u05e8\u05e7\u05d0 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ג'סר אל זרקא ג'סר אל זרקא ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "83"
             }
@@ -5879,10 +5879,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05e8\u05d8\u05e2\u05d4", 
+                "name": "ברטעה", 
                 "phone": "04-6253296", 
-                "address": "\u05d1\u05e8\u05d8\u05e2\u05d4 \u05d1\u05e8\u05d8\u05e2\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ברטעה ברטעה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "80"
             }
@@ -5897,10 +5897,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d1\u05e2\u05ea \u05e2\u05d3\u05d4", 
+                "name": "גבעת עדה", 
                 "phone": "077-7850830", 
-                "address": "\u05d2\u05d1\u05e2\u05ea \u05e2\u05d3\u05d4 \u05d7\u05d9 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "גבעת עדה חי ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "81"
             }
@@ -5915,10 +5915,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05db\u05d5\u05df \u05d3\u05e8\u05d5\u05dd", 
+                "name": "שכון דרום", 
                 "phone": "04-6399158", 
-                "address": "\u05d6\u05db\u05e8\u05d5\u05df \u05d9\u05e2\u05e7\u05d1 \u05e7\u05d1\u05d5\u05e5 \u05d2\u05dc\u05d5\u05d9\u05d5\u05ea 4", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "זכרון יעקב קבוץ גלויות 4", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "86"
             }
@@ -5933,10 +5933,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d6\u05db\u05e8\u05d5\u05df \u05de\u05d5\u05e9\u05d1\u05d4.", 
+                "name": "זכרון מושבה.", 
                 "phone": "077-7292549", 
-                "address": "\u05d6\u05db\u05e8\u05d5\u05df \u05d9\u05e2\u05e7\u05d1 \u05e7\u05d3\u05d5\u05e9\u05d9 \u05d4\u05e9\u05d5\u05d0\u05d4 8", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "זכרון יעקב קדושי השואה 8", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "87"
             }
@@ -5951,10 +5951,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2'\u05ea \u05d0", 
+                "name": "ג'ת א", 
                 "phone": "077-2031338", 
-                "address": "\u05d2'\u05ea \u05d2'\u05ea ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ג'ת ג'ת ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "84"
             }
@@ -5969,10 +5969,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2'\u05ea \u05d1", 
+                "name": "ג'ת ב", 
                 "phone": "077-4030677", 
-                "address": "\u05d2'\u05ea \u05d2'\u05ea ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ג'ת ג'ת ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "85"
             }
@@ -5987,10 +5987,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d3\u05d5\u05ea", 
+                "name": "גדות", 
                 "phone": "04-6939124", 
-                "address": "\u05d2\u05d3\u05d5\u05ea \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גדות ד.נ גליל עליון ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "797"
             }
@@ -6005,10 +6005,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d1\u05ea", 
+                "name": "גבת", 
                 "phone": "04-6549807", 
-                "address": "\u05d2\u05d1\u05ea \u05d3.\u05e0 \u05e2\u05de\u05e7 \u05d9\u05d6\u05e8\u05d0\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גבת ד.נ עמק יזראל ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "796"
             }
@@ -6023,10 +6023,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d1\u05e2\u05ea \u05e2\u05d5\u05d6", 
+                "name": "גבעת עוז", 
                 "phone": "04-6524888", 
-                "address": "\u05d2\u05d1\u05e2\u05ea \u05e2\u05d5\u05d6 \u05d3.\u05e0 \u05de\u05d2\u05d9\u05d3\u05d5 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גבעת עוז ד.נ מגידו ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "795"
             }
@@ -6041,10 +6041,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d1\u05e2\u05ea \u05d0\u05dc\u05d4", 
+                "name": "גבעת אלה", 
                 "phone": "04-6515155", 
-                "address": "\u05d2\u05d1\u05e2\u05ea \u05d0\u05dc\u05d4 \u05d2\u05d1\u05e2\u05ea \u05d0\u05dc\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גבעת אלה גבעת אלה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "794"
             }
@@ -6059,10 +6059,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d1\u05e2\u05ea \u05d0\u05d1\u05e0\u05d9", 
+                "name": "גבעת אבני", 
                 "phone": "04-6799193", 
-                "address": "\u05d2\u05d1\u05e2\u05ea \u05d0\u05d1\u05e0\u05d9 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05ea\u05d7\u05ea\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גבעת אבני ד.נ גליל תחתון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "793"
             }
@@ -6077,10 +6077,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d1\u05e2", 
+                "name": "גבע", 
                 "phone": "04-6535773", 
-                "address": "\u05d2\u05d1\u05e2 \u05d3\u05d5\u05d0\u05e8 \u05d2\u05d1\u05e2 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גבע דואר גבע ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "792"
             }
@@ -6095,10 +6095,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05e8\u05e2\u05dd", 
+                "name": "ברעם", 
                 "phone": "04-6988119", 
-                "address": "\u05d1\u05e8\u05e2\u05dd \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ברעם ד.נ גליל עליון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "791"
             }
@@ -6113,10 +6113,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05e0\u05d9 \u05d9\u05d4\u05d5\u05d3\u05d4", 
+                "name": "בני יהודה", 
                 "phone": "04-6762017", 
-                "address": "\u05d1\u05e0\u05d9 \u05d9\u05d4\u05d5\u05d3\u05d4 \u05d3.\u05e0 \u05d1\u05e0\u05d9 \u05d9\u05d4\u05d5\u05d3\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "בני יהודה ד.נ בני יהודה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "790"
             }
@@ -6131,10 +6131,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d6\u05d9\u05ea", 
+                "name": "גזית", 
                 "phone": "04-6768807", 
-                "address": "\u05d2\u05d6\u05d9\u05ea \u05d3.\u05e0 \u05d9\u05d6\u05e8\u05d0\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גזית ד.נ יזראל ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "799"
             }
@@ -6149,10 +6149,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d5\u05e0\u05df", 
+                "name": "גונן", 
                 "phone": "04-6955202", 
-                "address": "\u05d2\u05d5\u05e0\u05df \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גונן ד.נ גליל עליון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "798"
             }
@@ -6167,10 +6167,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e9\u05d3\u05d5\u05d3  \u05d6'", 
+                "name": "אשדוד  ז'", 
                 "phone": "08-8671894", 
-                "address": "\u05d0\u05e9\u05d3\u05d5\u05d3 \u05e9\u05de\u05d0\u05d9  5", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אשדוד שמאי  5", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "7"
             }
@@ -6185,10 +6185,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05e9\u05e8 \u05d4\u05d6\u05d9\u05d5", 
+                "name": "גשר הזיו", 
                 "phone": "04-9958458", 
-                "address": "\u05d2\u05e9\u05e8 \u05d4\u05d6\u05d9\u05d5 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05de\u05e2\u05e8\u05d1\u05d9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גשר הזיו ד.נ גליל מערבי ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "601"
             }
@@ -6203,10 +6203,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05e0\u05d9\u05ea\u05d4", 
+                "name": "חניתה", 
                 "phone": "04-9859688", 
-                "address": "\u05d7\u05e0\u05d9\u05ea\u05d4 \u05d7\u05e0\u05d9\u05ea\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "חניתה חניתה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "607"
             }
@@ -6221,10 +6221,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d5\u05d1\u05dc", 
+                "name": "שובל", 
                 "phone": "08-9916222", 
-                "address": "\u05e9\u05d5\u05d1\u05dc \u05d3.\u05e0 \u05d4\u05e0\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שובל ד.נ הנגב ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "586"
             }
@@ -6239,10 +6239,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d3\u05de\u05d9\u05ea", 
+                "name": "אדמית", 
                 "phone": "04-9859113", 
-                "address": "\u05d0\u05d3\u05de\u05d9\u05ea \u05d0\u05d3\u05de\u05d9\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אדמית אדמית ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "587"
             }
@@ -6257,10 +6257,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05dc\u05d1 \u05d1\u05d9\u05ea\u05e8", 
+                "name": "לב ביתר", 
                 "phone": "02-5887000", 
-                "address": "\u05dc\u05d1 \u05d1\u05d9\u05ea\u05e8  \u05d4\u05e8\u05df 20", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "לב ביתר  הרן 20", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "584"
             }
@@ -6275,10 +6275,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05de\u05d9\u05e0\u05d3\u05d1", 
+                "name": "עמינדב", 
                 "phone": "02-6438275", 
-                "address": "\u05e2\u05de\u05d9\u05e0\u05d3\u05d1 \u05d3.\u05e0. \u05d4\u05e8\u05d9 \u05d9\u05d4\u05d5\u05d3\u05d4 90885 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עמינדב ד.נ. הרי יהודה 90885 ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "585"
             }
@@ -6293,10 +6293,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d3\u05d4 \u05d1\u05d5\u05e7\u05e8 \u05e7\u05d9\u05d1\u05d5\u05e5", 
+                "name": "שדה בוקר קיבוץ", 
                 "phone": "08-6560333", 
-                "address": "\u05e9\u05d3\u05d4 \u05d1\u05d5\u05e7\u05e8 \u05d3.\u05e0 \u05e8\u05de\u05ea \u05d4\u05e0\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שדה בוקר ד.נ רמת הנגב ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "582"
             }
@@ -6311,10 +6311,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d3\u05d4 \u05d3\u05d5\u05d3", 
+                "name": "שדה דוד", 
                 "phone": "08-6848619", 
-                "address": "\u05e9\u05d3\u05d4 \u05d3\u05d5\u05d3 \u05d3.\u05e0 \u05dc\u05db\u05d9\u05e9 \u05d3\u05e8\u05d5\u05dd ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שדה דוד ד.נ לכיש דרום ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "583"
             }
@@ -6329,10 +6329,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05de\u05ea \u05e0\u05d2\u05d1", 
+                "name": "רמת נגב", 
                 "phone": "08-6564176", 
-                "address": "\u05e8\u05de\u05ea \u05e0\u05d2\u05d1 \u05d3.\u05e0 \u05d7\u05dc\u05d5\u05e6\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "רמת נגב ד.נ חלוצה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "580"
             }
@@ -6347,10 +6347,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05e2\u05d9\u05dd", 
+                "name": "רעים", 
                 "phone": "08-9940220", 
-                "address": "\u05e8\u05e2\u05d9\u05dd \u05d3.\u05e0 \u05d4\u05e0\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "רעים ד.נ הנגב ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "581"
             }
@@ -6365,10 +6365,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d5\u05e9\u05d4", 
+                "name": "אושה", 
                 "phone": "04-8458579", 
-                "address": "\u05d0\u05d5\u05e9\u05d4 \u05d3.\u05e0 \u05db\u05e4\u05e8 \u05d4\u05de\u05db\u05d1\u05d9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אושה ד.נ כפר המכבי ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "588"
             }
@@ -6383,10 +6383,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d7\u05d9\u05d4\u05d5\u05d3", 
+                "name": "אחיהוד", 
                 "phone": "04-9964570", 
-                "address": "\u05d0\u05d7\u05d9\u05d4\u05d5\u05d3 \u05d3.\u05e0 \u05de\u05e9\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אחיהוד ד.נ משגב ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "589"
             }
@@ -6401,10 +6401,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df", 
+                "name": "בן-גוריון", 
                 "phone": "08-9248172", 
-                "address": "\u05e8\u05de\u05dc\u05d4 \u05e9\u05d3\u05e8\u05d5\u05ea \u05d1\u05df-\u05d2\u05d5\u05e8\u05d9\u05d5\u05df  33", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רמלה שדרות בן-גוריון  33", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "245"
             }
@@ -6419,10 +6419,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05de\u05e0\u05d7\u05dd", 
+                "name": "קרית מנחם", 
                 "phone": "08-9219078", 
-                "address": "\u05e8\u05de\u05dc\u05d4 \"\u05e7. \u05de\u05e0\u05d7\u05dd, \u05d7. \u05dc\u05e0\u05d3\u05d0\u05d5 \" ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רמלה \"ק. מנחם, ח. לנדאו \" ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "247"
             }
@@ -6437,10 +6437,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05de\u05ea \u05d3\u05df", 
+                "name": "רמת דן", 
                 "phone": "08-9292229", 
-                "address": "\u05e8\u05de\u05dc\u05d4 \u05d0\u05d4\u05e8\u05d5\u05df \u05d1\u05d5\u05d2\u05e0\u05d9\u05dd 11", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רמלה אהרון בוגנים 11", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "246"
             }
@@ -6455,10 +6455,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05d5\u05db\u05d9\u05e4\u05ea", 
+                "name": "דוכיפת", 
                 "phone": "08-9707512", 
-                "address": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05d4\u05e0\u05d1\u05d9\u05d0\u05d9\u05dd  23", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מודיעין הנביאים  23", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "241"
             }
@@ -6473,10 +6473,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d5\u05d4 \u05e0\u05d5\u05e3", 
+                "name": "נוה נוף", 
                 "phone": "08-9255548", 
-                "address": "\u05dc\u05d5\u05d3 \"\u05e9\u05db\u05d5\u05e0\u05ea \u05e0\u05d5\u05d5\u05d4 \u05e0\u05d5\u05e3, \u05e8\u05d5\u05ea\u05dd  \" 11", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "לוד \"שכונת נווה נוף, רותם  \" 11", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "240"
             }
@@ -6491,10 +6491,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e7\u05e9\u05ea\u05d5\u05ea", 
+                "name": "הקשתות", 
                 "phone": "08-9229585", 
-                "address": "\u05e8\u05de\u05dc\u05d4 \u05d0\u05d7\u05d3 \u05d1\u05de\u05d0\u05d9   7", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רמלה אחד במאי   7", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "243"
             }
@@ -6509,10 +6509,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df", 
+                "name": "מודיעין", 
                 "phone": "08-9751552", 
-                "address": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05e0\u05d7\u05dc \u05e6\u05dc\u05de\u05d5\u05df 17", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מודיעין נחל צלמון 17", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "242"
             }
@@ -6527,10 +6527,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05d5\u05e8\u05d3\u05d9\u05dd", 
+                "name": "כפר ורדים", 
                 "phone": "04-9971187", 
-                "address": "\u05db\u05e4\u05e8 \u05d5\u05e8\u05d3\u05d9\u05dd \u05d4\u05de\u05e8\u05db\u05d6 \u05d4\u05de\u05e1\u05d7\u05e8\u05d9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר ורדים המרכז המסחרי ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "615"
             }
@@ -6545,10 +6545,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d5\u05d0\u05d3\u05d9 \u05d7\u05de\u05d0\u05dd", 
+                "name": "ואדי חמאם", 
                 "phone": "04-6715184", 
-                "address": "\u05d7\u05de\u05d0\u05dd \u05d5\u05d0\u05d3\u05d9 \u05d7\u05de\u05d0\u05dd ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חמאם ואדי חמאם ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "249"
             }
@@ -6563,10 +6563,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05d3\u05e8\u05d9\u05dd", 
+                "name": "הדרים", 
                 "phone": "09-7664422", 
-                "address": "\u05db\u05e4\u05e8 \u05e1\u05d1\u05d0 \u05e2\u05de\u05e7 \u05d4\u05d7\u05d5\u05dc\u05d4   5", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר סבא עמק החולה   5", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "924"
             }
@@ -6581,10 +6581,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e8\u05db\u05d6 \u05d4\u05d9\u05dc\u05d3", 
+                "name": "מרכז הילד", 
                 "phone": "09-7658111", 
-                "address": "\u05db\u05e4\u05e8 \u05e1\u05d1\u05d0 \u05d4\u05d2\u05dc\u05d9\u05dc   5", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר סבא הגליל   5", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "925"
             }
@@ -6599,10 +6599,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d0\u05e8\u05d9", 
+                "name": "בארי", 
                 "phone": "08-9949444", 
-                "address": "\u05d1\u05d0\u05e8\u05d9 \u05d3.\u05e0. \u05d4\u05e0\u05d2\u05d1 85135 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "בארי ד.נ. הנגב 85135 ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "519"
             }
@@ -6617,10 +6617,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df -\u05de\u05e8\u05db\u05d6 \u05d4\u05d9\u05dc\u05d3", 
+                "name": "אשקלון -מרכז הילד", 
                 "phone": "08-6830222", 
-                "address": "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df \u05d4\u05e1\u05ea\u05d3\u05e8\u05d5\u05ea  23", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אשקלון הסתדרות  23", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "518"
             }
@@ -6635,10 +6635,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e4\u05dc\u05df", 
+                "name": "קפלן", 
                 "phone": "09-7656101", 
-                "address": "\u05db\u05e4\u05e8 \u05e1\u05d1\u05d0 \u05d9\u05d7\u05d6\u05e7\u05d0\u05dc   12", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר סבא יחזקאל   12", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "926"
             }
@@ -6653,10 +6653,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05e7\u05d3", 
+                "name": "שקד", 
                 "phone": "04-6350088", 
-                "address": "\u05e9\u05e7\u05d3 \u05d3.\u05e0. \u05de\u05e0\u05e9\u05d4 ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "שקד ד.נ. מנשה ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": false, 
                 "item_id": "1009"
             }
@@ -6671,10 +6671,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05e8\u05db\u05e4\u05dc\u05d3", 
+                "name": "ברכפלד", 
                 "phone": "08-9770607", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05e1\u05e4\u05e8 \u05e8\u05d1\u05d9 \u05e9\u05de\u05e2\u05d5\u05df \u05d1\u05e8 \u05d9\u05d5\u05d7\u05d0\u05d9 1", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית ספר רבי שמעון בר יוחאי 1", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "1008"
             }
@@ -6689,10 +6689,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc\u05d5\u05de\u05d4", 
+                "name": "אלומה", 
                 "phone": "08-6887813", 
-                "address": "\u05d0\u05dc\u05d5\u05de\u05d4 \u05d3.\u05e0 \u05e9\u05d3\u05d4 \u05d2\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אלומה ד.נ שדה גת ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "511"
             }
@@ -6707,10 +6707,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d5\u05e8\u05d9\u05dd", 
+                "name": "אורים", 
                 "phone": "08-9920211", 
-                "address": "\u05d0\u05d5\u05e8\u05d9\u05dd \u05d3.\u05e0 \u05d4\u05e0\u05d3\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אורים ד.נ הנדב ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "510"
             }
@@ -6725,10 +6725,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05dc\u05de\u05d9\u05dd", 
+                "name": "תלמים", 
                 "phone": "08-6898155", 
-                "address": "\u05ea\u05dc\u05de\u05d9\u05dd \u05d3.\u05e0. \u05dc\u05db\u05d9\u05e9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "תלמים ד.נ. לכיש ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "513"
             }
@@ -6743,10 +6743,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e8\u05d6", 
+                "name": "ארז", 
                 "phone": "08-6801222", 
-                "address": "\u05d0\u05e8\u05d6 \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d0\u05e9\u05e7\u05dc\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ארז ד.נ חוף אשקלון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "512"
             }
@@ -6761,10 +6761,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df -\u05d3\u05e8\u05d5\u05dd", 
+                "name": "אשקלון -דרום", 
                 "phone": "08-6798222", 
-                "address": "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df \u05d0\u05e1\u05e3 \u05d4\u05e8\u05d5\u05e4\u05d0 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אשקלון אסף הרופא ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "515"
             }
@@ -6779,10 +6779,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df-\u05e0\u05d0\u05d5\u05ea \u05d0\u05e9\u05e7\u05dc\u05d5\u05df", 
+                "name": "אשקלון-נאות אשקלון", 
                 "phone": "08-6796222", 
-                "address": "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df \u05d9\u05d4\u05d3\u05d5\u05ea \u05d1\u05e8\u05d9\u05d8\u05e0\u05d9\u05d4 7", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אשקלון יהדות בריטניה 7", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "514"
             }
@@ -6797,10 +6797,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d1\u05e8\u05e2\u05dd", 
+                "name": "גברעם", 
                 "phone": "08-6770422", 
-                "address": "\u05d2\u05d1\u05e8\u05e2\u05dd \u05d3.\u05e0. \u05d7\u05d5\u05e3 \u05d0\u05e9\u05e7\u05dc\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גברעם ד.נ. חוף אשקלון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "517"
             }
@@ -6815,10 +6815,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df -\u05d4\u05e2\u05d9\u05e8 \u05e6\u05e4\u05d5\u05df", 
+                "name": "אשקלון -העיר צפון", 
                 "phone": null, 
-                "address": "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df \u05d4\u05e0\u05d7\u05dc \u05e7\u05e0\u05d9\u05d5\u05df \u05d7\u05d5\u05e6\u05d5\u05ea 1", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אשקלון הנחל קניון חוצות 1", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "516"
             }
@@ -6833,10 +6833,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e2\u05dc\u05d5\u05ea", 
+                "name": "מעלות", 
                 "phone": "03-6777686", 
-                "address": "\u05e8\u05de\u05ea \u05d2\u05df \"\u05e9\u05d3\u05e8\u05d5\u05ea \u05e7\"\u05dd \" 10", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רמת גן \"שדרות ק\"ם \" 10", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "458"
             }
@@ -6851,10 +6851,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05e7\u05de\u05d4", 
+                "name": "שקמה", 
                 "phone": "03-6311319", 
-                "address": "\u05e8\u05de\u05ea \u05d2\u05df \u05e9\u05de\u05e2\u05d5\u05e0\u05d9 8", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רמת גן שמעוני 8", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "459"
             }
@@ -6869,10 +6869,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05dc\u05d9\u05de\u05df", 
+                "name": "לימן", 
                 "phone": "04-9824236", 
-                "address": "\u05dc\u05d9\u05de\u05df \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05de\u05e2\u05e8\u05d1\u05d9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "לימן ד.נ גליל מערבי ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "621"
             }
@@ -6887,10 +6887,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05dc\u05d5\u05d7\u05de\u05d9 \u05d4\u05d2\u05d8\u05d0\u05d5\u05ea", 
+                "name": "לוחמי הגטאות", 
                 "phone": "04-9933666", 
-                "address": "\u05dc\u05d5\u05d7\u05de\u05d9 \u05d4\u05d2\u05d8\u05d0\u05d5\u05ea \u05d3.\u05e0 \u05d0\u05e9\u05e8\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "לוחמי הגטאות ד.נ אשרת ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "620"
             }
@@ -6905,10 +6905,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e2\u05dc\u05d5\u05ea \u05e6\u05e4\u05d5\u05df", 
+                "name": "מעלות צפון", 
                 "phone": "04-9573151", 
-                "address": "\u05de\u05e2\u05dc\u05d5\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd  \u05e7\u05e0\u05d9\u05d5\u05df \u05d4\u05e8\u05e7\u05e4\u05d5\u05ea 32", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מעלות ירושלים  קניון הרקפות 32", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "627"
             }
@@ -6923,10 +6923,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e2\u05dc\u05d5\u05ea \u05de\u05e8\u05db\u05d6", 
+                "name": "מעלות מרכז", 
                 "phone": "04-9578555", 
-                "address": "\u05de\u05e2\u05dc\u05d5\u05ea \u05d1\u05df \u05d2\u05d5\u05e8\u05d9\u05d5\u05df  4", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מעלות בן גוריון  4", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "626"
             }
@@ -6941,10 +6941,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e2\u05d5\u05e0\u05d4", 
+                "name": "מעונה", 
                 "phone": "04-9979948", 
-                "address": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05d3.\u05e0 \u05de\u05e2\u05d5\u05e0\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מעונה ד.נ מעונה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "625"
             }
@@ -6959,10 +6959,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d5\u05e8\u05df", 
+                "name": "מורן", 
                 "phone": "04-6988997", 
-                "address": "\u05de\u05d5\u05e8\u05df \u05d3.\u05e0 \u05d1\u05e7\u05e2\u05ea \u05d1\u05d9\u05ea \u05d4\u05db\u05e8\u05dd ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מורן ד.נ בקעת בית הכרם ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "624"
             }
@@ -6977,10 +6977,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05e1\u05e7\u05d5", 
+                "name": "רסקו", 
                 "phone": "03-5500334", 
-                "address": "\u05d7\u05d5\u05dc\u05d5\u05df \u05e2\u05e7\u05d9\u05d1\u05d0  4", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חולון עקיבא  4", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "450"
             }
@@ -6995,10 +6995,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05db\u05d5\u05df \u05e2\u05de\u05de\u05d9", 
+                "name": "שכון עממי", 
                 "phone": "03-5049684", 
-                "address": "\u05d7\u05d5\u05dc\u05d5\u05df \u05e0\u05d7\u05dc\u05ea \u05e9\u05dc\u05d5\u05dd  4", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חולון נחלת שלום  4", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "451"
             }
@@ -7013,10 +7013,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05dc- \u05d2\u05d9\u05d1\u05d5\u05e8\u05d9\u05dd", 
+                "name": "תל- גיבורים", 
                 "phone": "03-5048560", 
-                "address": "\u05d7\u05d5\u05dc\u05d5\u05df \u05d7\u05d6\u05d9\u05ea \u05d7\u05de\u05e9  5", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חולון חזית חמש  5", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "452"
             }
@@ -7031,10 +7031,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e4\u05e8\u05d3\u05e1 \u05db\u05e5", 
+                "name": "פרדס כץ", 
                 "phone": "03-6183470", 
-                "address": "\u05d1\u05e0\u05d9 \u05d1\u05e8\u05e7 \u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df  46", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בני ברק מנחם בגין  46", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "453"
             }
@@ -7049,10 +7049,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d5\u05ea\u05d9\u05e7\u05d9\u05dd", 
+                "name": "ותיקים", 
                 "phone": "03-7513783", 
-                "address": "\u05e8\u05de\u05ea \u05d2\u05df \u05d4\u05de\u05e8\u05d2\u05e0\u05d9\u05ea  10", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רמת גן המרגנית  10", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "454"
             }
@@ -7067,10 +7067,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e2\u05d2\u05dc", 
+                "name": "מעגל", 
                 "phone": "03-6701270", 
-                "address": "\u05e8\u05de\u05ea \u05d2\u05df \u05d4\u05de\u05e2\u05d2\u05dc  24", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רמת גן המעגל  24", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "455"
             }
@@ -7085,10 +7085,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05d9\u05d9\u05dc", 
+                "name": "חייל", 
                 "phone": "03-6771286", 
-                "address": "\u05e8\u05de\u05ea \u05d2\u05df \u05d7\u05d9\u05d9\u05dc  16", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רמת גן חייל  16", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "456"
             }
@@ -7103,10 +7103,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05de\u05d9\u05d3\u05e8", 
+                "name": "עמידר", 
                 "phone": "03-6742521", 
-                "address": "\u05e8\u05de\u05ea \u05d2\u05df \u05e4\u05d5\u05de\u05d1\u05d3\u05d9\u05ea\u05d0  11", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רמת גן פומבדיתא  11", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "457"
             }
@@ -7121,10 +7121,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05e8\u05d9\u05d4", 
+                "name": "נריה", 
                 "phone": "02-9974591", 
-                "address": "\u05e0\u05e8\u05d9\u05d4 \u05d3.\u05e0. \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נריה ד.נ. מודיעין ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "979"
             }
@@ -7139,10 +7139,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05d7\u05e0\u05d4 \u05d4' - '\u05d0\u05d9\u05db\u05d9\u05dc\u05d5\u05d1", 
+                "name": "תחנה ה' - 'איכילוב", 
                 "phone": "09-8610904", 
-                "address": "\u05e0\u05ea\u05e0\u05d9\u05d4 \u05d0\u05d9\u05db\u05d9\u05dc\u05d5\u05d1   8", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נתניה איכילוב   8", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "179"
             }
@@ -7157,10 +7157,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05d7\u05e0\u05d4 \u05d1' ", 
+                "name": "תחנה ב' ", 
                 "phone": "09-8652035", 
-                "address": "\u05e0\u05ea\u05e0\u05d9\u05d4 \u05d1\u05df \u05d0\u05dc\u05d9\u05e2\u05d6\u05e8  57", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נתניה בן אליעזר  57", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "178"
             }
@@ -7175,10 +7175,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05de\u05d4", 
+                "name": "ימה", 
                 "phone": "09-8743303", 
-                "address": "\u05d9\u05de\u05d4 \u05d9\u05de\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ימה ימה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "177"
             }
@@ -7193,10 +7193,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05d9\u05d9\u05d1\u05d4 \u05d3'", 
+                "name": "טייבה ד'", 
                 "phone": "09-7992971", 
-                "address": "\u05d8\u05d9\u05d9\u05d1\u05d4 \u05d8\u05d9\u05d9\u05d1\u05d4 \u05d4\u05de\u05e9\u05d5\u05dc\u05e9 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טייבה טייבה המשולש ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "176"
             }
@@ -7211,10 +7211,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05d9\u05d9\u05d1\u05d4 \u05d1'", 
+                "name": "טייבה ב'", 
                 "phone": "09-7993062", 
-                "address": "\u05d8\u05d9\u05d9\u05d1\u05d4 \u05d8\u05d9\u05d9\u05d1\u05d4 \u05d4\u05de\u05e9\u05d5\u05dc\u05e9 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טייבה טייבה המשולש ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "175"
             }
@@ -7229,10 +7229,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05d9\u05d9\u05d1\u05d4 \u05d0'", 
+                "name": "טייבה א'", 
                 "phone": "09-7991003", 
-                "address": "\u05d8\u05d9\u05d9\u05d1\u05d4 \u05d8\u05d9\u05d9\u05d1\u05d4 \u05d4\u05de\u05e9\u05d5\u05dc\u05e9 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טייבה טייבה המשולש ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "174"
             }
@@ -7247,10 +7247,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05d0\u05e8\u05d1\u05e2", 
+                "name": "קריית ארבע", 
                 "phone": "02-9961755", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05d0\u05e8\u05d1\u05e2 \u05d1\u05e0\u05d9\u05df \u05d4\u05de\u05e8\u05db\u05d6 \u05d4\u05e8\u05e4\u05d5\u05d0\u05d9 \u05e7. \u05d0\u05e8\u05d1\u05e2 90100 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית ארבע בנין המרכז הרפואי ק. ארבע 90100 ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "171"
             }
@@ -7265,10 +7265,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e6\u05de\u05d7 \u05d4\u05e9\u05d3\u05d4", 
+                "name": "צמח השדה", 
                 "phone": "02-5352810", 
-                "address": "\u05de\u05e2\u05dc\u05d4 \u05d0\u05d3\u05d5\u05de\u05d9\u05dd \u05d4\u05e6\u05e4\u05e6\u05e4\u05d4   2", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מעלה אדומים הצפצפה   2", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "170"
             }
@@ -7283,10 +7283,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e2\u05dc\u05d4 \u05d0\u05e4\u05e8\u05d9\u05dd", 
+                "name": "מעלה אפרים", 
                 "phone": "02-9941199", 
-                "address": "\u05de\u05e2\u05dc\u05d4 \u05d0\u05e4\u05e8\u05d9\u05dd \u05d3.\u05e0. \u05de\u05d6\u05e8\u05d7 \u05d1\u05e0\u05d9\u05de\u05d9\u05df \u05ea.\u05d3. 1291 ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מעלה אפרים ד.נ. מזרח בנימין ת.ד. 1291 ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "977"
             }
@@ -7301,10 +7301,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e4\u05e7\u05d9\u05e2\u05d9\u05df \u05d7\u05d3\u05e9\u05d4", 
+                "name": "פקיעין חדשה", 
                 "phone": "04-9573776", 
-                "address": "\u05e4\u05e7\u05d9\u05e2\u05d9\u05df \u05d3.\u05de \u05de\u05e2\u05dc\u05d4 \u05d2\u05dc\u05d9\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "פקיעין ד.מ מעלה גליל ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "656"
             }
@@ -7319,10 +7319,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05d5\u05db\u05d1 \u05d9\u05e2\u05e7\u05d1", 
+                "name": "כוכב יעקב", 
                 "phone": "02-9974263", 
-                "address": "\u05db\u05d5\u05db\u05d1 \u05d9\u05e2\u05e7\u05d1 \u05d3.\u05e0. \u05de\u05d6\u05e8\u05d7 \u05d1\u05e0\u05d9\u05de\u05d9\u05df ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כוכב יעקב ד.נ. מזרח בנימין ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "975"
             }
@@ -7337,10 +7337,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05d5\u05db\u05d1 \u05d4\u05e9\u05d7\u05e8", 
+                "name": "כוכב השחר", 
                 "phone": "02-9942938", 
-                "address": "\u05db\u05d5\u05db\u05d1 \u05d4\u05e9\u05d7\u05e8 \u05d3.\u05e0. \u05de\u05d6\u05e8\u05d7 \u05d1\u05e0\u05d9\u05de\u05d9\u05df ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כוכב השחר ד.נ. מזרח בנימין ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": false, 
                 "item_id": "974"
             }
@@ -7355,10 +7355,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05dc\u05de\u05d5\u05df", 
+                "name": "טלמון", 
                 "phone": "02-9974661", 
-                "address": "\u05d8\u05dc\u05de\u05d5\u05df \u05d3.\u05e0. \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טלמון ד.נ. מודיעין ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "973"
             }
@@ -7373,10 +7373,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05d5\u05dc\u05d1", 
+                "name": "דולב", 
                 "phone": "02-9975990", 
-                "address": "\u05d3\u05d5\u05dc\u05d1 \u05d3.\u05e0. \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "דולב ד.נ. מודיעין ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": false, 
                 "item_id": "972"
             }
@@ -7391,10 +7391,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d1\u05e2\u05ea \u05d6\u05d0\u05d1", 
+                "name": "גבעת זאב", 
                 "phone": "02-5734448", 
-                "address": "\u05d2\u05d1\u05e2\u05ea \u05d6\u05d0\u05d1 \u05d4\u05d2\u05d9\u05d0  49", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "גבעת זאב הגיא  49", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "971"
             }
@@ -7409,10 +7409,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e6\u05d5\u05e8\u05d9\u05d0\u05dc", 
+                "name": "צוריאל", 
                 "phone": "04-9971557", 
-                "address": "\u05e6\u05d5\u05e8\u05d9\u05d0\u05dc \u05d3.\u05e0.\u05de\u05e2\u05dc\u05d4 \u05d4\u05d2\u05dc\u05d9\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "צוריאל ד.נ.מעלה הגליל ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "657"
             }
@@ -7427,10 +7427,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05d4\u05e9\u05e8\u05d5\u05df", 
+                "name": "קרית השרון", 
                 "phone": "09-8821922", 
-                "address": "\u05e0\u05ea\u05e0\u05d9\u05d4 \u05d8\u05d5\u05dd \u05dc\u05e0\u05d8\u05d5\u05e1 26", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נתניה טום לנטוס 26", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "654"
             }
@@ -7445,10 +7445,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05d1\u05e8\u05d9\u05d4 \u05ea\u05d7\u05e0\u05d4 \u05d3'+\u05d4'", 
+                "name": "טבריה תחנה ד'+ה'", 
                 "phone": "04-6796183", 
-                "address": "\u05d8\u05d1\u05e8\u05d9\u05d4 \u05e9\u05d3\u05e8\u05d5\u05ea \u05d0\u05dc\u05e0\u05d8\u05d0\u05d5\u05df + 200 1", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טבריה שדרות אלנטאון + 200 1", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "253"
             }
@@ -7463,10 +7463,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e2\u05dc\u05d4 \u05e0\u05d1\u05d5\u05e0\u05d4", 
+                "name": "מעלה נבונה", 
                 "phone": "02-9941566", 
-                "address": "\u05de\u05e2\u05dc\u05d4 \u05dc\u05d1\u05d5\u05e0\u05d4 \u05d3.\u05e0. \u05de\u05e2\u05dc\u05d4 \u05d0\u05e4\u05e8\u05d9\u05dd ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מעלה לבונה ד.נ. מעלה אפרים ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": false, 
                 "item_id": "978"
             }
@@ -7481,10 +7481,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05d7\u05e0\u05d4 \u05d9\"\u05d0 - \u05e0\u05d5\u05d4 \u05d3\u05d5\u05d3", 
+                "name": "תחנה י\"א - נוה דוד", 
                 "phone": "09-8344477", 
-                "address": "\u05e0\u05ea\u05e0\u05d9\u05d4 \u05d4\u05e8\u05e6\u05d5\u05d2  \u05e4\u05d9\u05e0\u05ea \u05d8\u05d4\u05d5\u05df  14", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נתניה הרצוג  פינת טהון  14", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "182"
             }
@@ -7499,10 +7499,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\"\u05d1 - \u05e7\u05e8\u05d9\u05ea \u05e0\u05d5\u05e8\u05d3\u05d0\u05d5", 
+                "name": "י\"ב - קרית נורדאו", 
                 "phone": "09-8359939", 
-                "address": "\u05e0\u05ea\u05e0\u05d9\u05d4 \u05d0\u05e4\u05e9\u05d8\u05d9\u05d9\u05df \u05e4\u05d9\u05e0\u05ea \u05e0\u05ea\u05df \u05d4\u05de\u05e9\u05d5\u05e8\u05e8  ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נתניה אפשטיין פינת נתן המשורר  ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "183"
             }
@@ -7517,10 +7517,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05d7\u05e0\u05d4 \u05d5' - '\u05e1\u05dc\u05e2", 
+                "name": "תחנה ו' - 'סלע", 
                 "phone": "09-8824926", 
-                "address": "\u05e0\u05ea\u05e0\u05d9\u05d4 \u05d9\u05d5\u05e1\u05e4\u05d8\u05dc   28", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נתניה יוספטל   28", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "180"
             }
@@ -7535,10 +7535,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05d7\u05e0\u05d4 \u05d9' - '\u05d0\u05d6\u05d5\u05e8\u05d9\u05dd", 
+                "name": "תחנה י' - 'אזורים", 
                 "phone": "09-8354334", 
-                "address": "\u05e0\u05ea\u05e0\u05d9\u05d4 \u05e7\u05e8\u05e0\u05d9\u05e6\u05d9   2", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נתניה קרניצי   2", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "181"
             }
@@ -7553,10 +7553,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e4\u05e8\u05d3\u05e1\u05d9\u05d4", 
+                "name": "פרדסיה", 
                 "phone": "09-8945102", 
-                "address": "\u05e4\u05e8\u05d3\u05e1\u05d9\u05d9\u05d4 \u05e9\u05d1\u05d6\u05d9   1", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פרדסייה שבזי   1", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "186"
             }
@@ -7571,10 +7571,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05dc\u05e0\u05e1\u05d5\u05d0\u05d4 \u05d0'", 
+                "name": "קלנסואה א'", 
                 "phone": "09-8780387", 
-                "address": "\u05e7\u05dc\u05e0\u05e1\u05d5\u05d0\u05d4 \u05e7\u05dc\u05e0\u05e1\u05d5\u05d0\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קלנסואה קלנסואה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "187"
             }
@@ -7589,10 +7589,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d9\u05e8\u05d5\u05e1\u05d9\u05dd+\u05de\u05e8\u05e4\u05d0\u05ea \u05d7\u05d5\"\u05dc", 
+                "name": "אירוסים+מרפאת חו\"ל", 
                 "phone": "09-8356928", 
-                "address": "\u05e0\u05ea\u05e0\u05d9\u05d4 \u05e8\u05d5\u05ea\u05dd  \u05d2\u05d1\u05e2\u05ea \u05d4\u05d0\u05d9\u05e8\u05d5\u05e1\u05d9\u05dd 129", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נתניה רותם  גבעת האירוסים 129", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "184"
             }
@@ -7607,10 +7607,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05d9\u05d5\u05e0\u05d4", 
+                "name": "כפר יונה", 
                 "phone": "09-8971168", 
-                "address": "\u05e0\u05ea\u05e0\u05d9\u05d4 \u05e9\u05e8\u05ea \u05db\u05e4\u05e8 \u05d9\u05d5\u05e0\u05d4 5", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נתניה שרת כפר יונה 5", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "185"
             }
@@ -7625,10 +7625,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05de\u05e9\u05d9\u05ea", 
+                "name": "שמשית", 
                 "phone": "04-6021999", 
-                "address": "\u05e9\u05de\u05e9\u05d9\u05ea \u05de\u05e2\u05d9\u05d9\u05e0\u05d5\u05ea  3", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שמשית מעיינות  3", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "886"
             }
@@ -7643,10 +7643,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05db\u05d5 \u05e7\u05d5\u05d8\u05d1", 
+                "name": "עכו קוטב", 
                 "phone": "04-9813650", 
-                "address": "\u05e2\u05db\u05d5 \u05e9\u05e4\u05d9\u05e8\u05d0  24", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עכו שפירא  24", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "652"
             }
@@ -7661,10 +7661,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05dc\u05e0\u05e1\u05d5\u05d0\u05d4 \u05d1'", 
+                "name": "קלנסואה ב'", 
                 "phone": "09-8780271", 
-                "address": "\u05e7\u05dc\u05e0\u05e1\u05d5\u05d0\u05d4 \u05e7\u05dc\u05e0\u05e1\u05d5\u05d0\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קלנסואה קלנסואה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "188"
             }
@@ -7679,10 +7679,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc\u05e2\u05d3 \u05d0'", 
+                "name": "אלעד א'", 
                 "phone": "03-9087880", 
-                "address": "\u05d0\u05dc\u05e2\u05d3 \u05e9\u05de\u05d0\u05d9   4", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אלעד שמאי   4", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "189"
             }
@@ -7697,10 +7697,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e6\u05e8\u05d5\u05e4\u05d4", 
+                "name": "צרופה", 
                 "phone": "04-9840667", 
-                "address": "\u05e6\u05e8\u05d5\u05e4\u05d4 \u05d3.\u05e0.\u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "צרופה ד.נ.חוף הכרמל ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "658"
             }
@@ -7715,10 +7715,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05de\u05e7\u05d0", 
+                "name": "עמקא", 
                 "phone": "04-9966680", 
-                "address": "\u05e2\u05de\u05e7\u05d0 \u05d3.\u05e0 \u05d0\u05d5\u05e9\u05e8\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עמקא ד.נ אושרת ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "653"
             }
@@ -7733,10 +7733,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05db\u05d5 \u05e2\u05de\u05d9\u05d3\u05e8", 
+                "name": "עכו עמידר", 
                 "phone": "04-9810089", 
-                "address": "\u05e2\u05db\u05d5 \u05d1\u05d5\u05e8\u05dc\u05d4  42", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עכו בורלה  42", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "650"
             }
@@ -7751,10 +7751,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05db\u05d5 \u05e6\u05e4\u05d5\u05df", 
+                "name": "עכו צפון", 
                 "phone": "04-9817941", 
-                "address": "\u05e2\u05db\u05d5 \u05d9\u05e0\u05d5\u05e9 \u05e7\u05d5\u05e8\u05e6\u05e7  14", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עכו ינוש קורצק  14", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "651"
             }
@@ -7769,10 +7769,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d5\u05d4 \u05de\u05d5\u05e0\u05e1\u05d5\u05df", 
+                "name": "נוה מונסון", 
                 "phone": "03-5334673", 
-                "address": "\u05e0\u05d5\u05d4 \u05de\u05d5\u05e0\u05e1\u05d5\u05df \u05d4\u05e4\u05e0\u05d9\u05e0\u05d9\u05dd  \u05e0\u05d5\u05d4 \u05d0\u05e4\u05e8\u05d9\u05d9\u05dd 2", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נוה מונסון הפנינים  נוה אפריים 2", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "764"
             }
@@ -7787,10 +7787,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05de\u05e9\u05d5\u05df \u2013 \u05d0\u05e9\u05e7\u05dc\u05d5\u05df", 
+                "name": "שמשון – אשקלון", 
                 "phone": "08-6766074", 
-                "address": "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df  \u05d4\u05d4\u05e1\u05ea\u05d3\u05e8\u05d5\u05ea  10", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אשקלון  ההסתדרות  10", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "11"
             }
@@ -7805,10 +7805,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e9\u05d3\u05d5\u05d3  \u05d9\u05d2'", 
+                "name": "אשדוד  יג'", 
                 "phone": "08-8643326", 
-                "address": "\u05d0\u05e9\u05d3\u05d5\u05d3 \u05e9\u05dc\u05de\u05d4 \u05d4\u05de\u05dc\u05da  25", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אשדוד שלמה המלך  25", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "10"
             }
@@ -7823,10 +7823,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d5\u05d5\u05d4 \u05d3\u05e7\u05dc\u05d9\u05dd - \u05d0\u05e9\u05e7\u05dc\u05d5\u05df", 
+                "name": "נווה דקלים - אשקלון", 
                 "phone": "08-6780176", 
-                "address": "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df \u05d0\u05e7\u05e1\u05d5\u05d3\u05d5\u05e1  12", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אשקלון אקסודוס  12", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "13"
             }
@@ -7841,10 +7841,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05e8\u05e0\u05e2 \u2013 \u05d0\u05e9\u05e7\u05dc\u05d5\u05df \u05d0\u05d5\u05dc\u05dd", 
+                "name": "ברנע – אשקלון אולם", 
                 "phone": "08-6717770", 
-                "address": "\u05d0\u05e9\u05e7\u05dc\u05d5\u05df \u05e7\u05e8\u05d9\u05d9\u05ea\u05d9 9", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אשקלון קרייתי 9", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "12"
             }
@@ -7859,10 +7859,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d3\u05e8\u05d5\u05ea \u05d1'", 
+                "name": "שדרות ב'", 
                 "phone": "08-6898171", 
-                "address": "\u05e9\u05d3\u05e8\u05d5\u05ea \"\u05d1\u05e8\u05d9\u05ea \u05e2\u05e8\u05d9\u05dd, \u05e0\u05d5\u05d5\u05d4 \u05d0\u05e9\u05db\u05d5\u05dc\" 4", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "שדרות \"ברית ערים, נווה אשכול\" 4", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "15"
             }
@@ -7877,10 +7877,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d3\u05e8\u05d5\u05ea \u05d0' - M3", 
+                "name": "שדרות א' - M3", 
                 "phone": "08-6899889", 
-                "address": "\u05e9\u05d3\u05e8\u05d5\u05ea  \u05de\u05e9\u05e2\u05d5\u05dc \u05d4\u05d2\u05d9\u05d0  10", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "שדרות  משעול הגיא  10", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "14"
             }
@@ -7895,10 +7895,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d5\u05e4\u05e7\u05d9\u05dd \u05d2'", 
+                "name": "אופקים ג'", 
                 "phone": "08-9922621", 
-                "address": "\u05d0\u05d5\u05e4\u05e7\u05d9\u05dd \u05d7\u05e4\u05e5 \u05d7\u05d9\u05d9\u05dd ('\u05e9\u05db\u05d5\u05e0\u05ea \u05d1\u05df \u05d2\u05d5\u05e8\u05d9\u05d5\u05df) 22", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אופקים חפץ חיים ('שכונת בן גוריון) 22", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "17"
             }
@@ -7913,10 +7913,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d5\u05e4\u05e7\u05d9\u05dd \u05d1'", 
+                "name": "אופקים ב'", 
                 "phone": "08-9922622", 
-                "address": "\u05d0\u05d5\u05e4\u05e7\u05d9\u05dd \u05e9\u05e8\u05ea 4", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אופקים שרת 4", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "16"
             }
@@ -7931,10 +7931,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d9\u05dc\u05ea \u05d0'+\u05d1'", 
+                "name": "אילת א'+ב'", 
                 "phone": "08-6341071", 
-                "address": "\u05d0\u05d9\u05dc\u05ea \"\u05d1\u05e8\u05e0\u05e2, \u05de\u05e8\u05db\u05d6 \u05d3\u05e7\u05dc\" ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אילת \"ברנע, מרכז דקל\" ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "18"
             }
@@ -7949,10 +7949,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e1\u05d0\u05e1\u05d0", 
+                "name": "סאסא", 
                 "phone": "04-6988521", 
-                "address": "\u05e1\u05d0\u05e1\u05d0 \u05d3.\u05e0 \u05de\u05e8\u05d5\u05dd \u05d4\u05d2\u05dc\u05d9\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "סאסא ד.נ מרום הגליל ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "863"
             }
@@ -7967,10 +7967,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d9\u05e8 \u05d9\u05e4\u05d4", 
+                "name": "ניר יפה", 
                 "phone": "04-6591491", 
-                "address": "\u05e0\u05d9\u05e8 \u05d9\u05e4\u05d4 \u05d3.\u05e0 \u05d2\u05dc\u05d1\u05d5\u05e2 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ניר יפה ד.נ גלבוע ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "862"
             }
@@ -7985,10 +7985,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05df \u05d4\u05e0\u05e6\u05d9\u05d1", 
+                "name": "עין הנציב", 
                 "phone": "04-6062907", 
-                "address": "\u05e2\u05d9\u05df \u05d4\u05e0\u05e6\u05d9\u05d1 \u05d3.\u05e0 \u05d1\u05d9\u05ea \u05e9\u05d0\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עין הנציב ד.נ בית שאן ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "865"
             }
@@ -8003,10 +8003,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05df \u05d3\u05d5\u05e8", 
+                "name": "עין דור", 
                 "phone": "04-6770409", 
-                "address": "\u05e2\u05d9\u05df \u05d3\u05d5\u05e8 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05ea\u05d7\u05ea\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עין דור ד.נ גליל תחתון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "864"
             }
@@ -8021,10 +8021,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05df \u05d7\u05e8\u05d5\u05d3 \u05de\u05d0\u05d5\u05d7\u05d3", 
+                "name": "עין חרוד מאוחד", 
                 "phone": "04-6485310", 
-                "address": "\u05e2\u05d9\u05df \u05d7\u05e8\u05d5\u05d3 \u05de\u05d0\u05d5\u05d7\u05d3 \u05d3\u05d5\u05d0\u05e8 \u05e2\u05d9\u05df \u05d7\u05e8\u05d5\u05d3 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עין חרוד מאוחד דואר עין חרוד ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "867"
             }
@@ -8039,10 +8039,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05df \u05d7\u05e8\u05d5\u05d3 \u05d0\u05d9\u05d7\u05d5\u05d3", 
+                "name": "עין חרוד איחוד", 
                 "phone": "04-6486716", 
-                "address": "\u05e2\u05d9\u05df \u05d7\u05e8\u05d5\u05d3 \u05d0\u05d9\u05d7\u05d5\u05d3 \u05d3\u05d5\u05d0\u05e8 \u05e2\u05d9\u05df \u05d7\u05e8\u05d5\u05d3 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עין חרוד איחוד דואר עין חרוד ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "866"
             }
@@ -8057,10 +8057,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05dc\u05d5\u05d7\u05d5\u05ea", 
+                "name": "שלוחות", 
                 "phone": "04-6062121", 
-                "address": "\u05e9\u05dc\u05d5\u05d7\u05d5\u05ea \u05d3.\u05e0 \u05d1\u05e7\u05e2\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שלוחות ד.נ בקעה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "884"
             }
@@ -8075,10 +8075,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e0\u05d1\u05d9\u05d0\u05d9\u05dd", 
+                "name": "הנביאים", 
                 "phone": "09-8648800", 
-                "address": "\u05e0\u05ea\u05e0\u05d9\u05d4 \u05d9\u05e8\u05de\u05d9\u05d4\u05d5   38", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נתניה ירמיהו   38", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "938"
             }
@@ -8093,10 +8093,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05d0\u05e9 \u05d4\u05e0\u05e7\u05e8\u05d4", 
+                "name": "ראש הנקרה", 
                 "phone": "04-9857484", 
-                "address": "\u05e8\u05d0\u05e9 \u05d4\u05e0\u05e7\u05e8\u05d4 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05de\u05e2\u05e8\u05d1\u05d9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ראש הנקרה ד.נ גליל מערבי ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "659"
             }
@@ -8111,10 +8111,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d3\u05de\u05d5\u05ea \u05de\u05d7\u05d5\u05dc\u05d4", 
+                "name": "שדמות מחולה", 
                 "phone": "04-6099743", 
-                "address": "\u05e9\u05d3\u05de\u05d5\u05ea \u05de\u05d7\u05d5\u05dc\u05d4 \u05d3.\u05e0 \u05d4\u05d1\u05e7\u05e2\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שדמות מחולה ד.נ הבקעה ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "883"
             }
@@ -8129,10 +8129,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d1\u05e2\u05ea \u05d4\u05e9\u05dc\u05d5\u05e9\u05d4", 
+                "name": "גבעת השלושה", 
                 "phone": "03-9374900", 
-                "address": "\u05d2\u05d1\u05e2\u05ea \u05d4\u05e9\u05dc\u05d5\u05e9\u05d4 \u05e7\u05d9\u05d1\u05d5\u05e5 \u05d2\u05d1\u05e2\u05ea \u05d4\u05e9\u05dc\u05d5\u05e9\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גבעת השלושה קיבוץ גבעת השלושה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "753"
             }
@@ -8147,10 +8147,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d3\u05d4 \u05d9\u05e2\u05e7\u05d1", 
+                "name": "שדה יעקב", 
                 "phone": "04-9831247", 
-                "address": "\u05e9\u05d3\u05d4 \u05d9\u05e2\u05e7\u05d1 \u05d3\u05d5\u05d0\u05e8 \u05e9\u05d3\u05d4 \u05d9\u05e2\u05e7\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שדה יעקב דואר שדה יעקב ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "881"
             }
@@ -8165,10 +8165,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d3\u05d4 \u05d0\u05dc\u05d9\u05d4\u05d5", 
+                "name": "שדה אליהו", 
                 "phone": "04-6096500", 
-                "address": "\u05e9\u05d3\u05d4 \u05d0\u05dc\u05d9\u05d4\u05d5 \u05d3.\u05e0 \u05d1\u05d9\u05ea \u05e9\u05d0\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שדה אליהו ד.נ בית שאן ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "880"
             }
@@ -8183,10 +8183,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05e0\u05d9\u05e8", 
+                "name": "שניר", 
                 "phone": "04-6952538", 
-                "address": "\u05e9\u05e0\u05d9\u05e8 \u05d3.\u05e0 \u05e8\u05de\u05ea \u05d4\u05d2\u05d5\u05dc\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שניר ד.נ רמת הגולן ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "887"
             }
@@ -8201,10 +8201,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05d9\u05d5\u05d1\u05dc", 
+                "name": "כפר יובל", 
                 "phone": "04-6941928", 
-                "address": "\u05db\u05e4\u05e8 \u05d9\u05d5\u05d1\u05dc  ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר יובל  ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "831"
             }
@@ -8219,10 +8219,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05de\u05d9\u05e8", 
+                "name": "שמיר", 
                 "phone": "04-6947844", 
-                "address": "\u05e9\u05de\u05d9\u05e8 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שמיר ד.נ גליל עליון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "885"
             }
@@ -8237,10 +8237,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d0\u05d5\u05e8", 
+                "name": "מאור", 
                 "phone": "04-6372627", 
-                "address": "\u05de\u05d0\u05d5\u05e8 \u05d3.\u05e0 \u05de\u05e0\u05e9\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מאור ד.נ מנשה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "928"
             }
@@ -8255,10 +8255,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc\u05e2\u05d6\u05d6\u05de\u05d4", 
+                "name": "אלעזזמה", 
                 "phone": "054-9191493", 
-                "address": "\u05d1\u05d9\u05e8 \u05d4\u05d3\u05d0\u05d2' \u05d0\u05dc\u05e2\u05d6\u05d6\u05de\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ביר הדאג' אלעזזמה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "62"
             }
@@ -8273,10 +8273,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e4\u05e8\u05ea", 
+                "name": "אפרת", 
                 "phone": "02-5619888", 
-                "address": "\u05d0\u05e4\u05e8\u05ea \u05e9\u05d3\u05e8\u05d5\u05ea \u05d3\u05d5\u05d3 \u05d4\u05de\u05dc\u05da ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "אפרת שדרות דוד המלך ", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": true, 
                 "item_id": "1012"
             }
@@ -8291,10 +8291,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d9\u05ea\u05e8", 
+                "name": "מיתר", 
                 "phone": "08-6510034", 
-                "address": "\u05de\u05d9\u05ea\u05e8 \u05de\u05e8\u05db\u05d6 \u05de\u05e1\u05d7\u05e8\u05d9 \u05de\u05d9\u05ea\u05e8 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "מיתר מרכז מסחרי מיתר ", 
+                "operator": "קופת חולים מכבי", 
                 "error": true, 
                 "item_id": "1032"
             }
@@ -8309,10 +8309,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05de\u05ea\u05d9\u05d9\u05dd \u05d9\u05dc\u05d3\u05d9\u05dd", 
+                "name": "רמתיים ילדים", 
                 "phone": "09-7481177", 
-                "address": "\u05d4\u05d5\u05d3 \u05d4\u05e9\u05e8\u05d5\u05df \u05d4\u05e8\u05e9\u05d5\u05ea   8", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "הוד השרון הרשות   8", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "756"
             }
@@ -8327,10 +8327,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d2\u05dc", 
+                "name": "מגל", 
                 "phone": "04-6365965", 
-                "address": "\u05de\u05d2\u05dc \u05d3.\u05e0 \u05de\u05e0\u05e9\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מגל ד.נ מנשה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "929"
             }
@@ -8345,10 +8345,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05d9\u05d5\u05d2\u05d1", 
+                "name": "היוגב", 
                 "phone": "04-9893679", 
-                "address": "\u05d4\u05d9\u05d5\u05d2\u05d1  ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "היוגב  ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "809"
             }
@@ -8363,10 +8363,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e8\u05db\u05d6 \u05d0\u05d1\u05e9\u05dc\u05d5\u05dd", 
+                "name": "מרכז אבשלום", 
                 "phone": "08-9985025", 
-                "address": "\u05d0\u05d1\u05e9\u05dc\u05d5\u05dd \u05d3.\u05e0. \u05d4\u05e0\u05d2\u05d1 85488 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אבשלום ד.נ. הנגב 85488 ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "322"
             }
@@ -8381,10 +8381,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e1\u05e8\u05d0", 
+                "name": "כסרא", 
                 "phone": "04-9873070", 
-                "address": "\u05db\u05e1\u05e8\u05d0 \u05db\u05e1\u05e8\u05d0 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כסרא כסרא ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "323"
             }
@@ -8399,10 +8399,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05d0\u05d5\u05db\u05d1", 
+                "name": "כאוכב", 
                 "phone": "04-9998872", 
-                "address": "\u05db\u05d0\u05d5\u05db\u05d1 \u05db\u05d0\u05d5\u05db\u05d1 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כאוכב כאוכב ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "320"
             }
@@ -8417,10 +8417,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05de\u05d0\u05e0\u05d4 ", 
+                "name": "כמאנה ", 
                 "phone": "050-6243955", 
-                "address": "\u05db\u05de\u05d0\u05e0\u05d4 \u05db\u05de\u05d0\u05e0\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כמאנה כמאנה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "321"
             }
@@ -8435,10 +8435,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05de\u05e0\u05d3\u05d0 \u05d1", 
+                "name": "כפר מנדא ב", 
                 "phone": "04-9863614", 
-                "address": "\u05db\u05e4\u05e8 \u05de\u05e0\u05d3\u05d0 \u05db\u05e4\u05e8 \u05de\u05e0\u05d3\u05d0 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כפר מנדא כפר מנדא ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "326"
             }
@@ -8453,10 +8453,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05de\u05e0\u05d3\u05d0 \u05d2", 
+                "name": "כפר מנדא ג", 
                 "phone": "04-9864708", 
-                "address": "\u05db\u05e4\u05e8 \u05de\u05e0\u05d3\u05d0 \u05db\u05e4\u05e8 \u05de\u05e0\u05d3\u05d0 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כפר מנדא כפר מנדא ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "327"
             }
@@ -8471,10 +8471,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05d9\u05d0\u05e1\u05d9\u05e3 \u05d0' +\u05d1'", 
+                "name": "כפר יאסיף א' +ב'", 
                 "phone": "04-9996098", 
-                "address": "\u05db\u05e4\u05e8 \u05d9\u05d0\u05e1\u05d9\u05e3 \u05db\u05e4\u05e8 \u05d9\u05d0\u05e1\u05d9\u05e3 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כפר יאסיף כפר יאסיף ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "324"
             }
@@ -8489,10 +8489,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05de\u05e0\u05d3\u05d0 \u05d0", 
+                "name": "כפר מנדא א", 
                 "phone": "04-9864453", 
-                "address": "\u05db\u05e4\u05e8 \u05de\u05e0\u05d3\u05d0 \u05db\u05e4\u05e8 \u05de\u05e0\u05d3\u05d0 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כפר מנדא כפר מנדא ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "325"
             }
@@ -8507,10 +8507,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e8\u05de\u05d9\u05d0\u05dc \u05dc\u05d0\u05d5\u05de\u05d9\u05ea", 
+                "name": "כרמיאל לאומית", 
                 "phone": "04-9583914", 
-                "address": "\u05db\u05e8\u05de\u05d9\u05d0\u05dc \u05d4\u05d7\u05e8\u05d5\u05e9\u05ea  17", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כרמיאל החרושת  17", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "328"
             }
@@ -8525,10 +8525,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d2'\u05d3\u05dc \u05db\u05e8\u05d5\u05dd", 
+                "name": "מג'דל כרום", 
                 "phone": "04-9986410", 
-                "address": "\u05de\u05d2'\u05d3\u05dc \u05db\u05e8\u05d5\u05dd \u05de\u05d2'\u05d3\u05dc \u05db\u05e8\u05d5\u05dd ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מג'דל כרום מג'דל כרום ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "329"
             }
@@ -8543,10 +8543,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05d4\u05d5\u05d3", 
+                "name": "יהוד", 
                 "phone": "03-5364281", 
-                "address": "\u05d9\u05d4\u05d5\u05d3 \u05e6\u05d1\u05d9 \u05d9\u05e9\u05d9   19", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "יהוד צבי ישי   19", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "759"
             }
@@ -8561,10 +8561,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d3 \u05de\u05db\u05e0\u05e1", 
+                "name": "גד מכנס", 
                 "phone": "03-9330232", 
-                "address": "\u05e4\u05ea\u05d7 \u05ea\u05e7\u05d5\u05d4 \u05d2\u05d3 \u05de\u05db\u05e0\u05e1  3", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פתח תקוה גד מכנס  3", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "200"
             }
@@ -8579,10 +8579,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05d9\u05d1\u05e0\u05e8", 
+                "name": "היבנר", 
                 "phone": "03-9220928", 
-                "address": "\u05e4\u05ea\u05d7 \u05ea\u05e7\u05d5\u05d4 \u05d4\u05d9\u05d1\u05e0\u05e8  3", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פתח תקוה היבנר  3", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "203"
             }
@@ -8597,10 +8597,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05d3\u05e8 \u05d2\u05e0\u05d9\u05dd", 
+                "name": "הדר גנים", 
                 "phone": "03-9323857", 
-                "address": "\u05e4\u05ea\u05d7 \u05ea\u05e7\u05d5\u05d4 \u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df  50", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פתח תקוה מנחם בגין  50", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "202"
             }
@@ -8615,10 +8615,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\"\u05d8 \u05d1\u05e0\u05d5\u05d1\u05de\u05d1\u05e8", 
+                "name": "כ\"ט בנובמבר", 
                 "phone": "03-9342888", 
-                "address": "\u05e4\u05ea\u05d7 \u05ea\u05e7\u05d5\u05d4 \"\u05db\"\u05d8 \u05d1\u05e0\u05d5\u05d1\u05de\u05d1\u05e8\" 1", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פתח תקוה \"כ\"ט בנובמבר\" 1", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "205"
             }
@@ -8633,10 +8633,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05d5\u05e1\u05e4\u05d8\u05dc", 
+                "name": "יוספטל", 
                 "phone": "03-9306962", 
-                "address": "\u05e4\u05ea\u05d7 \u05ea\u05e7\u05d5\u05d4 \u05e7\u05d4\u05d9\u05dc\u05ea \u05e4\u05e8\u05d2  5", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פתח תקוה קהילת פרג  5", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "204"
             }
@@ -8651,10 +8651,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d9\u05db\u05d5\u05df \u05e2\u05d5\u05d1\u05d3\u05d9 \u05d1\u05dc\u05d9\u05e0\u05e1\u05d5\u05df", 
+                "name": "שיכון עובדי בלינסון", 
                 "phone": "03-9219847", 
-                "address": "\u05e4\u05ea\u05d7 \u05ea\u05e7\u05d5\u05d4 \u05e4\u05e8\u05d5\u05e4' \u05d8\u05d5\u05e8  5", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פתח תקוה פרופ' טור  5", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "207"
             }
@@ -8669,10 +8669,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05d4\u05e8\u05d1 \u05e1\u05d5\u05dc\u05d5\u05de\u05d5\u05df", 
+                "name": "קרית הרב סולומון", 
                 "phone": "03-9300542", 
-                "address": "\u05e4\u05ea\u05d7 \u05ea\u05e7\u05d5\u05d4 \u05d0\u05d5\u05e0\u05d8\u05e8\u05de\u05df  \u05db\u05e4\u05e8 \u05d0\u05d1\u05e8\u05d4\u05dd 4", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פתח תקוה אונטרמן  כפר אברהם 4", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "206"
             }
@@ -8687,10 +8687,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05d0\u05e9 \u05d4\u05e2\u05d9\u05df \u05d0'", 
+                "name": "ראש העין א'", 
                 "phone": "03-9380807", 
-                "address": "\u05e8\u05d0\u05e9 \u05d4\u05e2\u05d9\u05df \u05e9\u05d1\u05d6\u05d9  18", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ראש העין שבזי  18", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "209"
             }
@@ -8705,10 +8705,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d9\u05db\u05d5\u05df \u05e2\u05de\u05de\u05d9", 
+                "name": "שיכון עממי", 
                 "phone": "03-9321292", 
-                "address": "\u05e4\u05ea\u05d7 \u05ea\u05e7\u05d5\u05d4 \u05d4\u05d7\u05de\u05d9\u05e9\u05d4  2", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פתח תקוה החמישה  2", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "208"
             }
@@ -8723,10 +8723,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc\u05d5\u05e0\u05d9 \u05d4\u05d1\u05e9\u05df", 
+                "name": "אלוני הבשן", 
                 "phone": "04-6960012", 
-                "address": "\u05d0\u05dc\u05d5\u05e0\u05d9 \u05d4\u05d1\u05e9\u05df \u05d3.\u05e0 \u05e8\u05de\u05ea \u05d4\u05d2\u05d5\u05dc\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אלוני הבשן ד.נ רמת הגולן ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "779"
             }
@@ -8741,10 +8741,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc\u05d5\u05df \u05d4\u05d2\u05dc\u05d9\u05dc", 
+                "name": "אלון הגליל", 
                 "phone": "04-9861614", 
-                "address": "\u05d0\u05dc\u05d5\u05df \u05d4\u05d2\u05dc\u05d9\u05dc \u05d0\u05dc\u05d5\u05df \u05d4\u05d2\u05dc\u05d9\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אלון הגליל אלון הגליל ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "778"
             }
@@ -8759,10 +8759,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05e8\u05d9\u05d3", 
+                "name": "שריד", 
                 "phone": "04-6546264", 
-                "address": "\u05e9\u05e8\u05d9\u05d3 \u05d3.\u05e0 \u05d9\u05d6\u05e8\u05e2\u05d0\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שריד ד.נ יזרעאל ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "889"
             }
@@ -8777,10 +8777,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05e7\u05d4 \u05d1", 
+                "name": "בקה ב", 
                 "phone": "04-6382102", 
-                "address": "\u05d1\u05e7\u05d4 \u05d1\u05e7\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בקה בקה ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "77"
             }
@@ -8795,10 +8795,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05e7\u05d4 \u05d0", 
+                "name": "בקה א", 
                 "phone": "077-9235858", 
-                "address": "\u05d1\u05e7\u05d4 \u05d1\u05e7\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בקה בקה ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "76"
             }
@@ -8813,10 +8813,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05e0\u05d9\u05de\u05d9\u05e0\u05d4", 
+                "name": "בנימינה", 
                 "phone": "077-7801427", 
-                "address": "\u05d1\u05e0\u05d9\u05de\u05d9\u05e0\u05d4 \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea 90", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בנימינה העצמאות 90", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "75"
             }
@@ -8831,10 +8831,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d5\u05e8\u05d5\u05ea", 
+                "name": "אורות", 
                 "phone": "077-7282635", 
-                "address": "\u05d0\u05d5\u05e8 \u05e2\u05e7\u05d9\u05d1\u05d0 \u05d4\u05d0\u05dc\u05d5\u05df   100", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אור עקיבא האלון   100", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "74"
             }
@@ -8849,10 +8849,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05dc\u05e4\u05d5\u05e8", 
+                "name": "בלפור", 
                 "phone": "077-3361967", 
-                "address": "\u05d0\u05d5\u05e8 \u05e2\u05e7\u05d9\u05d1\u05d0 \u05d1\u05dc\u05e4\u05d5\u05e8 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אור עקיבא בלפור ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "73"
             }
@@ -8867,10 +8867,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05e8\u05e0\u05d3 \u05e7\u05e0\u05d9\u05d5\u05df ", 
+                "name": "גרנד קניון ", 
                 "phone": "077-7878625", 
-                "address": "\u05d7\u05d9\u05e4\u05d4 \u05e9\u05de\u05d7\u05d4 \u05d2\u05d5\u05dc\u05df 54", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חיפה שמחה גולן 54", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "72"
             }
@@ -8885,10 +8885,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d5\u05de\u05e9\u05e8\u05e4\u05d4", 
+                "name": "אומשרפה", 
                 "phone": "04-6311954", 
-                "address": "\u05d0\u05d5\u05de\u05e9\u05e8\u05e4\u05d4 \u05d0\u05d5\u05de\u05e9\u05e8\u05e4\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אומשרפה אומשרפה ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "71"
             }
@@ -8903,10 +8903,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d5\u05dd \u05d0\u05dc\u05e7\u05d5\u05d8\u05d5\u05e3", 
+                "name": "אום אלקוטוף", 
                 "phone": "04-6255906", 
-                "address": "\u05d0\u05d5\u05dd \u05d0\u05dc\u05e7\u05d5\u05d8\u05d5\u05e3 \u05d0\u05d5\u05dd \u05d0\u05dc\u05e7\u05d5\u05d8\u05d5\u05e3 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אום אלקוטוף אום אלקוטוף ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "70"
             }
@@ -8921,10 +8921,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05ea\u05dc\u05d9\u05ea", 
+                "name": "עתלית", 
                 "phone": "04-9037300", 
-                "address": "\u05e2\u05ea\u05dc\u05d9\u05ea \u05d7\u05e8\u05d5\u05d1  62", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עתלית חרוב  62", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "655"
             }
@@ -8939,10 +8939,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05e7\u05d4 \u05d3", 
+                "name": "בקה ד", 
                 "phone": "04-6280663", 
-                "address": "\u05d1\u05e7\u05d4 \u05d1\u05e7\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בקה בקה ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "79"
             }
@@ -8957,10 +8957,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05e7\u05d4 \u05d2", 
+                "name": "בקה ג", 
                 "phone": "04-6382632", 
-                "address": "\u05d1\u05e7\u05d4 \u05d1\u05e7\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בקה בקה ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "78"
             }
@@ -8975,10 +8975,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e9\u05d3\u05d5\u05d3  \u05d1'", 
+                "name": "אשדוד  ב'", 
                 "phone": "08-8523707", 
-                "address": "\u05d0\u05e9\u05d3\u05d5\u05d3 \u05e1\u05d8\u05e8\u05d5\u05de\u05d4  14", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אשדוד סטרומה  14", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "2"
             }
@@ -8993,10 +8993,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05df \u05d9\u05d1\u05e0\u05d4", 
+                "name": "גן יבנה", 
                 "phone": "08-8571507", 
-                "address": "\u05d2\u05df \u05d9\u05d1\u05e0\u05d4 \u05d4\u05e8\u05e6\u05dc  42", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "גן יבנה הרצל  42", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "1042"
             }
@@ -9011,10 +9011,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05db\u05e1\u05d9\u05dd", 
+                "name": "רכסים", 
                 "phone": "04-9847995", 
-                "address": "\u05e8\u05db\u05e1\u05d9\u05dd \u05d4\u05e8\u05e7\u05e4\u05d5\u05ea  7", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "רכסים הרקפות  7", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "1041"
             }
@@ -9029,10 +9029,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05db\u05d5", 
+                "name": "עכו", 
                 "phone": "04-9851158", 
-                "address": "\u05e2\u05db\u05d5 \u05d3\u05e8\u05da \u05d4\u05d0\u05e8\u05d1\u05e2\u05d4  41", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "עכו דרך הארבעה  41", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "1040"
             }
@@ -9047,10 +9047,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc\u05e4\u05d9 \u05de\u05e0\u05e9\u05d4", 
+                "name": "אלפי מנשה", 
                 "phone": "09-7949200", 
-                "address": "\u05d0\u05dc\u05e4\u05d9 \u05de\u05e0\u05e9\u05d4 \u05de. \u05de\u05e1\u05d7\u05e8\u05d9 \u05dc\u05d1 \u05d4\u05d9\u05e9\u05d5\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "אלפי מנשה מ. מסחרי לב הישוב ", 
+                "operator": "קופת חולים מכבי", 
                 "error": true, 
                 "item_id": "1047"
             }
@@ -9065,10 +9065,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05d1\u05e0\u05d4", 
+                "name": "יבנה", 
                 "phone": "08-9424050", 
-                "address": "\u05d9\u05d1\u05e0\u05d4 \u05d2\u05d1\u05d5\u05e8\u05d9 \u05d4\u05d7\u05d9\u05d9\u05dc  1", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "יבנה גבורי החייל  1", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "1043"
             }
@@ -9083,10 +9083,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05de\u05dc\u05d0\u05db\u05d9", 
+                "name": "קרית מלאכי", 
                 "phone": "08-8501460", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05de\u05dc\u05d0\u05db\u05d9 \u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df  1", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "קרית מלאכי מנחם בגין  1", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "1045"
             }
@@ -9101,10 +9101,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05e1 \u05e6\u05d9\u05d5\u05e0\u05d4", 
+                "name": "נס ציונה", 
                 "phone": "08-9408422", 
-                "address": "\u05e0\u05e1 \u05e6\u05d9\u05d5\u05e0\u05d4 \u05e0\u05d5\u05e8\u05d3\u05d0\u05d5  31", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "נס ציונה נורדאו  31", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "1044"
             }
@@ -9119,10 +9119,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e1\u05d5\u05e7\u05d5\u05dc\u05d5\u05d1", 
+                "name": "סוקולוב", 
                 "phone": "09-9721300", 
-                "address": "\u05d4\u05e8\u05e6\u05dc\u05d9\u05d4 \u05e1\u05d5\u05e7\u05d5\u05dc\u05d5\u05d1 10", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "הרצליה סוקולוב 10", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "1049"
             }
@@ -9137,10 +9137,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e2\u05e8\u05d1\u05d4", 
+                "name": "הערבה", 
                 "phone": "03-9065050", 
-                "address": "\u05d0\u05e8\u05d9\u05d0\u05dc \u05d4\u05e2\u05e8\u05d1\u05d4  1", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "אריאל הערבה  1", 
+                "operator": "קופת חולים מכבי", 
                 "error": true, 
                 "item_id": "1048"
             }
@@ -9155,10 +9155,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05df", 
+                "name": "דן", 
                 "phone": "04-6953039", 
-                "address": "\u05d3\u05df \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "דן ד.נ גליל עליון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "805"
             }
@@ -9173,10 +9173,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05d1\u05d5\u05e8\u05d4", 
+                "name": "דבורה", 
                 "phone": "04-6499379", 
-                "address": "\u05d3\u05d1\u05d5\u05e8\u05d4  ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "דבורה  ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "804"
             }
@@ -9191,10 +9191,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05e8\u05e9\u05d9\u05d7\u05d0", 
+                "name": "תרשיחא", 
                 "phone": "04-9578555", 
-                "address": "\u05de\u05e2\u05dc\u05d5\u05ea \u05ea\u05e8\u05e9\u05d9\u05d7\u05d0 \u05d1\u05df \u05d2\u05d5\u05e8\u05d9\u05d5\u05df  4", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מעלות תרשיחא בן גוריון  4", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "669"
             }
@@ -9209,10 +9209,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05e2\u05e8 \u05d4\u05e2\u05de\u05e7\u05d9\u05dd", 
+                "name": "שער העמקים", 
                 "phone": "04-9839223", 
-                "address": "\u05e9\u05e2\u05e8 \u05d4\u05e2\u05de\u05e7\u05d9\u05dd \u05d3\u05d5\u05d0\u05e8 \u05e9\u05e2\u05e8 \u05d4\u05e2\u05de\u05e7\u05d9\u05dd ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שער העמקים דואר שער העמקים ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "668"
             }
@@ -9227,10 +9227,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05de\u05e8\u05ea", 
+                "name": "שמרת", 
                 "phone": "04-9854790", 
-                "address": "\u05e9\u05de\u05e8\u05ea \u05d3.\u05e0 \u05d0\u05d5\u05e9\u05e8\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שמרת ד.נ אושרת ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "667"
             }
@@ -9245,10 +9245,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05dc\u05d5\u05de\u05d9", 
+                "name": "שלומי", 
                 "phone": "04-9808516", 
-                "address": "\u05e9\u05dc\u05d5\u05de\u05d9 \u05d6'\u05d1\u05d5\u05d8\u05d9\u05e0\u05e1\u05e7\u05d9  21", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שלומי ז'בוטינסקי  21", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "666"
             }
@@ -9263,10 +9263,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d1\u05d9 \u05e6\u05d9\u05d5\u05df", 
+                "name": "שבי ציון", 
                 "phone": "04-9829231", 
-                "address": "\u05e9\u05d1\u05d9 \u05e6\u05d9\u05d5\u05df \u05d3\u05d5\u05d0\u05e8 \u05e9\u05d1\u05d9 \u05e6\u05d9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שבי ציון דואר שבי ציון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "665"
             }
@@ -9281,10 +9281,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05de\u05ea \u05d9\u05d5\u05d7\u05e0\u05df", 
+                "name": "רמת יוחנן", 
                 "phone": "04-8459223", 
-                "address": "\u05e8\u05de\u05ea \u05d9\u05d5\u05d7\u05e0\u05df \u05d3.\u05e0 \u05db\u05e4\u05e8 \u05d4\u05de\u05db\u05d1\u05d9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "רמת יוחנן ד.נ כפר המכבי ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "664"
             }
@@ -9299,10 +9299,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05de\u05ea \u05d4\u05e9\u05d5\u05e4\u05d8", 
+                "name": "רמת השופט", 
                 "phone": "04-9898222", 
-                "address": "\u05e8\u05de\u05ea \u05d4\u05e9\u05d5\u05e4\u05d8 \u05e8\u05de\u05ea \u05d4\u05e9\u05d5\u05e4\u05d8 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "רמת השופט רמת השופט ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "663"
             }
@@ -9317,10 +9317,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05de\u05d5\u05ea \u05de\u05e0\u05e9\u05d4", 
+                "name": "רמות מנשה", 
                 "phone": "04-9895777", 
-                "address": "\u05e8\u05de\u05d5\u05ea \u05de\u05e0\u05e9\u05d4 \u05d3.\u05e0 \u05de\u05d2\u05d9\u05d3\u05d5 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "רמות מנשה ד.נ מגידו ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "662"
             }
@@ -9335,10 +9335,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05db\u05e1\u05d9\u05dd", 
+                "name": "רכסים", 
                 "phone": "04-9846511", 
-                "address": "\u05e8\u05db\u05e1\u05d9\u05dd \u05db\u05e4\u05e8 \u05d7\u05e1\u05d9\u05d3\u05d9\u05dd ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "רכסים כפר חסידים ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "661"
             }
@@ -9353,10 +9353,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05d2\u05d1\u05d4", 
+                "name": "רגבה", 
                 "phone": "04-9529012", 
-                "address": "\u05e8\u05d2\u05d1\u05d4 \u05d3.\u05e0 \u05d0\u05d5\u05e9\u05e8\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "רגבה ד.נ אושרת ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "660"
             }
@@ -9371,10 +9371,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05d0\u05d5\u05e0\u05d5 \u05d1'", 
+                "name": "קרית אונו ב'", 
                 "phone": "03-5344995", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05d0\u05d5\u05e0\u05d5 \u05d4\u05db\u05dc\u05e0\u05d9\u05ea   4", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "קרית אונו הכלנית   4", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "769"
             }
@@ -9389,10 +9389,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05df \u05d2\u05d3\u05d9", 
+                "name": "עין גדי", 
                 "phone": "02-6594743", 
-                "address": "\u05e2\u05d9\u05df \u05d2\u05d3\u05d9 \u05d3.\u05e0 \u05d9\u05dd \u05d4\u05de\u05dc\u05d7 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עין גדי ד.נ ים המלח ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "692"
             }
@@ -9407,10 +9407,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05dc\u05d9", 
+                "name": "עלי", 
                 "phone": "02-9947070", 
-                "address": "\u05e2\u05dc\u05d9 \u05d3.\u05e0 \u05d0\u05e4\u05e8\u05d9\u05dd ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עלי ד.נ אפרים ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "693"
             }
@@ -9425,10 +9425,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05e2\u05d9\u05dc\u05d9\u05ea \u05e7\u05e8\u05d9\u05ea \u05e1\u05e4\u05e8 ", 
+                "name": "מודיעין עילית קרית ספר ", 
                 "phone": "08-9144321", 
-                "address": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05e2\u05d9\u05dc\u05d9\u05ea \u05e7\u05e8\u05d9\u05ea \u05e1\u05e4\u05e8 \u05d0\u05d1\u05e0\u05d9 \u05e0\u05d6\u05e8  46", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "מודיעין עילית קרית ספר אבני נזר  46", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": true, 
                 "item_id": "690"
             }
@@ -9443,10 +9443,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05ea\u05d9\u05d1 \u05d4\u05dc\u05d4", 
+                "name": "נתיב הלה", 
                 "phone": "02-9900220", 
-                "address": "\u05e0\u05ea\u05d9\u05d1 \u05d4\u05dc\u05d4 \u05d3.\u05e0 \u05d4\u05d0\u05dc\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נתיב הלה ד.נ האלה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "691"
             }
@@ -9461,10 +9461,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d3\u05e8\u05d4", 
+                "name": "גדרה", 
                 "phone": "054-6244441", 
-                "address": "\u05d2\u05d3\u05e8\u05d4 \u05e4\u05d9\u05e0\u05e1 5", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "גדרה פינס 5", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "696"
             }
@@ -9479,10 +9479,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e6\u05d5\u05d1\u05d4", 
+                "name": "צובה", 
                 "phone": "02-5347701", 
-                "address": "\u05e6\u05d5\u05d1\u05d4 \u05d3.\u05e0 \u05e2\u05e8\u05d9 \u05d9\u05d4\u05d5\u05d3\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "צובה ד.נ ערי יהודה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "697"
             }
@@ -9497,10 +9497,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05e4\u05e8\u05d4", 
+                "name": "עפרה", 
                 "phone": "02-9973124", 
-                "address": "\u05e2\u05e4\u05e8\u05d4 \u05d3.\u05e0 \u05de\u05d6\u05e8\u05d7 \u05d1\u05e0\u05d9\u05de\u05d9\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עפרה ד.נ מזרח בנימין ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "694"
             }
@@ -9515,10 +9515,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e4\u05e1\u05d2\u05d5\u05ea", 
+                "name": "פסגות", 
                 "phone": "02-9973205", 
-                "address": "\u05e4\u05e1\u05d2\u05d5\u05ea \u05d3.\u05e0 \u05de\u05d6\u05e8\u05d7 \u05d1\u05e0\u05d9\u05de\u05d9\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "פסגות ד.נ מזרח בנימין ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "695"
             }
@@ -9533,10 +9533,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e6\u05e8\u05e2\u05d4", 
+                "name": "צרעה", 
                 "phone": "02-9908520", 
-                "address": "\u05e6\u05e8\u05e2\u05d4 \u05d3.\u05e0 \u05e9\u05de\u05e9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "צרעה ד.נ שמשון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "698"
             }
@@ -9551,10 +9551,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05dc\u05d9\u05d4", 
+                "name": "קליה", 
                 "phone": "02-9936255", 
-                "address": "\u05e7\u05dc\u05d9\u05d4 \u05d3.\u05e0 \u05d7\u05d1\u05dc \u05d9\u05e8\u05d9\u05d7\u05d5 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "קליה ד.נ חבל יריחו ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "699"
             }
@@ -9569,10 +9569,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05dc\u05d4\u05d1\u05d9\u05dd", 
+                "name": "להבים", 
                 "phone": "08-6681222", 
-                "address": "\u05dc\u05d4\u05d1\u05d9\u05dd \u05ea.\u05d3 10 \u05de\u05e8\u05db\u05d6 \u05dc\u05d4\u05d1\u05d9\u05dd ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "להבים ת.ד 10 מרכז להבים ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "542"
             }
@@ -9587,10 +9587,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e8\u05db\u05d6 \u05d5\u05d5\u05e8\u05d3\u05d5\u05df", 
+                "name": "מרכז וורדון", 
                 "phone": "08-8500670", 
-                "address": "\u05dc\u05db\u05d9\u05e9 \u05d3.\u05e0. \u05dc\u05db\u05d9\u05e9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "לכיש ד.נ. לכיש ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "543"
             }
@@ -9605,10 +9605,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e8\u05de\u05d9\u05d4", 
+                "name": "כרמיה", 
                 "phone": "08-6479830", 
-                "address": "\u05db\u05e8\u05de\u05d9\u05d4 \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d0\u05e9\u05e7\u05dc\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כרמיה ד.נ חוף אשקלון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "540"
             }
@@ -9623,10 +9623,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05dc\u05d4\u05d1", 
+                "name": "להב", 
                 "phone": "08-9913490", 
-                "address": "\u05dc\u05d4\u05d1 \u05d3.\u05e0 \u05d4\u05e0\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "להב ד.נ הנגב ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "541"
             }
@@ -9641,10 +9641,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d9\u05ea\u05e8", 
+                "name": "מיתר", 
                 "phone": "08-9558222", 
-                "address": "\u05de\u05d9\u05ea\u05e8 \u05e8\u05d7' \u05d4\u05de\u05d9\u05d9\u05e1\u05d3\u05d9\u05dd   5", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מיתר רח' המייסדים   5", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "546"
             }
@@ -9659,10 +9659,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d5\u05de\u05e8\u05d9\u05d4", 
+                "name": "שומריה", 
                 "phone": "08-9918129", 
-                "address": "\u05e9\u05d5\u05de\u05e8\u05d9\u05d4 \u05d3.\u05e0. \u05d4\u05e0\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שומריה ד.נ. הנגב ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "547"
             }
@@ -9677,10 +9677,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05dc\u05db\u05d9\u05e9", 
+                "name": "לכיש", 
                 "phone": "08-6887976", 
-                "address": "\u05dc\u05db\u05d9\u05e9 \u05d3.\u05e0 \u05dc\u05db\u05d9\u05e9 \u05d3\u05e8\u05d5\u05dd ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "לכיש ד.נ לכיש דרום ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "544"
             }
@@ -9695,10 +9695,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d2\u05df", 
+                "name": "מגן", 
                 "phone": "08-9983203", 
-                "address": "\u05de\u05d2\u05df \u05d3.\u05e0 \u05d4\u05e0\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מגן ד.נ הנגב ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "545"
             }
@@ -9713,10 +9713,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e9\u05d3\u05d5\u05d3  \u05d7'", 
+                "name": "אשדוד  ח'", 
                 "phone": "08-8551113", 
-                "address": "\u05d0\u05e9\u05d3\u05d5\u05d3  \u05de\u05d1\u05d5\u05d0 \u05d4\u05e2\u05d9\u05e8\u05d9\u05ea 3", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אשדוד  מבוא העירית 3", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "8"
             }
@@ -9731,10 +9731,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e9\u05d0\u05d1\u05d9 \u05e9\u05d3\u05d4", 
+                "name": "משאבי שדה", 
                 "phone": "08-6565367", 
-                "address": "\u05de\u05e9\u05d0\u05d1\u05d9 \u05e9\u05d3\u05d4 \u05d3.\u05e0. \u05d7\u05dc\u05d5\u05e6\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "משאבי שדה ד.נ. חלוצה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "548"
             }
@@ -9749,10 +9749,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e9\u05de\u05e8 \u05d4\u05e0\u05d2\u05d1", 
+                "name": "משמר הנגב", 
                 "phone": "08-9911208", 
-                "address": "\u05de\u05e9\u05de\u05e8 \u05d4\u05e0\u05d2\u05d1 \u05d3.\u05e0.\u05d4\u05e0\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "משמר הנגב ד.נ.הנגב ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "549"
             }
@@ -9767,10 +9767,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d5\u05dd \u05d0\u05dc\u05e4\u05d7\u05dd \u05d3", 
+                "name": "אום אלפחם ד", 
                 "phone": "04-6311597", 
-                "address": "\u05d0\u05d5\u05dd \u05d0\u05dc\u05e4\u05d7\u05dd \u05e9\u05db' \u05de\u05d7\u05de\u05d9\u05d3 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אום אלפחם שכ' מחמיד ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "68"
             }
@@ -9785,10 +9785,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05e8\u05d9\u05d2\u05d9\u05dd", 
+                "name": "שריגים", 
                 "phone": "02-9914008", 
-                "address": "\u05e9\u05e8\u05d9\u05d2\u05d9\u05dd \u05d3.\u05e0. \u05e9\u05e8\u05d9\u05d2\u05d9\u05dd \u05e9\u05e8\u05d9\u05d2\u05d9\u05dd  1", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שריגים ד.נ. שריגים שריגים  1", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "598"
             }
@@ -9803,10 +9803,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e8 \u05d1\u05e8\u05db\u05d4", 
+                "name": "הר ברכה", 
                 "phone": "02-9974276", 
-                "address": "\u05d4\u05e8 \u05d1\u05e8\u05db\u05d4 \u05d3.\u05e0. \u05d4\u05e8 \u05d1\u05e8\u05db\u05d4 ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "הר ברכה ד.נ. הר ברכה ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "995"
             }
@@ -9821,10 +9821,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05de\u05d9\u05e8", 
+                "name": "עמיר", 
                 "phone": "04-6954242", 
-                "address": "\u05e2\u05de\u05d9\u05e8 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עמיר ד.נ גליל עליון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "869"
             }
@@ -9839,10 +9839,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05dc\u05de\u05d9\u05e9", 
+                "name": "חלמיש", 
                 "phone": "08-9232811", 
-                "address": "\u05d7\u05dc\u05de\u05d9\u05e9 \u05d3.\u05e0. \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חלמיש ד.נ. מודיעין ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": false, 
                 "item_id": "997"
             }
@@ -9857,10 +9857,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e8\u05e6\u05d5\u05d2", 
+                "name": "הרצוג", 
                 "phone": "09-9727513", 
-                "address": "\u05d4\u05e8\u05e6\u05dc\u05d9\u05d4 \u05d4\u05e8\u05e6\u05d5\u05d2  13", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "הרצליה הרצוג  13", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": false, 
                 "item_id": "996"
             }
@@ -9875,10 +9875,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e8\u05d9\u05d0\u05dc", 
+                "name": "אריאל", 
                 "phone": "03-9065800", 
-                "address": "\u05d0\u05e8\u05d9\u05d0\u05dc \u05e0\u05d7\u05e9\u05d5\u05e0\u05d9\u05dd 41", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אריאל נחשונים 41", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "991"
             }
@@ -9893,10 +9893,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc\u05e7\u05e0\u05d4", 
+                "name": "אלקנה", 
                 "phone": "03-9362801", 
-                "address": "\u05d0\u05dc\u05e7\u05e0\u05d4 \u05d0. \u05e0. \u05e9\u05d5\u05de\u05e8\u05d5\u05df ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אלקנה א. נ. שומרון ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "990"
             }
@@ -9911,10 +9911,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d9\u05e0\u05d5\u05ea \u05e9\u05d5\u05de\u05e8\u05d5\u05df", 
+                "name": "גינות שומרון", 
                 "phone": "09-7920345", 
-                "address": "\u05d2\u05d9\u05e0\u05d5\u05ea \u05e9\u05d5\u05de\u05e8\u05d5\u05df \u05d4\u05d0\u05dc\u05d5\u05df  5", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "גינות שומרון האלון  5", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "993"
             }
@@ -9929,10 +9929,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05de\u05d9\u05e2\u05d3", 
+                "name": "עמיעד", 
                 "phone": "04-6909566", 
-                "address": "\u05e2\u05de\u05d9\u05e2\u05d3 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עמיעד ד.נ גליל עליון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "868"
             }
@@ -9947,10 +9947,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05e6\u05d4\u05e8", 
+                "name": "יצהר", 
                 "phone": "02-9975726", 
-                "address": "\u05d9\u05e6\u05d4\u05e8 \u05d3.\u05e0. \u05d0\u05e4\u05e8\u05d9\u05dd ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "יצהר ד.נ. אפרים ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "999"
             }
@@ -9965,10 +9965,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05d9\u05e8\u05d4", 
+                "name": "טירה", 
                 "phone": "09-7938833", 
-                "address": "\u05d8\u05d9\u05e8\u05d4 \u05d4\u05de\u05d5\u05d1\u05d9\u05dc \u05d4\u05d0\u05e8\u05e6\u05d9  20/42", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טירה המוביל הארצי  20/42", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": false, 
                 "item_id": "998"
             }
@@ -9983,10 +9983,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05ea \u05d2\u05dc\u05d9\u05dd", 
+                "name": "בת גלים", 
                 "phone": "077-3441214", 
-                "address": "\u05d7\u05d9\u05e4\u05d4 \u05e9\u05e8\u05dc \u05dc\u05d5\u05e5  26", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חיפה שרל לוץ  26", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "120"
             }
@@ -10001,10 +10001,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e9\u05d9\u05dc\u05d5\u05d7", 
+                "name": "השילוח", 
                 "phone": "077-9616496", 
-                "address": "\u05d7\u05d9\u05e4\u05d4 \u05d4\u05e9\u05d9\u05dc\u05d5\u05d7  35", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חיפה השילוח  35", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "122"
             }
@@ -10019,10 +10019,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05dc\u05d9\u05e1\u05d4", 
+                "name": "חליסה", 
                 "phone": "077-3238322", 
-                "address": "\u05d7\u05d9\u05e4\u05d4 \u05d4\u05d9\u05e8\u05d3\u05df  19", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חיפה הירדן  19", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "123"
             }
@@ -10037,10 +10037,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05e0\u05d4 \u05e1\u05e0\u05e9", 
+                "name": "חנה סנש", 
                 "phone": "077-3380585", 
-                "address": "\u05d7\u05d9\u05e4\u05d4  \u05d7\u05e0\u05d4 \u05e1\u05e0\u05e9  45", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חיפה  חנה סנש  45", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "124"
             }
@@ -10055,10 +10055,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05d6\u05e8\u05e2\u05d0\u05dc\u05d9\u05d4 \u05d7\u05d9\u05e4\u05d4", 
+                "name": "יזרעאליה חיפה", 
                 "phone": "04-8233777", 
-                "address": "\u05d7\u05d9\u05e4\u05d4  \u05d0\u05d1\u05d0 \u05d4\u05dc\u05dc \u05e1\u05d9\u05dc\u05d1\u05e8  8", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חיפה  אבא הלל סילבר  8", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "125"
             }
@@ -10073,10 +10073,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d5\u05d4 \u05d3\u05d5\u05d3", 
+                "name": "נוה דוד", 
                 "phone": "077-9610225", 
-                "address": "\u05d7\u05d9\u05e4\u05d4 \u05d4\u05de\u05dc\u05da \u05d0\u05e1\u05d0  4", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חיפה המלך אסא  4", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "127"
             }
@@ -10091,10 +10091,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d9\u05de\u05d5\u05df \u05e0\u05d5\u05d4 \u05e9\u05d0\u05e0\u05df", 
+                "name": "מימון נוה שאנן", 
                 "phone": "077-3224721", 
-                "address": "\u05d7\u05d9\u05e4\u05d4 \u05de\u05d9\u05de\u05d5\u05df 31", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חיפה מימון 31", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "128"
             }
@@ -10109,10 +10109,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d5\u05d4 \u05e1\u05d1\u05d9\u05d5\u05df", 
+                "name": "נוה סביון", 
                 "phone": "03-6343401", 
-                "address": "\u05e0\u05d5\u05d4 \u05e1\u05d1\u05d9\u05d5\u05df \u05d1\u05e8 \u05dc\u05d1 \u05d0\u05d5\u05e8 \u05d9\u05d4\u05d5\u05d3\u05d4 10", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נוה סביון בר לב אור יהודה 10", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "765"
             }
@@ -10127,10 +10127,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e2\u05dc\u05d5\u05ea", 
+                "name": "מעלות", 
                 "phone": "04-9079107", 
-                "address": "\u05de\u05e2\u05dc\u05d5\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd  18", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "מעלות ירושלים  18", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": false, 
                 "item_id": "1016"
             }
@@ -10145,10 +10145,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d1\u05df \u05d9\u05d4\u05d5\u05d3\u05d4", 
+                "name": "אבן יהודה", 
                 "phone": "09-8917436", 
-                "address": "\u05d0\u05d1\u05df \u05d9\u05d4\u05d5\u05d3\u05d4 \u05d4\u05de\u05d9\u05d9\u05e1\u05d3\u05d9\u05dd  41", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "אבן יהודה המייסדים  41", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": false, 
                 "item_id": "1010"
             }
@@ -10163,10 +10163,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc\u05d5\u05df \u05e9\u05d1\u05d5\u05ea", 
+                "name": "אלון שבות", 
                 "phone": "02-9939775", 
-                "address": "\u05d0\u05dc\u05d5\u05df \u05e9\u05d1\u05d5\u05ea \u05de\u05d2\u05d9\u05e0\u05d9 \u05d4\u05d2\u05d5\u05e9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "אלון שבות מגיני הגוש ", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": true, 
                 "item_id": "1011"
             }
@@ -10181,10 +10181,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df", 
+                "name": "מנחם בגין", 
                 "phone": "04-6923769", 
-                "address": "\u05e6\u05e4\u05ea \u05e9\u05db\u05d5\u05e0\u05ea \u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "צפת שכונת מנחם בגין ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "414"
             }
@@ -10199,10 +10199,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05d5\u05e8\u05d4 \u05d1", 
+                "name": "חורה ב", 
                 "phone": "08-6510178", 
-                "address": "\u05e9\u05db\u05d5\u05e0\u05d4 9 \u05d7\u05d5\u05e8\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שכונה 9 חורה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "415"
             }
@@ -10217,10 +10217,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05e8\u05d5\u05dd \u05d1' \u05e6\u05e4\u05ea", 
+                "name": "דרום ב' צפת", 
                 "phone": "04-6921081", 
-                "address": "\u05e6\u05e4\u05ea \u05d4\u05e8\u05e6\u05dc 9", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "צפת הרצל 9", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "416"
             }
@@ -10235,10 +10235,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e9\u05d5\u05e9\u05d9\u05dd", 
+                "name": "משושים", 
                 "phone": "04-6962819", 
-                "address": "\u05e7\u05e6\u05e8\u05d9\u05df \u05d4\u05de\u05e9\u05d5\u05e9\u05d9\u05dd 26", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קצרין המשושים 26", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "417"
             }
@@ -10253,10 +10253,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e8\u05db\u05d6 \u05e7\u05dc\u05d9\u05d8\u05d4 \u05db\u05e0\u05e2\u05df", 
+                "name": "מרכז קליטה כנען", 
                 "phone": "04-6921476", 
-                "address": "\u05e6\u05e4\u05ea \u05e1\u05d1\u05d9\u05d5\u05e0\u05d9 \u05db\u05e0\u05e2\u05df \u05e6\u05e4\u05ea ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "צפת סביוני כנען צפת ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "410"
             }
@@ -10271,10 +10271,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05e8\u05d5\u05dd \u05d2' \u05e6\u05e4\u05ea", 
+                "name": "דרום ג' צפת", 
                 "phone": "04-6974292", 
-                "address": "\u05e6\u05e4\u05ea \" \u05e6\u05d4\"\u05dc \" 12", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "צפת \" צה\"ל \" 12", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "411"
             }
@@ -10289,10 +10289,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05e8\u05d5\u05dd \u05d3' \u05e6\u05e4\u05ea", 
+                "name": "דרום ד' צפת", 
                 "phone": "04-6973420", 
-                "address": "\u05e6\u05e4\u05ea \"\u05e6\u05d4\"\u05dc \" 7", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "צפת \"צה\"ל \" 7", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "412"
             }
@@ -10307,10 +10307,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e0\u05e2\u05df", 
+                "name": "כנען", 
                 "phone": "04-6920984", 
-                "address": "\u05e6\u05e4\u05ea \u05d6\u05dc\u05de\u05df \u05e9\u05d6\u05e8 207", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "צפת זלמן שזר 207", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "413"
             }
@@ -10325,10 +10325,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05d5\u05d9\u05ea\u05e7\u05d9\u05df", 
+                "name": "כפר ויתקין", 
                 "phone": "09-8666083", 
-                "address": "\u05db\u05e4\u05e8 \u05d5\u05d9\u05ea\u05e7\u05d9\u05df \u05db\u05e4\u05e8 \u05d5\u05d9\u05ea\u05e7\u05d9\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר ויתקין כפר ויתקין ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "920"
             }
@@ -10343,10 +10343,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d5\u05d4 \u05d0\u05dc\u05d9\u05e2\u05d6\u05e8", 
+                "name": "נוה אליעזר", 
                 "phone": "03-6318907", 
-                "address": "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 - \u05d9\u05e4\u05d5 \u05d3\u05e8\u05da \u05dc\u05d5\u05d3    195", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1", 
+                "address": "תל אביב - יפו דרך לוד    195", 
+                "operator": "עיריית תל אביב", 
                 "error": false, 
                 "item_id": "498"
             }
@@ -10361,10 +10361,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05df \u05d2\u05d5\u05e8\u05d9\u05d5\u05df", 
+                "name": "בן גוריון", 
                 "phone": "09-7651265", 
-                "address": "\u05db\u05e4\u05e8 \u05e1\u05d1\u05d0 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd  26", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר סבא ירושלים  26", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "923"
             }
@@ -10379,10 +10379,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05e4\u05e8\u05d9\u05e0\u05e6\u05e7", 
+                "name": "שפרינצק", 
                 "phone": "04-6941653", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05e9\u05de\u05d5\u05e0\u05d4 \u05e9\u05e4\u05e8\u05d9\u05e0\u05e6\u05e7 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית שמונה שפרינצק ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "419"
             }
@@ -10397,10 +10397,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d9\u05dc\u05e0\u05d9\u05d4", 
+                "name": "אילניה", 
                 "phone": "04-6766110", 
-                "address": "\u05d0\u05d9\u05dc\u05e0\u05d9\u05d4 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05ea\u05d7\u05ea\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אילניה ד.נ גליל תחתון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "776"
             }
@@ -10415,10 +10415,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05e6\u05e8\u05d5\u05df", 
+                "name": "ביצרון", 
                 "phone": "03-5622894", 
-                "address": "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 - \u05d9\u05e4\u05d5 \u05e7\u05dc\u05de\u05df \u05e9\u05d5\u05dc\u05de\u05df   3", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1", 
+                "address": "תל אביב - יפו קלמן שולמן   3", 
+                "operator": "עיריית תל אביב", 
                 "error": false, 
                 "item_id": "499"
             }
@@ -10433,10 +10433,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05d0\u05d1\u05d5\u05dc \u05d1", 
+                "name": "כאבול ב", 
                 "phone": "04-9940126", 
-                "address": "\u05db\u05d0\u05d1\u05d5\u05dc \u05db\u05d0\u05d1\u05d5\u05dc ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כאבול כאבול ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "319"
             }
@@ -10451,10 +10451,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05d0\u05d1\u05d5\u05dc \u05d0", 
+                "name": "כאבול א", 
                 "phone": "04-9946660", 
-                "address": "\u05db\u05d0\u05d1\u05d5\u05dc \u05db\u05d0\u05d1\u05d5\u05dc ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כאבול כאבול ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "318"
             }
@@ -10469,10 +10469,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05de\u05e8\u05d4 \u05d3", 
+                "name": "טמרה ד", 
                 "phone": "04-9947324", 
-                "address": "\u05d8\u05de\u05e8\u05d4 \u05d8\u05de\u05e8\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טמרה טמרה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "313"
             }
@@ -10487,10 +10487,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05de\u05e8\u05d4 \u05d1", 
+                "name": "טמרה ב", 
                 "phone": "04-9946760", 
-                "address": "\u05d8\u05de\u05e8\u05d4 \u05d8\u05de\u05e8\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טמרה טמרה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "312"
             }
@@ -10505,10 +10505,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05de\u05e8\u05d4 \u05d0+\u05d4", 
+                "name": "טמרה א+ה", 
                 "phone": "04-9943139", 
-                "address": "\u05d8\u05de\u05e8\u05d4 \u05d8\u05de\u05e8\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טמרה טמרה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "311"
             }
@@ -10523,10 +10523,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05d5\u05e8\u05e4\u05d9\u05e9 \u05d0", 
+                "name": "חורפיש א", 
                 "phone": "04-9979950", 
-                "address": "\u05d7\u05d5\u05e8\u05e4\u05d9\u05e9 \u05d7\u05d5\u05e8\u05e4\u05d9\u05e9 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חורפיש חורפיש ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "310"
             }
@@ -10541,10 +10541,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05e8\u05db\u05d0 \u05d1", 
+                "name": "ירכא ב", 
                 "phone": "04-9568111", 
-                "address": "\u05d9\u05e8\u05db\u05d0 \u05d9\u05e8\u05db\u05d0 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ירכא ירכא ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "317"
             }
@@ -10559,10 +10559,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d5\u05d5\u05d4 \u05d6\u05d0\u05d1", 
+                "name": "נווה זאב", 
                 "phone": "08-9113228", 
-                "address": "\u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2 \u05d9\u05d5\u05d4\u05e0\u05d4 \u05d6'\u05d1\u05d5\u05d8\u05d9\u05e0\u05e1\u05e7\u05d9 30", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "באר שבע יוהנה ז'בוטינסקי 30", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "316"
             }
@@ -10577,10 +10577,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05d0\u05e0\u05d5\u05d7", 
+                "name": "יאנוח", 
                 "phone": "04-9976560", 
-                "address": "\u05d9\u05d0\u05e0\u05d5\u05d7 \u05d9\u05d0\u05e0\u05d5\u05d7 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "יאנוח יאנוח ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "315"
             }
@@ -10595,10 +10595,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05de\u05e8\u05d4 \u05d5", 
+                "name": "טמרה ו", 
                 "phone": "04-9941242", 
-                "address": "\u05d8\u05de\u05e8\u05d4 \u05d8\u05de\u05e8\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טמרה טמרה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "314"
             }
@@ -10613,10 +10613,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d9\u05e8 \u05d3\u05d5\u05d3", 
+                "name": "ניר דוד", 
                 "phone": "04-6488909", 
-                "address": "\u05e0\u05d9\u05e8 \u05d3\u05d5\u05d3 \u05d3.\u05e0 \u05d1\u05d9\u05ea \u05e9\u05d0\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ניר דוד ד.נ בית שאן ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "861"
             }
@@ -10631,10 +10631,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05d7\u05d2\u05dc\u05d4", 
+                "name": "כפר חגלה", 
                 "phone": "04-6365825", 
-                "address": "\u05db\u05e4\u05e8 \u05d7\u05d2\u05dc\u05d4 \u05d3.\u05e0 \u05e9\u05d5\u05de\u05e8\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר חגלה ד.נ שומרון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "921"
             }
@@ -10649,10 +10649,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05d7\u05e0\u05d4 \u05de\u05e8\u05db\u05d6\u05d9\u05ea", 
+                "name": "תחנה מרכזית", 
                 "phone": "03-6871841", 
-                "address": "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 - \u05d9\u05e4\u05d5 \u05e8\u05d0\u05e9\u05d5\u05df \u05dc\u05e6\u05d9\u05d5\u05df    3", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1", 
+                "address": "תל אביב - יפו ראשון לציון    3", 
+                "operator": "עיריית תל אביב", 
                 "error": false, 
                 "item_id": "496"
             }
@@ -10667,10 +10667,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05d9\u05d7\u05d6\u05e7\u05d0\u05dc", 
+                "name": "כפר יחזקאל", 
                 "phone": "04-6531876", 
-                "address": "\u05db\u05e4\u05e8 \u05d9\u05d7\u05d6\u05e7\u05d0\u05dc \u05d3.\u05e0 \u05d2\u05dc\u05d1\u05d5\u05e2 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר יחזקאל ד.נ גלבוע ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "832"
             }
@@ -10685,10 +10685,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05e1\u05d0\u05dc\u05d3", 
+                "name": "כפר סאלד", 
                 "phone": "04-6907555", 
-                "address": "\u05db\u05e4\u05e8 \u05e1\u05d0\u05dc\u05d3 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר סאלד ד.נ גליל עליון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "833"
             }
@@ -10703,10 +10703,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05e9\u05dc\u05d5\u05dd", 
+                "name": "קרית שלום", 
                 "phone": "03-5183167", 
-                "address": "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 - \u05d9\u05e4\u05d5 \u05d4\u05e7\u05e9\u05ea    8", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1", 
+                "address": "תל אביב - יפו הקשת    8", 
+                "operator": "עיריית תל אביב", 
                 "error": false, 
                 "item_id": "497"
             }
@@ -10721,10 +10721,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05dc\u05d1\u05d9\u05d0", 
+                "name": "לביא", 
                 "phone": "04-6799215", 
-                "address": "\u05dc\u05d1\u05d9\u05d0 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05ea\u05d7\u05ea\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "לביא ד.נ גליל תחתון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "836"
             }
@@ -10739,10 +10739,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05dc\u05d4\u05d1\u05d5\u05ea \u05d4\u05d1\u05e9\u05df", 
+                "name": "להבות הבשן", 
                 "phone": "04-6952134", 
-                "address": "\u05dc\u05d4\u05d1\u05d5\u05ea \u05d4\u05d1\u05e9\u05df \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "להבות הבשן ד.נ גליל עליון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "837"
             }
@@ -10757,10 +10757,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05e7\u05d9\u05e9", 
+                "name": "כפר קיש", 
                 "phone": "04-6765317", 
-                "address": "\u05db\u05e4\u05e8 \u05e7\u05d9\u05e9 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05ea\u05d7\u05ea\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר קיש ד.נ גליל תחתון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "834"
             }
@@ -10775,10 +10775,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05e8\u05d5\u05e4\u05d9\u05df", 
+                "name": "כפר רופין", 
                 "phone": "04-6068201", 
-                "address": "\u05db\u05e4\u05e8 \u05e8\u05d5\u05e4\u05d9\u05df \u05d3.\u05e0 \u05d1\u05d9\u05ea \u05e9\u05d0\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר רופין ד.נ בית שאן ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "835"
             }
@@ -10793,10 +10793,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d2\u05d3\u05dc \u05d4\u05e2\u05de\u05e7", 
+                "name": "מגדל העמק", 
                 "phone": "04-6447065", 
-                "address": "\u05de\u05d2\u05d3\u05dc \u05d4\u05e2\u05de\u05e7 \u05d4\u05d0\u05dc\u05d4   2", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מגדל העמק האלה   2", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "839"
             }
@@ -10811,10 +10811,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05d6\u05d5\u05e8\u05e2\u05d9\u05dd", 
+                "name": "הזורעים", 
                 "phone": "04-6793779", 
-                "address": "\u05d4\u05d6\u05d5\u05e8\u05e2\u05d9\u05dd \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05ea\u05d7\u05ea\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "הזורעים ד.נ גליל תחתון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "808"
             }
@@ -10829,10 +10829,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e9\u05d3\u05d5\u05d3  \u05d2'", 
+                "name": "אשדוד  ג'", 
                 "phone": "08-8522823", 
-                "address": "\u05d0\u05e9\u05d3\u05d5\u05d3  \u05d7\u05d8\u05d9\u05d1\u05ea \u05d4\u05e0\u05d2\u05d1 2", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אשדוד  חטיבת הנגב 2", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "3"
             }
@@ -10847,10 +10847,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e8\u05db\u05d6 \u05e9\u05e4\u05d9\u05e8\u05d0", 
+                "name": "מרכז שפירא", 
                 "phone": "08-8580540", 
-                "address": "\u05de\u05e8\u05db\u05d6 \u05e9\u05e4\u05d9\u05e8\u05d0 \u05d3.\u05e0 \u05dc\u05db\u05d9\u05e9 \u05e6\u05e4\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מרכז שפירא ד.נ לכיש צפון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "725"
             }
@@ -10865,10 +10865,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d5\u05e1\u05de\u05ea \u05d8\u05d1\u05e2\u05d5\u05df", 
+                "name": "בוסמת טבעון", 
                 "phone": "04-9837866", 
-                "address": "\u05d1\u05e1\u05de\u05ea \u05d8\u05d1\u05e2\u05d5\u05df \u05d1\u05d5\u05e1\u05de\u05ea \u05d8\u05d1\u05e2\u05d5\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בסמת טבעון בוסמת טבעון ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "368"
             }
@@ -10883,10 +10883,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d5\u05d2'\u05d9\u05d3\u05d0\u05ea", 
+                "name": "נוג'ידאת", 
                 "phone": "04-6730984", 
-                "address": "\u05d1\u05d5\u05e2\u05d9\u05d9\u05e0\u05d4-\u05e0\u05d5\u05d2'\u05d9\u05d3\u05d0\u05ea \u05e0\u05d5\u05d2'\u05d9\u05d3\u05d0\u05ea ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בועיינה-נוג'ידאת נוג'ידאת ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "366"
             }
@@ -10901,10 +10901,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05db\u05e1\u05d0\u05dc \u05d1'", 
+                "name": "אכסאל ב'", 
                 "phone": "04-6461760", 
-                "address": "\u05d0\u05db\u05e1\u05d0\u05dc \u05d0\u05db\u05e1\u05d0\u05dc ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אכסאל אכסאל ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "364"
             }
@@ -10919,10 +10919,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d5\u05e2\u05d9\u05d9\u05e0\u05d4", 
+                "name": "בועיינה", 
                 "phone": "04-6730380", 
-                "address": "\u05d1\u05d5\u05e2\u05d9\u05d9\u05e0\u05d4-\u05e0\u05d5\u05d2'\u05d9\u05d3\u05d0\u05ea \u05d1\u05d5\u05e2\u05d9\u05d9\u05e0\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בועיינה-נוג'ידאת בועיינה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "365"
             }
@@ -10937,10 +10937,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d5\u05dd \u05d0\u05dc \u05d2\u05d0\u05e0\u05dd", 
+                "name": "אום אל גאנם", 
                 "phone": "04-6769237", 
-                "address": "\u05d0\u05d5\u05dd \u05d0\u05dc-\u05d2\u05e0\u05dd \u05d0\u05d5\u05dd \u05d0\u05dc \u05d2\u05d0\u05e0\u05dd ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אום אל-גנם אום אל גאנם ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "362"
             }
@@ -10955,10 +10955,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05db\u05e1\u05d0\u05dc \u05d0'", 
+                "name": "אכסאל א'", 
                 "phone": "04-6561450", 
-                "address": "\u05d0\u05db\u05e1\u05d0\u05dc \u05d0\u05db\u05e1\u05d0\u05dc ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אכסאל אכסאל ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "363"
             }
@@ -10973,10 +10973,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05e4\u05e8\u05e2\u05dd \u05d3", 
+                "name": "שפרעם ד", 
                 "phone": "04-9500784", 
-                "address": "\u05e9\u05e4\u05e8\u05e2\u05dd \u05e9\u05e4\u05e8\u05e2\u05dd ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "שפרעם שפרעם ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "360"
             }
@@ -10991,10 +10991,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05e4\u05e8\u05e2\u05dd \u05d4", 
+                "name": "שפרעם ה", 
                 "phone": "04-9501717", 
-                "address": "\u05e9\u05e4\u05e8\u05e2\u05dd \u05e9\u05e4\u05e8\u05e2\u05dd ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "שפרעם שפרעם ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "361"
             }
@@ -11009,10 +11009,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d3\u05d5\u05ea \u05d9\u05dd", 
+                "name": "שדות ים", 
                 "phone": "04-6364447", 
-                "address": "\u05e9\u05d3\u05d5\u05ea \u05d9\u05dd \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שדות ים ד.נ חוף הכרמל ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "959"
             }
@@ -11027,10 +11027,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d5\u05e8\u05d9\u05d4", 
+                "name": "מוריה", 
                 "phone": "03-7607200", 
-                "address": "\u05e8\u05de\u05ea \u05d4\u05e9\u05e8\u05d5\u05df \u05de\u05d5\u05e8\u05d9\u05d4  31", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "רמת השרון מוריה  31", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "952"
             }
@@ -11045,10 +11045,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d3\u05d4 \u05e0\u05d7\u05de\u05d9\u05d4", 
+                "name": "שדה נחמיה", 
                 "phone": "04-6946916", 
-                "address": "\u05e9\u05d3\u05d4 \u05e0\u05d7\u05de\u05d9\u05d4 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שדה נחמיה ד.נ גליל עליון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "882"
             }
@@ -11063,10 +11063,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e0\u05e9\u05d9\u05ea \u05d6\u05d1\u05d3\u05d4", 
+                "name": "מנשית זבדה", 
                 "phone": "04-6415120", 
-                "address": "\u05de\u05e0\u05e9\u05d9\u05ea \u05d6\u05d1\u05d3\u05d4 \u05de\u05e0\u05e9\u05d9\u05ea \u05d6\u05d1\u05d3\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מנשית זבדה מנשית זבדה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "380"
             }
@@ -11081,10 +11081,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05e2\u05d5\u05e8\u05d4", 
+                "name": "נעורה", 
                 "phone": "04-6070068", 
-                "address": "\u05e0\u05d0\u05e2\u05d5\u05e8\u05d4 \u05e0\u05e2\u05d5\u05e8\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נאעורה נעורה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "381"
             }
@@ -11099,10 +11099,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d9\u05df", 
+                "name": "נין", 
                 "phone": "04-6592103", 
-                "address": "\u05e0\u05d9\u05d9\u05df \u05e0\u05d9\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ניין נין ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "382"
             }
@@ -11117,10 +11117,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05e6\u05e8\u05ea \u05e2\u05dc\u05d9\u05ea \u05d0'", 
+                "name": "נצרת עלית א'", 
                 "phone": "04-6576784", 
-                "address": "\u05e0\u05e6\u05e8\u05ea \u05e2\u05d9\u05dc\u05d9\u05ea \u05e0\u05e8\u05e7\u05d9\u05e1\u05d9\u05dd  14", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נצרת עילית נרקיסים  14", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "383"
             }
@@ -11135,10 +11135,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05e6\u05e8\u05ea \u05e2\u05dc\u05d9\u05ea \u05d2'", 
+                "name": "נצרת עלית ג'", 
                 "phone": "04-6564637", 
-                "address": "\u05e0\u05e6\u05e8\u05ea \u05e2\u05d9\u05dc\u05d9\u05ea \u05e1\u05d1\u05d9\u05d5\u05df (\u05e9\u05d5\u05e9\u05e0\u05d9\u05dd)  2 \u05d0", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נצרת עילית סביון (שושנים)  2 א", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "384"
             }
@@ -11153,10 +11153,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e8 \u05d9\u05d5\u05e0\u05d4", 
+                "name": "הר יונה", 
                 "phone": "04-6450979", 
-                "address": "\u05e0\u05e6\u05e8\u05ea \u05e2\u05d9\u05dc\u05d9\u05ea \u05e2\u05d3 \u05e2\u05d3  18", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נצרת עילית עד עד  18", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "385"
             }
@@ -11171,10 +11171,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e1\u05e0\u05d3\u05dc\u05d4", 
+                "name": "סנדלה", 
                 "phone": "04-6401416", 
-                "address": "\u05e1\u05d3\u05dc\u05d4 \u05e1\u05e0\u05d3\u05dc\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "סדלה סנדלה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "386"
             }
@@ -11189,10 +11189,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e1\u05d5\u05dc\u05dd", 
+                "name": "סולם", 
                 "phone": "04-6420289", 
-                "address": "\u05e1\u05d5\u05dc\u05dd \u05e1\u05d5\u05dc\u05dd ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "סולם סולם ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "387"
             }
@@ -11207,10 +11207,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d5\u05d6\u05d9\u05e8", 
+                "name": "עוזיר", 
                 "phone": "04-6517587", 
-                "address": "\u05e2\u05d5\u05d6\u05d9\u05e8 \u05e2\u05d5\u05d6\u05d9\u05e8 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עוזיר עוזיר ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "388"
             }
@@ -11225,10 +11225,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05e4\u05d5\u05dc\u05d4 \u05d1'", 
+                "name": "עפולה ב'", 
                 "phone": "04-6527615", 
-                "address": "\u05e2\u05e4\u05d5\u05dc\u05d4  \u05d5\u05d5\u05dc\u05e4\u05e1\u05d5\u05df  ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עפולה  וולפסון  ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "389"
             }
@@ -11243,10 +11243,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea \u05d0\u05dc\u05e4\u05d0", 
+                "name": "בית אלפא", 
                 "phone": "04-6533900", 
-                "address": "\u05d1\u05d9\u05ea \u05d0\u05dc\u05e4\u05d0 \u05d3.\u05e0 \u05d2\u05dc\u05d1\u05d5\u05e2 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "בית אלפא ד.נ גלבוע ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "784"
             }
@@ -11261,10 +11261,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea \u05d4\u05e9\u05d9\u05d8\u05d4", 
+                "name": "בית השיטה", 
                 "phone": "04-6536788", 
-                "address": "\u05d1\u05d9\u05ea \u05d4\u05e9\u05d9\u05d8\u05d4 \u05d3\u05d5\u05d0\u05e8 \u05d1\u05d9\u05ea \u05d4\u05e9\u05d9\u05d8\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "בית השיטה דואר בית השיטה ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "785"
             }
@@ -11279,10 +11279,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea \u05d9\u05d5\u05e1\u05e3 \u05d9\u05e8\u05d3\u05e0\u05d4", 
+                "name": "בית יוסף ירדנה", 
                 "phone": "04-6588996", 
-                "address": "\u05d1\u05d9\u05ea \u05d9\u05d5\u05e1\u05e3 \u05d9\u05e8\u05d3\u05e0\u05d4  ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "בית יוסף ירדנה  ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "786"
             }
@@ -11297,10 +11297,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea \u05e8\u05d9\u05de\u05d5\u05df", 
+                "name": "בית רימון", 
                 "phone": "04-6509640", 
-                "address": "\u05d1\u05d9\u05ea \u05e8\u05d9\u05de\u05d5\u05df \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05ea\u05d7\u05ea\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "בית רימון ד.נ גליל תחתון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "787"
             }
@@ -11315,10 +11315,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc\u05d5\u05e0\u05d9\u05dd", 
+                "name": "אלונים", 
                 "phone": "04-9838111", 
-                "address": "\u05d0\u05dc\u05d5\u05e0\u05d9\u05dd \u05d3\u05d5\u05d0\u05e8 \u05d0\u05dc\u05d5\u05e0\u05d9\u05dd ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אלונים דואר אלונים ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "780"
             }
@@ -11333,10 +11333,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e8\u05d1\u05dc", 
+                "name": "ארבל", 
                 "phone": "04-6793879", 
-                "address": "\u05d0\u05e8\u05d1\u05dc \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05ea\u05d7\u05ea\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ארבל ד.נ גליל תחתון ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "783"
             }
@@ -11351,10 +11351,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea \u05e9\u05d0\u05df \u05de.\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea \u05d4\u05d9\u05dc\u05d3", 
+                "name": "בית שאן מ.בריאות הילד", 
                 "phone": "04-6061200", 
-                "address": "\u05d1\u05d9\u05ea \u05e9\u05d0\u05df \u05e9\u05db\u05d5\u05e0\u05ea \u05d0\u05dc\u05d9\u05d4\u05d5 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "בית שאן שכונת אליהו ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "789"
             }
@@ -11369,10 +11369,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d5\u05e3 \u05d4\u05e2\u05de\u05e7", 
+                "name": "נוף העמק", 
                 "phone": "04-6049200", 
-                "address": "\u05e0\u05d5\u05e3 \u05d4\u05e2\u05de\u05e7 \u05d4\u05d0\u05d9\u05e8\u05d9\u05e1  \u05de\u05d2\u05d3\u05dc \u05d4\u05e2\u05de\u05e7 5", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נוף העמק האיריס  מגדל העמק 5", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "860"
             }
@@ -11387,10 +11387,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05d6\u05d5\u05e8\u05e2", 
+                "name": "הזורע", 
                 "phone": "04-9899100", 
-                "address": "\u05d4\u05d6\u05d5\u05e8\u05e2 \u05d4\u05d6\u05d5\u05e8\u05e2 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "הזורע הזורע ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "605"
             }
@@ -11405,10 +11405,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05d5\u05d7\u05de\u05d4", 
+                "name": "רוחמה", 
                 "phone": "08-6807100", 
-                "address": "\u05e8\u05d5\u05d7\u05de\u05d4 \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d0\u05e9\u05e7\u05dc\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "רוחמה ד.נ חוף אשקלון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "579"
             }
@@ -11423,10 +11423,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d1\u05e2\u05ea \u05d6\u05d0\u05d1 \u05d2\u05df \u05d4\u05d0\u05d9\u05d9\u05dc\u05d5\u05ea", 
+                "name": "גבעת זאב גן האיילות", 
                 "phone": "02-5360400", 
-                "address": "\u05d2\u05d1\u05e2\u05ea \u05d6\u05d0\u05d1 \u05d4\u05d0\u05e8\u05d9 \u05e4\u05d9\u05e0\u05ea \u05d4\u05d0\u05d9\u05d9\u05dc\u05d5\u05ea 2", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גבעת זאב הארי פינת האיילות 2", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "578"
             }
@@ -11441,10 +11441,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05e4\u05e6\u05d9\u05d1\u05d4", 
+                "name": "חפציבה", 
                 "phone": "04-6534100", 
-                "address": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05e2\u05d9\u05dc\u05d9\u05ea  ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מודיעין עילית  ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "604"
             }
@@ -11459,10 +11459,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e6\u05d5\u05e4\u05e8", 
+                "name": "צופר", 
                 "phone": "08-6582030", 
-                "address": "\u05e6\u05d5\u05e4\u05e8 \u05d3.\u05e0 \u05d4\u05e2\u05e8\u05d1\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "צופר ד.נ הערבה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "573"
             }
@@ -11477,10 +11477,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e6\u05d5\u05d7\u05e8", 
+                "name": "צוחר", 
                 "phone": "08-9118222", 
-                "address": "\u05e6\u05d5\u05d7\u05e8 \u05d3.\u05e0 \u05d4\u05e0\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "צוחר ד.נ הנגב ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "572"
             }
@@ -11495,10 +11495,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e6\u05d0\u05dc\u05d9\u05dd", 
+                "name": "צאלים", 
                 "phone": "08-9989252", 
-                "address": "\u05e6\u05d0\u05dc\u05d9\u05dd \u05d3.\u05e0 \u05d7\u05dc\u05d5\u05e6\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "צאלים ד.נ חלוצה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "571"
             }
@@ -11513,10 +11513,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e4\u05d0\u05e8\u05df", 
+                "name": "פארן", 
                 "phone": "08-6581075", 
-                "address": "\u05e4\u05d0\u05e8\u05df \u05d3.\u05e0 \u05d4\u05e2\u05e8\u05d1\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "פארן ד.נ הערבה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "570"
             }
@@ -11531,10 +11531,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05d1\u05d9\u05d1\u05d9\u05dd", 
+                "name": "רביבים", 
                 "phone": "08-6562520", 
-                "address": "\u05e8\u05d1\u05d9\u05d1\u05d9\u05dd \u05d3.\u05e0 \u05d7\u05dc\u05d5\u05e6\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "רביבים ד.נ חלוצה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "577"
             }
@@ -11549,10 +11549,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea \u05d6\u05d9\u05ea", 
+                "name": "בית זית", 
                 "phone": "02-5346616", 
-                "address": "\u05d1\u05d9\u05ea \u05d6\u05d9\u05ea \u05d3.\u05e0. \u05d4\u05e8\u05d9 \u05d9\u05d4\u05d5\u05d3\u05d4 90815 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "בית זית ד.נ. הרי יהודה 90815 ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "576"
             }
@@ -11567,10 +11567,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05d2\u05ea \u05de\u05e8\u05db\u05d6 \u05d4\u05d9\u05dc\u05d3", 
+                "name": "קרית גת מרכז הילד", 
                 "phone": "08-6670333", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05d2\u05ea \u05e9\u05d3' \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea  32/37", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "קרית גת שד' העצמאות  32/37", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "575"
             }
@@ -11585,10 +11585,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05d5\u05de\u05de\u05d9\u05d5\u05ea", 
+                "name": "קוממיות", 
                 "phone": "08-6814406", 
-                "address": "\u05e7\u05d5\u05de\u05de\u05d9\u05d5\u05ea \u05d3.\u05d4 \u05e9\u05d3\u05d4 \u05d2\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "קוממיות ד.ה שדה גת ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "574"
             }
@@ -11603,10 +11603,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc \u05d0\u05d8\u05e8\u05e9", 
+                "name": "אל אטרש", 
                 "phone": "054-9191684", 
-                "address": "\u05d0\u05dc \u05d0\u05d8\u05e8\u05e9  ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אל אטרש  ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "60"
             }
@@ -11621,10 +11621,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d1\u05d5 \u05db\u05e3", 
+                "name": "אבו כף", 
                 "phone": "054-9191784", 
-                "address": "\u05d0\u05d5\u05dd \u05d1\u05d8\u05d9\u05df \u05d0\u05d1\u05d5 \u05db\u05e3 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אום בטין אבו כף ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "61"
             }
@@ -11639,10 +11639,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e0\u05e3", 
+                "name": "כנף", 
                 "phone": "04-6733676", 
-                "address": "\u05db\u05e0\u05e3 \u05db\u05e0\u05e3 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כנף כנף ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "258"
             }
@@ -11657,10 +11657,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05db\u05de\u05d0", 
+                "name": "כפר כמא", 
                 "phone": "04-6765660", 
-                "address": "\u05db\u05e4\u05e8 \u05db\u05de\u05d0 \u05db\u05e4\u05e8 \u05db\u05de\u05d0 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כפר כמא כפר כמא ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "259"
             }
@@ -11675,10 +11675,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d1\u05d5\u05e7\u05e8\u05d9\u05e0\u05d0\u05ea", 
+                "name": "אבוקרינאת", 
                 "phone": "054-9191674", 
-                "address": "\u05d0\u05d1\u05d5\u05e7\u05e8\u05d9\u05e0\u05d0\u05ea \u05d0\u05d1\u05d5\u05e7\u05e8\u05d9\u05e0\u05d0\u05ea ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אבוקרינאת אבוקרינאת ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "64"
             }
@@ -11693,10 +11693,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d5\u05dd \u05d0\u05dc\u05e4\u05d7\u05dd \u05d0", 
+                "name": "אום אלפחם א", 
                 "phone": "04-6313938", 
-                "address": "\u05d0\u05d5\u05dd \u05d0\u05dc\u05e4\u05d7\u05dd \u05e9\u05db' \u05d0\u05d2\u05d1\u05e8\u05d9\u05d4 - \u05d0\u05dc\u05d1\u05d9\u05e8 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אום אלפחם שכ' אגבריה - אלביר ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "65"
             }
@@ -11711,10 +11711,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d5\u05dd \u05d0\u05dc\u05e4\u05d7\u05dd \u05d1", 
+                "name": "אום אלפחם ב", 
                 "phone": "04-6112303", 
-                "address": "\u05d0\u05d5\u05dd \u05d0\u05dc\u05e4\u05d7\u05dd \u05e9\u05db' \u05de\u05d7\u05d0\u05d2'\u05e0\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אום אלפחם שכ' מחאג'נה ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "66"
             }
@@ -11729,10 +11729,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d5\u05dd \u05d0\u05dc\u05e4\u05d7\u05dd \u05d2", 
+                "name": "אום אלפחם ג", 
                 "phone": "04-6312939", 
-                "address": "\u05d0\u05d5\u05dd \u05d0\u05dc\u05e4\u05d7\u05dd \u05e9\u05db' \u05d2\u05d1\u05d0\u05e8\u05d9\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אום אלפחם שכ' גבארין ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "67"
             }
@@ -11747,10 +11747,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05d1\u05e8\u05d9\u05d4 \u05ea\u05d7\u05e0\u05d4 \u05d2'", 
+                "name": "טבריה תחנה ג'", 
                 "phone": "04-6720831", 
-                "address": "\u05d8\u05d1\u05e8\u05d9\u05d4 \u05e7\u05e8\u05d9\u05ea \u05de\u05e9\u05d4 \u05d2' ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טבריה קרית משה ג' ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "252"
             }
@@ -11765,10 +11765,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d5\u05dd \u05d0\u05dc\u05e4\u05d7\u05dd \u05d5", 
+                "name": "אום אלפחם ו", 
                 "phone": "04-6114183", 
-                "address": "\u05d0\u05d5\u05dd \u05d0\u05dc\u05e4\u05d7\u05dd \u05e2\u05d9\u05df \u05d2'\u05d0\u05e8\u05e8 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אום אלפחם עין ג'ארר ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "69"
             }
@@ -11783,10 +11783,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05d1\u05e8\u05d9\u05d4 \u05ea\u05d7\u05e0\u05d4 \u05d0'", 
+                "name": "טבריה תחנה א'", 
                 "phone": "04-6724357", 
-                "address": "\u05d8\u05d1\u05e8\u05d9\u05d4 \u05d2\u05d5\u05e9 \u05e2\u05e6\u05d9\u05d5\u05df  2", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טבריה גוש עציון  2", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "250"
             }
@@ -11801,10 +11801,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05d1\u05e8\u05d9\u05d4 \u05ea\u05d7\u05e0\u05d4 \u05d1'", 
+                "name": "טבריה תחנה ב'", 
                 "phone": "04-6720726", 
-                "address": "\u05d8\u05d1\u05e8\u05d9\u05d4 \u05d0\u05e8\u05dc\u05d9\u05da 4", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טבריה ארליך 4", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "251"
             }
@@ -11819,10 +11819,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05d1\u05e8\u05d9\u05d4 \u05ea\u05d7\u05e0\u05d4 \u05d6'", 
+                "name": "טבריה תחנה ז'", 
                 "phone": "04-6796202", 
-                "address": "\u05d8\u05d1\u05e8\u05d9\u05d4 \u05d0\u05d5\u05e8 \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05db\u05d5\u05df \u05d3' 12", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טבריה אור החיים שכון ד' 12", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "256"
             }
@@ -11837,10 +11837,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05d1\u05e0\u05d9\u05d0\u05dc", 
+                "name": "יבניאל", 
                 "phone": "04-6780740", 
-                "address": "\u05d9\u05d1\u05e0\u05d0\u05dc \u05d9\u05d1\u05e0\u05d9\u05d0\u05dc \u05ea.\u05d3 117 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "יבנאל יבניאל ת.ד 117 ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "257"
             }
@@ -11855,10 +11855,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05d1\u05e8\u05d9\u05d4 \u05ea\u05d7\u05e0\u05d4 \u05d5'", 
+                "name": "טבריה תחנה ו'", 
                 "phone": "04-6796182", 
-                "address": "\u05d8\u05d1\u05e8\u05d9\u05d4 \u05d0\u05d1\u05d5\u05d7\u05e6\u05d9\u05e8\u05d4 \u05e9\u05db\u05d5\u05df \u05d3' 1068", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טבריה אבוחצירה שכון ד' 1068", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "255"
             }
@@ -11873,10 +11873,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05dc\u05d9\u05d4", 
+                "name": "דליה", 
                 "phone": "04-9897555", 
-                "address": "\u05d3\u05dc\u05d9\u05d4 \u05e7\u05d9\u05d1\u05d5\u05e5 \u05d3\u05dc\u05d9\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "דליה קיבוץ דליה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "603"
             }
@@ -11891,10 +11891,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05d5\u05e8", 
+                "name": "דור", 
                 "phone": "04-6391254", 
-                "address": "\u05d3\u05d5\u05e8 \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "דור ד.נ חוף הכרמל ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "602"
             }
@@ -11909,10 +11909,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d0\u05d5\u05ea \u05d2\u05e0\u05d9\u05dd", 
+                "name": "נאות גנים", 
                 "phone": "09-8616245", 
-                "address": "\u05e0\u05ea\u05e0\u05d9\u05d4 \u05d6\u05de\u05d1\u05d4  \u05e9\u05d9\u05db\u05d5\u05df \u05d5\u05ea\u05d9\u05e7\u05d9\u05dd  2", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נתניה זמבה  שיכון ותיקים  2", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "939"
             }
@@ -11927,10 +11927,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05e7\u05e8\u05d5\u05df", 
+                "name": "עקרון", 
                 "phone": "08-9415004", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05e2\u05e7\u05e8\u05d5\u05df \"\u05d7\u05dc\u05dc\u05d9 \u05e6\u05d4\"\u05dc   \" 4", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "קרית עקרון \"חללי צה\"ל   \" 4", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "731"
             }
@@ -11945,10 +11945,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea\u05e8 \u05e2\u05d9\u05dc\u05d9\u05ea B", 
+                "name": "ביתר עילית B", 
                 "phone": "02-5725480", 
-                "address": "\u05d1\u05d9\u05ea\u05e8 \u05e2\u05d9\u05dc\u05d9\u05ea \u05d9\u05e9\u05de\u05d7 \u05d9\u05e9\u05e8\u05d0\u05dc 1", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "ביתר עילית ישמח ישראל 1", 
+                "operator": "קופת חולים מכבי", 
                 "error": true, 
                 "item_id": "730"
             }
@@ -11963,10 +11963,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05e9\u05e8\u05ea", 
+                "name": "עשרת", 
                 "phone": "08-8591766", 
-                "address": "\u05e2\u05e9\u05e8\u05ea  ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עשרת  ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "733"
             }
@@ -11981,10 +11981,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05e8\u05d5\u05d2\u05d5\u05ea", 
+                "name": "ערוגות", 
                 "phone": "08-8581904", 
-                "address": "\u05e2\u05e8\u05d5\u05d2\u05d5\u05ea \u05d3.\u05e0 \u05e9\u05e7\u05de\u05d9\u05dd ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ערוגות ד.נ שקמים ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "732"
             }
@@ -11999,10 +11999,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05de\u05dc\u05d0\u05db\u05d9 \u05de\u05d5\u05de\u05d7\u05d9\u05dd", 
+                "name": "קרית מלאכי מומחים", 
                 "phone": "08-8601250", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05de\u05dc\u05d0\u05db\u05d9 \u05d4\u05de.\u05d2  14", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "קרית מלאכי המ.ג  14", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "735"
             }
@@ -12017,10 +12017,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df", 
+                "name": "מודיעין", 
                 "phone": "08-9735666", 
-                "address": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05e2\u05de\u05e7 \u05d3\u05d5\u05ea\u05df 53", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "מודיעין עמק דותן 53", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "734"
             }
@@ -12035,10 +12035,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d1\u05df \u05e9\u05de\u05d5\u05d0\u05dc", 
+                "name": "אבן שמואל", 
                 "phone": "08-6857222", 
-                "address": "\u05d0\u05d1\u05df \u05e9\u05de\u05d5\u05d0\u05dc \u05d3.\u05e0 \u05e9\u05d3\u05d4 \u05d2\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אבן שמואל ד.נ שדה גת ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "508"
             }
@@ -12053,10 +12053,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d5\u05e8 \u05d4\u05e0\u05e8", 
+                "name": "אור הנר", 
                 "phone": "08-6802500", 
-                "address": "\u05d0\u05d5\u05e8 \u05d4\u05e0\u05e8 \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d0\u05e9\u05e7\u05dc\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אור הנר ד.נ חוף אשקלון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "509"
             }
@@ -12071,10 +12071,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d0\u05d5\u05ea \u05d0\u05e4\u05e7\u05d4", 
+                "name": "נאות אפקה", 
                 "phone": "03-6483236", 
-                "address": "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 - \u05d9\u05e4\u05d5 \u05dc\u05de\u05d3\u05df   20", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1", 
+                "address": "תל אביב - יפו למדן   20", 
+                "operator": "עיריית תל אביב", 
                 "error": false, 
                 "item_id": "506"
             }
@@ -12089,10 +12089,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05d1\u05dc \u05d0\u05d9\u05dc\u05d5\u05ea", 
+                "name": "חבל אילות", 
                 "phone": "08-6355885", 
-                "address": "\u05d0\u05d9\u05dc\u05d5\u05ea \u05d3.\u05e0 \u05d7\u05d1\u05dc \u05d0\u05d9\u05dc\u05d5\u05ea 88820 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אילות ד.נ חבל אילות 88820 ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "507"
             }
@@ -12107,10 +12107,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d5\u05d4 \u05e9\u05e8\u05ea", 
+                "name": "נוה שרת", 
                 "phone": "03-6470817", 
-                "address": "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 - \u05d9\u05e4\u05d5 \u05e4\u05d9\u05dc\u05d3\u05dc\u05e4\u05d9\u05d4    6", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1", 
+                "address": "תל אביב - יפו פילדלפיה    6", 
+                "operator": "עיריית תל אביב", 
                 "error": false, 
                 "item_id": "504"
             }
@@ -12125,10 +12125,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05d5\u05db\u05e0\u05d9\u05ea \u05dc'", 
+                "name": "תוכנית ל'", 
                 "phone": "03-6991064", 
-                "address": "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 - \u05d9\u05e4\u05d5 \u05d1\u05d5\u05e8\u05dc\u05d0   27", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1", 
+                "address": "תל אביב - יפו בורלא   27", 
+                "operator": "עיריית תל אביב", 
                 "error": false, 
                 "item_id": "505"
             }
@@ -12143,10 +12143,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d1\u05dc\u05d9", 
+                "name": "בבלי", 
                 "phone": "03-6047653", 
-                "address": "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 - \u05d9\u05e4\u05d5 \u05d9\u05e8\u05d5\u05e9\u05dc\u05de\u05d9    14", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1", 
+                "address": "תל אביב - יפו ירושלמי    14", 
+                "operator": "עיריית תל אביב", 
                 "error": false, 
                 "item_id": "503"
             }
@@ -12161,10 +12161,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05db\u05d5\u05e0\u05ea \u05e2\u05d6\u05e8\u05d0", 
+                "name": "שכונת עזרא", 
                 "phone": "03-6879540", 
-                "address": "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 - \u05d9\u05e4\u05d5 \u05d8\u05d1\u05ea   15", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1", 
+                "address": "תל אביב - יפו טבת   15", 
+                "operator": "עיריית תל אביב", 
                 "error": false, 
                 "item_id": "500"
             }
@@ -12179,10 +12179,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e8\u05db\u05d6 \u05d4\u05d2\u05d9\u05dc \u05d4\u05e8\u05da \u05e2\u05d2'\u05de\u05d9", 
+                "name": "מרכז הגיל הרך עג'מי", 
                 "phone": "03-6834564", 
-                "address": "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 - \u05d9\u05e4\u05d5 \u05d4\u05e2\u05e8\u05de\u05d5\u05df  8", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1", 
+                "address": "תל אביב - יפו הערמון  8", 
+                "operator": "עיריית תל אביב", 
                 "error": false, 
                 "item_id": "501"
             }
@@ -12197,10 +12197,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e9\u05d2\u05d1", 
+                "name": "משגב", 
                 "phone": "04-9800180", 
-                "address": "\u05de\u05e9\u05d2\u05d1 \u05d3.\u05e0 \u05de\u05e9\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "משגב ד.נ משגב ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "630"
             }
@@ -12215,10 +12215,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e9\u05de\u05e8 \u05d4\u05e2\u05de\u05e7", 
+                "name": "משמר העמק", 
                 "phone": "04-9896110", 
-                "address": "\u05de\u05e9\u05de\u05e8 \u05d4\u05e2\u05de\u05e7 \u05d3.\u05e0 \u05de\u05e9\u05de\u05e8 \u05d4\u05e2\u05de\u05e7 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "משמר העמק ד.נ משמר העמק ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "631"
             }
@@ -12233,10 +12233,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d4\u05e8\u05d9\u05d4 \u05d0\u05d5\u05e1\u05d9\u05e9\u05e7\u05d9\u05df", 
+                "name": "נהריה אוסישקין", 
                 "phone": "04-9824079", 
-                "address": "\u05e0\u05d4\u05e8\u05d9\u05d4 \u05d9\u05e4\u05d4 \u05e0\u05d5\u05e3  28", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נהריה יפה נוף  28", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "632"
             }
@@ -12251,10 +12251,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d4\u05e8\u05d9\u05d4 \u05d2\u05e2\u05ea\u05d5\u05df", 
+                "name": "נהריה געתון", 
                 "phone": "04-9959090", 
-                "address": "\u05e0\u05d4\u05e8\u05d9\u05d4 \u05e9\u05d3' \u05d4\u05d2\u05e2\u05ea\u05d5\u05df  38", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נהריה שד' הגעתון  38", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "633"
             }
@@ -12269,10 +12269,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05d5\u05de\u05de\u05d4", 
+                "name": "רוממה", 
                 "phone": "02-5372067", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05e8\u05d7'  \u05d6\u05d9\u05db\u05e8\u05d5\u05df \u05d9\u05e2\u05e7\u05d1  6", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים רח'  זיכרון יעקב  6", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "469"
             }
@@ -12287,10 +12287,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05e8 \u05d2\u05e0\u05d9\u05dd", 
+                "name": "עיר גנים", 
                 "phone": "02-5798174", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05e8\u05e4\u05d5\u05d1\u05dc\u05d9\u05e7\u05d4 \u05d3\u05d5\u05de\u05d9\u05e0\u05d9\u05e7\u05e0\u05d9\u05ea  4", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים רפובליקה דומיניקנית  4", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "468"
             }
@@ -12305,10 +12305,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d4\u05e8\u05d9\u05d4 \u05e2\u05de\u05d9\u05d3\u05e8", 
+                "name": "נהריה עמידר", 
                 "phone": "04-9922352", 
-                "address": "\u05e0\u05d4\u05e8\u05d9\u05d4 \u05d4\u05d4\u05d2\u05e0\u05d4  29", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נהריה ההגנה  29", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "636"
             }
@@ -12323,10 +12323,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d5\u05e4\u05d9\u05ea", 
+                "name": "נופית", 
                 "phone": "04-8807535", 
-                "address": "\u05e0\u05d5\u05e4\u05d9\u05ea \u05e0\u05d5\u05e4\u05d9\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נופית נופית ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "637"
             }
@@ -12341,10 +12341,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e4\u05e1\u05d2\u05ea \u05d6\u05d0\u05d1 \u05de\u05e2\u05e8\u05d1", 
+                "name": "פסגת זאב מערב", 
                 "phone": "02-5456459", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05e9\u05d3' \u05de\u05e9\u05d4 \u05d3\u05d9\u05d9\u05df  152", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים שד' משה דיין  152", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "465"
             }
@@ -12359,10 +12359,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e2\u05dc\u05d5\u05ea \u05d3\u05e4\u05e0\u05d4", 
+                "name": "מעלות דפנה", 
                 "phone": "02-5812463", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd  \u05e7\u05e8\u05dc \u05e0\u05d8\u05e8   42", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים  קרל נטר   42", 
+                "operator": "עיריית ירושלים", 
                 "error": true, 
                 "item_id": "464"
             }
@@ -12377,10 +12377,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d5\u05e0\u05e0\u05d9\u05dd", 
+                "name": "גוננים", 
                 "phone": "02-6495666", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05d0\u05dc\u05e2\u05d6\u05e8 \u05d4\u05d2\u05d3\u05d5\u05dc 4", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים אלעזר הגדול 4", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "467"
             }
@@ -12395,10 +12395,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05db\u05d5\u05e0\u05ea  \u05e4\u05ea", 
+                "name": "שכונת  פת", 
                 "phone": "02-5862566", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05d1\u05e8\u05dc \u05dc\u05d5\u05e7\u05e8  17", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים ברל לוקר  17", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "466"
             }
@@ -12413,10 +12413,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05e0\u05d9 \u05d1\u05e8\u05d9\u05ea", 
+                "name": "בני ברית", 
                 "phone": "02-5717935", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05d1\u05e0\u05d9 \u05d1\u05e8\u05d9\u05ea   22", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים בני ברית   22", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "461"
             }
@@ -12431,10 +12431,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05e0\u05d9\u05e6\u05d9", 
+                "name": "קרניצי", 
                 "phone": "03-5349758", 
-                "address": "\u05e8\u05de\u05ea \u05d2\u05df \u05d4\u05de\u05e9\u05d5\u05e8\u05e8  27", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רמת גן המשורר  27", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "460"
             }
@@ -12449,10 +12449,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05e7\u05e2\u05d4", 
+                "name": "בקעה", 
                 "phone": "02-5337498", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05d9\u05d4\u05d5\u05d3\u05d4  26", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים יהודה  26", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "463"
             }
@@ -12467,10 +12467,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d7\u05e0\u05d4 \u05d9\u05d4\u05d5\u05d3\u05d4", 
+                "name": "מחנה יהודה", 
                 "phone": "02-5456384", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd   \u05d0\u05d1\u05d9\u05e9\u05e8  15", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים   אבישר  15", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "462"
             }
@@ -12485,10 +12485,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e8\u05d0\u05dc \u05e7\u05dc\u05d9\u05d8\u05d4 \u05de\u05d1\u05e9\u05e8\u05ea", 
+                "name": "הראל קליטה מבשרת", 
                 "phone": "02-5700368", 
-                "address": "\u05de\u05d1\u05e9\u05e8\u05ea \u05e6\u05d9\u05d5\u05df \u05d3\u05dd \u05d4\u05de\u05db\u05d1\u05d9\u05dd(\u05de\u05e8\u05db\u05d6 \u05e7\u05dc\u05d9\u05d8\u05d4) 183", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מבשרת ציון דם המכבים(מרכז קליטה) 183", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "168"
             }
@@ -12503,10 +12503,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05d4\u05dc\u05d5\u05dd", 
+                "name": "יהלום", 
                 "phone": "02-5352848", 
-                "address": "\u05de\u05e2\u05dc\u05d4 \u05d0\u05d3\u05d5\u05de\u05d9\u05dd \u05db\u05d9\u05db\u05e8 \u05e7\u05d3\u05dd  ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מעלה אדומים כיכר קדם  ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "169"
             }
@@ -12521,10 +12521,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05d3\u05e1-\u05d1\u05d9\u05ea\u05e8 \u05e2\u05d9\u05dc\u05d9\u05ea", 
+                "name": "הדס-ביתר עילית", 
                 "phone": "02-5800106", 
-                "address": "\u05d1\u05d9\u05ea\u05e8 \u05d4\u05d1\u05d0\u05d1\u05d0 \u05e1\u05d0\u05dc\u05d9   10", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ביתר הבאבא סאלי   10", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "165"
             }
@@ -12539,10 +12539,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05dc\u05d6\u05e1\u05d8\u05d5\u05df", 
+                "name": "טלזסטון", 
                 "phone": "02-5341815", 
-                "address": "\u05d8\u05dc\u05d6\u05e1\u05d8\u05d5\u05df \u05d4\u05e8\u05d9\u05e3  7", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טלזסטון הריף  7", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "166"
             }
@@ -12557,10 +12557,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e9\u05dc\u05d5\u05dd", 
+                "name": "השלום", 
                 "phone": "02-5344414", 
-                "address": "\u05de\u05e2\u05d5\u05d6 \u05e6\u05d9\u05d5\u05df \u05d4\u05d7\u05d5\u05e6\u05d1\u05d9\u05dd 3", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מעוז ציון החוצבים 3", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "167"
             }
@@ -12575,10 +12575,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05d9\u05d5\u05d1\u05dc", 
+                "name": "היובל", 
                 "phone": "02-9991631", 
-                "address": "\u05d1\u05d9\u05ea \u05e9\u05de\u05e9  \u05d4\u05d2\u05dc\u05d9\u05dc  2", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בית שמש  הגליל  2", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "160"
             }
@@ -12593,10 +12593,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d1\u05e2\u05ea \u05e9\u05e8\u05ea \u05d0'", 
+                "name": "גבעת שרת א'", 
                 "phone": "02-9912582", 
-                "address": "\u05d1\u05d9\u05ea \u05e9\u05de\u05e9 \u05d4\u05e0\u05d5\u05e8\u05d9\u05ea  2", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בית שמש הנורית  2", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "161"
             }
@@ -12611,10 +12611,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05dc\u05db\u05d9\u05e9/\u05e2\u05d3\u05df", 
+                "name": "לכיש/עדן", 
                 "phone": "02-9917506", 
-                "address": "\u05d1\u05d9\u05ea \u05e9\u05de\u05e9 \u05e0\u05d7\u05dc \u05dc\u05db\u05d9\u05e9  32", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בית שמש נחל לכיש  32", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "162"
             }
@@ -12629,10 +12629,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e2\u05d9\u05d9\u05df", 
+                "name": "מעיין", 
                 "phone": "02-9990027", 
-                "address": "\u05d1\u05d9\u05ea \u05e9\u05de\u05e9 \u05e9\u05d1\u05d8\u05d9 \u05d9\u05e9\u05e8\u05d0\u05dc  \u05d2\u05d1\u05e2\u05ea \u05e9\u05e8\u05ea  4", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בית שמש שבטי ישראל  גבעת שרת  4", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "163"
             }
@@ -12647,10 +12647,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e1\u05d5\u05e1\u05d9\u05d0", 
+                "name": "סוסיא", 
                 "phone": "02-9963586", 
-                "address": "\u05e1\u05d5\u05e1\u05d9\u05d0 \u05d3.\u05e0. \u05d4\u05e8 \u05d7\u05d1\u05e8\u05d5\u05df ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "סוסיא ד.נ. הר חברון ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": false, 
                 "item_id": "964"
             }
@@ -12665,10 +12665,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d5\u05de\u05e8\u05d9\u05dd", 
+                "name": "עומרים", 
                 "phone": "08-6510430", 
-                "address": "\u05e2\u05d5\u05de\u05e8\u05d9\u05dd \u05d3.\u05e0. \u05d3\u05e8\u05d5\u05dd \u05d4\u05e8 \u05d7\u05d1\u05e8\u05d5\u05df ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עומרים ד.נ. דרום הר חברון ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": false, 
                 "item_id": "965"
             }
@@ -12683,10 +12683,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05ea\u05e0\u05d9\u05d0\u05dc", 
+                "name": "עתניאל", 
                 "phone": "02-9605505", 
-                "address": "\u05e2\u05ea\u05e0\u05d9\u05d0\u05dc \u05d3.\u05e0. \u05d4\u05e8 \u05d7\u05d1\u05e8\u05d5\u05df ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עתניאל ד.נ. הר חברון ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": false, 
                 "item_id": "966"
             }
@@ -12701,10 +12701,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05de\u05dc\u05d0\u05db\u05d9", 
+                "name": "קרית מלאכי", 
                 "phone": "08-8589888", 
-                "address": "\u05e7\u05e8\u05d9\u05ea  \u05de\u05dc\u05d0\u05db\u05d9 \u05d6'\u05d1\u05d5\u05d8\u05d9\u05e0\u05e1\u05e7\u05d9  8", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית  מלאכי ז'בוטינסקי  8", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": false, 
                 "item_id": "967"
             }
@@ -12719,10 +12719,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05e4\u05d9\u05d9\u05dd", 
+                "name": "שפיים", 
                 "phone": "09-7523800", 
-                "address": "\u05e9\u05e4\u05d9\u05d9\u05dd \u05e7\u05d9\u05d1\u05d5\u05e5 \u05e9\u05e4\u05d9\u05d9\u05dd ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שפיים קיבוץ שפיים ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "960"
             }
@@ -12737,10 +12737,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05dc \u05de\u05d5\u05e0\u05d3", 
+                "name": "תל מונד", 
                 "phone": "09-7961902", 
-                "address": "\u05ea\u05dc \u05de\u05d5\u05e0\u05d3 \u05de\u05e6\u05d3\u05d4   5", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "תל מונד מצדה   5", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "961"
             }
@@ -12755,10 +12755,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05d1\u05e0\u05d4", 
+                "name": "יבנה", 
                 "phone": "08-9325800", 
-                "address": "\u05d9\u05d1\u05e0\u05d4 \u05e9\u05d3' \u05d3\u05d5\u05d0\u05e0\u05d9  16", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "יבנה שד' דואני  16", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "962"
             }
@@ -12773,10 +12773,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e8\u05de\u05dc", 
+                "name": "כרמל", 
                 "phone": "08-9961094", 
-                "address": "\u05db\u05e8\u05de\u05dc \u05d3.\u05e0. \u05d4\u05e8 \u05d7\u05d1\u05e8\u05d5\u05df ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כרמל ד.נ. הר חברון ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": false, 
                 "item_id": "963"
             }
@@ -12791,10 +12791,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05d2\u05ea", 
+                "name": "קרית גת", 
                 "phone": "08-6879888", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05d2\u05ea \u05de\u05d9\u05db\u05d4  3", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית גת מיכה  3", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": false, 
                 "item_id": "968"
             }
@@ -12809,10 +12809,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea \u05d0\u05dc", 
+                "name": "בית אל", 
                 "phone": "02-9973329", 
-                "address": "\u05d1\u05d9\u05ea \u05d0\u05dc \u05d3.\u05e0. \u05de\u05d6\u05e8\u05d7 \u05d1\u05e0\u05d9\u05de\u05d9\u05df ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בית אל ד.נ. מזרח בנימין ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "969"
             }
@@ -12827,10 +12827,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d5\u05d5\u05d4 \u05e2\u05de\u05dc", 
+                "name": "נווה עמל", 
                 "phone": "09-9557090", 
-                "address": "\u05e0\u05d5\u05d5\u05d4 \u05e2\u05de\u05dc \u05d4\u05d9\u05d5\u05e8\u05d4  \u05d4\u05e8\u05e6\u05dc\u05d9\u05d4 3", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נווה עמל היורה  הרצליה 3", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "936"
             }
@@ -12845,10 +12845,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e6\u05e8", 
+                "name": "מצר", 
                 "phone": "04-6387000", 
-                "address": "\u05de\u05e6\u05e8 \u05d3.\u05e0 \u05de\u05e0\u05e9\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מצר ד.נ מנשה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "935"
             }
@@ -12863,10 +12863,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e2\u05e0\u05d9\u05ea", 
+                "name": "מענית", 
                 "phone": "04-6375333", 
-                "address": "\u05de\u05e2\u05e0\u05d9\u05ea \u05d3.\u05e0 \u05de\u05e0\u05e9\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מענית ד.נ מנשה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "934"
             }
@@ -12881,10 +12881,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05df \u05e9\u05de\u05d5\u05d0\u05dc", 
+                "name": "גן שמואל", 
                 "phone": "04-6320003", 
-                "address": "\u05d2\u05df \u05e9\u05de\u05d5\u05d0\u05dc \u05d3.\u05e0 \u05d7\u05e4\u05e8 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גן שמואל ד.נ חפר ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "909"
             }
@@ -12899,10 +12899,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05e8\u05e0\u05d5\u05ea", 
+                "name": "גרנות", 
                 "phone": "04-9806811", 
-                "address": "\u05d2\u05e8\u05e0\u05d5\u05ea \u05d3.\u05e0 \u05de\u05e2\u05dc\u05d4 \u05d9\u05d5\u05e1\u05e3 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גרנות ד.נ מעלה יוסף ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "600"
             }
@@ -12917,10 +12917,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05e9\u05e4\u05d9\u05dd", 
+                "name": "רשפים", 
                 "phone": "04-6065133", 
-                "address": "\u05e8\u05e9\u05e4\u05d9\u05dd \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05ea\u05d7\u05ea\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "רשפים ד.נ גליל תחתון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "878"
             }
@@ -12935,10 +12935,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d3\u05d4 \u05d0\u05d9\u05dc\u05df", 
+                "name": "שדה אילן", 
                 "phone": "04-6760104", 
-                "address": "\u05e9\u05d3\u05d4 \u05d0\u05d9\u05dc\u05df \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05ea\u05d7\u05ea\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שדה אילן ד.נ גליל תחתון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "879"
             }
@@ -12953,10 +12953,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05de\u05ea \u05d9\u05e9\u05d9", 
+                "name": "רמת ישי", 
                 "phone": "04-9534957", 
-                "address": "\u05e8\u05de\u05ea \u05d9\u05e9\u05d9 \u05e8\u05de\u05ea \u05d9\u05e9\u05d9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "רמת ישי רמת ישי ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "876"
             }
@@ -12971,10 +12971,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05de\u05ea \u05e6\u05d1\u05d9", 
+                "name": "רמת צבי", 
                 "phone": "04-6532340", 
-                "address": "\u05e8\u05de\u05ea \u05e6\u05d1\u05d9 \u05d3.\u05e0 \u05d2\u05dc\u05d1\u05d5\u05e2 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "רמת צבי ד.נ גלבוע ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "877"
             }
@@ -12989,10 +12989,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e6\u05e8\u05d9\u05df", 
+                "name": "קצרין", 
                 "phone": "04-6961510", 
-                "address": "\u05e7\u05e6\u05e8\u05d9\u05df \u05de\u05e8\u05db\u05d6 \u05e7\u05e6\u05e8\u05d9\u05df \u05ea.\u05d3 55 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "קצרין מרכז קצרין ת.ד 55 ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "874"
             }
@@ -13007,10 +13007,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05de\u05ea \u05d3\u05d5\u05d3", 
+                "name": "רמת דוד", 
                 "phone": "04-6549000", 
-                "address": "\u05e8\u05de\u05ea \u05d3\u05d5\u05d3 \u05d3\u05d5\u05d0\u05e8 \u05e0\u05d4\u05dc\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "רמת דוד דואר נהלל ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "875"
             }
@@ -13025,10 +13025,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05d3\u05de\u05ea \u05e6\u05d1\u05d9", 
+                "name": "קדמת צבי", 
                 "phone": "04-6963258", 
-                "address": "\u05e7\u05d3\u05de\u05ea \u05e6\u05d1\u05d9 \u05e7\u05d3\u05de\u05ea \u05e6\u05d1\u05d9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "קדמת צבי קדמת צבי ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "872"
             }
@@ -13043,10 +13043,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05d3\u05e8\u05d9\u05dd", 
+                "name": "קדרים", 
                 "phone": "04-6986225", 
-                "address": "\u05e7\u05d3\u05e8\u05d9\u05dd \u05d3.\u05e0 \u05de\u05e8\u05d5\u05dd \u05d4\u05d2\u05dc\u05d9\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "קדרים ד.נ מרום הגליל ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "873"
             }
@@ -13061,10 +13061,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e6\u05d9\u05e4\u05d5\u05e8\u05d9", 
+                "name": "ציפורי", 
                 "phone": "04-6464460", 
-                "address": "\u05e6\u05d9\u05e4\u05d5\u05e8\u05d9 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05ea\u05d7\u05ea\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ציפורי ד.נ גליל תחתון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "871"
             }
@@ -13079,10 +13079,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e9\u05d3\u05d5\u05d3  \u05d9\u05d0'", 
+                "name": "אשדוד  יא'", 
                 "phone": "08-8558524", 
-                "address": "\u05d0\u05e9\u05d3\u05d5\u05d3  \u05db\u05d9\u05e0\u05e8\u05ea  29", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אשדוד  כינרת  29", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "9"
             }
@@ -13097,10 +13097,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05dc \u05d9\u05d5\u05e1\u05e3", 
+                "name": "תל יוסף", 
                 "phone": "04-6534952", 
-                "address": "\u05ea\u05dc \u05d9\u05d5\u05e1\u05e3 \u05d3.\u05e0 \u05d2\u05dc\u05d1\u05d5\u05e2 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "תל יוסף ד.נ גלבוע ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "890"
             }
@@ -13115,10 +13115,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05dc \u05e2\u05d3\u05e9\u05d9\u05dd", 
+                "name": "תל עדשים", 
                 "phone": "04-6591871", 
-                "address": "\u05ea\u05dc \u05e2\u05d3\u05e9\u05d9\u05dd \u05d3.\u05e0 \u05de\u05d2\u05d9\u05d3\u05d5 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "תל עדשים ד.נ מגידו ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "891"
             }
@@ -13133,10 +13133,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d1\u05df \u05d9\u05d4\u05d5\u05d3\u05d4", 
+                "name": "אבן יהודה", 
                 "phone": "09-8999041", 
-                "address": "\u05d0\u05d1\u05df \u05d9\u05d4\u05d5\u05d3\u05d4 \u05d0\u05e1\u05d5\u05ea\u05d0   2", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אבן יהודה אסותא   2", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "893"
             }
@@ -13151,10 +13151,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d7\u05d9\u05d8\u05d5\u05d1", 
+                "name": "אחיטוב", 
                 "phone": "04-6258153", 
-                "address": "\u05d0\u05d7\u05d9\u05d8\u05d5\u05d1 \u05d3.\u05e0 \u05d7\u05e4\u05e8 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אחיטוב ד.נ חפר ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "894"
             }
@@ -13169,10 +13169,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05df \u05d4\u05e9\u05d5\u05e4\u05d8", 
+                "name": "עין השופט", 
                 "phone": "04-9895229", 
-                "address": "\u05e2\u05d9\u05df \u05d4\u05e9\u05d5\u05e4\u05d8 \u05e2\u05d9\u05df \u05d4\u05e9\u05d5\u05e4\u05d8 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עין השופט עין השופט ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "647"
             }
@@ -13187,10 +13187,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc\u05d5\u05df \u05de\u05d5\u05e8\u05d4", 
+                "name": "אלון מורה", 
                 "phone": "02-9973779", 
-                "address": "\u05d0\u05dc\u05d5\u05df \u05de\u05d5\u05e8\u05d4 \u05d0\u05d9\u05dc\u05d5\u05df \u05de\u05d5\u05e8\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אלון מורה אילון מורה ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "896"
             }
@@ -13205,10 +13205,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc\u05d9\u05db\u05d9\u05df", 
+                "name": "אליכין", 
                 "phone": "04-6365831", 
-                "address": "\u05d0\u05dc\u05d9\u05db\u05d9\u05df  \u05d4\u05e9\u05d7\u05e3  \u05d0\u05dc\u05d9\u05db\u05d9\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אליכין  השחף  אליכין ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "897"
             }
@@ -13223,10 +13223,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc\u05e4\u05d9 \u05de\u05e0\u05e9\u05d4", 
+                "name": "אלפי מנשה", 
                 "phone": "09-7925227", 
-                "address": "\u05d0\u05dc\u05e4\u05d9 \u05de\u05e0\u05e9\u05d4 \u05d4\u05d2\u05dc\u05d1\u05d5\u05e2  118", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אלפי מנשה הגלבוע  118", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "898"
             }
@@ -13241,10 +13241,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d0\u05e8\u05d5\u05ea\u05d9\u05d9\u05dd", 
+                "name": "בארותיים", 
                 "phone": "09-8986366", 
-                "address": "\u05d1\u05d0\u05e8\u05d5\u05ea\u05d9\u05d9\u05dd \u05d3.\u05e0 \u05dc\u05d1 \u05d4\u05e9\u05e8\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "בארותיים ד.נ לב השרון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "899"
             }
@@ -13259,10 +13259,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05df \u05d4\u05de\u05e4\u05e8\u05e5", 
+                "name": "עין המפרץ", 
                 "phone": "04-9852222", 
-                "address": "\u05e2\u05d9\u05df \u05d4\u05de\u05e4\u05e8\u05e5 \u05d3.\u05e0 \u05d0\u05d5\u05e9\u05e8\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עין המפרץ ד.נ אושרת ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "646"
             }
@@ -13277,10 +13277,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05db\u05d5 \u05d7\u05d5\u05de\u05e9", 
+                "name": "עכו חומש", 
                 "phone": "04-9911745", 
-                "address": "\u05e2\u05db\u05d5 \u05e9\u05dc\u05de\u05d4 \u05d1\u05df \u05d9\u05d5\u05e1\u05e3  8", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עכו שלמה בן יוסף  8", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "649"
             }
@@ -13295,10 +13295,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05df \u05d9\u05e2\u05e7\u05d5\u05d1", 
+                "name": "עין יעקוב", 
                 "phone": "04-9976486", 
-                "address": "\u05e2\u05d9\u05df \u05d9\u05e2\u05e7\u05d1 \u05d3.\u05e0 \u05de\u05e2\u05dc\u05d4 \u05d9\u05d5\u05e1\u05e3 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עין יעקב ד.נ מעלה יוסף ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "648"
             }
@@ -13313,10 +13313,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05e4\u05e8\u05e2\u05dd \u05d0", 
+                "name": "שפרעם א", 
                 "phone": "04-9865345", 
-                "address": "\u05e9\u05e4\u05e8\u05e2\u05dd \u05e9\u05e4\u05e8\u05e2\u05dd ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "שפרעם שפרעם ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "357"
             }
@@ -13331,10 +13331,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05e2\u05d1", 
+                "name": "שעב", 
                 "phone": "04-9883716", 
-                "address": "\u05e9\u05e2\u05d1 \u05e9\u05e2\u05d1 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "שעב שעב ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "356"
             }
@@ -13349,10 +13349,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05dc\u05d5\u05de\u05d9", 
+                "name": "שלומי", 
                 "phone": "077-32022197", 
-                "address": "\u05e9\u05dc\u05d5\u05de\u05d9 \u05e0\u05ea\u05df \u05d0\u05dc\u05d1\u05d6 5", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "שלומי נתן אלבז 5", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "355"
             }
@@ -13367,10 +13367,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05d0\u05de\u05d4", 
+                "name": "ראמה", 
                 "phone": "04-9586512", 
-                "address": "\u05e8\u05d0\u05de\u05d4 \u05e8\u05d0\u05de\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ראמה ראמה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "354"
             }
@@ -13385,10 +13385,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e4\u05e7\u05d9\u05e2\u05d9\u05df \u05d0+\u05d2'", 
+                "name": "פקיעין א+ג'", 
                 "phone": "04-9978002", 
-                "address": "\u05e4\u05e7\u05d9\u05e2\u05d9\u05df \u05e4\u05e7\u05d9\u05e2\u05d9\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פקיעין פקיעין ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "353"
             }
@@ -13403,10 +13403,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e4\u05e7\u05d9\u05e2\u05d9\u05df \u05d1'", 
+                "name": "פקיעין ב'", 
                 "phone": "04-9978002", 
-                "address": "\u05e4\u05e7\u05d9\u05e2\u05d9\u05df \u05e4\u05e7\u05d9\u05e2\u05d9\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פקיעין פקיעין ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "352"
             }
@@ -13421,10 +13421,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e4\u05e1\u05d5\u05d8\u05d4", 
+                "name": "פסוטה", 
                 "phone": "04-9870530", 
-                "address": "\u05e4\u05e1\u05d5\u05d8\u05d4 \u05e4\u05e1\u05d5\u05d8\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פסוטה פסוטה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "351"
             }
@@ -13439,10 +13439,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05e8\u05d1 \u05d0\u05dc \u05e0\u05e2\u05d9\u05dd", 
+                "name": "ערב אל נעים", 
                 "phone": "050-6243549", 
-                "address": "\u05e2\u05e8\u05d1 \u05d0\u05dc \u05e0\u05e2\u05d9\u05dd \u05e2\u05e8\u05d1 \u05d0\u05dc \u05e0\u05e2\u05d9\u05dd ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ערב אל נעים ערב אל נעים ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "350"
             }
@@ -13457,10 +13457,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05e9\u05e8", 
+                "name": "גשר", 
                 "phone": "04-6758777", 
-                "address": "\u05d2\u05e9\u05e8 \u05d3.\u05e0 \u05e2\u05de\u05e7 \u05d4\u05d9\u05e8\u05d3\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גשר ד.נ עמק הירדן ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "803"
             }
@@ -13475,10 +13475,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05e0\u05d5\u05e1\u05e8", 
+                "name": "גנוסר", 
                 "phone": "04-6798866", 
-                "address": "\u05d2\u05e0\u05d5\u05e1\u05e8  ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גנוסר  ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "802"
             }
@@ -13493,10 +13493,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05df \u05e0\u05e8", 
+                "name": "גן נר", 
                 "phone": "04-6400483", 
-                "address": "\u05d2\u05df \u05e0\u05e8 \u05d3.\u05e0 \u05d2\u05dc\u05d1\u05d5\u05e2 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גן נר ד.נ גלבוע ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "801"
             }
@@ -13511,10 +13511,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d9\u05e0\u05d9\u05d2\u05e8", 
+                "name": "גיניגר", 
                 "phone": "04-6549104", 
-                "address": "\u05d2\u05d9\u05e0\u05d9\u05d2\u05e8 \u05d3.\u05e0 \u05e2\u05de\u05e7 \u05d9\u05d6\u05e8\u05d0\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גיניגר ד.נ עמק יזראל ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "800"
             }
@@ -13529,10 +13529,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05d5\u05e9\u05e2\u05d9\u05d4", 
+                "name": "הושעיה", 
                 "phone": "04-6452262", 
-                "address": "\u05d4\u05d5\u05e9\u05e2\u05d9\u05d4  ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "הושעיה  ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "807"
             }
@@ -13547,10 +13547,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05e4\u05e0\u05d4", 
+                "name": "דפנה", 
                 "phone": "04-6945701", 
-                "address": "\u05d3\u05e4\u05e0\u05d4 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "דפנה ד.נ גליל עליון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "806"
             }
@@ -13565,10 +13565,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05e4\u05e8\u05e2\u05dd \u05d2", 
+                "name": "שפרעם ג", 
                 "phone": "04-9866266", 
-                "address": "\u05e9\u05e4\u05e8\u05e2\u05dd \u05e9\u05e4\u05e8\u05e2\u05dd ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "שפרעם שפרעם ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "359"
             }
@@ -13583,10 +13583,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05e4\u05e8\u05e2\u05dd \u05d1", 
+                "name": "שפרעם ב", 
                 "phone": "04-9866449", 
-                "address": "\u05e9\u05e4\u05e8\u05e2\u05dd \u05e9\u05e4\u05e8\u05e2\u05dd ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "שפרעם שפרעם ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "358"
             }
@@ -13601,10 +13601,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d0\u05d5\u05ea \u05e9\u05e7\u05de\u05d4", 
+                "name": "נאות שקמה", 
                 "phone": "03-9410904", 
-                "address": "\u05e8\u05d0\u05e9\u05d5\u05df \u05dc\u05e6\u05d9\u05d5\u05df \u05d1\u05df \u05e1\u05e8\u05d5\u05e7  3", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ראשון לציון בן סרוק  3", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "216"
             }
@@ -13619,10 +13619,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d5\u05d4 \u05d7\u05d5\u05e3", 
+                "name": "נוה חוף", 
                 "phone": "03-9621636", 
-                "address": "\u05e8\u05d0\u05e9\u05d5\u05df \u05dc\u05e6\u05d9\u05d5\u05df \u05d7\u05d9\u05dc \u05d4\u05d9\u05dd  10", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ראשון לציון חיל הים  10", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "217"
             }
@@ -13637,10 +13637,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05df \u05e0\u05d7\u05d5\u05dd", 
+                "name": "גן נחום", 
                 "phone": "03-9657722", 
-                "address": "\u05e8\u05d0\u05e9\u05d5\u05df \u05dc\u05e6\u05d9\u05d5\u05df \u05e8\u05d5\u05e4\u05d9\u05df  5", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ראשון לציון רופין  5", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "214"
             }
@@ -13655,10 +13655,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d0\u05d5\u05ea \u05d0\u05e9\u05dc\u05d9\u05dd", 
+                "name": "נאות אשלים", 
                 "phone": "03-9412574", 
-                "address": "\u05e8\u05d0\u05e9\u05d5\u05df \u05dc\u05e6\u05d9\u05d5\u05df \u05d4\u05ea\u05d6\u05de\u05d5\u05e8\u05ea  30", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ראשון לציון התזמורת  30", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "215"
             }
@@ -13673,10 +13673,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d6\u05db\u05e8\u05ea \u05d1\u05ea\u05d9\u05d4", 
+                "name": "מזכרת בתיה", 
                 "phone": "08-9340341", 
-                "address": "\u05de\u05d6\u05db\u05e8\u05ea \u05d1\u05ea\u05d9\u05d4 \u05d4\u05e8\u05e7\u05e4\u05ea  3", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מזכרת בתיה הרקפת  3", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "212"
             }
@@ -13691,10 +13691,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea \u05de\u05e2\u05d5\u05df", 
+                "name": "בית מעון", 
                 "phone": "03-9652211", 
-                "address": "\u05e8\u05d0\u05e9\u05d5\u05df \u05dc\u05e6\u05d9\u05d5\u05df \u05d2\u05d5\u05e8\u05d3\u05d5\u05df  24", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ראשון לציון גורדון  24", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "213"
             }
@@ -13709,10 +13709,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05d0\u05e9 \u05d4\u05e2\u05d9\u05df \u05d3'", 
+                "name": "ראש העין ד'", 
                 "phone": "03-9021186", 
-                "address": "\u05e8\u05d0\u05e9 \u05d4\u05e2\u05d9\u05df \u05d4' \u05d1\u05d0\u05d9\u05d9\u05e8  \u05e4\u05d9\u05e0\u05ea \u05d1\u05d6\u05e7 2 22", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ראש העין ה' באייר  פינת בזק 2 22", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "211"
             }
@@ -13727,10 +13727,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d6\u05d5\u05e8", 
+                "name": "מזור", 
                 "phone": "03-9327885", 
-                "address": "\u05de\u05d6\u05d5\u05e8 \u05de\u05d5\u05e9\u05d1 \u05de\u05d6\u05d5\u05e8 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מזור מושב מזור ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "762"
             }
@@ -13745,10 +13745,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05ea\u05df", 
+                "name": "מתן", 
                 "phone": "03-9024163", 
-                "address": "\u05de\u05ea\u05df \u05d4\u05d3\u05e8   84", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מתן הדר   84", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "763"
             }
@@ -13763,10 +13763,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d7\u05dc\u05d9\u05dd", 
+                "name": "נחלים", 
                 "phone": "03-9093398", 
-                "address": "\u05e0\u05d7\u05dc\u05d9\u05dd \u05e0\u05d7\u05dc\u05d9\u05dd ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נחלים נחלים ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "766"
             }
@@ -13781,10 +13781,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d7\u05e9\u05d5\u05e0\u05d9\u05dd", 
+                "name": "נחשונים", 
                 "phone": "03-9386474", 
-                "address": "\u05e0\u05d7\u05e9\u05d5\u05e0\u05d9\u05dd \u05e7\u05d9\u05d1\u05d5\u05e5 \u05e0\u05d7\u05e9\u05d5\u05e0\u05d9\u05dd ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נחשונים קיבוץ נחשונים ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "767"
             }
@@ -13799,10 +13799,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05d3\u05de\u05ea \u05e8\u05d0\u05e9\u05d5\u05df", 
+                "name": "קדמת ראשון", 
                 "phone": "03-9468648", 
-                "address": "\u05e8\u05d0\u05e9\u05d5\u05df \u05dc\u05e6\u05d9\u05d5\u05df \u05d9\u05d5\u05d0\u05dc \u05e1\u05d2\u05dc  6", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ראשון לציון יואל סגל  6", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "219"
             }
@@ -13817,10 +13817,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d5\u05e2\u05dc\u05d9", 
+                "name": "שועלי", 
                 "phone": "09-7477979", 
-                "address": "\u05e8\u05e2\u05e0\u05e0\u05d4 \u05d0\u05dc\u05d9\u05d6\u05e8 \u05d9\u05e4\u05d4   8", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "רעננה אליזר יפה   8", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "956"
             }
@@ -13835,10 +13835,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05d9\u05d1\u05d5\u05e5 \u05e1\u05e2\u05d3", 
+                "name": "קיבוץ סעד", 
                 "phone": "08-6800412", 
-                "address": "\u05e7\u05d9\u05d1\u05d5\u05e5 \u05e1\u05e2\u05d3 \u05e7\u05d9\u05d1\u05d5\u05e5 \u05e1\u05e2\u05d3 \u05de\u05d9\u05e7\u05d5\u05d3 85140 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "קיבוץ סעד קיבוץ סעד מיקוד 85140 ", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "1033"
             }
@@ -13853,10 +13853,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d3\u05e8\u05d4", 
+                "name": "גדרה", 
                 "phone": "08-8681165", 
-                "address": "\u05d2\u05d3\u05e8\u05d4 \u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df  14", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גדרה מנחם בגין  14", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "1073"
             }
@@ -13871,10 +13871,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05df \u05e0\u05e7\u05d5\u05d1\u05d4", 
+                "name": "עין נקובה", 
                 "phone": "02-5332435", 
-                "address": "\u05e2\u05d9\u05df \u05e0\u05e7\u05d5\u05d1\u05d4 \u05db\u05db\u05e8 \u05d4\u05de\u05e1\u05d2\u05d3 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עין נקובה ככר המסגד ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "1070"
             }
@@ -13889,10 +13889,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d5\u05ea\u05d9\u05e7\u05d9\u05dd", 
+                "name": "ותיקים", 
                 "phone": "09-8873774", 
-                "address": "\u05e0\u05ea\u05e0\u05d9\u05d4 \u05d0\u05d5\u05e0\u05d8\u05e8\u05de\u05df 7", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נתניה אונטרמן 7", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "1071"
             }
@@ -13907,10 +13907,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05d9\u05d9\u05e0\u05d4 \u05d0'", 
+                "name": "ריינה א'", 
                 "phone": "04-6577003", 
-                "address": "\u05e8\u05d9\u05d9\u05e0\u05d4 \u05e8\u05d9\u05d9\u05e0\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ריינה ריינה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "289"
             }
@@ -13925,10 +13925,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05df \u05de\u05d0\u05d4\u05dc \u05d1'", 
+                "name": "עין מאהל ב'", 
                 "phone": "04-6455537", 
-                "address": "\u05e2\u05d9\u05df \u05de\u05d0\u05d4\u05dc \u05e2\u05d9\u05df \u05de\u05d0\u05d4\u05dc ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עין מאהל עין מאהל ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "288"
             }
@@ -13943,10 +13943,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d8\u05e8\u05ea", 
+                "name": "עטרת", 
                 "phone": "08-9215479", 
-                "address": "\u05e2\u05d8\u05e8\u05ea \u05d3.\u05e0. \u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עטרת ד.נ. מודיעין ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "1003"
             }
@@ -13961,10 +13961,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e9\u05d3\u05d5\u05d3  \u05d3'", 
+                "name": "אשדוד  ד'", 
                 "phone": "08-8551181", 
-                "address": "\u05d0\u05e9\u05d3\u05d5\u05d3  \u05d4\u05e9\u05d9\u05d9\u05d8\u05d9\u05dd  14", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אשדוד  השייטים  14", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "4"
             }
@@ -13979,10 +13979,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e1\u05e4\u05e4\u05e8\u05d4", 
+                "name": "ספפרה", 
                 "phone": "04-6565301", 
-                "address": "\u05e0\u05e6\u05e8\u05ea \u05e6\u05d5\u05de\u05ea \u05e7\u05e9\u05dc\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נצרת צומת קשלה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "281"
             }
@@ -13997,10 +13997,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e8\u05d5\u05dd - \u05e0\u05e6\u05e8\u05ea", 
+                "name": "כרום - נצרת", 
                 "phone": "04-6556939", 
-                "address": "\u05e0\u05e6\u05e8\u05ea \u05e9\u05db' \u05db\u05e8\u05d5\u05dd ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נצרת שכ' כרום ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "280"
             }
@@ -14015,10 +14015,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05d5\u05e8\u05e9", 
+                "name": "חורש", 
                 "phone": "04-6552680", 
-                "address": "\u05e0\u05e6\u05e8\u05ea \u05e9\u05db' \u05de\u05d6\u05e8\u05d7\u05d9\u05ea ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נצרת שכ' מזרחית ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "283"
             }
@@ -14033,10 +14033,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05d0\u05d5\u05e4\u05d9\u05e7 \u05d6\u05d9\u05d0\u05d3", 
+                "name": "תאופיק זיאד", 
                 "phone": "04-6012066", 
-                "address": "\u05e0\u05e6\u05e8\u05ea \u05e9\u05db' \u05de\u05d6\u05e8\u05d7\u05d9\u05ea \u05e0\u05e6\u05e8\u05ea ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נצרת שכ' מזרחית נצרת ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "282"
             }
@@ -14051,10 +14051,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05e8\u05d0\u05de\u05e9\u05d4", 
+                "name": "עראמשה", 
                 "phone": "04-9807429", 
-                "address": "\u05e2\u05e8\u05d0\u05de\u05e9\u05d4 \u05e2\u05e8\u05d0\u05de\u05e9\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עראמשה עראמשה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "285"
             }
@@ -14069,10 +14069,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05e8 \u05d0\u05dc\u05d0\u05de\u05d9\u05e8", 
+                "name": "ביר אלאמיר", 
                 "phone": "04-6453612", 
-                "address": "\u05e0\u05e6\u05e8\u05ea \u05e9\u05db' \u05d1\u05d9\u05e8 \u05d0\u05dc \u05d0\u05de\u05d9\u05e8 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נצרת שכ' ביר אל אמיר ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "284"
             }
@@ -14087,10 +14087,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05df \u05de\u05d0\u05d4\u05dc \u05d0'", 
+                "name": "עין מאהל א'", 
                 "phone": "04-6470884", 
-                "address": "\u05e2\u05d9\u05df \u05de\u05d0\u05d4\u05dc \u05e2\u05d9\u05df \u05de\u05d0\u05d4\u05dc ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עין מאהל עין מאהל ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "287"
             }
@@ -14105,10 +14105,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05dc\u05d5\u05d8", 
+                "name": "עילוט", 
                 "phone": "04-6461702", 
-                "address": "\u05e2\u05d9\u05dc\u05d5\u05d8 \u05e2\u05d9\u05dc\u05d5\u05d8 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עילוט עילוט ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "286"
             }
@@ -14123,10 +14123,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05e1 \u05e6\u05d9\u05d5\u05e0\u05d4", 
+                "name": "נס ציונה", 
                 "phone": "08-9377660", 
-                "address": "\u05e0\u05e1 \u05e6\u05d9\u05d5\u05e0\u05d4 \u05d4\u05e9\u05d9\u05d9\u05d8\u05ea 4", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "נס ציונה השייטת 4", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": false, 
                 "item_id": "678"
             }
@@ -14141,10 +14141,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e8 \u05d0\u05d3\u05e8", 
+                "name": "הר אדר", 
                 "phone": "02-5706444", 
-                "address": "\u05d4\u05e8 \u05d0\u05d3\u05e8 \u05d4\u05d0\u05dc\u05d5\u05df  239", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "הר אדר האלון  239", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "679"
             }
@@ -14159,10 +14159,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea\u05e8 \u05de\u05e7\u05e6\u05d5\u05e2\u05d9\u05ea", 
+                "name": "ביתר מקצועית", 
                 "phone": "02-5887555", 
-                "address": "\u05d1\u05d9\u05ea\u05e8 \u05e8\u05d1\u05d9 \u05e2\u05e7\u05d9\u05d1\u05d0  5", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ביתר רבי עקיבא  5", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "674"
             }
@@ -14177,10 +14177,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea\u05e8 \u05d4\u05d2\u05d1\u05e2\u05d4", 
+                "name": "ביתר הגבעה", 
                 "phone": "02-5800360", 
-                "address": "\u05d1\u05d9\u05ea\u05e8 \u05d4\u05d2\u05d1\u05e2\u05d4 \u05d4\u05de\u05d2\u05d9\u05d3\u05de\u05de\u05d6\u05e8\u05d9\u05d8\u05e9  30", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ביתר הגבעה המגידממזריטש  30", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "675"
             }
@@ -14195,10 +14195,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05e7\u05e2\u05d5\u05ea +\u05e8\u05d5\u05e2\u05d9", 
+                "name": "בקעות +רועי", 
                 "phone": "02-9941811", 
-                "address": "\u05d1\u05e7\u05e2\u05d5\u05ea +\u05e8\u05d5\u05e2\u05d9 \u05d3.\u05e0 \u05de\u05d6\u05e8\u05d7 \u05d1\u05e0\u05d9\u05de\u05d9\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "בקעות +רועי ד.נ מזרח בנימין ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "676"
             }
@@ -14213,10 +14213,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d1\u05e2\u05ea \u05d6\u05d0\u05d1", 
+                "name": "גבעת זאב", 
                 "phone": "02-5360444", 
-                "address": "\u05d2\u05d1\u05e2\u05ea \u05d6\u05d0\u05d1  \u05d4\u05de\u05db\u05d1\u05d9\u05dd  48", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גבעת זאב  המכבים  48", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "677"
             }
@@ -14231,10 +14231,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc\u05d5\u05df \u05e9\u05d1\u05d5\u05ea", 
+                "name": "אלון שבות", 
                 "phone": "02-9931467", 
-                "address": "\u05d0\u05dc\u05d5\u05df \u05e9\u05d1\u05d5\u05ea \u05de\u05e8\u05db\u05d6 \u05de\u05e1\u05d7\u05e8\u05d9 \u05d0\u05dc\u05d5\u05df \u05e9\u05d1\u05d5\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אלון שבות מרכז מסחרי אלון שבות ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "670"
             }
@@ -14249,10 +14249,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc\u05de\u05d5\u05d2", 
+                "name": "אלמוג", 
                 "phone": "02-9945222", 
-                "address": "\u05d0\u05dc\u05de\u05d5\u05d2 \u05d3.\u05e0. \u05e2\u05e8\u05d1\u05d5\u05ea \u05d4\u05d9\u05e8\u05d3\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אלמוג ד.נ. ערבות הירדן ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "671"
             }
@@ -14267,10 +14267,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e4\u05e8\u05ea", 
+                "name": "אפרת", 
                 "phone": "02-9931955", 
-                "address": "\u05d0\u05e4\u05e8\u05ea \u05e8\u05d7' \u05d4\u05ea\u05d0\u05e0\u05d4 \u05d0\u05e4\u05e8\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אפרת רח' התאנה אפרת ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "672"
             }
@@ -14285,10 +14285,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea \u05d0\u05dc", 
+                "name": "בית אל", 
                 "phone": "02-9975318", 
-                "address": "\u05d1\u05d9\u05ea \u05d0\u05dc \u05d3.\u05e0.\u05de\u05d6\u05e8\u05d7 \u05d1\u05e0\u05d9\u05de\u05d9\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "בית אל ד.נ.מזרח בנימין ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "673"
             }
@@ -14303,10 +14303,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d2'\u05d0\u05e8 \u05de\u05e0\u05e1\u05d5\u05e8\u05d4", 
+                "name": "מג'אר מנסורה", 
                 "phone": "04-6783265", 
-                "address": "\u05de\u05d2\u05d0\u05e8 \u05de\u05d2'\u05d0\u05e8 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מגאר מג'אר ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "263"
             }
@@ -14321,10 +14321,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d2'\u05d0\u05e8 \u05de\u05e2\u05e8\u05d1\u05d9\u05ea", 
+                "name": "מג'אר מערבית", 
                 "phone": "04-6781165", 
-                "address": "\u05de\u05d2\u05d0\u05e8 \u05de\u05d2'\u05d0\u05e8 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מגאר מג'אר ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "262"
             }
@@ -14339,10 +14339,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d2'\u05d0\u05e8 \u05e6\u05e4\u05d5\u05e0\u05d9\u05ea", 
+                "name": "מג'אר צפונית", 
                 "phone": "04-6784630", 
-                "address": "\u05de\u05d2\u05d0\u05e8 \u05de\u05d2'\u05d0\u05e8 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מגאר מג'אר ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "261"
             }
@@ -14357,10 +14357,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d2\u05d3\u05dc + \u05dc\u05d9\u05d1\u05e0\u05d9\u05dd", 
+                "name": "מגדל + ליבנים", 
                 "phone": "04-6720742", 
-                "address": "\u05de\u05d2\u05d3\u05dc \u05de\u05d2\u05d3\u05dc ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מגדל מגדל ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "267"
             }
@@ -14375,10 +14375,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d2'\u05d0\u05e8 \u05d2'\u05de\u05e9\u05d4", 
+                "name": "מג'אר ג'משה", 
                 "phone": "04-6780249", 
-                "address": "\u05de\u05d2\u05d0\u05e8 \u05de\u05d2'\u05d0\u05e8 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מגאר מג'אר ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "266"
             }
@@ -14393,10 +14393,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d2'\u05d0\u05e8 \u05de\u05e8\u05db\u05d6\u05d9\u05ea", 
+                "name": "מג'אר מרכזית", 
                 "phone": "04-6786132", 
-                "address": "\u05de\u05d2\u05d0\u05e8 \u05de\u05d2'\u05d0\u05e8 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מגאר מג'אר ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "265"
             }
@@ -14411,10 +14411,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d2'\u05d0\u05e8 \u05e8\u05d0\u05e1\u05d0\u05dc\u05db\u05d1\u05d9\u05d4", 
+                "name": "מג'אר ראסאלכביה", 
                 "phone": "04-6781059", 
-                "address": "\u05de\u05d2\u05d0\u05e8 \u05de\u05d2'\u05d0\u05e8 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מגאר מג'אר ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "264"
             }
@@ -14429,10 +14429,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05ea\u05d9\u05e8", 
+                "name": "יתיר", 
                 "phone": "02-9960148", 
-                "address": "\u05d9\u05ea\u05d9\u05e8 \u05d1\u05d9\u05ea \u05d9\u05ea\u05d9\u05e8 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "יתיר בית יתיר ", 
+                "operator": "קופת חולים מכבי", 
                 "error": true, 
                 "item_id": "1031"
             }
@@ -14447,10 +14447,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05dc\u05d1\u05d5\u05df", 
+                "name": "עילבון", 
                 "phone": "04-6784544", 
-                "address": "\u05e2\u05d9\u05d9\u05dc\u05d1\u05d5\u05df \u05e2\u05d9\u05dc\u05d1\u05d5\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עיילבון עילבון ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "269"
             }
@@ -14465,10 +14465,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e0\u05d7\u05de\u05d9\u05d4", 
+                "name": "מנחמיה", 
                 "phone": "04-6752539", 
-                "address": "\u05de\u05e0\u05d7\u05de\u05d9\u05d4 \u05de\u05e0\u05d7\u05de\u05d9\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מנחמיה מנחמיה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "268"
             }
@@ -14483,10 +14483,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d9\u05dc\u05d4", 
+                "name": "שילה", 
                 "phone": "02-9941169", 
-                "address": "\u05e9\u05d9\u05dc\u05d4 \u05d3.\u05e0 \u05d4\u05e8\u05d9 \u05d0\u05e4\u05e8\u05d9\u05dd ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שילה ד.נ הרי אפרים ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "701"
             }
@@ -14501,10 +14501,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc \u05e2\u05e1\u05d0\u05dd", 
+                "name": "אל עסאם", 
                 "phone": "054-9191483", 
-                "address": "\u05d0\u05e2\u05e6\u05dd \u05d0\u05dc \u05e2\u05e1\u05d0\u05dd ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אעצם אל עסאם ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "59"
             }
@@ -14519,10 +14519,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc \u05d4\u05d5\u05d5\u05d0\u05e9\u05dc\u05d4", 
+                "name": "אל הוואשלה", 
                 "phone": "054-3124625", 
-                "address": "\u05e7\u05e6\u05e8 \u05d0-\u05e1\u05e8 \u05d0\u05dc \u05d4\u05d5\u05d5\u05d0\u05e9\u05dc\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קצר א-סר אל הוואשלה ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "58"
             }
@@ -14537,10 +14537,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05d4\u05d8 \u05d3'", 
+                "name": "רהט ד'", 
                 "phone": "08-9910613", 
-                "address": "\u05e8\u05d4\u05d8 \u05e9\u05db\u05d5\u05e0\u05d4 8 8", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רהט שכונה 8 8", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "55"
             }
@@ -14555,10 +14555,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05d4\u05d8 \u05d2'", 
+                "name": "רהט ג'", 
                 "phone": "08-9910246", 
-                "address": "\u05e8\u05d4\u05d8 \u05e9\u05db\u05d5\u05e0\u05d4 24 \u05d1\u05d9\u05ea 152 24/152", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רהט שכונה 24 בית 152 24/152", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "54"
             }
@@ -14573,10 +14573,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05dc-\u05e9\u05d1\u05e2", 
+                "name": "תל-שבע", 
                 "phone": "054-7302434", 
-                "address": "\u05ea\u05dc \u05e9\u05d1\u05e2 \u05e9\u05db\u05d5\u05e0\u05d4 2- \u05de\u05d2\u05e8\u05e9 901 2/901", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "תל שבע שכונה 2- מגרש 901 2/901", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "57"
             }
@@ -14591,10 +14591,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d2\u05d1 \u05e9\u05dc\u05d5\u05dd", 
+                "name": "שגב שלום", 
                 "phone": "08-6230762", 
-                "address": "\u05e9\u05d2\u05d1 \u05e9\u05dc\u05d5\u05dd \u05e9\u05d2\u05d1 \u05e9\u05dc\u05d5\u05dd ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "שגב שלום שגב שלום ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "56"
             }
@@ -14609,10 +14609,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05e8\u05d3 \u05d1'", 
+                "name": "ערד ב'", 
                 "phone": "08-9950989", 
-                "address": "\u05e2\u05e8\u05d3 \u05d4\u05e7\u05e0\u05d0\u05d9\u05dd  43", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ערד הקנאים  43", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "51"
             }
@@ -14627,10 +14627,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05e8\u05d3 \u05d0'", 
+                "name": "ערד א'", 
                 "phone": "08-9957029", 
-                "address": "\u05e2\u05e8\u05d3 \u05d7\u05df  21", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ערד חן  21", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "50"
             }
@@ -14645,10 +14645,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05d4\u05d8 \u05d1'", 
+                "name": "רהט ב'", 
                 "phone": "08-9918334", 
-                "address": "\u05e8\u05d4\u05d8 \u05e9\u05db\u05d5\u05e0\u05d4 17 17", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רהט שכונה 17 17", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "53"
             }
@@ -14663,10 +14663,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05d4\u05d8 \u05d0'", 
+                "name": "רהט א'", 
                 "phone": "08-9918333", 
-                "address": "\u05e8\u05d4\u05d8 \u05e9\u05db\u05d5\u05e0\u05d4  7", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רהט שכונה  7", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "52"
             }
@@ -14681,10 +14681,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05d5\u05db\u05d1 \u05de\u05d9\u05db\u05d0\u05dc", 
+                "name": "כוכב מיכאל", 
                 "phone": "08-6728746", 
-                "address": "\u05db\u05d5\u05db\u05d1 \u05de\u05d9\u05db\u05d0\u05dc \u05d3.\u05e0 \u05dc\u05db\u05d9\u05e9 \u05d3\u05e8\u05d5\u05dd ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כוכב מיכאל ד.נ לכיש דרום ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "537"
             }
@@ -14699,10 +14699,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05d3 \u05de\u05e8\u05d3\u05db\u05d9", 
+                "name": "יד מרדכי", 
                 "phone": "08-6720507", 
-                "address": "\u05d9\u05d3 \u05de\u05e8\u05d3\u05db\u05d9 \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d0\u05e9\u05e7\u05dc\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "יד מרדכי ד.נ חוף אשקלון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "536"
             }
@@ -14717,10 +14717,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05e6\u05e8\u05d9\u05dd", 
+                "name": "חצרים", 
                 "phone": "08-6473339", 
-                "address": "\u05d7\u05e6\u05e8\u05d9\u05dd \u05d3.\u05e0 \u05d4\u05e0\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "חצרים ד.נ הנגב ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "535"
             }
@@ -14735,10 +14735,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05e8\u05d9\u05d2'\u05d0\u05ea", 
+                "name": "דריג'את", 
                 "phone": "054-9191694", 
-                "address": "\u05d3\u05e8\u05d9\u05d2'\u05d0\u05ea  ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "דריג'את  ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "63"
             }
@@ -14753,10 +14753,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d6\u05d9\u05e7\u05d9\u05dd", 
+                "name": "זיקים", 
                 "phone": "08-6746504", 
-                "address": "\u05d6\u05d9\u05e7\u05d9\u05dd \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d0\u05e9\u05e7\u05dc\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "זיקים ד.נ חוף אשקלון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "533"
             }
@@ -14771,10 +14771,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d6\u05d1\u05d3\u05d9\u05d0\u05dc", 
+                "name": "זבדיאל", 
                 "phone": "08-8580301", 
-                "address": "\u05d6\u05d1\u05d3\u05d9\u05d0\u05dc \u05d3.\u05e0 \u05e9\u05d3\u05d4 \u05d2\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "זבדיאל ד.נ שדה גת ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "532"
             }
@@ -14789,10 +14789,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05d5\u05d3\u05d9\u05d4", 
+                "name": "הודיה", 
                 "phone": "08-6723635", 
-                "address": "\u05d4\u05d5\u05d3\u05d9\u05d4 \u05d3.\u05e0 \u05e9\u05d3\u05d4 \u05d2\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "הודיה ד.נ שדה גת ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "531"
             }
@@ -14807,10 +14807,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05d5\u05e8\u05d5\u05ea", 
+                "name": "דורות", 
                 "phone": "08-6808844", 
-                "address": "\u05d3\u05d5\u05e8\u05d5\u05ea \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d0\u05e9\u05e7\u05dc\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "דורות ד.נ חוף אשקלון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "530"
             }
@@ -14825,10 +14825,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05e2\u05d6\u05d4", 
+                "name": "כפר עזה", 
                 "phone": "08-6809777", 
-                "address": "\u05db\u05e4\u05e8 \u05e2\u05d6\u05d4 \u05d3.\u05e0 \u05d4\u05e0\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר עזה ד.נ הנגב ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "539"
             }
@@ -14843,10 +14843,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05d9\u05e1\u05d5\u05e4\u05d9\u05dd", 
+                "name": "כיסופים", 
                 "phone": "08-9928800", 
-                "address": "\u05db\u05d9\u05e1\u05d5\u05e4\u05d9\u05dd \u05d3.\u05e0 \u05d4\u05e0\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כיסופים ד.נ הנגב ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "538"
             }
@@ -14861,10 +14861,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05db\u05e1\u05d9\u05dd", 
+                "name": "רכסים", 
                 "phone": "04-9847493", 
-                "address": "\u05e8\u05db\u05e1\u05d9\u05dd \u05d4\u05e8\u05d1 \u05e7\u05d5\u05e7  3", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רכסים הרב קוק  3", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": false, 
                 "item_id": "987"
             }
@@ -14879,10 +14879,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d9\u05d9\u05dc\u05ea \u05d4\u05e9\u05d7\u05e8", 
+                "name": "איילת השחר", 
                 "phone": "04-6923222", 
-                "address": "\u05d0\u05d9\u05d9\u05dc\u05ea \u05d4\u05e9\u05d7\u05e8 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "איילת השחר ד.נ גליל עליון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "775"
             }
@@ -14897,10 +14897,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05de\u05e6\u05d9\u05d4", 
+                "name": "אמציה", 
                 "phone": "08-6882355", 
-                "address": "\u05d0\u05de\u05e6\u05d9\u05d4 \u05d0\u05de\u05e6\u05d9\u05d4 ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אמציה אמציה ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": false, 
                 "item_id": "988"
             }
@@ -14915,10 +14915,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d9\u05ea\u05de\u05e8", 
+                "name": "איתמר", 
                 "phone": "02-9974359", 
-                "address": "\u05d0\u05d9\u05ea\u05de\u05e8 \u05d3.\u05e0. \u05dc\u05d1 \u05d4\u05e9\u05d5\u05de\u05e8\u05d5\u05df ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "איתמר ד.נ. לב השומרון ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": false, 
                 "item_id": "989"
             }
@@ -14933,10 +14933,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d7\u05d5\u05d6\u05ea \u05d1\u05e8\u05e7", 
+                "name": "אחוזת ברק", 
                 "phone": "04-6421420", 
-                "address": "\u05d0\u05d7\u05d5\u05d6\u05ea \u05d1\u05e8\u05e7 \u05d0\u05d7\u05d5\u05d6\u05ea \u05d1\u05e8\u05e7 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אחוזת ברק אחוזת ברק ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "774"
             }
@@ -14951,10 +14951,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05e2\u05e8 \u05d1\u05e0\u05d9\u05de\u05d9\u05df", 
+                "name": "שער בנימין", 
                 "phone": "02-9978111", 
-                "address": "\u05e9\u05e2\u05e8 \u05d1\u05e0\u05d9\u05de\u05d9\u05df \u05e4\u05d0\u05e8 \u05ea\u05e2\u05e9\u05d9\u05d5\u05ea ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "שער בנימין פאר תעשיות ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "982"
             }
@@ -14969,10 +14969,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05dc \u05e6\u05d9\u05d5\u05df", 
+                "name": "תל ציון", 
                 "phone": "02-9709456", 
-                "address": "\u05ea\u05dc \u05e6\u05d9\u05d5\u05df \u05d0\u05d4\u05d1\u05ea \u05d0\u05de\u05ea  19/8", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "תל ציון אהבת אמת  19/8", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "983"
             }
@@ -14987,10 +14987,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05e1\u05e4\u05e8", 
+                "name": "קרית ספר", 
                 "phone": "08-9740960", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05e1\u05e4\u05e8 \u05e9\u05d3\u05d4 \u05d7\u05de\u05d3  32", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית ספר שדה חמד  32", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "980"
             }
@@ -15005,10 +15005,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d9\u05dc\u05d4", 
+                "name": "שילה", 
                 "phone": "02-9941293", 
-                "address": "\u05e9\u05d9\u05dc\u05d4 \u05d3.\u05e0. \u05d0\u05e4\u05e8\u05d9\u05dd ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "שילה ד.נ. אפרים ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": false, 
                 "item_id": "981"
             }
@@ -15023,10 +15023,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e6\u05e8\u05d9\u05df", 
+                "name": "קצרין", 
                 "phone": "04-6961354", 
-                "address": "\u05e7\u05e6\u05e8\u05d9\u05df \u05d0\u05d5\u05d3\u05dd  7", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קצרין אודם  7", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "986"
             }
@@ -15041,10 +15041,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc\u05d5\u05de\u05d5\u05ea", 
+                "name": "אלומות", 
                 "phone": "04-6750802", 
-                "address": "\u05d0\u05dc\u05d5\u05de\u05d5\u05ea \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05ea\u05d7\u05ea\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אלומות ד.נ גליל תחתון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "777"
             }
@@ -15059,10 +15059,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05d5\u05e7\u05e0\u05e2\u05dd", 
+                "name": "יוקנעם", 
                 "phone": "04-9091900", 
-                "address": "\u05d9\u05d5\u05e7\u05e0\u05e2\u05dd \u05d4\u05e8\u05d3\u05d5\u05e4\u05d9\u05dd  20", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "יוקנעם הרדופים  20", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": false, 
                 "item_id": "984"
             }
@@ -15077,10 +15077,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e2\u05dc\u05d4 \u05e0\u05d8\u05d5\u05e4\u05d4", 
+                "name": "מעלה נטופה", 
                 "phone": "04-6784729", 
-                "address": "\u05de\u05e2\u05dc\u05d4 \u05e0\u05d8\u05d5\u05e4\u05d4 \u05d3.\u05e0. \u05d2\u05dc\u05d9\u05dc \u05ea\u05d7\u05ea\u05d5\u05df ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מעלה נטופה ד.נ. גליל תחתון ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "985"
             }
@@ -15089,17 +15089,17 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    35.04778599999999, 
-                    32.693046
+                    0, 
+                    0
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05dc\u05d9\u05d4 \u05d2'", 
+                "name": "דליה ג'", 
                 "phone": "04-8396450", 
-                "address": "\u05d3\u05dc\u05d9\u05ea \u05d0\u05dc \u05db\u05e8\u05de\u05dc \u05d3\u05dc\u05d9\u05ea \u05d0\u05dc \u05db\u05e8\u05de\u05dc ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
-                "error": false, 
+                "address": "דלית אל כרמל דלית אל כרמל ", 
+                "operator": "משרד הבריאות", 
+                "error": true, 
                 "item_id": "115"
             }
         }, 
@@ -15107,17 +15107,17 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    35.04778599999999, 
-                    32.693046
+                    0, 
+                    0
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05dc\u05d9\u05d4 \u05d1'", 
+                "name": "דליה ב'", 
                 "phone": "04-8395511", 
-                "address": "\u05d3\u05dc\u05d9\u05ea \u05d0\u05dc \u05db\u05e8\u05de\u05dc \u05d3\u05dc\u05d9\u05ea \u05d0\u05dc \u05db\u05e8\u05de\u05dc ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
-                "error": false, 
+                "address": "דלית אל כרמל דלית אל כרמל ", 
+                "operator": "משרד הבריאות", 
+                "error": true, 
                 "item_id": "114"
             }
         }, 
@@ -15131,10 +15131,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d7\u05d5\u05d6\u05d4", 
+                "name": "אחוזה", 
                 "phone": "073-7941599", 
-                "address": "\u05d7\u05d9\u05e4\u05d4 \u05de\u05e8\u05d2\u05dc\u05d9\u05ea  1", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חיפה מרגלית  1", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "117"
             }
@@ -15149,10 +15149,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05d5\u05d0\u05dc\u05d3", 
+                "name": "חואלד", 
                 "phone": "050-6242542", 
-                "address": "\u05d7\u05d5\u05d0\u05dc\u05d3 \u05d7\u05d5\u05d0\u05dc\u05d3 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חואלד חואלד ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "116"
             }
@@ -15167,10 +15167,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e8\u05db\u05d5\u05e8", 
+                "name": "כרכור", 
                 "phone": "077-9400704", 
-                "address": "\u05e4\u05e8\u05d3\u05e1 \u05d7\u05e0\u05d4-\u05db\u05e8\u05db\u05d5\u05e8 \u05d4\u05de\u05d9\u05d9\u05e1\u05d3\u05d9\u05dd  1", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פרדס חנה-כרכור המייסדים  1", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "111"
             }
@@ -15185,10 +15185,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05d3\u05e8", 
+                "name": "הדר", 
                 "phone": "04-6378940", 
-                "address": "\u05e4\u05e8\u05d3\u05e1 \u05d7\u05e0\u05d4-\u05db\u05e8\u05db\u05d5\u05e8 \u05e9\u05db\u05d5\u05e0\u05ea \u05d2\u05d0\u05d5\u05dc\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פרדס חנה-כרכור שכונת גאולה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "110"
             }
@@ -15203,10 +15203,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e4\u05e8\u05d3\u05d9\u05e1 \u05d1", 
+                "name": "פרדיס ב", 
                 "phone": "04-6291096", 
-                "address": "\u05e4\u05e8\u05d3\u05d9\u05e1 \u05e4\u05e8\u05d3\u05d9\u05e1 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פרדיס פרדיס ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "113"
             }
@@ -15221,10 +15221,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e4\u05e8\u05d3\u05d9\u05e1 \u05d0", 
+                "name": "פרדיס א", 
                 "phone": "077-9511745", 
-                "address": "\u05e4\u05e8\u05d3\u05d9\u05e1 \u05e4\u05e8\u05d3\u05d9\u05e1 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "פרדיס פרדיס ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "112"
             }
@@ -15239,10 +15239,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05e2\u05e8\u05d9 \u05ea\u05e7\u05d5\u05d4", 
+                "name": "שערי תקוה", 
                 "phone": "03-9362925", 
-                "address": "\u05e9\u05e2\u05e8\u05d9 \u05ea\u05e7\u05d5\u05d4 \u05d9\u05d4\u05dc\u05d5\u05dd - \u05e9\u05e2\u05e8\u05d9 \u05ea\u05e7\u05d5\u05d5\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "שערי תקוה יהלום - שערי תקווה ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "771"
             }
@@ -15257,10 +15257,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05d2\u05e0\u05d9\u05d4", 
+                "name": "דגניה", 
                 "phone": "09-8322714", 
-                "address": "\u05e0\u05ea\u05e0\u05d9\u05d4 \"\u05d3\u05d2\u05e0\u05d9\u05ea, \u05e7\u05e8\u05d9\u05d9\u05ea \u05d4\u05e9\u05e8\u05d5\u05df\" 92", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נתניה \"דגנית, קריית השרון\" 92", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "119"
             }
@@ -15275,10 +15275,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d3\u05de\u05d5\u05e0\u05d3 \u05e4\u05dc\u05d2", 
+                "name": "אדמונד פלג", 
                 "phone": "077-2019181", 
-                "address": "\u05d7\u05d9\u05e4\u05d4 \u05d0\u05d3\u05de\u05d5\u05e0\u05d3 \u05e4\u05dc\u05d2  16", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חיפה אדמונד פלג  16", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "118"
             }
@@ -15293,10 +15293,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05d3\u05de\u05d4", 
+                "name": "קדמה", 
                 "phone": "03-5493876", 
-                "address": "\u05e8\u05de\u05ea \u05d4\u05e9\u05e8\u05d5\u05df \u05d1\u05d9\u05ea \u05d4\u05d9\u05dc\u05dc  6", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "רמת השרון בית הילל  6", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "953"
             }
@@ -15311,10 +15311,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05d5\u05d0\u05dc", 
+                "name": "יואל", 
                 "phone": "03-6185662", 
-                "address": "\u05d1\u05e0\u05d9 \u05d1\u05e8\u05e7 \u05d9\u05d5\u05d0\u05dc  18", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בני ברק יואל  18", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "429"
             }
@@ -15329,10 +15329,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05e4\u05e5 \u05d7\u05d9\u05d9\u05dd", 
+                "name": "חפץ חיים", 
                 "phone": "03-6188551", 
-                "address": "\u05d1\u05e0\u05d9 \u05d1\u05e8\u05e7 \u05d7\u05e4\u05e5 \u05d7\u05d9\u05d9\u05dd  7", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בני ברק חפץ חיים  7", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "428"
             }
@@ -15347,10 +15347,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05dc\u05e5", 
+                "name": "חלץ", 
                 "phone": "08-6892798", 
-                "address": "\u05d7\u05dc\u05e5 \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d0\u05e9\u05e7\u05dc\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "חלץ ד.נ חוף אשקלון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "534"
             }
@@ -15365,10 +15365,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05d4\u05e8\u05d5\u05d0\u05d4", 
+                "name": "כפר הרואה", 
                 "phone": "04-6365431", 
-                "address": "\u05db\u05e4\u05e8 \u05d4\u05e8\u05d5\u05d0\u05d4 \u05d3.\u05e0 \u05e2\u05de\u05e7 \u05d7\u05e4\u05e8 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר הרואה ד.נ עמק חפר ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "919"
             }
@@ -15383,10 +15383,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e8\u05db\u05d6 \u05e7\u05e8\u05d9\u05ea \u05e9\u05de\u05d5\u05e0\u05d4", 
+                "name": "מרכז קרית שמונה", 
                 "phone": "04-6902333", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05e9\u05de\u05d5\u05e0\u05d4 \u05d0\u05e8\u05d6\u05d9\u05dd ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית שמונה ארזים ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "421"
             }
@@ -15401,10 +15401,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e8\u05d9\u05dd \u05db\u05d5\u05dc\u05dc \u05e2\u05d2'\u05e8", 
+                "name": "מרים כולל עג'ר", 
                 "phone": "04-6940481", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05e9\u05de\u05d5\u05e0\u05d4 \u05d4\u05dc\u05d1\u05e0\u05d5\u05df  4", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית שמונה הלבנון  4", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "420"
             }
@@ -15419,10 +15419,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05d5\u05e8\u05d3\u05d9\u05dd", 
+                "name": "הורדים", 
                 "phone": "04-6959194", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05e9\u05de\u05d5\u05e0\u05d4 \u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df - '\u05e9\u05db\u05d5\u05e0\u05ea \u05d4\u05d5\u05e8\u05d3\u05d9\u05dd ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית שמונה מנחם בגין - 'שכונת הורדים ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "423"
             }
@@ -15437,10 +15437,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05d9\u05d7\u05e0\u05d9\u05d4", 
+                "name": "ריחניה", 
                 "phone": "04-6990192", 
-                "address": "\u05e8\u05d9\u05d7\u05e0\u05d9\u05d9\u05d4 \u05e8\u05d9\u05d7\u05e0\u05d9\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ריחנייה ריחניה ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "425"
             }
@@ -15455,10 +15455,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05d0\u05e9 \u05e4\u05d9\u05e0\u05d4", 
+                "name": "ראש פינה", 
                 "phone": "04-6934332", 
-                "address": "\u05e8\u05d0\u05e9 \u05e4\u05d9\u05e0\u05d4 \u05e2\u05de\u05d9\u05e7\u05dd \u05e9\u05de\u05d0\u05d9  126", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ראש פינה עמיקם שמאי  126", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "424"
             }
@@ -15473,10 +15473,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e8\u05e6\u05d5\u05d2", 
+                "name": "הרצוג", 
                 "phone": "03-6162730", 
-                "address": "\u05d1\u05e0\u05d9 \u05d1\u05e8\u05e7 \u05d4\u05e8\u05e6\u05d5\u05d2  20", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "בני ברק הרצוג  20", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "427"
             }
@@ -15491,10 +15491,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d6\u05d5\u05e8", 
+                "name": "אזור", 
                 "phone": "03-5586874", 
-                "address": "\u05d7\u05d5\u05dc\u05d5\u05df \u05de\u05e9\u05d4 \u05e9\u05e8\u05ea  73", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חולון משה שרת  73", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "426"
             }
@@ -15509,10 +15509,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d5\u05d0\u05d3\u05d9 \u05e1\u05dc\u05d0\u05de\u05d4", 
+                "name": "ואדי סלאמה", 
                 "phone": "04-6783430", 
-                "address": "\u05d5\u05d0\u05d3\u05d9 \u05e1\u05dc\u05d0\u05de\u05d4 \u05d5\u05d0\u05d3\u05d9 \u05e1\u05dc\u05d0\u05de\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ואדי סלאמה ואדי סלאמה ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "308"
             }
@@ -15527,10 +15527,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05d5\u05e1\u05e0\u05d9\u05d4", 
+                "name": "חוסניה", 
                 "phone": "050-6242780", 
-                "address": "\u05d7\u05d5\u05e1\u05e0\u05d9\u05d4 \u05d7\u05d5\u05e1\u05e0\u05d9\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חוסניה חוסניה ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "309"
             }
@@ -15545,10 +15545,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e8\u05d7\u05d1\u05d9\u05d4 \u05e7\u05d9\u05d1\u05d5\u05e5", 
+                "name": "מרחביה קיבוץ", 
                 "phone": "04-6598800", 
-                "address": "\u05de\u05e8\u05d7\u05d1\u05d9\u05d4 \u05e7\u05d9\u05d1\u05d5\u05e5 \u05d3.\u05e0 \u05d9\u05d6\u05e8\u05e2\u05d0\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מרחביה קיבוץ ד.נ יזרעאל ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "855"
             }
@@ -15563,10 +15563,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2'\u05d3\u05d9\u05d3\u05d4-\u05de\u05db\u05e8", 
+                "name": "ג'דידה-מכר", 
                 "phone": "04-9562572", 
-                "address": "\u05d2'\u05d3\u05d9\u05d3\u05d4-\u05de\u05db\u05e8 \u05d2'\u05d3\u05d9\u05d3\u05d4-\u05de\u05db\u05e8 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ג'דידה-מכר ג'דידה-מכר ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "300"
             }
@@ -15581,10 +15581,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2'\u05d5\u05dc\u05d9\u05e1", 
+                "name": "ג'וליס", 
                 "phone": "04-9562682", 
-                "address": "\u05d2'\u05d5\u05dc\u05e1 \u05d2'\u05d5\u05dc\u05d9\u05e1 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ג'ולס ג'וליס ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "301"
             }
@@ -15599,10 +15599,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2'\u05ea", 
+                "name": "ג'ת", 
                 "phone": "04-9804645", 
-                "address": "\u05d2'\u05ea \u05d2'\u05ea ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ג'ת ג'ת ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "302"
             }
@@ -15617,10 +15617,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05d9\u05e8 \u05d7\u05e0\u05d0 \u05d0", 
+                "name": "דיר חנא א", 
                 "phone": "04-6780616", 
-                "address": "\u05d3\u05d9\u05d9\u05e8 \u05d7\u05e0\u05d0 \u05d3\u05d9\u05e8 \u05d7\u05e0\u05d0 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "דייר חנא דיר חנא ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "303"
             }
@@ -15635,10 +15635,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05d9\u05e8 \u05d7\u05e0\u05d0 \u05d1", 
+                "name": "דיר חנא ב", 
                 "phone": "04-6783224", 
-                "address": "\u05d3\u05d9\u05d9\u05e8 \u05d7\u05e0\u05d0 \u05d3\u05d9\u05e8 \u05d7\u05e0\u05d0 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "דייר חנא דיר חנא ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "304"
             }
@@ -15653,10 +15653,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05d9\u05e8 \u05d0\u05dc \u05d0\u05e1\u05d3 \u05d0", 
+                "name": "דיר אל אסד א", 
                 "phone": "04-9881056", 
-                "address": "\u05d3\u05d9\u05e8 \u05d0\u05dc \u05d0\u05e1\u05d3 \u05d3\u05d9\u05e8 \u05d0\u05dc \u05d0\u05e1\u05d3 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "דיר אל אסד דיר אל אסד ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "305"
             }
@@ -15671,10 +15671,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05d9\u05e8 \u05d0\u05dc \u05d0\u05e1\u05d3 \u05d1'", 
+                "name": "דיר אל אסד ב'", 
                 "phone": "04-9081248", 
-                "address": "\u05d3\u05d9\u05e8 \u05d0\u05dc \u05d0\u05e1\u05d3 \u05d3\u05d9\u05e8 \u05d0\u05dc \u05d0\u05e1\u05d3 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "דיר אל אסד דיר אל אסד ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "306"
             }
@@ -15689,10 +15689,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05e0\u05d5\u05df", 
+                "name": "דנון", 
                 "phone": "04-9820904", 
-                "address": "\u05d3\u05e0\u05d5\u05df \u05d3\u05e0\u05d5\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "דנון דנון ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "307"
             }
@@ -15707,10 +15707,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d9\u05d9\u05dc", 
+                "name": "אייל", 
                 "phone": "09-7639100", 
-                "address": "\u05d0\u05d9\u05d9\u05dc \u05d3.\u05e0 \u05e9\u05e8\u05d5\u05df \u05ea\u05d9\u05db\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אייל ד.נ שרון תיכון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "895"
             }
@@ -15725,10 +15725,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05d2\u05dc\u05e2\u05d3\u05d9", 
+                "name": "כפר גלעדי", 
                 "phone": "04-6946385", 
-                "address": "\u05db\u05e4\u05e8 \u05d2\u05dc\u05e2\u05d3\u05d9 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר גלעדי ד.נ גליל עליון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "825"
             }
@@ -15743,10 +15743,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05d1\u05dc\u05d5\u05dd", 
+                "name": "כפר בלום", 
                 "phone": "04-6948527", 
-                "address": "\u05db\u05e4\u05e8 \u05d1\u05dc\u05d5\u05dd \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר בלום ד.נ גליל עליון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "824"
             }
@@ -15761,10 +15761,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05d6\u05d9\u05ea\u05d9\u05dd", 
+                "name": "כפר זיתים", 
                 "phone": "04-6793794", 
-                "address": "\u05db\u05e4\u05e8 \u05d6\u05d9\u05ea\u05d9\u05dd \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05ea\u05d7\u05ea\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר זיתים ד.נ גליל תחתון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "827"
             }
@@ -15779,10 +15779,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05dc\u05db\u05d9\u05d4", 
+                "name": "מלכיה", 
                 "phone": "04-6943698", 
-                "address": "\u05de\u05dc\u05db\u05d9\u05d4 \u05d3.\u05e0 \u05de\u05e8\u05d5\u05dd \u05d2\u05dc\u05d9\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מלכיה ד.נ מרום גליל ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "847"
             }
@@ -15797,10 +15797,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d9\u05e8\u05d1", 
+                "name": "מירב", 
                 "phone": "04-6539155", 
-                "address": "\u05de\u05d9\u05e8\u05d1 \u05d3.\u05e0 \u05d2\u05dc\u05d1\u05d5\u05e2 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מירב ד.נ גלבוע ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "846"
             }
@@ -15815,10 +15815,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d7\u05e0\u05d9\u05d9\u05dd", 
+                "name": "מחניים", 
                 "phone": "04-6933777", 
-                "address": "\u05de\u05d7\u05e0\u05d9\u05d9\u05dd \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מחניים ד.נ גליל עליון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "845"
             }
@@ -15833,10 +15833,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05d4\u05d7\u05d5\u05e8\u05e9", 
+                "name": "כפר החורש", 
                 "phone": "04-6558444", 
-                "address": "\u05db\u05e4\u05e8 \u05d4\u05d7\u05d5\u05e8\u05e9 \u05d3.\u05e0 \u05db\u05e4\u05e8 \u05d4\u05d7\u05d5\u05e8\u05e9 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר החורש ד.נ כפר החורש ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "826"
             }
@@ -15851,10 +15851,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d6\u05e8\u05e2", 
+                "name": "מזרע", 
                 "phone": "04-6429809", 
-                "address": "\u05de\u05d6\u05e8\u05e2  ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מזרע  ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "843"
             }
@@ -15869,10 +15869,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d5\u05dc\u05d3\u05ea", 
+                "name": "מולדת", 
                 "phone": "04-6532294", 
-                "address": "\u05de\u05d5\u05dc\u05d3\u05ea \u05d3.\u05e0 \u05d2\u05dc\u05d1\u05d5\u05e2 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מולדת ד.נ גלבוע ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "842"
             }
@@ -15887,10 +15887,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d2\u05df \u05e9\u05d0\u05d5\u05dc", 
+                "name": "מגן שאול", 
                 "phone": "04-6400115", 
-                "address": "\u05de\u05d2\u05df \u05e9\u05d0\u05d5\u05dc \u05d3.\u05e0 \u05d2\u05dc\u05d1\u05d5\u05e2 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מגן שאול ד.נ גלבוע ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "841"
             }
@@ -15905,10 +15905,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d2\u05d9\u05d3\u05d5", 
+                "name": "מגידו", 
                 "phone": "04-6525742", 
-                "address": "\u05de\u05d2\u05d9\u05d3\u05d5 \u05d3.\u05e0 \u05de\u05d2\u05d9\u05db\u05d5 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מגידו ד.נ מגיכו ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "840"
             }
@@ -15923,10 +15923,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05e8\u05d0\u05d5\u05df", 
+                "name": "יראון", 
                 "phone": "04-6868312", 
-                "address": "\u05d9\u05e8\u05d0\u05d5\u05df \u05d3.\u05e0 \u05de\u05e8\u05d5\u05dd \u05d4\u05d2\u05dc\u05d9\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "יראון ד.נ מרום הגליל ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "821"
             }
@@ -15941,10 +15941,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e8\u05d5\u05dd \u05d2\u05d5\u05dc\u05df (\u05d0\u05d6\u05d5\u05e8\u05d9\u05ea)", 
+                "name": "מרום גולן (אזורית)", 
                 "phone": "04-6960114", 
-                "address": "\u05de\u05e8\u05d5\u05dd \u05d2\u05d5\u05dc\u05df \u05d3.\u05e0 \u05e8\u05de\u05ea \u05d4\u05d2\u05d5\u05dc\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מרום גולן ד.נ רמת הגולן ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "853"
             }
@@ -15959,10 +15959,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e1\u05d3", 
+                "name": "מסד", 
                 "phone": "04-6784814", 
-                "address": "\u05de\u05e1\u05d3 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05ea\u05d7\u05ea\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מסד ד.נ גליל תחתון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "849"
             }
@@ -15977,10 +15977,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05e4\u05ea\u05d7", 
+                "name": "יפתח", 
                 "phone": "04-6952612", 
-                "address": "\u05d9\u05e4\u05ea\u05d7 \u05d3.\u05e0 \u05d2\u05dc\u05d9\u05dc \u05e2\u05dc\u05d9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "יפתח ד.נ גליל עליון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "820"
             }
@@ -15995,10 +15995,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e0\u05e8\u05ea \u05e7\u05d1\u05d5\u05e6\u05d4", 
+                "name": "כנרת קבוצה", 
                 "phone": "04-6759205", 
-                "address": "\u05db\u05e0\u05e8\u05ea \u05e7\u05d1\u05d5\u05e6\u05d4  ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כנרת קבוצה  ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "823"
             }
@@ -16013,10 +16013,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e0\u05e8\u05ea \u05de\u05d5\u05e9\u05d1\u05d4", 
+                "name": "כנרת מושבה", 
                 "phone": "04-6750432", 
-                "address": "\u05db\u05e0\u05e8\u05ea \u05de\u05d5\u05e9\u05d1\u05d4 \u05d3.\u05e0 \u05e2\u05de\u05e7 \u05d4\u05d9\u05e8\u05d3\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כנרת מושבה ד.נ עמק הירדן ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "822"
             }
@@ -16031,10 +16031,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e0\u05d5\u05d8\u05e8\u05d9\u05dd", 
+                "name": "הנוטרים", 
                 "phone": "09-7707111", 
-                "address": "\u05e8\u05e2\u05e0\u05e0\u05d4 \u05d4\u05e0\u05d5\u05d8\u05e8\u05d9\u05dd ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "רעננה הנוטרים ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "954"
             }
@@ -16049,10 +16049,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05df \u05d4\u05d1\u05e9\u05d5\u05e8", 
+                "name": "עין הבשור", 
                 "phone": "08-9982228", 
-                "address": "\u05e2\u05d9\u05df \u05d4\u05d1\u05e9\u05d5\u05e8 \u05de\u05d5\u05e9\u05d1 \u05e2\u05d9\u05df \u05d4\u05d1\u05e9\u05d5\u05e8 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "עין הבשור מושב עין הבשור ", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "1034"
             }
@@ -16067,10 +16067,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e8\u05dc\u05d5\u05d6\u05d5\u05e8\u05d5\u05d1", 
+                "name": "ארלוזורוב", 
                 "phone": "04-8623110", 
-                "address": "\u05d7\u05d9\u05e4\u05d4 \u05d0\u05e8\u05dc\u05d5\u05d6\u05d5\u05e8\u05d5\u05d1  92", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חיפה ארלוזורוב  92", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "1068"
             }
@@ -16085,10 +16085,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e8\u05de\u05d9\u05d0\u05dc", 
+                "name": "כרמיאל", 
                 "phone": "04-9027222", 
-                "address": "\u05db\u05e8\u05de\u05d9\u05d0\u05dc \u05d7\u05d1\u05e6\u05dc\u05ea  3", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "כרמיאל חבצלת  3", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "1038"
             }
@@ -16103,10 +16103,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e9\u05d2\u05d1", 
+                "name": "משגב", 
                 "phone": "04-9800380", 
-                "address": "\u05de\u05e9\u05d2\u05d1 \u05de.\u05d0\u05d6\u05d5\u05e8\u05d9\u05ea \u05de\u05e9\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "משגב מ.אזורית משגב ", 
+                "operator": "קופת חולים מכבי", 
                 "error": true, 
                 "item_id": "1039"
             }
@@ -16121,10 +16121,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d5\u05e8\u05e0\u05d9\u05ea", 
+                "name": "אורנית", 
                 "phone": "03-7214100", 
-                "address": "\u05d0\u05d5\u05e8\u05e0\u05d9\u05ea \u05de\u05e8\u05db\u05d6 \u05de\u05e1\u05d7\u05e8\u05d9  1", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "אורנית מרכז מסחרי  1", 
+                "operator": "קופת חולים מכבי", 
                 "error": true, 
                 "item_id": "1046"
             }
@@ -16139,10 +16139,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05dc\u05d5\u05de\u05d9\u05dd", 
+                "name": "עלומים", 
                 "phone": "08-9937280", 
-                "address": "\u05e2\u05dc\u05d5\u05de\u05d9\u05dd \u05d3.\u05e0 \u05d4\u05e0\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עלומים ד.נ הנגב ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "568"
             }
@@ -16157,10 +16157,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05e0\u05ea\u05d5\u05ea", 
+                "name": "ענתות", 
                 "phone": "08-6817411", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05d2\u05ea \u05e2\u05e0\u05ea\u05d5\u05ea  1/10", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "קרית גת ענתות  1/10", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "569"
             }
@@ -16175,10 +16175,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e8\u05d9\u05d0\u05dc", 
+                "name": "אריאל", 
                 "phone": "03-9366558", 
-                "address": "\u05d0\u05e8\u05d9\u05d0\u05dc \u05d0\u05d5\u05e8\u05d9 \u05d1\u05e8 \u05d0\u05d5\u05df   4", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אריאל אורי בר און   4", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "750"
             }
@@ -16193,10 +16193,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d2\u05d3\u05d9\u05d0\u05dc - \u05d4\u05d5\u05d3 \u05d4\u05e9\u05e8\u05d5\u05df", 
+                "name": "מגדיאל - הוד השרון", 
                 "phone": "09-7601559", 
-                "address": "\u05d4\u05d5\u05d3 \u05d4\u05e9\u05e8\u05d5\u05df \u05d7\u05e0\u05e7\u05d9\u05df   14", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "הוד השרון חנקין   14", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "757"
             }
@@ -16211,10 +16211,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05e7\u05d5\u05e2", 
+                "name": "תקוע", 
                 "phone": "02-9961391", 
-                "address": "\u05ea\u05e7\u05d5\u05e2 \u05d3.\u05e0\u05e2 \u05e6\u05e4\u05d5\u05df \u05d9\u05d4\u05d5\u05d3\u05d4 90908 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "תקוע ד.נע צפון יהודה 90908 ", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "737"
             }
@@ -16229,10 +16229,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05de\u05e2\u05d5\u05e8\u05e8", 
+                "name": "המעורר", 
                 "phone": "03-6721151", 
-                "address": "\u05d2\u05d1\u05e2\u05ea\u05d9\u05dd \u05d4\u05de\u05e2\u05d5\u05e8\u05e8  24", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "גבעתים המעורר  24", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "755"
             }
@@ -16247,10 +16247,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d9\u05e8 \u05e2\u05d5\u05d6", 
+                "name": "ניר עוז", 
                 "phone": "08-9983777", 
-                "address": "\u05e0\u05d9\u05e8 \u05e2\u05d5\u05d6 \u05d3.\u05e0 \u05d4\u05e0\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ניר עוז ד.נ הנגב ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "560"
             }
@@ -16265,10 +16265,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d9\u05e8 \u05e2\u05dd", 
+                "name": "ניר עם", 
                 "phone": "08-6809977", 
-                "address": "\u05e0\u05d9\u05e8 \u05e2\u05dd \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d0\u05e9\u05e7\u05dc\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ניר עם ד.נ חוף אשקלון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "561"
             }
@@ -16277,16 +16277,16 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    34.95048, 
-                    32.290543
+                    34.524868, 
+                    31.304094
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d9\u05e8\u05d9\u05dd", 
+                "name": "נירים", 
                 "phone": "08-9985489", 
-                "address": "\u05e0\u05d9\u05e8\u05d9\u05dd \u05d3.\u05e0 \u05d4\u05e0\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נירים ד.נ הנגב ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "562"
             }
@@ -16301,10 +16301,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05ea\u05d9\u05d1 \u05d4\u05e2\u05e9\u05e8\u05d4", 
+                "name": "נתיב העשרה", 
                 "phone": "08-6891848", 
-                "address": "\u05e0\u05ea\u05d9\u05d1 \u05d4\u05e2\u05e9\u05e8\u05d4 \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d0\u05e9\u05e7\u05dc\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נתיב העשרה ד.נ חוף אשקלון ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "563"
             }
@@ -16319,10 +16319,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e1\u05e4\u05d9\u05e8", 
+                "name": "ספיר", 
                 "phone": "08-6592223", 
-                "address": "\u05e1\u05e4\u05d9\u05e8 \u05d3.\u05e0 \u05d4\u05e2\u05e8\u05d1\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ספיר ד.נ הערבה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "564"
             }
@@ -16337,10 +16337,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05d3\u05df", 
+                "name": "עידן", 
                 "phone": "08-6581033", 
-                "address": "\u05e2\u05d9\u05d3\u05df \u05d3.\u05e0 \u05d4\u05e2\u05e8\u05d1\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עידן ד.נ הערבה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "565"
             }
@@ -16355,10 +16355,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05df \u05d4\u05e9\u05dc\u05d5\u05e9\u05d4", 
+                "name": "עין השלושה", 
                 "phone": "08-9985704", 
-                "address": "\u05e2\u05d9\u05df \u05d4\u05e9\u05dc\u05d5\u05e9\u05d4 \u05d3.\u05e0 \u05d4\u05e0\u05d2\u05d1 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עין השלושה ד.נ הנגב ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "566"
             }
@@ -16373,10 +16373,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05d9\u05df \u05d9\u05d4\u05d1", 
+                "name": "עין יהב", 
                 "phone": "08-6581073", 
-                "address": "\u05e2\u05d9\u05df \u05d9\u05d4\u05d1 \u05d3.\u05e0 \u05d4\u05e2\u05e8\u05d1\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "עין יהב ד.נ הערבה ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "567"
             }
@@ -16391,10 +16391,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05e2\u05d5\u05ea", 
+                "name": "רעות", 
                 "phone": "08-9263613", 
-                "address": "\u05e8\u05e2\u05d5\u05ea \u05de\u05e8\u05db\u05d6 \u05de\u05e1\u05d7\u05e8\u05d9 \u05e8\u05e2\u05d5\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "רעות מרכז מסחרי רעות ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "739"
             }
@@ -16409,10 +16409,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e4\u05e8\u05e9\u05e0\u05d9", 
+                "name": "פרשני", 
                 "phone": "08-9459553", 
-                "address": "\u05e8\u05d7\u05d5\u05d1\u05d5\u05ea \u05e4\u05e8\u05e9\u05e0\u05d9    8", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רחובות פרשני    8", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "229"
             }
@@ -16427,10 +16427,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05ea\u05d9\u05d4 \u05de\u05e7\u05d5\u05d1", 
+                "name": "בתיה מקוב", 
                 "phone": "08-9451804", 
-                "address": "\u05e8\u05d7\u05d5\u05d1\u05d5\u05ea \u05d1\u05ea\u05d9\u05d4 \u05de\u05e7\u05d5\u05d1  16", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רחובות בתיה מקוב  16", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "228"
             }
@@ -16445,10 +16445,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d5\u05e9\u05d9\u05d5\u05ea", 
+                "name": "אושיות", 
                 "phone": "08-9410952", 
-                "address": "\u05e8\u05d7\u05d5\u05d1\u05d5\u05ea \u05d8\u05e8\u05d5\u05de\u05e4\u05dc\u05d3\u05d5\u05e8   6", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רחובות טרומפלדור   6", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "227"
             }
@@ -16463,10 +16463,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d4\u05e8\u05d5\u05e0\u05d9", 
+                "name": "אהרוני", 
                 "phone": "08-9466544", 
-                "address": "\u05e8\u05d7\u05d5\u05d1\u05d5\u05ea \u05d0\u05d4\u05e8\u05d5\u05e0\u05d9  21", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רחובות אהרוני  21", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "226"
             }
@@ -16481,10 +16481,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d9\u05d1\u05ea \u05e6\u05d9\u05d5\u05df", 
+                "name": "שיבת ציון", 
                 "phone": "03-9659665", 
-                "address": "\u05e8\u05d0\u05e9\u05d5\u05df \u05dc\u05e6\u05d9\u05d5\u05df \u05e9\u05d9\u05d1\u05ea \u05e6\u05d9\u05d5\u05df  4", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ראשון לציון שיבת ציון  4", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "225"
             }
@@ -16499,10 +16499,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05db\u05d5\u05df \u05d4\u05de\u05d6\u05e8\u05d7", 
+                "name": "שכון המזרח", 
                 "phone": "03-9455566", 
-                "address": "\u05e8\u05d0\u05e9\u05d5\u05df \u05dc\u05e6\u05d9\u05d5\u05df \u05e2\u05d6\u05e8\u05d0  39", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ראשון לציון עזרא  39", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "224"
             }
@@ -16517,10 +16517,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e0\u05d7\u05e9\u05d5\u05dc", 
+                "name": "הנחשול", 
                 "phone": "03-9657722", 
-                "address": "\u05e8\u05d0\u05e9\u05d5\u05df \u05dc\u05e6\u05d9\u05d5\u05df \u05d4\u05e0\u05d7\u05e9\u05d5\u05dc  26", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ראשון לציון הנחשול  26", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "223"
             }
@@ -16535,10 +16535,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05d5\u05d6\u05e0\u05d1\u05e8\u05d2", 
+                "name": "רוזנברג", 
                 "phone": "03-9650123", 
-                "address": "\u05e8\u05d0\u05e9\u05d5\u05df \u05dc\u05e6\u05d9\u05d5\u05df \u05d4\u05e8\u05d1 \u05d8\u05d5\u05dc\u05d3\u05e0\u05d5  4", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ראשון לציון הרב טולדנו  4", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "222"
             }
@@ -16553,10 +16553,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05d2\u05e0\u05d9\u05dd", 
+                "name": "קרית גנים", 
                 "phone": "03-9622236", 
-                "address": "\u05e8\u05d0\u05e9\u05d5\u05df \u05dc\u05e6\u05d9\u05d5\u05df \u05e9\u05d3\u05d4 \u05e0\u05d7\u05d5\u05dd  16", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ראשון לציון שדה נחום  16", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "220"
             }
@@ -16571,10 +16571,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05d5\u05db\u05d1 \u05d9\u05d0\u05d9\u05e8", 
+                "name": "כוכב יאיר", 
                 "phone": "09-7499700", 
-                "address": "\u05db\u05d5\u05db\u05d1 \u05d9\u05d0\u05d9\u05e8 \u05de\u05e8\u05db\u05d6 \u05de\u05e1\u05d7\u05e8\u05d9 ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "כוכב יאיר מרכז מסחרי ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": false, 
                 "item_id": "1001"
             }
@@ -16589,10 +16589,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05dc \u05e6\u05d9\u05d5\u05df", 
+                "name": "תל ציון", 
                 "phone": "02-9971360", 
-                "address": "\u05ea\u05dc \u05e6\u05d9\u05d5\u05df \u05d0\u05d4\u05d1\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc  2", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "תל ציון אהבת ישראל  2", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": true, 
                 "item_id": "1027"
             }
@@ -16607,10 +16607,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e6\u05e4\u05d4 \u05d9\u05e8\u05d9\u05d7\u05d5", 
+                "name": "מצפה יריחו", 
                 "phone": "02-5906330", 
-                "address": "\u05de\u05e6\u05e4\u05d4 \u05d9\u05e8\u05d9\u05d7\u05d5 \u05d3.\u05e0. \u05e2\u05e8\u05d1\u05d5\u05ea \u05d4\u05d9\u05e8\u05d3\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "מצפה יריחו ד.נ. ערבות הירדן ", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": true, 
                 "item_id": "1026"
             }
@@ -16625,10 +16625,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d3\u05e8\u05d4", 
+                "name": "גדרה", 
                 "phone": "08-8594810", 
-                "address": "\u05d2\u05d3\u05e8\u05d4 \u05de\u05e0\u05d7\u05dd \u05d1\u05d2\u05d9\u05df  48", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "גדרה מנחם בגין  48", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": false, 
                 "item_id": "1021"
             }
@@ -16643,10 +16643,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05de\u05d9\u05d9\u05e1\u05d3\u05d9\u05dd", 
+                "name": "המייסדים", 
                 "phone": "09-7423420", 
-                "address": "\u05db\u05e4\u05e8 \u05e1\u05d1\u05d0 \u05d5\u05d9\u05e6\u05de\u05df (\u05d1\u05d1\u05d9\u05ea \u05d9\u05ea\u05d9\u05e8) 42", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "כפר סבא ויצמן (בבית יתיר) 42", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": false, 
                 "item_id": "1020"
             }
@@ -16661,10 +16661,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05e2\u05e7\u05e8\u05d5\u05df", 
+                "name": "קרית עקרון", 
                 "phone": "08-9372104", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05e2\u05e7\u05e8\u05d5\u05df \u05d0\u05dc\u05d9 \u05db\u05d4\u05df  9", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "קרית עקרון אלי כהן  9", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": false, 
                 "item_id": "1023"
             }
@@ -16679,10 +16679,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea", 
+                "name": "העצמאות", 
                 "phone": "08-8687113", 
-                "address": "\u05d2\u05df \u05d9\u05d1\u05e0\u05d4 \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea  8", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05d7\u05d3\u05ea", 
+                "address": "גן יבנה העצמאות  8", 
+                "operator": "קופת חולים מאוחדת", 
                 "error": false, 
                 "item_id": "1022"
             }
@@ -16697,10 +16697,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea \u05e9\u05d0\u05df", 
+                "name": "בית שאן", 
                 "phone": "04-6481180", 
-                "address": "\u05d1\u05d9\u05ea \u05e9\u05d0\u05df \u05e9\u05d0\u05d5\u05dc \u05d4\u05de\u05dc\u05da 61", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "בית שאן שאול המלך 61", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "1036"
             }
@@ -16715,10 +16715,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e2\u05e4\u05d5\u05dc\u05d4 \u05e2\u05dc\u05d9\u05ea \u05d0'", 
+                "name": "עפולה עלית א'", 
                 "phone": "04-6490467", 
-                "address": "\u05e2\u05e4\u05d5\u05dc\u05d4 \u05e2\u05dc\u05d9\u05ea \u05d9\u05e6\u05d7\u05e7 \u05e9\u05d3\u05d4  1", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עפולה עלית יצחק שדה  1", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "391"
             }
@@ -16733,10 +16733,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05d5\u05e7\u05e0\u05e2\u05dd", 
+                "name": "יוקנעם", 
                 "phone": "04-9936100", 
-                "address": "\u05d9\u05d5\u05e7\u05e0\u05e2\u05dd \u05e9\u05d3\u05e8\u05d5\u05ea \u05e8\u05d1\u05d9\u05df 9", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "יוקנעם שדרות רבין 9", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "1037"
             }
@@ -16751,10 +16751,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e9\u05d5\u05d0\u05d5\u05ea \u05d9\u05e6\u05d7\u05e7", 
+                "name": "משואות יצחק", 
                 "phone": "08-8607314", 
-                "address": "\u05de\u05e9\u05d5\u05d0\u05d5\u05ea \u05d9\u05e6\u05d7\u05e7 \u05d3.\u05e0 \u05e9\u05d3\u05d4 \u05d2\u05ea ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "משואות יצחק ד.נ שדה גת ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "726"
             }
@@ -16769,10 +16769,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d9\u05e8 \u05d2\u05dc\u05d9\u05dd", 
+                "name": "ניר גלים", 
                 "phone": "08-8510020", 
-                "address": "\u05e0\u05d9\u05e8 \u05d2\u05dc\u05d9\u05dd \u05d3.\u05e0 \u05d0\u05d1\u05d8\u05d7 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ניר גלים ד.נ אבטח ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "727"
             }
@@ -16787,10 +16787,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05e8\u05db\u05e4\u05dc\u05d3", 
+                "name": "ברכפלד", 
                 "phone": "08-9741988", 
-                "address": "\u05de\u05d5\u05d3\u05d9\u05e2\u05d9\u05df \u05e2\u05d9\u05dc\u05d9\u05ea \u05e8\u05d1\u05d9 \u05e2\u05e7\u05d9\u05d1\u05d0   3", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מודיעין עילית רבי עקיבא   3", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "724"
             }
@@ -16805,10 +16805,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05e8\u05d5\u05e7\u05e8", 
+                "name": "דרוקר", 
                 "phone": "04-6596887", 
-                "address": "\u05e2\u05e4\u05d5\u05dc\u05d4 \u05d2\u05d1\u05e2\u05ea \u05d4\u05de\u05d5\u05e8\u05d4 \u05e9\u05db\u05d5\u05e0\u05ea \u05d3\u05e8\u05d5\u05e7\u05e8 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "עפולה גבעת המורה שכונת דרוקר ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "390"
             }
@@ -16823,10 +16823,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e8\u05de\u05d9 \u05d9\u05d5\u05e1\u05e3", 
+                "name": "כרמי יוסף", 
                 "phone": "08-9286006", 
-                "address": "\u05db\u05e8\u05de\u05d9 \u05d9\u05d5\u05e1\u05e3 \u05db\u05e8\u05de\u05d9 \u05d9\u05d5\u05e1\u05e3 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כרמי יוסף כרמי יוסף ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "722"
             }
@@ -16841,10 +16841,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d1\u05d5\u05d0 \u05d7\u05d5\u05e8\u05d5\u05df", 
+                "name": "מבוא חורון", 
                 "phone": "08-9726782", 
-                "address": "\u05de\u05d1\u05d5\u05d0 \u05d7\u05d5\u05e8\u05d5\u05df \u05d3.\u05e0 \u05e9\u05de\u05e9\u05d5\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "מבוא חורון ד.נ שמשון ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "723"
             }
@@ -16859,10 +16859,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05d3 \u05d1\u05d9\u05e0\u05d9\u05de\u05d9\u05df", 
+                "name": "יד בינימין", 
                 "phone": "08-8591138", 
-                "address": "\u05d9\u05d3 \u05d1\u05d9\u05e0\u05d9\u05de\u05d9\u05df \u05d3.\u05e0 \u05e2\u05de\u05e7 \u05e9\u05d5\u05e8\u05e7 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "יד בינימין ד.נ עמק שורק ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "720"
             }
@@ -16877,10 +16877,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05db\u05e4\u05e8 \u05d2\u05d1\u05d9\u05e8\u05d5\u05dc", 
+                "name": "כפר גבירול", 
                 "phone": "08-9474255", 
-                "address": "\u05db\u05e4\u05e8 \u05d2\u05d1\u05d9\u05e8\u05d5\u05dc \u05d9\u05d5\u05e0\u05ea\u05df  \u05e8\u05d7\u05d5\u05d1\u05d5\u05ea 9", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "כפר גבירול יונתן  רחובות 9", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "721"
             }
@@ -16895,10 +16895,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05d9\u05ea \u05d2\u05ea", 
+                "name": "קריית גת", 
                 "phone": "08-6602611", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05d2\u05ea  \u05d4\u05e2\u05e6\u05de\u05d0\u05d5\u05ea  64", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05db\u05d1\u05d9", 
+                "address": "קרית גת  העצמאות  64", 
+                "operator": "קופת חולים מכבי", 
                 "error": false, 
                 "item_id": "1035"
             }
@@ -16913,10 +16913,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05e1 \u05e6\u05d9\u05d5\u05e0\u05d4", 
+                "name": "נס ציונה", 
                 "phone": "08-9408277", 
-                "address": "\u05e0\u05e1 \u05e6\u05d9\u05d5\u05e0\u05d4 \"\u05d4\u05d0\u05d9\u05e8\u05d5\u05e1\u05d9\u05dd , \u05de\u05d2\u05d3\u05dc\u05d9 \u05d4\u05e7\u05e0\u05d9\u05d5\u05d8\u05e8\" 53", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נס ציונה \"האירוסים , מגדלי הקניוטר\" 53", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "728"
             }
@@ -16931,10 +16931,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05e2\u05df", 
+                "name": "נען", 
                 "phone": "08-9442821", 
-                "address": "\u05e0\u05e2\u05df \u05e7\u05d9\u05d1\u05d5\u05e5 \u05de\u05e2\u05df ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נען קיבוץ מען ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "729"
             }
@@ -16949,10 +16949,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05d8\u05d1\u05e2\u05d5\u05df", 
+                "name": "קרית טבעון", 
                 "phone": "04-9832976", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05d8\u05d1\u05e2\u05d5\u05df \u05d4\u05d7\u05d5\u05e8\u05e9  2", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית טבעון החורש  2", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "151"
             }
@@ -16967,10 +16967,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05d7\u05d9\u05d9\u05dd \u05de\u05d6\u05e8\u05d7\u05d9\u05ea", 
+                "name": "קרית חיים מזרחית", 
                 "phone": "04-8417830", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05d7\u05d9\u05d9\u05dd \u05d4\u05e9\u05d9\u05e8\u05d4  46", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית חיים השירה  46", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "150"
             }
@@ -16985,10 +16985,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d8\u05de\u05e8\u05d4 \u05d2", 
+                "name": "טמרה ג", 
                 "phone": "04-9948759", 
-                "address": "\u05d8\u05de\u05e8\u05d4 \u05d8\u05de\u05e8\u05d4 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "טמרה טמרה ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "153"
             }
@@ -17003,10 +17003,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc\u05d5\u05df '\u05e7\u05e8\u05d9\u05ea \u05d9\u05dd \u05d0'", 
+                "name": "אלון 'קרית ים א'", 
                 "phone": "077-9616784", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05d9\u05dd \u05d0\u05dc\u05d5\u05df  3", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית ים אלון  3", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "152"
             }
@@ -17021,10 +17021,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05d3\u05d9\u05e9 \u05dc\u05d5\u05d6", 
+                "name": "קדיש לוז", 
                 "phone": "077-2259145", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05de\u05d5\u05e6\u05e7\u05d9\u05df  \u05e7\u05d3\u05d9\u05e9 \u05dc\u05d5\u05d6  55", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית מוצקין  קדיש לוז  55", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "155"
             }
@@ -17039,10 +17039,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05d9\u05dd \u05e6\u05e4\u05d5\u05df", 
+                "name": "קרית ים צפון", 
                 "phone": "077-9400329", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05d9\u05dd  \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd  71", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית ים  ירושלים  71", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "154"
             }
@@ -17057,10 +17057,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05e2\u05de\u05dc", 
+                "name": "קרית עמל", 
                 "phone": "077-2030426", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05e2\u05de\u05dc \"\u05e2\"\u05d9 \u05e7\u05d5\u05dc\u05e0\u05d5\u05e2 \u05d6\u05d4\u05e8\" ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית עמל \"ע\"י קולנוע זהר\" ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "157"
             }
@@ -17075,10 +17075,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05d9\u05d1\u05ea \u05e6\u05d9\u05d5\u05df", 
+                "name": "חיבת ציון", 
                 "phone": "077-9525795", 
-                "address": "\u05e7\u05e8\u05d9\u05ea \u05de\u05d5\u05e6\u05e7\u05d9\u05df \u05d7\u05e9\u05de\u05d5\u05e0\u05d0\u05d9\u05dd  40", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "קרית מוצקין חשמונאים  40", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "156"
             }
@@ -17093,10 +17093,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05d1\u05d5 \u05d2\u05d5\u05e9", 
+                "name": "אבו גוש", 
                 "phone": "02-5342763", 
-                "address": "\u05d0\u05d1\u05d5 \u05d2\u05d5\u05e9 \u05d4\u05e4\u05d5\u05dc   17", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אבו גוש הפול   17", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "159"
             }
@@ -17111,10 +17111,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05dc \u05d7\u05e0\u05df", 
+                "name": "תל חנן", 
                 "phone": "077-7911155", 
-                "address": "\u05e0\u05e9\u05e8 \u05d1\u05e8\u05e7  9", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נשר ברק  9", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "158"
             }
@@ -17129,10 +17129,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05d7\u05d9\u05e2\u05dd", 
+                "name": "יחיעם", 
                 "phone": "04-9856000", 
-                "address": "\u05d9\u05d7\u05d9\u05e2\u05dd \u05d3.\u05e0 \u05de\u05e2\u05dc\u05d4 \u05d4\u05d2\u05dc\u05d9\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "יחיעם ד.נ מעלה הגליל ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "609"
             }
@@ -17147,10 +17147,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05d2\u05d5\u05e8", 
+                "name": "יגור", 
                 "phone": "04-9848119", 
-                "address": "\u05d9\u05d2\u05d5\u05e8 \u05d9\u05d2\u05d5\u05e8 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "יגור יגור ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "608"
             }
@@ -17165,10 +17165,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05db\u05de\u05e9", 
+                "name": "מכמש", 
                 "phone": "02-5352851", 
-                "address": "\u05de\u05db\u05de\u05e9 \u05d3.\u05e0. \u05de\u05d6\u05e8\u05d7 \u05d1\u05e0\u05d9\u05de\u05d9\u05df ", 
-                "operator": "\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05e9\u05e8\u05d5\u05ea\u05d9 \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מכמש ד.נ. מזרח בנימין ", 
+                "operator": "לאומית שרותי בריאות", 
                 "error": true, 
                 "item_id": "976"
             }
@@ -17183,10 +17183,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d4\u05e8\u05d9\u05d4 \u05d8\u05e8\u05d5\u05de\u05e4\u05dc\u05d3\u05d5\u05e8", 
+                "name": "נהריה טרומפלדור", 
                 "phone": "04-9822712", 
-                "address": "\u05e0\u05d4\u05e8\u05d9\u05d4 \u05d6\u05de\u05e0\u05d4\u05d5\u05e3  2", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נהריה זמנהוף  2", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "634"
             }
@@ -17201,10 +17201,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d7\u05e6\u05d5\u05e8 \u05d1'", 
+                "name": "חצור ב'", 
                 "phone": "04-6937375", 
-                "address": "\u05d7\u05e6\u05d5\u05e8 \u05d4\u05d2\u05dc\u05d9\u05dc\u05d9\u05ea \u05d4\u05e0\u05e9\u05d9\u05d0 \u05d5\u05d9\u05e6\u05de\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "חצור הגלילית הנשיא ויצמן ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "399"
             }
@@ -17219,10 +17219,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d4\u05e8\u05d9\u05d4 \u05d9\u05d5\u05e1\u05e4\u05d8\u05dc", 
+                "name": "נהריה יוספטל", 
                 "phone": "04-9821292", 
-                "address": "\u05e0\u05d4\u05e8\u05d9\u05d4 \u05d4\u05e9\u05e8\u05d5\u05df  15", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נהריה השרון  15", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "635"
             }
@@ -17237,10 +17237,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05dc\u05e7\u05e0\u05d4", 
+                "name": "אלקנה", 
                 "phone": "03-9363184", 
-                "address": "\u05d0\u05dc\u05e7\u05e0\u05d4 \u05de\u05e8\u05db\u05d6 \u05de\u05e1\u05d7\u05e8\u05d9 \u05d0\u05dc\u05e7\u05e0\u05d4 ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "אלקנה מרכז מסחרי אלקנה ", 
+                "operator": "קופת חולים כללית", 
                 "error": true, 
                 "item_id": "749"
             }
@@ -17255,10 +17255,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05ea\u05d9\u05d1\u05d5\u05ea \u05d2'", 
+                "name": "נתיבות ג'", 
                 "phone": "08-9931213", 
-                "address": "\u05e0\u05ea\u05d9\u05d1\u05d5\u05ea \u05d4\u05e8\u05d1 \u05e6\u05d1\u05d0\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נתיבות הרב צבאן ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "48"
             }
@@ -17273,10 +17273,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05d4\u05d8 \u05d4'", 
+                "name": "רהט ה'", 
                 "phone": "08-6217963", 
-                "address": "\u05e8\u05d4\u05d8  ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "רהט  ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "49"
             }
@@ -17291,10 +17291,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05ea\u05d9\u05d1\u05d5\u05ea \u05d1'", 
+                "name": "נתיבות ב'", 
                 "phone": "08-9932833", 
-                "address": "\u05e0\u05ea\u05d9\u05d1\u05d5\u05ea \u05d0\u05dc\u05e4\u05e1\u05d9 ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "נתיבות אלפסי ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "47"
             }
@@ -17309,10 +17309,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05e6\u05e4\u05d4 \u05e8\u05de\u05d5\u05df", 
+                "name": "מצפה רמון", 
                 "phone": "08-6588773", 
-                "address": "\u05de\u05e6\u05e4\u05d4 \u05e8\u05de\u05d5\u05df \u05e0\u05d7\u05dc \u05d2\u05e8\u05d5\u05e4\u05d9\u05ea ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מצפה רמון נחל גרופית ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "44"
             }
@@ -17327,10 +17327,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05e8 \u05d4\u05d3\u05d0\u05d2'", 
+                "name": "ביר הדאג'", 
                 "phone": "050-6211789", 
-                "address": "\u05d5\u05d0\u05d3\u05d9 \u05d0\u05dc\u05e0\u05e2\u05dd \u05d5\u05d0\u05d3\u05d9 \u05d0\u05dc\u05e0\u05e2\u05dd ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ואדי אלנעם ואדי אלנעם ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "45"
             }
@@ -17345,10 +17345,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05de\u05d1\u05d5\u05e2\u05d9\u05dd", 
+                "name": "מבועים", 
                 "phone": "08-9930061", 
-                "address": "\u05de\u05d1\u05d5\u05e2\u05d9\u05dd \u05de\u05d1\u05d5\u05e2\u05d9\u05dd ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "מבועים מבועים ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "42"
             }
@@ -17363,10 +17363,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d7\u05de\u05d5\u05df", 
+                "name": "שחמון", 
                 "phone": "08-6317236", 
-                "address": "\u05d0\u05d9\u05dc\u05ea \u05d0\u05d9\u05dc\u05ea ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אילת אילת ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "43"
             }
@@ -17381,10 +17381,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d3\u05d9\u05de\u05d5\u05e0\u05d4 \u05d4'", 
+                "name": "דימונה ה'", 
                 "phone": "08-6553750", 
-                "address": "\u05d3\u05d9\u05de\u05d5\u05e0\u05d4 \u05d4\u05e0\u05e6\u05d7\u05d5\u05df \u05d0' ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "דימונה הנצחון א' ", 
+                "operator": "משרד הבריאות", 
                 "error": true, 
                 "item_id": "40"
             }
@@ -17399,10 +17399,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d9\u05e8\u05d5\u05d7\u05dd", 
+                "name": "ירוחם", 
                 "phone": "08-6580161", 
-                "address": "\u05d9\u05e8\u05d5\u05d7\u05dd \u05e6\u05d1\u05d9 \u05d1\u05d5\u05e8\u05e9\u05d8\u05d9\u05d9\u05df ", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "ירוחם צבי בורשטיין ", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "41"
             }
@@ -17417,10 +17417,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d7\u05e9\u05d5\u05dc\u05d9\u05dd", 
+                "name": "נחשולים", 
                 "phone": "04-6395500", 
-                "address": "\u05e0\u05d7\u05e9\u05d5\u05dc\u05d9\u05dd \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "נחשולים ד.נ חוף הכרמל ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "638"
             }
@@ -17435,10 +17435,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0\u05e9\u05d3\u05d5\u05d3  \u05d4'", 
+                "name": "אשדוד  ה'", 
                 "phone": "08-8552544", 
-                "address": "\u05d0\u05e9\u05d3\u05d5\u05d3 \u05e0\u05d0\u05d5\u05ea \u05e1\u05e4\u05d9\u05e8  13", 
-                "operator": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea", 
+                "address": "אשדוד נאות ספיר  13", 
+                "operator": "משרד הבריאות", 
                 "error": false, 
                 "item_id": "5"
             }
@@ -17453,10 +17453,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d9\u05e8 \u05e2\u05e6\u05d9\u05d5\u05df", 
+                "name": "ניר עציון", 
                 "phone": "04-9845710", 
-                "address": "\u05e0\u05d9\u05e8 \u05e2\u05e6\u05d9\u05d5\u05df \u05d3.\u05e0 \u05d7\u05d5\u05e3 \u05d4\u05db\u05e8\u05de\u05dc ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "ניר עציון ד.נ חוף הכרמל ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "639"
             }
@@ -17471,10 +17471,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05de\u05d5\u05ea  02", 
+                "name": "רמות  02", 
                 "phone": "02-5484222", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05e8\u05d0\u05d5\u05d1\u05df \u05de\u05e1  131/25", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים ראובן מס  131/25", 
+                "operator": "עיריית ירושלים", 
                 "error": true, 
                 "item_id": "489"
             }
@@ -17489,10 +17489,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d0- \u05d8\u05d5\u05e8", 
+                "name": "א- טור", 
                 "phone": "02-6261314", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05e1\u05dc\u05d9\u05de\u05d0\u05df \u05d0\u05dc \u05e4\u05e8\u05e1\u05d9  13", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים סלימאן אל פרסי  13", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "488"
             }
@@ -17507,10 +17507,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d9\u05da \u05d2'\u05e8\u05d0\u05d7", 
+                "name": "שיך ג'ראח", 
                 "phone": "02-5417666", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05e9\u05d9\u05da \u05d2'\u05e8\u05d0\u05d7 \u05de\u05e8\u05db\u05d6 \u05e8\u05e4\u05d5\u05d0\u05d9 ", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים שיך ג'ראח מרכז רפואי ", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "487"
             }
@@ -17525,10 +17525,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05de\u05ea \u05e9\u05dc\u05de\u05d4", 
+                "name": "רמת שלמה", 
                 "phone": "02-5489555", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05d7\u05d6\u05d5\u05df \u05d0\u05d9\u05e9  33", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים חזון איש  33", 
+                "operator": "עיריית ירושלים", 
                 "error": true, 
                 "item_id": "486"
             }
@@ -17543,10 +17543,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e9\u05d5\u05e2\u05e4\u05d8 \u05de'\u05e1", 
+                "name": "שועפט מ'ס", 
                 "phone": "02-5327768", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05db\u05d1\u05d9\u05e9 \u05e8\u05d0\u05e9\u05d9 ", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים כביש ראשי ", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "485"
             }
@@ -17561,10 +17561,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d1\u05e2\u05ea \u05e9\u05d0\u05d5\u05dc", 
+                "name": "גבעת שאול", 
                 "phone": "02-6549444", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd  \u05e2\u05de\u05e8\u05dd \u05d2\u05d0\u05d5\u05df  7", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים  עמרם גאון  7", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "484"
             }
@@ -17579,10 +17579,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05de\u05d5\u05ea  01", 
+                "name": "רמות  01", 
                 "phone": "02-5860838", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05e6\u05e4\u05e8\u05d9\u05e8\u05d9\u05dd  18", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים צפרירים  18", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "483"
             }
@@ -17597,10 +17597,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e1\u05e0\u05d4\u05d3\u05e8\u05d9\u05d4", 
+                "name": "סנהדריה", 
                 "phone": null, 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05e1\u05e0\u05d4\u05d3\u05e8\u05d9\u05d4 \u05d4\u05de\u05d5\u05e8\u05d7\u05d1\u05ea 102", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים סנהדריה המורחבת 102", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "482"
             }
@@ -17615,10 +17615,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e6\u05d5\u05e8 \u05d1\u05d0\u05d7\u05e8", 
+                "name": "צור באחר", 
                 "phone": "02-6733912", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05e6\u05d5\u05e8 \u05d1\u05d0\u05d7\u05e8-\u05d1\u05d9\u05ea \u05e2\u05dc\u05d9 \u05d0\u05d1\u05d5 \u05d0\u05d7\u05de\u05d3  71", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים צור באחר-בית עלי אבו אחמד  71", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "481"
             }
@@ -17633,10 +17633,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05d4\u05d9\u05dc\u05d3", 
+                "name": "קרית הילד", 
                 "phone": "02-5793345", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd   \u05e1\u05d5\u05e8\u05d5\u05e6\u05e7\u05d9\u05df  40", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים   סורוצקין  40", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "480"
             }
@@ -17645,16 +17645,16 @@ var stations={
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    34.850786, 
-                    32.166708
+                    34.86555, 
+                    32.183785
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05dc\u05d1 \u05d4\u05e4\u05d0\u05e8\u05e7", 
+                "name": "לב הפארק", 
                 "phone": "09-7707104", 
-                "address": "\u05e8\u05e2\u05e0\u05e0\u05d4 \u05d4\u05e0\u05d5\u05d8\u05e8\u05d9\u05dd  ", 
-                "operator": "\u05e7\u05d5\u05e4\u05ea \u05d7\u05d5\u05dc\u05d9\u05dd \u05db\u05dc\u05dc\u05d9\u05ea", 
+                "address": "רעננה הנוטרים  ", 
+                "operator": "קופת חולים כללית", 
                 "error": false, 
                 "item_id": "955"
             }
@@ -17669,10 +17669,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea \u05d4\u05db\u05e8\u05dd", 
+                "name": "בית הכרם", 
                 "phone": "02-6582111", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd  \u05d4\u05ea\u05d5\u05de\u05e8  4", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים  התומר  4", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "472"
             }
@@ -17687,10 +17687,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d1\u05d9\u05ea  \u05d5\u05d2\u05df", 
+                "name": "בית  וגן", 
                 "phone": "02-5713236", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05d4\u05e4\u05e1\u05d2\u05d4   42", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים הפסגה   42", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "473"
             }
@@ -17705,10 +17705,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05de\u05ea \u05d0\u05e9\u05db\u05d5\u05dc", 
+                "name": "רמת אשכול", 
                 "phone": "02-5826935", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05db\u05db\u05e8 \u05d6\u05dc\u05de\u05df \u05d0\u05e8\u05df ", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים ככר זלמן ארן ", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "476"
             }
@@ -17723,10 +17723,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e0\u05d5\u05d4 \u05d9\u05e2\u05e7\u05d1 \u05de\u05e8\u05db\u05d6", 
+                "name": "נוה יעקב מרכז", 
                 "phone": "02-5833625", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd  \u05dc\u05d0\u05d4 \u05d2\u05d5\u05dc\u05d3\u05d1\u05e8\u05d2  3", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים  לאה גולדברג  3", 
+                "operator": "עיריית ירושלים", 
                 "error": true, 
                 "item_id": "477"
             }
@@ -17741,10 +17741,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e8\u05de\u05d5\u05ea  03", 
+                "name": "רמות  03", 
                 "phone": "02-5484888", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd  \u05d0\u05d9\u05d3\u05dc\u05e1\u05d5\u05df   325/32", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים  אידלסון   325/32", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "474"
             }
@@ -17759,10 +17759,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05e7\u05e8\u05d9\u05ea \u05d9\u05d5\u05d1\u05dc", 
+                "name": "קרית יובל", 
                 "phone": "02-5712769", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05d2\u05d5\u05d0\u05d8\u05de\u05dc\u05d4  20", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים גואטמלה  20", 
+                "operator": "עיריית ירושלים", 
                 "error": false, 
                 "item_id": "475"
             }
@@ -17777,10 +17777,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05d2\u05d9\u05dc\u05d4  \u05d0'", 
+                "name": "גילה  א'", 
                 "phone": "02-6465111", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd  \u05d4\u05de\u05d5\u05e8  3", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים  המור  3", 
+                "operator": "עיריית ירושלים", 
                 "error": true, 
                 "item_id": "478"
             }
@@ -17795,10 +17795,10 @@ var stations={
             }, 
             "type": "Feature", 
             "properties": {
-                "name": "\u05ea\u05dc\u05e4\u05d9\u05d5\u05ea \u05de\u05d6\u05e8\u05d7", 
+                "name": "תלפיות מזרח", 
                 "phone": "02-6716575", 
-                "address": "\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd  \u05d9\u05e2\u05e7\u05d1 \u05d5\u05d9\u05d9\u05e1  4", 
-                "operator": "\u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd", 
+                "address": "ירושלים  יעקב וייס  4", 
+                "operator": "עיריית ירושלים", 
                 "error": true, 
                 "item_id": "479"
             }
