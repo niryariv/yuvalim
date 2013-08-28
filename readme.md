@@ -13,3 +13,5 @@ The goal is to get from [milkdrop.json](https://github.com/niryariv/tiptipa/blob
 Google's Geoencoder returns the lon/lat which are then entered into the geojson file, with the rest of the station data entered to the features dictionary of each point. 
 
 As it turns out, 176 out of 989 addresses in milkdrop.json aren't recognized by the geoencoder. In that case, we store them in the geojson file with ```error:True``` so we can later manually fix them later on.
+
+**YOU can help!:** fork the repo. look through [geojson](/data/all_stations.geojson) for all ```error:True```, find the actuall 'tipat halav' on a geomap, and enter enter the correct lat,lon coordinates.
