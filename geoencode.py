@@ -11,16 +11,15 @@ ERROR_FILE = 'data/errors.txt'
 with open('data/milkdrop.json') as json_data:
     data = json.load(json_data, encoding="utf-8")
 
-geojson = {"type": "FeatureCollection", "features" : []}
+geojson = {"type": "FeatureCollection", "features": []}
+
 
 def locate_with_google(addr):
     """
     Gets address and returns lat,lon location vs googleapis geocode
-    >>> True = True #placeholder for doctests
-    True
     """
 
-    payload = {"address" : addr, "sensor": "true"}
+    payload = {"address": addr, "sensor": "true"}
 
     r = requests.get("http://maps.googleapis.com/maps/api/geocode/json", params=payload)
 
@@ -41,48 +40,48 @@ def locate_with_google(addr):
     return res['geometry']['location']
 
 
+if __name__ == "__main__":
 
 # here we go
 
-ctr = 0
-for i in data:
-    item = data[i]
+    ctr = 0
+    for i in data:
+        item = data[i]
 
-    if item['Yeshuv'] is None:
-        continue
+        if item['Yeshuv'] is None:
+            continue
 
-    addr = item['Yeshuv'] + " " + item['Addr']
+        addr = item['Yeshuv'] + " " + item['Addr']
 
-    loc = locate_with_google(addr)
-    print addr, loc
+        loc = locate_with_google(addr)
+        print addr, loc
 
-    error = not loc
+        error = not loc
 
-    if loc is False:
-        loc = {'lng': 0, 'lat': 0}
+        if loc is False:
+            loc = {'lng': 0, 'lat': 0}
 
-    geojson['features'].append(
-        {
-          "type": "Feature",
-          "geometry": {
-            "type": "Point",
-            "coordinates": [ loc['lng'], loc['lat'] ]
-          },
-          "properties": {
-            "item_id": i,
-            "name": item['ThanaName'],
-            "address": unicode(addr),
-            "operator": item['Aharait'],
-            "phone" : item['tel1'],
-            "error" : error
-          }
-        }
-    )
+        geojson['features'].append(
+            {
+              "type": "Feature",
+              "geometry": {
+                "type": "Point",
+                "coordinates": [loc['lng'], loc['lat']]
+              },
+              "properties": {
+                "item_id": i,
+                "name": item['ThanaName'],
+                "address": unicode(addr),
+                "operator": item['Aharait'],
+                "phone": item['tel1'],
+                "error": error
+              }
+            }
+        )
 
-    ctr += 1
-    # if ctr > 1: break
+        ctr += 1
+        # if ctr > 1: break
 
-
-f = codecs.open(OUTPUT_FILE, 'wb', 'utf-8')
-f.write(json.dumps(geojson, indent=4, ensure_ascii=False))
-f.close()
+    f = codecs.open(OUTPUT_FILE, 'wb', 'utf-8')
+    f.write(json.dumps(geojson, indent=4, ensure_ascii=False))
+    f.close()
