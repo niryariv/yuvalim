@@ -1,37 +1,47 @@
-# coding=utf-8
+#!/user/bin/python
+# -*- coding = utf-8 -*-
 
 import requests
 import json
 import codecs
 
-OUTPUT_FILE = 'data/all_stations.geojson'
-ERROR_FILE = 'data/errors.txt'
+OUTPUT_FILENAME = 'data/all_stations'
 
-json_data = open('data/milkdrop.json')
-data = json.load(json_data, encoding="utf-8")
+
+with open('data/milkdrop.json') as json_data:
+    data = json.load(json_data, encoding="utf-8")
 
 geojson = {"type": "FeatureCollection", "features" : []}
 
 def locate_with_google(addr):
-	payload={"address" : addr, "sensor": "true"} 
+    """
+    Gets address and returns lat,lon location vs googleapis geocode
+    >>> True = True #placeholder for doctests
+    True
+    """
 
-	r = requests.get("http://maps.googleapis.com/maps/api/geocode/json", params=payload)
+    payload = {"address" : addr, "sensor": "true"}
 
-	print r.url
-	print r.text
-	j = r.json()
+    r = requests.get("http://maps.googleapis.com/maps/api/geocode/json", params=payload)
 
-	if j['status'] != 'OK': 
-		print "bad status"
-		return False 
+    print r.url
+    print r.text
+    j = r.json()
 
-	res = j['results'][0]
-	country = res['address_components'].pop()
+    if j['status'] != 'OK':
+        print "bad status"
+        return False
 
-	if country['long_name'] != "Israel" and country['long_name'] != "Palestine":
-		return False
+    res = j['results'][0]
+    country = res['address_components'].pop()
+    country_options = ["Israel", "israel", "Palestine", "palestine", "Palestinian Authority", "Palestinian National Authority"]
 
-	return res['geometry']['location']
+    # turns out that places like Kiryat Arba just don't have a country address (ie neither Israel/Palestine)
+    # so if the location doesn't have a country assume it's in the west bank
+    if 'country' in country['types'] and country['long_name'] not in country_options:
+        return False
+
+    return res['geometry']['location']
 
 
 
@@ -39,43 +49,52 @@ def locate_with_google(addr):
 
 ctr = 0
 for i in data:
-	item = data[i]
+    item = data[i]
 
-	if item['Yeshuv'] is None: 
-		continue
-	
-	addr = item['Yeshuv'] + " " + item['Addr']
-	
-	loc = locate_with_google(addr)
-	print addr, loc 
+    if item['Yeshuv'] is None:
+        continue
 
-	error = not loc
+    addr = item['Yeshuv'] + " " + item['Addr']
 
-	if loc is False:
-		loc = {'lng': 0, 'lat': 0}
+    loc = locate_with_google(addr)
+    print addr, loc
 
-	geojson['features'].append(
-		{
-	      "type": "Feature",
-	      "geometry": {
-	        "type": "Point",
-	        "coordinates": [ loc['lng'], loc['lat'] ]
-	      },
-	      "properties": {
-	      	"item_id": i,
-	        "name": item['ThanaName'],
-	        "address": unicode(addr),
-	        "operator": item['Aharait'],
-   	        "phone" : item['tel1'],
-   	        "error" : error
-	      }
-	    }
-	)
-	
-	ctr += 1
-	# if ctr > 1: break	
+    error = not loc
+
+    if loc is False:
+        loc = {'lng': 0, 'lat': 0}
+
+    geojson['features'].append(
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [ loc['lng'], loc['lat'] ]
+          },
+          "properties": {
+            "item_id": i,
+            "name": item['ThanaName'],
+            "address": unicode(addr),
+            "operator": item['Aharait'],
+            "phone" : item['tel1'],
+            "error" : error
+          }
+        }
+    )
+
+    ctr += 1
+    # if ctr > 1: break
+
+output = json.dumps(geojson, indent=4, ensure_ascii=False)
+
+# clean geoJSON
+f = codecs.open(OUTPUT_FILENAME + '.geojson', 'wb', 'utf-8')
+f.write(output)
+f.close()
 
 
-f = codecs.open(OUTPUT_FILE, 'w', 'utf-8')
-f.write(json.dumps(geojson, indent=4))
+# make it JS so it can be included in index.html
+output = "var stations=" + output
+f = codecs.open(OUTPUT_FILENAME + '.js', 'wb', 'utf-8')
+f.write(output)
 f.close()
