@@ -16,5 +16,4 @@ def test_locate_failure():
     addr = u"אין מקום כזה באמת, שום מקום"
     loc = locate_with_google(addr)
     print(loc)
-    eq_(str(loc['lng']), '0')
-    eq_(str(loc['lat']), '0')
+    eq_(loc, False)
