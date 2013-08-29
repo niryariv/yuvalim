@@ -38,24 +38,26 @@
 
 	<script type="text/javascript">
 
+		var WEEKDAYS = ['א','ב','ג','ד','ה','ו','ש'];
+
 		String.prototype.trim = String.prototype.trim || function trim() { return this.replace(/^\s\s*/, '').replace(/\s\s*$/, ''); };
 
 		function onEachFeature(feature, layer) {
 			p = feature.properties
 			phone = p.phones.split(',')[0].trim();
 
-			// phone = feature.properties.phone;
-			marker_html=	'<div style="text-align: right">'
-								+ '<b>' + p.city + '</b><br />'
-								+ p.address + '<br />'
-								+ '<a href="tel:' + phone + '">' + phone + '</a><br />'
-								+ 'יום א ' + (typeof p.days[0] != 'undefined' ? p.days[0] : 'סגור') +'<br />'
-								+ 'יום ב ' + (typeof p.days[1] != 'undefined' ? p.days[1] : 'סגור') +'<br />'
-								+ 'יום ג ' + (typeof p.days[2] != 'undefined' ? p.days[2] : 'סגור') +'<br />'
-								+ 'יום ד ' + (typeof p.days[3] != 'undefined' ? p.days[3] : 'סגור') +'<br />'
-								+ 'יום ה ' + (typeof p.days[4] != 'undefined' ? p.days[4] : 'סגור') +'<br />'
-								+ 'יום ו ' + (typeof p.days[5] != 'undefined' ? p.days[5] : 'סגור')
-							+ '</div>';
+			marker_html='<div style="text-align: right">'
+							+ '<b>' + p.city + '</b><br />'
+							+ p.address + '<br />'
+							+ '<a href="tel:' + phone + '">' + phone + '</a><br />';							
+			
+			for (i in WEEKDAYS) {
+				if (typeof p.days[i] != 'undefined' && p.days[i].trim() != "סגור") {
+					marker_html += 'יום ' + WEEKDAYS[i] + ' ' + p.days[i] + '<br />';
+				}
+			}
+
+			marker_html +='</div>';
 
 			layer.bindPopup(marker_html);
 		}
