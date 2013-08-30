@@ -7,5 +7,5 @@ fi
 
 echo "downloading milk.geojson"
 
-curl -o milk.geojson https://github.com/segalle/milkscrapper/blob/master/src/milk.geojson 
+curl -o milk.geojson https://raw.github.com/segalle/milkscrapper/master/src/milk.geojson 
 
