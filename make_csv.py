@@ -1,26 +1,40 @@
-#!/user/bin/python
-# -*- coding = utf-8 -*-
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 import csv
 import json
-from geoencode import OUTPUT_FILENAME
+OUTPUT_FILENAME = "data/milk"
 
 input_file = "".join([OUTPUT_FILENAME,".geojson"])
 
-with open(input_file) as file:
-
-    data = json.loads(file.read())['features']
+if __name__ == "__main__":
+    with open(input_file) as file:
     
-with open('data/milk.csv', 'wb') as csvfile:
-    writer = csv.writer(csvfile )
-    writer.writerow(['name', 'address', 'lat', 'lon', 'phone','error', 'operator'])
-    for row in data:
-        writer.writerow(
-            [row['properties']['name'].encode('utf-8'),
-             row['properties']['address'].encode('utf-8'),
-             row['geometry']['coordinates'][1],
-             row['geometry']['coordinates'][0],
-             row['properties']['phone'],
-             row['properties']['error'],
-             row['properties']['operator'].encode('utf-8'),])
-
+        data = json.loads(file.read())['features']
+        
+    with open('data/milk.csv', 'wb') as csvfile:
+        writer = csv.writer(csvfile )
+        writer.writerow(['name', 'city', 'district','subdistrict','address', 'lat', 'lon', 'phone','Sunday','Monday','Tuesday','Wednesady','Thursday','Friday','Saturday','notes','owner'])
+        for row in data:
+            prop = row['properties']
+            row_to_write =[
+                 prop['name'].encode('utf-8'),
+                 prop['city'].encode('utf-8'),
+                 prop['district'].encode('utf-8'),
+                 prop['subdistrict'].encode('utf-8'),
+                 prop['address'].encode('utf-8'),
+                 row['geometry']['coordinates'][1],
+                 row['geometry']['coordinates'][0],
+                 prop['phones']]
+            try:
+                for day in prop['days']:
+                    row_to_write.append(day.encode('utf-8'))
+                if len(prop['days']) < 7:
+                        for day in range(7 -len(prop['days'])):
+                            row_to_write.append(u'סגור'.encode('utf-8'))
+            except IndexError:
+                pass
+            row_to_write.extend([prop['notes'].encode('utf-8'),
+                 prop['owner'].encode('utf-8'),])
+            writer.writerow(row_to_write)
+                     
