@@ -36,5 +36,10 @@ if __name__ == "__main__":
                 pass
             row_to_write.extend([prop['notes'].encode('utf-8'),
                  prop['owner'].encode('utf-8'),])
+            if prop.has_key('error'):
+                e = prop['error']
+            else:
+                e = 'false'
+            row_to_write.append(e)
             writer.writerow(row_to_write)
                      
