@@ -42,4 +42,6 @@ if __name__ == "__main__":
                 e = 'false'
             row_to_write.append(e)
             writer.writerow(row_to_write)
-                     
+            now = datetime.now().strftime("%d/%m/%Y %H:%M")
+            print(now)
+            subprocess.call(['git','commit','data/milk.csv','-m','commiting csv file to upload to fusion %s' % now])        
