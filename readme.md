@@ -1,4 +1,3 @@
-
 #### The current results of this code can be seen in [tipa.li](http://tipa.li/)
 
 #### How this works (so far)
@@ -14,4 +13,17 @@ Google's Geoencoder returns the lon/lat which are then entered into the geojson 
 
 As it turns out, 176 out of 989 addresses in milkdrop.json aren't recognized by the geoencoder. In that case, we store them in the geojson file with ```error:True``` so we can later manually fix them later on.
 
-**YOU can help!:** fork the repo. look through [geojson](/data/all_stations.geojson) for all ```error:True```, find the actuall 'tipat halav' on a geomap, and enter enter the correct lat,lon coordinates.
+###Contributing
+
+**YOU can help!:** Help us verify, clean and optimize the information. 
+
+We use a google fusion [table](https://www.google.com/fusiontables/DataSource?docid=1zpsJz8BGY5uSWbQC6CLgXQka1vhHyHqtrUMHas8) with the data.
+ping us in the issues section or by email to grant an editing permission.
+
+Data from the fusion table would be loaded into the app
+
+###אתם יכולים לעזור!
+
+עזרו לנו למטב את הgoogle fusion table עם הנתונים.
+כנסו ל [טבלה](https://www.google.com/fusiontables/DataSource?docid=1zpsJz8BGY5uSWbQC6CLgXQka1vhHyHqtrUMHas8) בשביל להבין באיזה נתונים מדובר וכו'
+שמסיימים דחפו חזרה לGithub repo  
