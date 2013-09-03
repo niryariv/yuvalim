@@ -21,7 +21,7 @@ Occasionally, the data in the Fusion table is imported back via the import_fusio
 
 ### Contributing
 
-**YOU can help!:** Help us verify, clean and optimize the information. 
+**You can help us** verify, clean and optimize the information. 
 
 We use a google fusion [table](https://www.google.com/fusiontables/DataSource?docid=1zpsJz8BGY5uSWbQC6CLgXQka1vhHyHqtrUMHas8) with the data.
 ping us in the issues section or by email to grant an editing permission.
