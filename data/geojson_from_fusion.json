@@ -5,8 +5,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    35.184997, 
-                    31.774081
+                    35.229157, 
+                    "31.794915"
                 ]
             }, 
             "type": "Feature", 
@@ -34,8 +34,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    35.21371, 
-                    31.768319
+                    35.247427, 
+                    "31.7801783"
                 ]
             }, 
             "type": "Feature", 
@@ -44,7 +44,7 @@
                 "error": "", 
                 "name": "א- טור", 
                 "district": "ירושלים", 
-                "address": "סלימאן אל פרסי 13", 
+                "address": "סולימאן אל פרסי 13", 
                 "operator": "עיריית ירושלים", 
                 "phones": "02-6261314", 
                 "notes": "שבת 8:00-15:00", 
@@ -151,7 +151,7 @@
                 "type": "Point", 
                 "coordinates": [
                     35.21371, 
-                    31.768319
+                    "31.768319"
                 ]
             }, 
             "type": "Feature", 
@@ -18971,8 +18971,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    16.8718715, 
-                    41.1171432
+                    34.492567, 
+                    "31.424513"
                 ]
             }, 
             "type": "Feature", 
