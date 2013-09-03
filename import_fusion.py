@@ -75,7 +75,7 @@ if __name__ == "__main__":
                 )
     
     with codecs.open(OUTPUT_PATH,'wb+', 'utf-8') as f:
-        output = "stations=" + json.dumps(geojson, indent=4, ensure_ascii=False)
+        output = "stations=" + json.dumps(geojson, indent=0, ensure_ascii=False)
         f.write(output)
         f.close()
 
