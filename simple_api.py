@@ -7,6 +7,10 @@ import subprocess
 from datetime import datetime
 #from apiclient.discovery import build
 
+OUTPUT_FILE= 'geojson_from_fusion.json'
+OUTPUT_PATH= 'data/' + OUTPUT_FILE
+
+
 if __name__ == "__main__":
     with open("api.json") as f:
         keys = json.loads(f.read())
@@ -58,10 +62,12 @@ if __name__ == "__main__":
                     }
                 )
     
-    with codecs.open('data/geojson_from_fusion.json','wb', 'utf-8') as f:
+    with codecs.open(OUTPUT_PATH,'wb+', 'utf-8') as f:
         output = json.dumps(geojson, indent=4, ensure_ascii=False)
         f.write(output)
         f.close()
     now = datetime.now().strftime("%d/%m/%Y %H:%M")
     print(now)
-    subprocess.call(['git','commit','geojson_from_fusion.json','-m','commiting updated geojson from fusion table %s' % now])
+
+    subprocess.call(['git', 'add', OUTPUT_PATH])
+    subprocess.call(['git','commit', OUTPUT_PATH, '-m', 'commiting updated geojson from Fusion table %s' % now])
