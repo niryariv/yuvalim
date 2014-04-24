@@ -20,17 +20,22 @@
 		html, body, #map {
 		    height: 100%;
 		}
+
+		.photo {
+			width: 100px;
+		}
 	</style>
 
 </head>
 <body>
-	<div id="map"></div>
+	<div id="map">I AM MAP</div>
 
 	<script src="data/items.js"></script>
 	<script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>
 	
 	<script type="text/javascript">
 
+		// define marker icon
 		var milkIcon = L.icon({
 	    	iconUrl		: 'img/TipatHalavIcon40x25.png',
 		    iconSize	: [25, 40],
@@ -38,35 +43,31 @@
 		    popupAnchor	: [0, -35]
 		});
 
+		// run for each marker
 		function onEachFeature(feature, layer) {
 			// console.log(layer);
 
-			marker_html='<div style="text-align: right">';
-
-			for (var k in feature.properties) {
-				marker_html += feature.properties[k];
-				marker_html += ' <b>' + k + '</b>';
-				marker_html += '<br />';
-			}
-						
+			marker_html ='<div style="text-align: center">';
+			marker_html += '<img class="photo" src="' + feature.properties.image + '" /><br />';
+			marker_html += feature.properties.text;
 			marker_html +='</div>';
 
 			layer.bindPopup(marker_html);
 		}
 
-		
-		var MAP_CENTER = [31.87, 35.00];
-		var DEFAULT_ZOOM = 11;
+		// initial setup
+		var MAP_CENTER = [31.763, 35.179];
+		var DEFAULT_ZOOM = 16;
 		
 		var map = L.map('map', { scrollWheelZoom: true }).setView(MAP_CENTER, DEFAULT_ZOOM);
 
 		// map.locate({setView : true, maxZoom: 13});
 
-		tile_url = 'http://{s}.tiles.mapbox.com/v3/niryariv.map-n3zuwkkz/{z}/{x}/{y}.png';
+		tile_url = 'http://{s}.tiles.mapbox.com/v3/mushon.i2fn9ici/{z}/{x}/{y}.png';
 
 		L.tileLayer(tile_url, {
 			attribution: '<a href="https://github.com/niryariv/yuvalim">קוד</a>',
-			maxZoom: 16,
+			maxZoom: 22,
 			minZoom: 9
 		}).addTo(map);
 
@@ -85,11 +86,3 @@
 	</script>
 </body>
 </html>
-
-
-
-
-
-
-
-<!--  Jerusalem, spring 2014 -->
