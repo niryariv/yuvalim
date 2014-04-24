@@ -16,20 +16,21 @@ items =
         "image": "data/photos/1.JPG"
       }
     },
-    
-{
+
+    {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "35.178672",
-          "31.765298"
+          "35.178762",
+          "31.765297"
         ]
       },
       "type": "Feature",
       "properties": {
-        "text": "זעחן פרחוני",
+        "text": "תמונה 2",
         "image": "data/photos/2.JPG"
       }
     },
+
   ]
 }
