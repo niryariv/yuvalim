@@ -57,7 +57,7 @@
 
 		// initial setup
 		var MAP_CENTER = [31.763, 35.179];
-		var DEFAULT_ZOOM = 16;
+		var DEFAULT_ZOOM = 18;
 		
 		var map = L.map('map', { scrollWheelZoom: true }).setView(MAP_CENTER, DEFAULT_ZOOM);
 
@@ -68,7 +68,7 @@
 		L.tileLayer(tile_url, {
 			attribution: '<a href="https://github.com/niryariv/yuvalim">קוד</a>',
 			maxZoom: 22,
-			minZoom: 9
+			minZoom: 17
 		}).addTo(map);
 
 		L.geoJson(items,
