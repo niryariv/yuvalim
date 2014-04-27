@@ -163,8 +163,5 @@ items =
 //         "image": "data/photos/1.JPG"
 //       }
 //     }
-
-
-
 //   ]
 // }
