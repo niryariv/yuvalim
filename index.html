@@ -63,14 +63,14 @@
 		}
 
 		// initial setup
-		var MAP_CENTER = [31.763, 35.179];
-		var DEFAULT_ZOOM = 18;
+		var MAP_CENTER = [31.7655, 35.1786]; 
+		var DEFAULT_ZOOM = 20;
 		
 		var map = L.map('map', { scrollWheelZoom: true }).setView(MAP_CENTER, DEFAULT_ZOOM);
 
-		// map.locate({setView : true, maxZoom: 13});
-
-		tile_url = 'http://{s}.tiles.mapbox.com/v3/mareemakom.i2gaoa1o/{z}/{x}/{y}.png';
+		tile_url = 'http://{s}.tiles.mapbox.com/v3/niryariv.yuvalim3/{z}/{x}/{y}.png'; // mareemakom.i2gaoa1o
+		
+		// tile_url = 'http://niryariv.github.io/yuvalim/tiles/{z}/{x}/{y}.png';
 
 		L.tileLayer(tile_url, {
 			attribution: '<a href="https://github.com/niryariv/yuvalim">קוד</a>',
