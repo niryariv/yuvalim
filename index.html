@@ -22,7 +22,13 @@
 		}
 
 		.photo {
-			width: 100px;
+			width: 200px;
+		}
+
+		.image-icon {
+			background-color: #fff;
+			padding: 5px;
+			border-radius:50px;
 		}
 	</style>
 
@@ -75,7 +81,14 @@
 		L.geoJson(items,
 			{
 				pointToLayer: function (feature, latlng) {
-		        	return L.marker(latlng, {icon: milkIcon});
+		        	// return L.marker(latlng, {icon: milkIcon});
+		        	return L.marker(latlng, 
+		        					{icon: L.icon({ 
+		        							iconUrl: feature.properties.image,
+		        							iconSize: [50,50],
+		        							className: "image-icon"
+		        							})
+		        					});
 		    	},
 
 				filter: function(feature, layer) {
