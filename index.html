@@ -49,7 +49,8 @@
 
 			marker_html ='<div style="text-align: center">';
 			marker_html += '<img class="photo" src="' + feature.properties.image + '" /><br />';
-			marker_html += feature.properties.text;
+			if (typeof feature.properties.text !== 'undefined' )
+				marker_html += feature.properties.text;
 			marker_html +='</div>';
 
 			layer.bindPopup(marker_html);
