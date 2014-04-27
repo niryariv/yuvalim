@@ -11,7 +11,7 @@ items =
             },
             "id": null,
             "properties": {
-                "image": "1.JPG"
+                "image": "data/photos/1.JPG"
             },
             "type": "Feature"
         },
@@ -25,7 +25,7 @@ items =
             },
             "id": null,
             "properties": {
-                "image": "2.JPG"
+                "image": "data/photos/2.JPG"
             },
             "type": "Feature"
         },
@@ -39,7 +39,7 @@ items =
             },
             "id": null,
             "properties": {
-                "image": "3.JPG"
+                "image": "data/photos/3.JPG"
             },
             "type": "Feature"
         },
@@ -53,7 +53,7 @@ items =
             },
             "id": null,
             "properties": {
-                "image": "4.JPG"
+                "image": "data/photos/4.JPG"
             },
             "type": "Feature"
         },
@@ -67,7 +67,7 @@ items =
             },
             "id": null,
             "properties": {
-                "image": "5.JPG"
+                "image": "data/photos/5.JPG"
             },
             "type": "Feature"
         },
@@ -81,7 +81,7 @@ items =
             },
             "id": null,
             "properties": {
-                "image": "6.JPG"
+                "image": "data/photos/6.JPG"
             },
             "type": "Feature"
         },
@@ -95,7 +95,7 @@ items =
             },
             "id": null,
             "properties": {
-                "image": "7.JPG"
+                "image": "data/photos/7.JPG"
             },
             "type": "Feature"
         },
@@ -109,7 +109,7 @@ items =
             },
             "id": null,
             "properties": {
-                "image": "8.JPG"
+                "image": "data/photos/8.JPG"
             },
             "type": "Feature"
         },
@@ -123,7 +123,7 @@ items =
             },
             "id": null,
             "properties": {
-                "image": "9.JPG"
+                "image": "data/photos/9.JPG"
             },
             "type": "Feature"
         },
@@ -137,7 +137,7 @@ items =
             },
             "id": null,
             "properties": {
-                "image": "10.JPG"
+                "image": "data/photos/10.JPG"
             },
             "type": "Feature"
         }
