@@ -42,15 +42,17 @@
 	
 	<script type="text/javascript">
 
-		// run for each marker
-		function onEachFeature(feature, layer) {
-			marker_html ='<div style="text-align: center">';
-			marker_html += '<img class="photo" src="' + feature.properties.image + '" /><br />';
+		// create popups
+		function createPopup(feature, layer) {
+			popup_html ='<div style="text-align: center">';
+			
+			popup_html += '<img class="photo" src="' + feature.properties.image + '" /><br />';
 			if (typeof feature.properties.text !== 'undefined' )
-				marker_html += feature.properties.text;
-			marker_html +='</div>';
+				popup_html += feature.properties.text;
+			
+			popup_html +='</div>';
 
-			layer.bindPopup(marker_html);
+			layer.bindPopup(popup_html);
 		}
 
 		// initial setup
@@ -89,7 +91,7 @@
 				filter: function(feature, layer) {
 			        return !feature.properties.error;
 			    },
-				onEachFeature: onEachFeature,
+				onEachFeature: createPopup,
 			}
 		).addTo(map);
 	</script>
