@@ -42,18 +42,8 @@
 	
 	<script type="text/javascript">
 
-		// define marker icon
-		var milkIcon = L.icon({
-	    	iconUrl		: 'img/TipatHalavIcon40x25.png',
-		    iconSize	: [25, 40],
-		    iconAnchor	: [13, 39],
-		    popupAnchor	: [0, -35]
-		});
-
 		// run for each marker
 		function onEachFeature(feature, layer) {
-			// console.log(layer);
-
 			marker_html ='<div style="text-align: center">';
 			marker_html += '<img class="photo" src="' + feature.properties.image + '" /><br />';
 			if (typeof feature.properties.text !== 'undefined' )
@@ -89,6 +79,8 @@
 		        					{icon: L.icon({ 
 		        							iconUrl: feature.properties.image,
 		        							iconSize: [50,50],
+		        							iconAnchor: [30,30],
+       									    popupAnchor	: [0,-20],
 		        							className: "image-icon"
 		        							})
 		        					});
