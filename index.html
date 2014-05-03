@@ -32,6 +32,7 @@
 			border-radius:50px;
 		}
 
+
 	</style>
 
 </head>
@@ -39,8 +40,9 @@
 	<div id="map"></div>
 
 	<script src="data/items.js"></script>
-	<script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>
-	
+	<script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>	
+	<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+
 	<script type="text/javascript">
 
 		// create popups
@@ -61,26 +63,21 @@
 		// initial setup
 		var MAP_CENTER = [31.7655, 35.1786]; 
 		var DEFAULT_ZOOM = 20;
-		// var ICON_LEVELS = {17:"15px", 18:"15px", 19:"15px", 20:"15px", 21:"15px", 22:"50px", }
 		
 		var map = L.map('map', { scrollWheelZoom: true })
 					.setView(MAP_CENTER, DEFAULT_ZOOM)
 					.setMaxBounds([[31.7624,35.176],[31.7687,35.1815]]);
 
 		map.on('zoomend', function(event) {
-			// document.body.className = "zoom"+map.getZoom();
-			var zoom = map.getZoom();
-			
-			var e = document.getElementsByClassName("image-icon");
-			var i = e.length;
+			// document.body.className = "zoom" + map.getZoom();
+			var zoom = map.getZoom();	
+			var icon_size = (zoom - 16) * 10;
 
-			while(i--) {
-				var icon_size = (zoom - 16) * 10;
-
-	        	e[i].style.width  = icon_size + "px";
-	        	e[i].style.height = icon_size + "px";
-	        	e[i].style.padding = zoom - 16 + "px";
-	    	}
+			$(".image-icon").animate({
+				width: 	icon_size + "px",
+				height: icon_size + "px",
+				padding: Math.round(icon_size / 10) + "px"
+			}, 300)
 		});
 
 
@@ -97,7 +94,6 @@
 		L.geoJson(items,
 			{
 				pointToLayer: function (feature, latlng) {
-		        	// return L.marker(latlng, {icon: milkIcon});
 		        	return L.marker(latlng, 
 		        					{icon: L.icon({ 
 		        							iconUrl: feature.properties.image,
