@@ -91,26 +91,33 @@
 			minZoom: 17
 		}).addTo(map);
 
-		L.geoJson(items,
-			{
-				pointToLayer: function (feature, latlng) {
-		        	return L.marker(latlng, 
-		        					{icon: L.icon({ 
-		        							iconUrl: feature.properties.image,
-		        							iconSize: [50,50],
-		        							iconAnchor: [30,30],
-       									    popupAnchor	: [0,-20],
-		        							className: "image-icon"
-		        							})
-		        					});
-		    	},
+		$.ajax({
+			url: "https://api.github.com/repos/niryariv/yuvalim/contents/data/items.json",
+			headers: {'Accept':'application/vnd.github.3.raw'}
+		})
+		.done(function( json ) {
+			L.geoJson(json,
+				{
+					pointToLayer: function (feature, latlng) {
+			        	return L.marker(latlng, 
+			        					{icon: L.icon({ 
+			        							iconUrl: feature.properties.image,
+			        							iconSize: [50,50],
+			        							iconAnchor: [30,30],
+	       									    popupAnchor	: [0,-20],
+			        							className: "image-icon"
+			        							})
+			        					});
+			    	},
 
-				filter: function(feature, layer) {
-			        return !feature.properties.error;
-			    },
-				onEachFeature: createPopup,
-			}
-		).addTo(map);
+					filter: function(feature, layer) {
+				        return !feature.properties.error;
+				    },
+					onEachFeature: createPopup,
+				}
+			).addTo(map);
+		});
+
 	</script>
 </body>
 </html>
