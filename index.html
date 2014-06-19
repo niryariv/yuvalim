@@ -92,8 +92,8 @@
 		}).addTo(map);
 
 		$.ajax({
-			url: "https://api.github.com/repos/niryariv/yuvalim/contents/data/items.json",
-			headers: {'Accept':'application/vnd.github.3.raw'}
+				url: 'data/items.json',
+				dataType: 'json'
 		})
 		.done(function( resp ) {
 			var json = $.parseJSON(resp)
