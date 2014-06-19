@@ -96,7 +96,7 @@
 				dataType: 'json'
 		})
 		.done(function( resp ) {
-			var json = $.parseJSON(resp)
+			var json = resp;
 			console.log(json);
 			L.geoJson(json,
 				{
